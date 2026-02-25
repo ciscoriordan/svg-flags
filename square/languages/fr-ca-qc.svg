@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <clipPath id="tl">
+      <polygon points="0,0 512,0 0,512"/>
+    </clipPath>
+    <clipPath id="br">
+      <polygon points="512,0 512,512 0,512"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#tl)">
+    <path fill="#003DA5" d="M0 0h512v512H0z"/><path fill="#FFFFFF" d="M512 288v-64H288V0h-64v224H0v64h224v224h64V288z"/><path fill="#FFFFFF" d="M128 384h32v32h-32v32H96v-32H64v-32h32v-32h32zm288 0h32v32h-32v32h-32v-32h-32v-32h32v-32h32zM128 64v32h32v32h-32v32H96v-32H64V96h32V64zm288 32h32v32h-32v32h-32v-32h-32V96h32V64h32z"/>
+  </g>
+  <g clip-path="url(#br)">
+    <path fill="#FFF" d="M167 0h178l25.9 252.3L345 512H167l-29.8-253.4z"/>
+    <path fill="#002654" d="M0 0h167v512H0z"/>
+    <path fill="#CE1126" d="M345 0h167v512H345z"/>
+  </g>
+</svg>

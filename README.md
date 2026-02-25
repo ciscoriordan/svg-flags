@@ -21,6 +21,19 @@ I use [HatScripts/circle-flags](https://github.com/HatScripts/circle-flags) in m
 
 **Symlinks cause problems.** The language flags in circle-flags are symlinks pointing to country flags. Symlinks break in Xcode asset catalogs, some npm packaging, and cross-platform workflows. This project duplicates files instead — every flag is a standalone SVG.
 
+## Language flags
+
+Base language flags (e.g. `fr.svg`) are copies of the primary country flag for that language (French → France). Locale-specific language flags use the diagonal split approach from circle-flags' `en-us` — the top-left triangle shows the locale's flag, and the bottom-right triangle shows the base language flag:
+
+| Flag | Code | Top-left | Bottom-right |
+|:----:|------|----------|--------------|
+| <img src="circle/languages/en-us.svg" width="48"> | `en-us` | United States | United Kingdom (English) |
+| <img src="circle/languages/es-mx.svg" width="48"> | `es-mx` | Mexico | Spain (Spanish) |
+| <img src="circle/languages/fr-ca.svg" width="48"> | `fr-ca` | Canada | France (French) |
+| <img src="circle/languages/fr-ca-qc.svg" width="48"> | `fr-ca-qc` | Quebec | France (French) |
+
+This extends naturally to any language + region combination — the locale flag goes top-left, the base language flag goes bottom-right. Flags use `<clipPath>` with `<polygon>` triangles (no `<mask>`), so they work in Xcode.
+
 ## Credits
 
 This project is based on and inspired by [HatScripts/circle-flags](https://github.com/HatScripts/circle-flags), which is MIT licensed. Circle variant geometry was adapted from that project, with `<mask>` replaced by `<clipPath>` for Xcode compatibility and official colors replacing the simplified palette. Square variant geometry comes from [kapowaz/square-flags](https://github.com/kapowaz/square-flags), again with official Wikipedia colors. Full-size variants are based on Wikimedia Commons SVGs.
@@ -89,7 +102,7 @@ svg-flags/
   - **other/locales/** — Places with widely recognized flags that are not UN member states (e.g. Taiwan, Northern Cyprus, Kosovo)
   - **other/orgs/** — Organizations, symbols, and novelty flags (e.g. NATO, UN, Olympics, F1 chequered flag)
 - **historical/** — Flags of former states and defunct entities (e.g. Confederate battle flag, Soviet Union, Prussia)
-- **states/** — Subnational divisions (e.g. US states, Canadian provinces), using [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-2) codes
+- **states/** — Subdivisions ([ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-2)), grouped by country code prefix (e.g. `ca-bc`, `us-ca`)
 - **languages/** — Language flags (duplicated files, not symlinks)
 
 ## Progress
@@ -302,6 +315,7 @@ svg-flags/
 | `es-mx` | Spanish (Mexico) | <img src="circle/languages/es-mx.svg" width="32"> | <img src="square/languages/es-mx.svg" width="32"> |
 | `fr` | French | <img src="circle/languages/fr.svg" width="32"> | <img src="square/languages/fr.svg" width="32"> |
 | `fr-ca` | French (Canada) | <img src="circle/languages/fr-ca.svg" width="32"> | <img src="square/languages/fr-ca.svg" width="32"> |
+| `fr-ca-qc` | French (Quebec) | <img src="circle/languages/fr-ca-qc.svg" width="32"> | <img src="square/languages/fr-ca-qc.svg" width="32"> |
 ### Other locales (non-UN entities)
 
 | Code | Name | Circle | Square | Simplified | Full-size | Colors |
