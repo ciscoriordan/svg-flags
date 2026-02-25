@@ -33,21 +33,19 @@ This project is based on and inspired by [HatScripts/circle-flags](https://githu
 
 ## Border
 
-Circle and rect variants include a subtle grey border (`#eaecf0`) by default. This prevents white flags (like Japan) from disappearing into white backgrounds.
+Circle and rect variants of mostly-white flags (like Japan) include a subtle grey border (<img src="swatches/eaecf0.svg" width="12"> `#eaecf0`) to prevent them from disappearing into white backgrounds.
 
-The border is the last element in each SVG, marked with a `<!-- border -->` comment:
+The border is the last element in the SVG, marked with a `<!-- border -->` comment:
 
 ```xml
 <!-- border --><circle cx="256" cy="256" r="250" fill="none" stroke="#eaecf0" stroke-width="12"/>
 ```
 
-**To remove borders from all files:**
+To remove it, delete the line or strip all borders with:
 
 ```bash
 sed -i '' '/<!-- border -->/d' circle/**/*.svg rect/**/*.svg
 ```
-
-Or remove it from a single file by deleting the last line before `</svg>`.
 
 ## Structure
 

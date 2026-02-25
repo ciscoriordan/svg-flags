@@ -2,5 +2,4 @@
   <path fill="#FFF" d="M167 0h178l25.9 252.3L345 512H167l-29.8-253.4z"/>
   <path fill="#002654" d="M0 0h167v512H0z"/>
   <path fill="#CE1126" d="M345 0h167v512H345z"/>
-  <!-- border --><rect x="6" y="6" width="500" height="500" fill="none" stroke="#eaecf0" stroke-width="12"/>
 </svg>
