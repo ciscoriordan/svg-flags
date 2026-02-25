@@ -9,5 +9,5 @@
     <path fill="#DD0000" d="m0 167 255-23 257 23v178H0z"/>
     <path fill="#000" d="M0 0h512v167H0z"/>
   </g>
-  <!-- border --><circle cx="256" cy="256" r="253" fill="none" stroke="#eaecf0" stroke-width="6"/>
+  <!-- border --><circle cx="256" cy="256" r="250" fill="none" stroke="#eaecf0" stroke-width="12"/>
 </svg>

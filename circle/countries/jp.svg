@@ -8,5 +8,5 @@
     <path fill="#FFF" d="M0 0h512v512H0z"/>
     <circle cx="256" cy="256" r="111.3" fill="#BC002D"/>
   </g>
-  <!-- border --><circle cx="256" cy="256" r="253" fill="none" stroke="#eaecf0" stroke-width="6"/>
+  <!-- border --><circle cx="256" cy="256" r="250" fill="none" stroke="#eaecf0" stroke-width="12"/>
 </svg>

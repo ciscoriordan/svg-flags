@@ -38,7 +38,7 @@ Circle and rect variants include a subtle grey border (`#eaecf0`) by default. Th
 The border is the last element in each SVG, marked with a `<!-- border -->` comment:
 
 ```xml
-<!-- border --><circle cx="256" cy="256" r="253" fill="none" stroke="#eaecf0" stroke-width="6"/>
+<!-- border --><circle cx="256" cy="256" r="250" fill="none" stroke="#eaecf0" stroke-width="12"/>
 ```
 
 **To remove borders from all files:**
@@ -73,12 +73,12 @@ svg-flags/
 
 ## Categories
 
-- **countries/** — UN member states, using ISO 3166-1 alpha-2 codes
+- **countries/** — UN member states, using [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) codes
 - **other/** — Two subcategories:
-  - **other/locales/** — Places with widely recognized flags that are not UN member states (e.g. Taiwan, Northern Cyprus, Kosovo, Confederate States)
+  - **other/locales/** — Places with widely recognized flags that are not UN member states (e.g. Taiwan, Northern Cyprus, Kosovo)
   - **other/orgs/** — Organizations, symbols, and novelty flags (e.g. NATO, UN, Olympics, checkered flag, pirate flag)
 - **historical/** — Flags of former states and defunct entities (e.g. Confederate States, Soviet Union, Prussia)
-- **states/** — Subnational divisions (e.g. US states, Canadian provinces)
+- **states/** — Subnational divisions (e.g. US states, Canadian provinces), using [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-2) codes
 - **languages/** — Language flags (duplicated files, not symlinks)
 
 ## Progress
@@ -135,7 +135,7 @@ svg-flags/
 
 | | Code | Name | Circle | Rect | Simplified | Full-size |
 |:-:|------|------|:------:|:----:|:----------:|:---------:|
-| | `confederacy` | Confederate States | | | | |
+| <img src="circle/historical/confederacy.svg" width="24"> | `confederacy` | Confederate States | ✓ | ✓ | ✓ | ✓ |
 
 ## SVG Design Rules
 
@@ -160,6 +160,7 @@ Every color is documented in `colors.csv` with a source URL. We prefer Wikipedia
 - **France:** [Wikipedia](https://en.wikipedia.org/wiki/File:Flag_of_France.svg) — <img src="swatches/002654.svg" width="12"> `#002654` (blue), <img src="swatches/CE1126.svg" width="12"> `#CE1126` (red)
 - **Germany:** [Wikipedia](https://en.wikipedia.org/wiki/File:Flag_of_Germany.svg) — <img src="swatches/000000.svg" width="12"> `#000000` (black), <img src="swatches/DD0000.svg" width="12"> `#DD0000` (red), <img src="swatches/FFCE00.svg" width="12"> `#FFCE00` (gold)
 - **Japan:** [Wikipedia](https://en.wikipedia.org/wiki/File:Flag_of_Japan.svg) — <img src="swatches/BC002D.svg" width="12"> `#BC002D` (red)
+- **Confederacy:** [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Battle_flag_of_the_Confederate_States_of_America_(3-5).svg) — <img src="swatches/bf0a30.svg" width="12"> `#bf0a30` (red), <img src="swatches/002868.svg" width="12"> `#002868` (blue)
 
 ## Usage
 
