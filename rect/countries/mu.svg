@@ -5,6 +5,6 @@
     </clipPath>
   </defs>
   <g clip-path="url(#r)">
-    <path fill="#008658" d="m0 384 256-64 256 64v128H0z"/><path fill="#F7B718" d="m0 256 256-64 256 64v128H0z"/><path fill="#008658" d="m0 128 256-64 256 64v128H0z"/><path fill="#D01C1F" d="M0 0h512v128H0z"/>
+    <path fill="#008658" d="m0 384 256-64 256 64v128H0z"/><path fill="#F7B718" d="m0 256 256-64 256 64v128H0z"/><path fill="#2D3359" d="m0 128 256-64 256 64v128H0z"/><path fill="#D01C1F" d="M0 0h512v128H0z"/>
   </g>
 </svg>
