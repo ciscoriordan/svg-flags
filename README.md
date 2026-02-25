@@ -294,10 +294,12 @@ svg-flags/
 
 ### Languages
 
-| Code | Name | Circle |
-|------|------|:------:|
-| `en` | English | <img src="circle/languages/en.svg" width="32"> |
-| `en-us` | English (US) | <img src="circle/languages/en-us.svg" width="32"> |
+| Code | Name | Circle | Square |
+|------|------|:------:|:------:|
+| `en` | English | <img src="circle/languages/en.svg" width="32"> | <img src="square/languages/en.svg" width="32"> |
+| `en-us` | English (US) | <img src="circle/languages/en-us.svg" width="32"> | <img src="square/languages/en-us.svg" width="32"> |
+| `es` | Spanish | <img src="circle/languages/es.svg" width="32"> | <img src="square/languages/es.svg" width="32"> |
+| `es-mx` | Spanish (Mexico) | <img src="circle/languages/es-mx.svg" width="32"> | <img src="square/languages/es-mx.svg" width="32"> |
 ### Other locales (non-UN entities)
 
 | Code | Name | Circle | Square | Simplified | Full-size | Colors |
