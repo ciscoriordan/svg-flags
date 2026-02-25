@@ -62,7 +62,7 @@ svg-flags/
 │   │   ├── locales/   # Non-UN places (tw.svg, northern-cyprus.svg, ...)
 │   │   └── orgs/      # Organizations & symbols (nato.svg, un.svg, ...)
 │   ├── historical/    # Former states (confederacy.svg, ussr.svg, ...)
-│   ├── states/        # Subdivisions (us/ca.svg, us/ny.svg, ...)
+│   ├── states/        # Subdivisions (us-ca.svg, us-ny.svg, ...)
 │   └── languages/     # Language codes (en.svg, es.svg, ...)
 ├── rect/
 │   └── (same subcategories)
@@ -93,6 +93,7 @@ svg-flags/
 | `gr` | [Greece](https://en.wikipedia.org/wiki/Greece) | <img src="circle/countries/gr.svg" width="32"> | <img src="rect/countries/gr.svg" width="32"> | <img src="full-size-simplified/countries/gr.svg" height="20"> | [✓](full-size/countries/gr.svg) | [<img src="swatches/0D5EAF.svg" width="12">&nbsp;`#0D5EAF`](https://en.wikipedia.org/wiki/File:Flag_of_Greece.svg) |
 | `de` | [Germany](https://en.wikipedia.org/wiki/Germany) | <img src="circle/countries/de.svg" width="32"> | <img src="rect/countries/de.svg" width="32"> | <img src="full-size-simplified/countries/de.svg" height="20"> | [✓](full-size/countries/de.svg) | [<img src="swatches/000000.svg" width="12">&nbsp;`#000000`](https://en.wikipedia.org/wiki/File:Flag_of_Germany.svg)<br>[<img src="swatches/DD0000.svg" width="12">&nbsp;`#DD0000`](https://en.wikipedia.org/wiki/File:Flag_of_Germany.svg)<br>[<img src="swatches/FFCE00.svg" width="12">&nbsp;`#FFCE00`](https://en.wikipedia.org/wiki/File:Flag_of_Germany.svg) |
 | `jp` | [Japan](https://en.wikipedia.org/wiki/Japan) | <img src="circle/countries/jp.svg" width="32"> | <img src="rect/countries/jp.svg" width="32"> | <img src="full-size-simplified/countries/jp.svg" height="20"> | [✓](full-size/countries/jp.svg) | [<img src="swatches/BC002D.svg" width="12">&nbsp;`#BC002D`](https://en.wikipedia.org/wiki/File:Flag_of_Japan.svg) |
+| `ke` | [Kenya](https://en.wikipedia.org/wiki/Kenya) | <img src="circle/countries/ke.svg" width="32"> | | | | [<img src="swatches/922529.svg" width="12">&nbsp;`#922529`](https://en.wikipedia.org/wiki/File:Flag_of_Kenya.svg)<br>[<img src="swatches/008C51.svg" width="12">&nbsp;`#008C51`](https://en.wikipedia.org/wiki/File:Flag_of_Kenya.svg) |
 | `gb` | [United Kingdom](https://en.wikipedia.org/wiki/United_Kingdom) | <img src="circle/countries/gb.svg" width="32"> | <img src="rect/countries/gb.svg" width="32"> | <img src="full-size-simplified/countries/gb.svg" height="20"> | [✓](full-size/countries/gb.svg) | [<img src="swatches/C8102E.svg" width="12">&nbsp;`#C8102E`](https://en.wikipedia.org/wiki/File:Flag_of_the_United_Kingdom.svg)<br>[<img src="swatches/012169.svg" width="12">&nbsp;`#012169`](https://en.wikipedia.org/wiki/File:Flag_of_the_United_Kingdom.svg) |
 | `us` | [United States](https://en.wikipedia.org/wiki/United_States) | <img src="circle/countries/us.svg" width="32"> | <img src="rect/countries/us.svg" width="32"> | <img src="full-size-simplified/countries/us.svg" height="20"> | [✓](full-size/countries/us.svg) | [<img src="swatches/B31942.svg" width="12">&nbsp;`#B31942`](https://commons.wikimedia.org/wiki/File:Flag_of_the_United_States.svg)<br>[<img src="swatches/0A3161.svg" width="12">&nbsp;`#0A3161`](https://commons.wikimedia.org/wiki/File:Flag_of_the_United_States.svg) |
 | `af` | [Afghanistan](https://en.wikipedia.org/wiki/Afghanistan) | | | | | |
@@ -178,7 +179,6 @@ svg-flags/
 | `jm` | [Jamaica](https://en.wikipedia.org/wiki/Jamaica) | | | | | |
 | `jo` | [Jordan](https://en.wikipedia.org/wiki/Jordan) | | | | | |
 | `kz` | [Kazakhstan](https://en.wikipedia.org/wiki/Kazakhstan) | | | | | |
-| `ke` | [Kenya](https://en.wikipedia.org/wiki/Kenya) | | | | | |
 | `ki` | [Kiribati](https://en.wikipedia.org/wiki/Kiribati) | | | | | |
 | `kw` | [Kuwait](https://en.wikipedia.org/wiki/Kuwait) | | | | | |
 | `kg` | [Kyrgyzstan](https://en.wikipedia.org/wiki/Kyrgyzstan) | | | | | |
@@ -304,13 +304,21 @@ svg-flags/
 
 | Code | Name | Circle | Rect | Simplified | Full-size | Colors |
 |------|------|:------:|:----:|:----------:|:---------:|--------|
-| `us/ca` | [California](https://en.wikipedia.org/wiki/California) | <img src="circle/states/us/ca.svg" width="32"> | <img src="rect/states/us/ca.svg" width="32"> | <img src="full-size-simplified/states/us/ca.svg" height="20"> | [✓](full-size/states/us/ca.svg) | [<img src="swatches/BA0C2F.svg" width="12">&nbsp;`#BA0C2F`](https://commons.wikimedia.org/wiki/File:Flag_of_California.svg)<br>[<img src="swatches/5C462B.svg" width="12">&nbsp;`#5C462B`](https://commons.wikimedia.org/wiki/File:Flag_of_California.svg)<br>[<img src="swatches/00843D.svg" width="12">&nbsp;`#00843D`](https://commons.wikimedia.org/wiki/File:Flag_of_California.svg)<br>[<img src="swatches/B58150.svg" width="12">&nbsp;`#B58150`](https://commons.wikimedia.org/wiki/File:Flag_of_California.svg) |
+| `us-ca` | [California](https://en.wikipedia.org/wiki/California) | <img src="circle/states/us-ca.svg" width="32"> | <img src="rect/states/us-ca.svg" width="32"> | <img src="full-size-simplified/states/us-ca.svg" height="20"> | [✓](full-size/states/us-ca.svg) | [<img src="swatches/BA0C2F.svg" width="12">&nbsp;`#BA0C2F`](https://commons.wikimedia.org/wiki/File:Flag_of_California.svg)<br>[<img src="swatches/5C462B.svg" width="12">&nbsp;`#5C462B`](https://commons.wikimedia.org/wiki/File:Flag_of_California.svg)<br>[<img src="swatches/00843D.svg" width="12">&nbsp;`#00843D`](https://commons.wikimedia.org/wiki/File:Flag_of_California.svg)<br>[<img src="swatches/B58150.svg" width="12">&nbsp;`#B58150`](https://commons.wikimedia.org/wiki/File:Flag_of_California.svg) |
 
 ### Historical
 
 | Code | Name | Circle | Rect | Simplified | Full-size | Colors |
 |------|------|:------:|:----:|:----------:|:---------:|--------|
 | `confederacy` | [Confederate battle flag](https://commons.wikimedia.org/wiki/File:Battle_flag_of_the_Confederate_States_of_America_(3-5).svg) | <img src="circle/historical/confederacy.svg" width="32"> | <img src="rect/historical/confederacy.svg" width="32"> | <img src="full-size-simplified/historical/confederacy.svg" height="20"> | [✓](full-size/historical/confederacy.svg) | [<img src="swatches/bf0a30.svg" width="12">&nbsp;`#bf0a30`](https://commons.wikimedia.org/wiki/File:Battle_flag_of_the_Confederate_States_of_America_(3-5).svg)<br>[<img src="swatches/002868.svg" width="12">&nbsp;`#002868`](https://commons.wikimedia.org/wiki/File:Battle_flag_of_the_Confederate_States_of_America_(3-5).svg) |
+
+### Languages
+
+| Code | Name | Circle |
+|------|------|:------:|
+| `en` | English | <img src="circle/languages/en.svg" width="32"> |
+| `en-ke` | English (Kenya) | <img src="circle/languages/en-ke.svg" width="32"> |
+| `en-us` | English (US) | <img src="circle/languages/en-us.svg" width="32"> |
 
 ## SVG Design Rules
 

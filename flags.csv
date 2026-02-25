@@ -86,7 +86,7 @@ jm,Jamaica,country,todo,no,no,no,no
 jp,Japan,country,done,yes,yes,yes,yes
 jo,Jordan,country,todo,no,no,no,no
 kz,Kazakhstan,country,todo,no,no,no,no
-ke,Kenya,country,todo,no,no,no,no
+ke,Kenya,country,partial,yes,no,no,no
 ki,Kiribati,country,todo,no,no,no,no
 kw,Kuwait,country,todo,no,no,no,no
 kg,Kyrgyzstan,country,todo,no,no,no,no
@@ -201,3 +201,6 @@ un,United Nations,other/orgs,done,yes,yes,no,no
 olympics,Olympics,other/orgs,done,yes,yes,no,no
 checkered,Checkered flag,other/orgs,done,yes,yes,no,no
 us-ca,California,states/us,done,yes,yes,yes,yes
+en,English,languages,done,yes,no,no,no
+en-us,English (US),languages,done,yes,no,no,no
+en-ke,English (Kenya),languages,done,yes,no,no,no
