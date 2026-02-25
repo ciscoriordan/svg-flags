@@ -85,49 +85,49 @@ svg-flags/
 
 | | Code | Name | Circle | Rect | Simplified | Full-size |
 |:-:|------|------|:------:|:----:|:----------:|:---------:|
-| <img src="circle/countries/us.svg" width="24"> | `us` | [United States](https://en.wikipedia.org/wiki/United_States) | ✓ | ✓ | ✓ | ✓ |
-| <img src="circle/countries/gb.svg" width="24"> | `gb` | [United Kingdom](https://en.wikipedia.org/wiki/United_Kingdom) | ✓ | ✓ | ✓ | ✓ |
 | <img src="circle/countries/fr.svg" width="24"> | `fr` | [France](https://en.wikipedia.org/wiki/France) | ✓ | ✓ | ✓ | ✓ |
 | <img src="circle/countries/de.svg" width="24"> | `de` | [Germany](https://en.wikipedia.org/wiki/Germany) | ✓ | ✓ | ✓ | ✓ |
 | <img src="circle/countries/jp.svg" width="24"> | `jp` | [Japan](https://en.wikipedia.org/wiki/Japan) | ✓ | ✓ | ✓ | ✓ |
-| | `ca` | [Canada](https://en.wikipedia.org/wiki/Canada) | | | | |
+| <img src="circle/countries/gb.svg" width="24"> | `gb` | [United Kingdom](https://en.wikipedia.org/wiki/United_Kingdom) | ✓ | ✓ | ✓ | ✓ |
+| <img src="circle/countries/us.svg" width="24"> | `us` | [United States](https://en.wikipedia.org/wiki/United_States) | ✓ | ✓ | ✓ | ✓ |
+| | `ar` | [Argentina](https://en.wikipedia.org/wiki/Argentina) | | | | |
 | | `au` | [Australia](https://en.wikipedia.org/wiki/Australia) | | | | |
 | | `br` | [Brazil](https://en.wikipedia.org/wiki/Brazil) | | | | |
+| | `ca` | [Canada](https://en.wikipedia.org/wiki/Canada) | | | | |
 | | `cn` | [China](https://en.wikipedia.org/wiki/China) | | | | |
 | | `in` | [India](https://en.wikipedia.org/wiki/India) | | | | |
+| | `ie` | [Ireland](https://en.wikipedia.org/wiki/Republic_of_Ireland) | | | | |
 | | `it` | [Italy](https://en.wikipedia.org/wiki/Italy) | | | | |
 | | `mx` | [Mexico](https://en.wikipedia.org/wiki/Mexico) | | | | |
+| | `nl` | [Netherlands](https://en.wikipedia.org/wiki/Netherlands) | | | | |
+| | `nz` | [New Zealand](https://en.wikipedia.org/wiki/New_Zealand) | | | | |
+| | `no` | [Norway](https://en.wikipedia.org/wiki/Norway) | | | | |
+| | `pl` | [Poland](https://en.wikipedia.org/wiki/Poland) | | | | |
+| | `pt` | [Portugal](https://en.wikipedia.org/wiki/Portugal) | | | | |
+| | `ru` | [Russia](https://en.wikipedia.org/wiki/Russia) | | | | |
+| | `za` | [South Africa](https://en.wikipedia.org/wiki/South_Africa) | | | | |
 | | `kr` | [South Korea](https://en.wikipedia.org/wiki/South_Korea) | | | | |
 | | `es` | [Spain](https://en.wikipedia.org/wiki/Spain) | | | | |
 | | `se` | [Sweden](https://en.wikipedia.org/wiki/Sweden) | | | | |
-| | `no` | [Norway](https://en.wikipedia.org/wiki/Norway) | | | | |
-| | `nl` | [Netherlands](https://en.wikipedia.org/wiki/Netherlands) | | | | |
-| | `pt` | [Portugal](https://en.wikipedia.org/wiki/Portugal) | | | | |
-| | `ru` | [Russia](https://en.wikipedia.org/wiki/Russia) | | | | |
-| | `ie` | [Ireland](https://en.wikipedia.org/wiki/Republic_of_Ireland) | | | | |
 | | `ch` | [Switzerland](https://en.wikipedia.org/wiki/Switzerland) | | | | |
-| | `pl` | [Poland](https://en.wikipedia.org/wiki/Poland) | | | | |
-| | `ar` | [Argentina](https://en.wikipedia.org/wiki/Argentina) | | | | |
-| | `za` | [South Africa](https://en.wikipedia.org/wiki/South_Africa) | | | | |
-| | `nz` | [New Zealand](https://en.wikipedia.org/wiki/New_Zealand) | | | | |
 
 ### Other locales (non-UN entities)
 
 | | Code | Name | Circle | Rect | Simplified | Full-size |
 |:-:|------|------|:------:|:----:|:----------:|:---------:|
-| | `tw` | [Taiwan](https://en.wikipedia.org/wiki/Taiwan) | | | | |
 | | `xk` | [Kosovo](https://en.wikipedia.org/wiki/Kosovo) | | | | |
 | | `northern-cyprus` | [Northern Cyprus](https://en.wikipedia.org/wiki/Northern_Cyprus) | | | | |
+| | `tw` | [Taiwan](https://en.wikipedia.org/wiki/Taiwan) | | | | |
 
 ### Organizations & symbols
 
 | | Code | Name | Circle | Rect | Simplified | Full-size |
 |:-:|------|------|:------:|:----:|:----------:|:---------:|
-| | `nato` | [NATO](https://en.wikipedia.org/wiki/NATO) | | | | |
-| | `un` | [United Nations](https://en.wikipedia.org/wiki/United_Nations) | | | | |
-| | `olympics` | [Olympics](https://en.wikipedia.org/wiki/Olympic_symbols) | | | | |
 | | `checkered` | [Checkered flag](https://en.wikipedia.org/wiki/Racing_flags#Chequered_flag) | | | | |
+| | `nato` | [NATO](https://en.wikipedia.org/wiki/NATO) | | | | |
+| | `olympics` | [Olympics](https://en.wikipedia.org/wiki/Olympic_symbols) | | | | |
 | | `pirate` | [Pirate flag](https://en.wikipedia.org/wiki/Jolly_Roger) | | | | |
+| | `un` | [United Nations](https://en.wikipedia.org/wiki/United_Nations) | | | | |
 
 ### Historical
 
