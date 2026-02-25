@@ -14,6 +14,11 @@ I use [HatScripts/circle-flags](https://github.com/HatScripts/circle-flags) in m
 
 **Colors are simplified.** circle-flags maps every flag to an 11-color palette for visual consistency. That's a reasonable design choice, but it means the US flag uses <img src="swatches/d80027.svg" width="12">&nbsp;`#d80027` instead of Old Glory Red <img src="swatches/B31942.svg" width="12">&nbsp;`#B31942`, and <img src="swatches/0052b4.svg" width="12">&nbsp;`#0052b4` instead of Old Glory Blue <img src="swatches/0A3161.svg" width="12">&nbsp;`#0A3161`. This project uses the actual official flag colors, sourced from Wikipedia/Wikimedia Commons SVGs, and documents every color below.
 
+| circle-flags | svg-flags |
+|:---:|:---:|
+| <img src="comparison/circle-flags-us.svg" width="96"> | <img src="circle/countries/us.svg" width="96"> |
+| Simplified palette | Official colors |
+
 **Symlinks cause problems.** The language flags in circle-flags are symlinks pointing to country flags. Symlinks break in Xcode asset catalogs, some npm packaging, and cross-platform workflows. This project duplicates files instead — every flag is a standalone SVG.
 
 ## Credits
