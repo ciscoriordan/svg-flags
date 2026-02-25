@@ -21,9 +21,39 @@
   <a href="gallery-full-size.html">Full-size</a>
 </nav>
 
+<div class="hero-flags">
+  <img class="circle" src="circle/countries/us.svg" width="56" height="56"/>
+  <img class="circle" src="circle/countries/gb.svg" width="56" height="56"/>
+  <img class="circle" src="circle/countries/fr.svg" width="56" height="56"/>
+  <img class="circle" src="circle/countries/de.svg" width="56" height="56"/>
+  <img class="circle" src="circle/countries/jp.svg" width="56" height="56"/>
+  <img class="circle" src="circle/countries/gr.svg" width="56" height="56"/>
+  <img class="circle" src="circle/countries/ke.svg" width="56" height="56"/>
+  <img class="circle" src="circle/languages/en-us.svg" width="56" height="56"/>
+  <img class="circle" src="circle/languages/en-ke.svg" width="56" height="56"/>
+  <img class="circle" src="circle/other/orgs/olympics.svg" width="56" height="56"/>
+</div>
+
+<div class="usage">
+  <h3>Quick start</h3>
+  <div class="usage-grid">
+    <div class="usage-item">
+      <label>HTML (via GitHub Pages)</label>
+      <pre>&lt;img src="https://motomatic-llc.github.io/svg-flags/circle/countries/us.svg" width="48"&gt;</pre>
+    </div>
+    <div class="usage-item">
+      <label>URL pattern</label>
+      <pre>{variant}/{category}/{code}.svg
+
+Variants: circle, rect, full-size-simplified, full-size
+Categories: countries, languages, states, other/orgs, historical</pre>
+    </div>
+  </div>
+</div>
+
 <h2>Variants</h2>
 
-<div>
+<div class="variants-grid">
   <div class="variant-card">
     <h3>Circle</h3>
     <p>512×512 circular flags. Geometry from circle-flags, <code>&lt;mask&gt;</code> → <code>&lt;clipPath&gt;</code>, official colors.</p>
@@ -35,12 +65,6 @@
       <img class="circle" src="circle/countries/jp.svg" width="48" height="48"/>
       <img class="circle" src="circle/countries/gr.svg" width="48" height="48"/>
       <img class="circle" src="circle/countries/ke.svg" width="48" height="48"/>
-      <img class="circle" src="circle/languages/en-us.svg" width="48" height="48"/>
-      <img class="circle" src="circle/languages/en-ke.svg" width="48" height="48"/>
-      <img class="circle" src="circle/historical/confederacy.svg" width="48" height="48"/>
-      <img class="circle" src="circle/other/orgs/nato.svg" width="48" height="48"/>
-      <img class="circle" src="circle/other/orgs/olympics.svg" width="48" height="48"/>
-      <img class="circle" src="circle/other/orgs/un.svg" width="48" height="48"/>
     </div>
     <a class="view-all" href="gallery-circle.html">View all →</a>
   </div>
@@ -54,10 +78,6 @@
       <img src="rect/countries/fr.svg" width="48" height="48"/>
       <img src="rect/countries/de.svg" width="48" height="48"/>
       <img src="rect/countries/jp.svg" width="48" height="48"/>
-      <img src="rect/historical/confederacy.svg" width="48" height="48"/>
-      <img src="rect/other/orgs/nato.svg" width="48" height="48"/>
-      <img src="rect/other/orgs/olympics.svg" width="48" height="48"/>
-      <img src="rect/other/orgs/un.svg" width="48" height="48"/>
     </div>
     <a class="view-all" href="gallery-rect.html">View all →</a>
   </div>
@@ -71,7 +91,6 @@
       <img src="full-size-simplified/countries/fr.svg" width="64" height="43"/>
       <img src="full-size-simplified/countries/de.svg" width="64" height="38"/>
       <img src="full-size-simplified/countries/jp.svg" width="64" height="43"/>
-      <img src="full-size-simplified/historical/confederacy.svg" width="64" height="38"/>
     </div>
     <a class="view-all" href="gallery-full-size-simplified.html">View all →</a>
   </div>
@@ -85,11 +104,14 @@
       <img src="full-size/countries/fr.svg" width="64" height="43"/>
       <img src="full-size/countries/de.svg" width="64" height="38"/>
       <img src="full-size/countries/jp.svg" width="64" height="43"/>
-      <img src="full-size/historical/confederacy.svg" width="64" height="38"/>
     </div>
     <a class="view-all" href="gallery-full-size.html">View all →</a>
   </div>
 </div>
+
+<footer>
+  <a href="https://github.com/motomatic-llc/svg-flags">GitHub</a> · MIT License · Based on <a href="https://github.com/HatScripts/circle-flags">circle-flags</a>
+</footer>
 
 </body>
 </html>
