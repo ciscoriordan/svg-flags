@@ -1,0 +1,165 @@
+# svg-flags
+
+Clean, Xcode-compatible SVG flags with official colors in multiple shapes.
+
+## Why this exists
+
+I use [HatScripts/circle-flags](https://github.com/HatScripts/circle-flags) in many different projects — it's a fantastic collection of 400+ minimal circular SVG flags. But I keep running into the same issues:
+
+**Xcode can't render them.** The circle-flags SVGs use `<mask>` elements for circular clipping. Xcode's SVG renderer has limited support — it doesn't handle masks, CSS `<style>` blocks, or complex filters. Importing these into an Xcode asset catalog produces blank or broken images. This project uses `<clipPath>` instead, which Xcode handles correctly.
+
+**Circle shape isn't always enough.** Circular flags work great for profile badges and map markers, but many UI contexts call for rectangular flags — table rows, settings screens, country pickers, informational displays. This project provides multiple shape variants from simplified icons to full-detail flags.
+
+**Colors are simplified.** circle-flags maps every flag to an 11-color palette for visual consistency. That's a reasonable design choice, but it means the US flag uses `#d80027` instead of Old Glory Red `#B31942`, and `#0052b4` instead of Old Glory Blue `#0A3161`. This project uses the actual official flag colors, sourced from Wikipedia/Wikimedia Commons SVGs, and documents every color in `colors.csv`.
+
+**Symlinks cause problems.** The language flags in circle-flags are symlinks pointing to country flags. Symlinks break in Xcode asset catalogs, some npm packaging, and cross-platform workflows. This project duplicates files instead — every flag is a standalone SVG.
+
+## Credits
+
+This project is based on and inspired by [HatScripts/circle-flags](https://github.com/HatScripts/circle-flags), which is MIT licensed. The SVG geometry for circle and rect variants was adapted from that project, with modifications for Xcode compatibility and official color accuracy. Full-size variants are based on Wikimedia Commons SVGs.
+
+## Variants
+
+| Variant | Directory | Source | Description |
+|---------|-----------|--------|-------------|
+| Circle | `circle/` | circle-flags | 512×512 circular flags, `<mask>` → `<clipPath>`, real colors |
+| Rect | `rect/` | circle-flags | 512×512 square, circle-flags geometry without circular clip |
+| Full-size simplified | `full-size-simplified/` | circle-flags | True aspect ratio, simplified geometry for complicated flags, real colors |
+| Full-size | `full-size/` | Wikipedia | True proportions & detail, based on Wikimedia Commons SVGs |
+
+**circle** and **rect** use the same simplified geometry from circle-flags — just with official colors and Xcode-compatible SVG elements. **full-size-simplified** uses that geometry at the flag's true aspect ratio. **full-size** uses the actual detailed flag SVGs from Wikipedia with proper proportions and accurate geometry.
+
+## Border
+
+Circle and rect variants include a subtle grey border (`#eaecf0`) by default. This prevents white flags (like Japan) from disappearing into white backgrounds.
+
+The border is the last element in each SVG, marked with a `<!-- border -->` comment:
+
+```xml
+<!-- border --><circle cx="256" cy="256" r="255" fill="none" stroke="#eaecf0" stroke-width="2"/>
+```
+
+**To remove borders from all files:**
+
+```bash
+sed -i '' '/<!-- border -->/d' circle/**/*.svg rect/**/*.svg
+```
+
+Or remove it from a single file by deleting the last line before `</svg>`.
+
+## Structure
+
+```
+svg-flags/
+├── circle/
+│   ├── countries/     # UN member states (ISO 3166-1 alpha-2)
+│   ├── other/
+│   │   ├── locales/   # Non-UN places (tw.svg, northern-cyprus.svg, ...)
+│   │   └── orgs/      # Organizations & symbols (nato.svg, un.svg, ...)
+│   ├── historical/    # Former states (confederacy.svg, ussr.svg, ...)
+│   ├── states/        # Subdivisions (us/ca.svg, us/ny.svg, ...)
+│   └── languages/     # Language codes (en.svg, es.svg, ...)
+├── rect/
+│   └── (same subcategories)
+├── full-size-simplified/
+│   └── (same subcategories)
+├── full-size/
+│   └── (same subcategories)
+├── colors.csv         # Color reference with official sources
+└── gallery.html       # Visual gallery (open in browser)
+```
+
+## Categories
+
+- **countries/** — UN member states, using ISO 3166-1 alpha-2 codes
+- **other/** — Two subcategories:
+  - **other/locales/** — Places with widely recognized flags that are not UN member states (e.g. Taiwan, Northern Cyprus, Kosovo, Confederate States)
+  - **other/orgs/** — Organizations, symbols, and novelty flags (e.g. NATO, UN, Olympics, checkered flag, pirate flag)
+- **historical/** — Flags of former states and defunct entities (e.g. Confederate States, Soviet Union, Prussia)
+- **states/** — Subnational divisions (e.g. US states, Canadian provinces)
+- **languages/** — Language flags (duplicated files, not symlinks)
+
+## Progress
+
+| Code | Name | Category | Circle | Rect | Simplified | Full-size |
+|------|------|----------|:------:|:----:|:----------:|:---------:|
+| `us` | United States | country | ✓ | ✓ | ✓ | ✓ |
+| `gb` | United Kingdom | country | ✓ | ✓ | ✓ | ✓ |
+| `fr` | France | country | ✓ | ✓ | ✓ | ✓ |
+| `de` | Germany | country | ✓ | ✓ | ✓ | ✓ |
+| `jp` | Japan | country | ✓ | ✓ | ✓ | ✓ |
+| `ca` | Canada | country | | | | |
+| `au` | Australia | country | | | | |
+| `br` | Brazil | country | | | | |
+| `cn` | China | country | | | | |
+| `in` | India | country | | | | |
+| `it` | Italy | country | | | | |
+| `mx` | Mexico | country | | | | |
+| `kr` | South Korea | country | | | | |
+| `es` | Spain | country | | | | |
+| `se` | Sweden | country | | | | |
+| `no` | Norway | country | | | | |
+| `nl` | Netherlands | country | | | | |
+| `pt` | Portugal | country | | | | |
+| `ru` | Russia | country | | | | |
+| `ie` | Ireland | country | | | | |
+| `ch` | Switzerland | country | | | | |
+| `pl` | Poland | country | | | | |
+| `ar` | Argentina | country | | | | |
+| `za` | South Africa | country | | | | |
+| `nz` | New Zealand | country | | | | |
+| `tw` | Taiwan | other/locales | | | | |
+| `xk` | Kosovo | other/locales | | | | |
+| `northern-cyprus` | Northern Cyprus | other/locales | | | | |
+| `confederacy` | Confederate States | historical | | | | |
+| `nato` | NATO | other/orgs | | | | |
+| `un` | United Nations | other/orgs | | | | |
+| `olympics` | Olympics | other/orgs | | | | |
+| `checkered` | Checkered flag | other/orgs | | | | |
+| `pirate` | Pirate flag | other/orgs | | | | |
+
+## SVG Design Rules
+
+All SVGs in this project follow these rules for maximum compatibility:
+
+- No `<mask>` elements (Xcode doesn't support them)
+- No `<style>` tags or CSS
+- No `class` attributes
+- No `<use>` / `xlink:href` references (Xcode has inconsistent support)
+- No symlinks — every file is standalone
+- Circle variants use `<clipPath>` with `<circle>` for clipping
+- All styling via inline `fill` attributes
+- `viewBox`-based sizing for clean scaling
+- Official flag colors sourced from Wikipedia/Wikimedia Commons
+
+## Color Sources
+
+Every color is documented in `colors.csv` with a source URL. We prefer Wikipedia/Wikimedia Commons SVGs as the primary color reference:
+
+- **US:** [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_the_United_States.svg) — `#B31942` (Old Glory Red), `#0A3161` (Old Glory Blue)
+- **UK:** [Wikipedia](https://en.wikipedia.org/wiki/File:Flag_of_the_United_Kingdom.svg) — `#C8102E` (red), `#012169` (blue)
+- **France:** [Wikipedia](https://en.wikipedia.org/wiki/File:Flag_of_France.svg) — `#002654` (blue), `#CE1126` (red)
+- **Germany:** [Wikipedia](https://en.wikipedia.org/wiki/File:Flag_of_Germany.svg) — `#000000` (black), `#DD0000` (red), `#FFCE00` (gold)
+- **Japan:** [Wikipedia](https://en.wikipedia.org/wiki/File:Flag_of_Japan.svg) — `#BC002D` (red)
+
+## Usage
+
+### Xcode Asset Catalog
+
+Drag any SVG directly into your asset catalog. Works out of the box — no conversion needed.
+
+### SwiftUI
+
+```swift
+Image("us") // after adding to asset catalog
+```
+
+### HTML
+
+```html
+<img src="svg-flags/rect/countries/us.svg" alt="United States" width="30">
+```
+
+## License
+
+MIT — see [LICENSE](LICENSE). Based on [circle-flags](https://github.com/HatScripts/circle-flags) by HatScripts.

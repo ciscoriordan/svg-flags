@@ -1,0 +1,35 @@
+code,name,category,status,circle,rect,full_size_simplified,full_size
+us,United States,country,done,yes,yes,yes,yes
+gb,United Kingdom,country,done,yes,yes,yes,yes
+fr,France,country,done,yes,yes,yes,yes
+de,Germany,country,done,yes,yes,yes,yes
+jp,Japan,country,done,yes,yes,yes,yes
+ca,Canada,country,todo,no,no,no,no
+au,Australia,country,todo,no,no,no,no
+br,Brazil,country,todo,no,no,no,no
+cn,China,country,todo,no,no,no,no
+in,India,country,todo,no,no,no,no
+it,Italy,country,todo,no,no,no,no
+mx,Mexico,country,todo,no,no,no,no
+kr,South Korea,country,todo,no,no,no,no
+es,Spain,country,todo,no,no,no,no
+se,Sweden,country,todo,no,no,no,no
+no,Norway,country,todo,no,no,no,no
+nl,Netherlands,country,todo,no,no,no,no
+pt,Portugal,country,todo,no,no,no,no
+ru,Russia,country,todo,no,no,no,no
+ie,Ireland,country,todo,no,no,no,no
+ch,Switzerland,country,todo,no,no,no,no
+pl,Poland,country,todo,no,no,no,no
+ar,Argentina,country,todo,no,no,no,no
+za,South Africa,country,todo,no,no,no,no
+nz,New Zealand,country,todo,no,no,no,no
+tw,Taiwan,other/locales,todo,no,no,no,no
+xk,Kosovo,other/locales,todo,no,no,no,no
+northern-cyprus,Northern Cyprus,other/locales,todo,no,no,no,no
+confederacy,Confederate States,historical,todo,no,no,no,no
+nato,NATO,other/orgs,todo,no,no,no,no
+un,United Nations,other/orgs,todo,no,no,no,no
+olympics,Olympics,other/orgs,todo,no,no,no,no
+checkered,Checkered flag,other/orgs,todo,no,no,no,no
+pirate,Pirate flag,other/orgs,todo,no,no,no,no
