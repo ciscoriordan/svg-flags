@@ -35,10 +35,10 @@ This project is based on and inspired by [HatScripts/circle-flags](https://githu
 
 Circle and rect variants of mostly-white flags (like Japan) include a subtle grey border (<img src="swatches/cdcfd3.svg" width="12"> `#cdcfd3`) to prevent them from disappearing into white backgrounds.
 
-The border is the last element in the SVG, marked with a `<!-- border -->` comment:
+The border is inside the `<clipPath>` group so only the inner half of the stroke is visible — the flag stays full-size. It's marked with a `<!-- border -->` comment:
 
 ```xml
-<!-- border --><circle cx="256" cy="256" r="254" fill="none" stroke="#cdcfd3" stroke-width="4"/>
+<!-- border --><circle cx="256" cy="256" r="256" fill="none" stroke="#cdcfd3" stroke-width="4"/>
 ```
 
 To remove it, delete the line or strip all borders with:
@@ -84,11 +84,11 @@ svg-flags/
 
 | | Code | Name | Circle | Rect | Simplified | Full-size | Colors | Source |
 |:-:|------|------|:------:|:----:|:----------:|:---------:|--------|--------|
-| <img src="circle/countries/fr.svg" width="24"> | `fr` | [France](https://en.wikipedia.org/wiki/France) | [✓](circle/countries/fr.svg) | [✓](rect/countries/fr.svg) | [✓](full-size-simplified/countries/fr.svg) | [✓](full-size/countries/fr.svg) | <img src="swatches/002654.svg" width="12"> `#002654` <img src="swatches/CE1126.svg" width="12"> `#CE1126` | [Wikipedia](https://en.wikipedia.org/wiki/File:Flag_of_France.svg) |
-| <img src="circle/countries/de.svg" width="24"> | `de` | [Germany](https://en.wikipedia.org/wiki/Germany) | [✓](circle/countries/de.svg) | [✓](rect/countries/de.svg) | [✓](full-size-simplified/countries/de.svg) | [✓](full-size/countries/de.svg) | <img src="swatches/000000.svg" width="12"> `#000000` <img src="swatches/DD0000.svg" width="12"> `#DD0000` <img src="swatches/FFCE00.svg" width="12"> `#FFCE00` | [Wikipedia](https://en.wikipedia.org/wiki/File:Flag_of_Germany.svg) |
-| <img src="circle/countries/jp.svg" width="24"> | `jp` | [Japan](https://en.wikipedia.org/wiki/Japan) | [✓](circle/countries/jp.svg) | [✓](rect/countries/jp.svg) | [✓](full-size-simplified/countries/jp.svg) | [✓](full-size/countries/jp.svg) | <img src="swatches/BC002D.svg" width="12"> `#BC002D` | [Wikipedia](https://en.wikipedia.org/wiki/File:Flag_of_Japan.svg) |
-| <img src="circle/countries/gb.svg" width="24"> | `gb` | [United Kingdom](https://en.wikipedia.org/wiki/United_Kingdom) | [✓](circle/countries/gb.svg) | [✓](rect/countries/gb.svg) | [✓](full-size-simplified/countries/gb.svg) | [✓](full-size/countries/gb.svg) | <img src="swatches/C8102E.svg" width="12"> `#C8102E` <img src="swatches/012169.svg" width="12"> `#012169` | [Wikipedia](https://en.wikipedia.org/wiki/File:Flag_of_the_United_Kingdom.svg) |
-| <img src="circle/countries/us.svg" width="24"> | `us` | [United States](https://en.wikipedia.org/wiki/United_States) | [✓](circle/countries/us.svg) | [✓](rect/countries/us.svg) | [✓](full-size-simplified/countries/us.svg) | [✓](full-size/countries/us.svg) | <img src="swatches/B31942.svg" width="12"> `#B31942` <img src="swatches/0A3161.svg" width="12"> `#0A3161` | [Wikimedia](https://commons.wikimedia.org/wiki/File:Flag_of_the_United_States.svg) |
+| <img src="circle/countries/fr.svg" width="32"> | `fr` | [France](https://en.wikipedia.org/wiki/France) | [✓](circle/countries/fr.svg) | [✓](rect/countries/fr.svg) | [✓](full-size-simplified/countries/fr.svg) | [✓](full-size/countries/fr.svg) | <img src="swatches/002654.svg" width="12"> `#002654` <img src="swatches/CE1126.svg" width="12"> `#CE1126` | [Wikipedia](https://en.wikipedia.org/wiki/File:Flag_of_France.svg) |
+| <img src="circle/countries/de.svg" width="32"> | `de` | [Germany](https://en.wikipedia.org/wiki/Germany) | [✓](circle/countries/de.svg) | [✓](rect/countries/de.svg) | [✓](full-size-simplified/countries/de.svg) | [✓](full-size/countries/de.svg) | <img src="swatches/000000.svg" width="12"> `#000000` <img src="swatches/DD0000.svg" width="12"> `#DD0000` <img src="swatches/FFCE00.svg" width="12"> `#FFCE00` | [Wikipedia](https://en.wikipedia.org/wiki/File:Flag_of_Germany.svg) |
+| <img src="circle/countries/jp.svg" width="32"> | `jp` | [Japan](https://en.wikipedia.org/wiki/Japan) | [✓](circle/countries/jp.svg) | [✓](rect/countries/jp.svg) | [✓](full-size-simplified/countries/jp.svg) | [✓](full-size/countries/jp.svg) | <img src="swatches/BC002D.svg" width="12"> `#BC002D` | [Wikipedia](https://en.wikipedia.org/wiki/File:Flag_of_Japan.svg) |
+| <img src="circle/countries/gb.svg" width="32"> | `gb` | [United Kingdom](https://en.wikipedia.org/wiki/United_Kingdom) | [✓](circle/countries/gb.svg) | [✓](rect/countries/gb.svg) | [✓](full-size-simplified/countries/gb.svg) | [✓](full-size/countries/gb.svg) | <img src="swatches/C8102E.svg" width="12"> `#C8102E` <img src="swatches/012169.svg" width="12"> `#012169` | [Wikipedia](https://en.wikipedia.org/wiki/File:Flag_of_the_United_Kingdom.svg) |
+| <img src="circle/countries/us.svg" width="32"> | `us` | [United States](https://en.wikipedia.org/wiki/United_States) | [✓](circle/countries/us.svg) | [✓](rect/countries/us.svg) | [✓](full-size-simplified/countries/us.svg) | [✓](full-size/countries/us.svg) | <img src="swatches/B31942.svg" width="12"> `#B31942` <img src="swatches/0A3161.svg" width="12"> `#0A3161` | [Wikimedia](https://commons.wikimedia.org/wiki/File:Flag_of_the_United_States.svg) |
 | | `ar` | [Argentina](https://en.wikipedia.org/wiki/Argentina) | | | | | | |
 | | `au` | [Australia](https://en.wikipedia.org/wiki/Australia) | | | | | | |
 | | `br` | [Brazil](https://en.wikipedia.org/wiki/Brazil) | | | | | | |
@@ -132,13 +132,13 @@ svg-flags/
 
 | | Code | Name | Circle | Rect | Simplified | Full-size | Colors | Source |
 |:-:|------|------|:------:|:----:|:----------:|:---------:|--------|--------|
-| <img src="circle/states/us/ca.svg" width="24"> | `us/ca` | [California](https://en.wikipedia.org/wiki/California) | [✓](circle/states/us/ca.svg) | [✓](rect/states/us/ca.svg) | [✓](full-size-simplified/states/us/ca.svg) | [✓](full-size/states/us/ca.svg) | <img src="swatches/BA0C2F.svg" width="12"> `#BA0C2F` <img src="swatches/5C462B.svg" width="12"> `#5C462B` <img src="swatches/00843D.svg" width="12"> `#00843D` <img src="swatches/B58150.svg" width="12"> `#B58150` | [Wikimedia](https://commons.wikimedia.org/wiki/File:Flag_of_California.svg) |
+| <img src="circle/states/us/ca.svg" width="32"> | `us/ca` | [California](https://en.wikipedia.org/wiki/California) | [✓](circle/states/us/ca.svg) | [✓](rect/states/us/ca.svg) | [✓](full-size-simplified/states/us/ca.svg) | [✓](full-size/states/us/ca.svg) | <img src="swatches/BA0C2F.svg" width="12"> `#BA0C2F` <img src="swatches/5C462B.svg" width="12"> `#5C462B` <img src="swatches/00843D.svg" width="12"> `#00843D` <img src="swatches/B58150.svg" width="12"> `#B58150` | [Wikimedia](https://commons.wikimedia.org/wiki/File:Flag_of_California.svg) |
 
 ### Historical
 
 | | Code | Name | Circle | Rect | Simplified | Full-size | Colors | Source |
 |:-:|------|------|:------:|:----:|:----------:|:---------:|--------|--------|
-| <img src="circle/historical/confederacy.svg" width="24"> | `confederacy` | [Confederate States](https://en.wikipedia.org/wiki/Confederate_States_of_America) | [✓](circle/historical/confederacy.svg) | [✓](rect/historical/confederacy.svg) | [✓](full-size-simplified/historical/confederacy.svg) | [✓](full-size/historical/confederacy.svg) | <img src="swatches/bf0a30.svg" width="12"> `#bf0a30` <img src="swatches/002868.svg" width="12"> `#002868` | [Wikimedia](https://commons.wikimedia.org/wiki/File:Battle_flag_of_the_Confederate_States_of_America_(3-5).svg) |
+| <img src="circle/historical/confederacy.svg" width="32"> | `confederacy` | [Confederate States](https://en.wikipedia.org/wiki/Confederate_States_of_America) | [✓](circle/historical/confederacy.svg) | [✓](rect/historical/confederacy.svg) | [✓](full-size-simplified/historical/confederacy.svg) | [✓](full-size/historical/confederacy.svg) | <img src="swatches/bf0a30.svg" width="12"> `#bf0a30` <img src="swatches/002868.svg" width="12"> `#002868` | [Wikimedia](https://commons.wikimedia.org/wiki/File:Battle_flag_of_the_Confederate_States_of_America_(3-5).svg) |
 
 ## SVG Design Rules
 
