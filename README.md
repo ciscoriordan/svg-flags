@@ -320,9 +320,9 @@ svg-flags/
 
 | Code | Name | Circle | Square | Simplified | Full-size | Colors |
 |------|------|:------:|:----:|:----------:|:---------:|--------|
-| `xk` | [Kosovo](https://en.wikipedia.org/wiki/Kosovo) | | | | | |
-| `northern-cyprus` | [Northern Cyprus](https://en.wikipedia.org/wiki/Northern_Cyprus) | | | | | |
-| `tw` | [Taiwan](https://en.wikipedia.org/wiki/Taiwan) | | | | | |
+| `northern-cyprus` | [Northern Cyprus](https://en.wikipedia.org/wiki/Northern_Cyprus) | <img src="circle/other/locales/northern-cyprus.svg" width="32"> | <img src="square/other/locales/northern-cyprus.svg" width="32"> | <img src="full-size-simplified/other/locales/northern-cyprus.svg" height="20"> | [✓](full-size/other/locales/northern-cyprus.svg) | [<img src="swatches/E30A17.svg" width="12">`#E30A17`](https://commons.wikimedia.org/wiki/File:Flag_of_the_Turkish_Republic_of_Northern_Cyprus.svg)<br>[<img src="swatches/FFFFFF.svg" width="12">`#FFFFFF`](https://commons.wikimedia.org/wiki/File:Flag_of_the_Turkish_Republic_of_Northern_Cyprus.svg) |
+| `tw` | [Taiwan](https://en.wikipedia.org/wiki/Taiwan) | <img src="circle/other/locales/tw.svg" width="32"> | <img src="square/other/locales/tw.svg" width="32"> | <img src="full-size-simplified/other/locales/tw.svg" height="20"> | [✓](full-size/other/locales/tw.svg) | [<img src="swatches/000094.svg" width="12">`#000094`](https://commons.wikimedia.org/wiki/File:Flag_of_the_Republic_of_China.svg)<br>[<img src="swatches/FE0000.svg" width="12">`#FE0000`](https://commons.wikimedia.org/wiki/File:Flag_of_the_Republic_of_China.svg)<br>[<img src="swatches/FFFFFF.svg" width="12">`#FFFFFF`](https://commons.wikimedia.org/wiki/File:Flag_of_the_Republic_of_China.svg) |
+| `xk` | [Kosovo](https://en.wikipedia.org/wiki/Kosovo) | <img src="circle/other/locales/xk.svg" width="32"> | <img src="square/other/locales/xk.svg" width="32"> | <img src="full-size-simplified/other/locales/xk.svg" height="20"> | [✓](full-size/other/locales/xk.svg) | [<img src="swatches/244AA5.svg" width="12">`#244AA5`](https://commons.wikimedia.org/wiki/File:Flag_of_Kosovo.svg)<br>[<img src="swatches/D0A650.svg" width="12">`#D0A650`](https://commons.wikimedia.org/wiki/File:Flag_of_Kosovo.svg)<br>[<img src="swatches/FFFFFF.svg" width="12">`#FFFFFF`](https://commons.wikimedia.org/wiki/File:Flag_of_Kosovo.svg) |
 
 ### Organizations & symbols
 
