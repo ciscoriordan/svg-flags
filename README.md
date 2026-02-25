@@ -2,7 +2,7 @@
 
 Clean, Xcode-compatible SVG flags with official colors in multiple shapes.
 
-**[Browse the gallery](https://motomatic-llc.github.io/svg-flags)**
+**[Browse the gallery](https://ciscoriordan.github.io/svg-flags)**
 
 ## Why this exists
 
@@ -317,10 +317,12 @@ svg-flags/
 | `olympics` | [Olympics](https://en.wikipedia.org/wiki/Olympic_symbols) | <img src="circle/other/orgs/olympics.svg" width="32"> | <img src="square/other/orgs/olympics.svg" width="32"> | <img src="full-size-simplified/other/orgs/olympics.svg" height="20"> | [✓](full-size/other/orgs/olympics.svg) | [<img src="swatches/0081C8.svg" width="12">`#0081C8`](https://en.wikipedia.org/wiki/File:Olympic_flag.svg)<br>[<img src="swatches/000000.svg" width="12">`#000000`](https://en.wikipedia.org/wiki/File:Olympic_flag.svg)<br>[<img src="swatches/EE334E.svg" width="12">`#EE334E`](https://en.wikipedia.org/wiki/File:Olympic_flag.svg)<br>[<img src="swatches/FCB131.svg" width="12">`#FCB131`](https://en.wikipedia.org/wiki/File:Olympic_flag.svg)<br>[<img src="swatches/00A651.svg" width="12">`#00A651`](https://en.wikipedia.org/wiki/File:Olympic_flag.svg)<br>[<img src="swatches/FFFFFF.svg" width="12">`#FFFFFF`](https://en.wikipedia.org/wiki/File:Olympic_flag.svg) |
 | `un` | [United Nations](https://en.wikipedia.org/wiki/United_Nations) | <img src="circle/other/orgs/un.svg" width="32"> | <img src="square/other/orgs/un.svg" width="32"> | <img src="full-size-simplified/other/orgs/un.svg" height="20"> | [✓](full-size/other/orgs/un.svg) | [<img src="swatches/009EDB.svg" width="12">`#009EDB`](https://en.wikipedia.org/wiki/File:Flag_of_the_United_Nations.svg)<br>[<img src="swatches/FFFFFF.svg" width="12">`#FFFFFF`](https://en.wikipedia.org/wiki/File:Flag_of_the_United_Nations.svg) |
 
-### US states
+### States & Provinces
 
 | Code | Name | Circle | Square | Simplified | Full-size | Colors |
 |------|------|:------:|:----:|:----------:|:---------:|--------|
+| `ca-bc` | [British Columbia](https://en.wikipedia.org/wiki/British_Columbia) | <img src="circle/states/ca-bc.svg" width="32"> | <img src="square/states/ca-bc.svg" width="32"> | <img src="full-size-simplified/states/ca-bc.svg" height="20"> | [✓](full-size/states/ca-bc.svg) | [<img src="swatches/0047BB.svg" width="12">`#0047BB`](https://commons.wikimedia.org/wiki/File:Flag_of_British_Columbia.svg)<br>[<img src="swatches/D22630.svg" width="12">`#D22630`](https://commons.wikimedia.org/wiki/File:Flag_of_British_Columbia.svg)<br>[<img src="swatches/FFD200.svg" width="12">`#FFD200`](https://commons.wikimedia.org/wiki/File:Flag_of_British_Columbia.svg)<br>[<img src="swatches/FFFFFF.svg" width="12">`#FFFFFF`](https://commons.wikimedia.org/wiki/File:Flag_of_British_Columbia.svg) |
+| `ca-qc` | [Quebec](https://en.wikipedia.org/wiki/Quebec) | <img src="circle/states/ca-qc.svg" width="32"> | <img src="square/states/ca-qc.svg" width="32"> | <img src="full-size-simplified/states/ca-qc.svg" height="20"> | [✓](full-size/states/ca-qc.svg) | [<img src="swatches/003DA5.svg" width="12">`#003DA5`](https://commons.wikimedia.org/wiki/File:Flag_of_Quebec.svg)<br>[<img src="swatches/FFFFFF.svg" width="12">`#FFFFFF`](https://commons.wikimedia.org/wiki/File:Flag_of_Quebec.svg) |
 | `us-ca` | [California](https://en.wikipedia.org/wiki/California) | <img src="circle/states/us-ca.svg" width="32"> | <img src="square/states/us-ca.svg" width="32"> | <img src="full-size-simplified/states/us-ca.svg" height="20"> | [✓](full-size/states/us-ca.svg) | [<img src="swatches/BA0C2F.svg" width="12">`#BA0C2F`](https://commons.wikimedia.org/wiki/File:Flag_of_California.svg)<br>[<img src="swatches/FFFFFF.svg" width="12">`#FFFFFF`](https://commons.wikimedia.org/wiki/File:Flag_of_California.svg)<br>[<img src="swatches/5C462B.svg" width="12">`#5C462B`](https://commons.wikimedia.org/wiki/File:Flag_of_California.svg)<br>[<img src="swatches/00843D.svg" width="12">`#00843D`](https://commons.wikimedia.org/wiki/File:Flag_of_California.svg)<br>[<img src="swatches/B58150.svg" width="12">`#B58150`](https://commons.wikimedia.org/wiki/File:Flag_of_California.svg) |
 
 ### Historical
