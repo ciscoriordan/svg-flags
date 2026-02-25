@@ -283,6 +283,13 @@ svg-flags/
 | `zm` | [Zambia](https://en.wikipedia.org/wiki/Zambia) | | | | | |
 | `zw` | [Zimbabwe](https://en.wikipedia.org/wiki/Zimbabwe) | | | | | |
 
+### Languages
+
+| Code | Name | Circle |
+|------|------|:------:|
+| `en` | English | <img src="circle/languages/en.svg" width="32"> |
+| `en-ke` | English (Kenya) | <img src="circle/languages/en-ke.svg" width="32"> |
+| `en-us` | English (US) | <img src="circle/languages/en-us.svg" width="32"> |
 ### Other locales (non-UN entities)
 
 | Code | Name | Circle | Rect | Simplified | Full-size | Colors |
@@ -311,14 +318,6 @@ svg-flags/
 | Code | Name | Circle | Rect | Simplified | Full-size | Colors |
 |------|------|:------:|:----:|:----------:|:---------:|--------|
 | `confederacy` | [Confederate battle flag](https://commons.wikimedia.org/wiki/File:Battle_flag_of_the_Confederate_States_of_America_(3-5).svg) | <img src="circle/historical/confederacy.svg" width="32"> | <img src="rect/historical/confederacy.svg" width="32"> | <img src="full-size-simplified/historical/confederacy.svg" height="20"> | [✓](full-size/historical/confederacy.svg) | [<img src="swatches/bf0a30.svg" width="12"> `#bf0a30`](https://commons.wikimedia.org/wiki/File:Battle_flag_of_the_Confederate_States_of_America_(3-5).svg)<br>[<img src="swatches/002868.svg" width="12"> `#002868`](https://commons.wikimedia.org/wiki/File:Battle_flag_of_the_Confederate_States_of_America_(3-5).svg) |
-
-### Languages
-
-| Code | Name | Circle |
-|------|------|:------:|
-| `en` | English | <img src="circle/languages/en.svg" width="32"> |
-| `en-ke` | English (Kenya) | <img src="circle/languages/en-ke.svg" width="32"> |
-| `en-us` | English (US) | <img src="circle/languages/en-us.svg" width="32"> |
 
 ## SVG Design Rules
 
