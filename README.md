@@ -83,57 +83,57 @@ svg-flags/
 
 ### Countries (UN member states)
 
-| Code | Name | Circle | Rect | Simplified | Full-size |
-|------|------|:------:|:----:|:----------:|:---------:|
-| `us` | United States | ✓ | ✓ | ✓ | ✓ |
-| `gb` | United Kingdom | ✓ | ✓ | ✓ | ✓ |
-| `fr` | France | ✓ | ✓ | ✓ | ✓ |
-| `de` | Germany | ✓ | ✓ | ✓ | ✓ |
-| `jp` | Japan | ✓ | ✓ | ✓ | ✓ |
-| `ca` | Canada | | | | |
-| `au` | Australia | | | | |
-| `br` | Brazil | | | | |
-| `cn` | China | | | | |
-| `in` | India | | | | |
-| `it` | Italy | | | | |
-| `mx` | Mexico | | | | |
-| `kr` | South Korea | | | | |
-| `es` | Spain | | | | |
-| `se` | Sweden | | | | |
-| `no` | Norway | | | | |
-| `nl` | Netherlands | | | | |
-| `pt` | Portugal | | | | |
-| `ru` | Russia | | | | |
-| `ie` | Ireland | | | | |
-| `ch` | Switzerland | | | | |
-| `pl` | Poland | | | | |
-| `ar` | Argentina | | | | |
-| `za` | South Africa | | | | |
-| `nz` | New Zealand | | | | |
+| | Code | Name | Circle | Rect | Simplified | Full-size |
+|:-:|------|------|:------:|:----:|:----------:|:---------:|
+| <img src="circle/countries/us.svg" width="24"> | `us` | United States | ✓ | ✓ | ✓ | ✓ |
+| <img src="circle/countries/gb.svg" width="24"> | `gb` | United Kingdom | ✓ | ✓ | ✓ | ✓ |
+| <img src="circle/countries/fr.svg" width="24"> | `fr` | France | ✓ | ✓ | ✓ | ✓ |
+| <img src="circle/countries/de.svg" width="24"> | `de` | Germany | ✓ | ✓ | ✓ | ✓ |
+| <img src="circle/countries/jp.svg" width="24"> | `jp` | Japan | ✓ | ✓ | ✓ | ✓ |
+| | `ca` | Canada | | | | |
+| | `au` | Australia | | | | |
+| | `br` | Brazil | | | | |
+| | `cn` | China | | | | |
+| | `in` | India | | | | |
+| | `it` | Italy | | | | |
+| | `mx` | Mexico | | | | |
+| | `kr` | South Korea | | | | |
+| | `es` | Spain | | | | |
+| | `se` | Sweden | | | | |
+| | `no` | Norway | | | | |
+| | `nl` | Netherlands | | | | |
+| | `pt` | Portugal | | | | |
+| | `ru` | Russia | | | | |
+| | `ie` | Ireland | | | | |
+| | `ch` | Switzerland | | | | |
+| | `pl` | Poland | | | | |
+| | `ar` | Argentina | | | | |
+| | `za` | South Africa | | | | |
+| | `nz` | New Zealand | | | | |
 
 ### Other locales (non-UN entities)
 
-| Code | Name | Circle | Rect | Simplified | Full-size |
-|------|------|:------:|:----:|:----------:|:---------:|
-| `tw` | Taiwan | | | | |
-| `xk` | Kosovo | | | | |
-| `northern-cyprus` | Northern Cyprus | | | | |
+| | Code | Name | Circle | Rect | Simplified | Full-size |
+|:-:|------|------|:------:|:----:|:----------:|:---------:|
+| | `tw` | Taiwan | | | | |
+| | `xk` | Kosovo | | | | |
+| | `northern-cyprus` | Northern Cyprus | | | | |
 
 ### Organizations & symbols
 
-| Code | Name | Circle | Rect | Simplified | Full-size |
-|------|------|:------:|:----:|:----------:|:---------:|
-| `nato` | NATO | | | | |
-| `un` | United Nations | | | | |
-| `olympics` | Olympics | | | | |
-| `checkered` | Checkered flag | | | | |
-| `pirate` | Pirate flag | | | | |
+| | Code | Name | Circle | Rect | Simplified | Full-size |
+|:-:|------|------|:------:|:----:|:----------:|:---------:|
+| | `nato` | NATO | | | | |
+| | `un` | United Nations | | | | |
+| | `olympics` | Olympics | | | | |
+| | `checkered` | Checkered flag | | | | |
+| | `pirate` | Pirate flag | | | | |
 
 ### Historical
 
-| Code | Name | Circle | Rect | Simplified | Full-size |
-|------|------|:------:|:----:|:----------:|:---------:|
-| `confederacy` | Confederate States | | | | |
+| | Code | Name | Circle | Rect | Simplified | Full-size |
+|:-:|------|------|:------:|:----:|:----------:|:---------:|
+| | `confederacy` | Confederate States | | | | |
 
 ## SVG Design Rules
 
