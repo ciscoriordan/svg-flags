@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+  <g transform="scale(1.757812, 1.171875)">
+    <g clip-path="url(#a)"><path fill="#001489" d="M256 512a256 256 0 0 0 256-255.5v-.5l-256-32L0 256a256 256 0 0 0 256 256"/><path fill="#E03C31" d="M512 255.5v.5H0a256 256 0 0 1 512-.5"/><path fill="#007749" fill-rule="evenodd" d="M512 255.3v1.4q0 16.6-2.2 32.7h-242L99 458.2C38.8 411.4 0 338.2 0 256S38.8 100.6 99 53.8l169 168.8h242q2 16 2.1 32.7" clip-rule="evenodd"/><path fill="#FFFFFF" fill-rule="evenodd" d="M503.6 321.4H281L126 476.6a256 256 0 0 1-27-18.4L269.3 288H510a255 255 0 0 1-6.4 33.4M126 35.4l155 155.2h222.5q4.3 16.3 6.4 33.4H269.3L99 53.8q12.9-10 27-18.4" clip-rule="evenodd"/><path fill="#000000" fill-rule="evenodd" d="M54 413.2C20 369.8 0 315.2 0 256c0-59.3 20.1-113.8 54-157.2L211.2 256z" clip-rule="evenodd"/><path fill="#FFB81C" fill-rule="evenodd" d="M35.6 125.7q8.4-14.1 18.4-27L211.2 256 54 413.2a257 257 0 0 1-18.4-26.9L166 256z" clip-rule="evenodd"/>
+  </g>
+</svg>

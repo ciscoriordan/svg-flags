@@ -7,191 +7,191 @@ ao,Angola,country,todo,no,no,no,no
 ag,Antigua and Barbuda,country,todo,no,no,no,no
 ar,Argentina,country,todo,no,no,no,no
 am,Armenia,country,todo,no,no,no,no
-au,Australia,country,done,yes,no,no,no
+au,Australia,country,done,yes,yes,yes,yes
 at,Austria,country,todo,no,no,no,no
 az,Azerbaijan,country,todo,no,no,no,no
-bs,Bahamas,country,done,yes,no,no,no
+bs,Bahamas,country,done,yes,yes,yes,yes
 bh,Bahrain,country,todo,no,no,no,no
 bd,Bangladesh,country,todo,no,no,no,no
-bb,Barbados,country,done,yes,no,no,no
+bb,Barbados,country,done,yes,yes,yes,yes
 by,Belarus,country,todo,no,no,no,no
-be,Belgium,country,done,yes,no,no,no
-bz,Belize,country,done,yes,no,no,no
-bj,Benin,country,done,yes,no,no,no
+be,Belgium,country,done,yes,yes,yes,yes
+bz,Belize,country,done,yes,yes,yes,yes
+bj,Benin,country,done,yes,yes,yes,yes
 bt,Bhutan,country,todo,no,no,no,no
 bo,Bolivia,country,todo,no,no,no,no
 ba,Bosnia and Herzegovina,country,todo,no,no,no,no
-bw,Botswana,country,done,yes,no,no,no
+bw,Botswana,country,done,yes,yes,yes,yes
 br,Brazil,country,todo,no,no,no,no
 bn,Brunei,country,todo,no,no,no,no
 bg,Bulgaria,country,todo,no,no,no,no
-bf,Burkina Faso,country,done,yes,no,no,no
-bi,Burundi,country,done,yes,no,no,no
+bf,Burkina Faso,country,done,yes,yes,yes,yes
+bi,Burundi,country,done,yes,yes,yes,yes
 cv,Cabo Verde,country,todo,no,no,no,no
 kh,Cambodia,country,todo,no,no,no,no
-cm,Cameroon,country,done,yes,no,no,no
-ca,Canada,country,done,yes,no,no,no
-cf,Central African Republic,country,done,yes,no,no,no
-td,Chad,country,done,yes,no,no,no
+cm,Cameroon,country,done,yes,yes,yes,yes
+ca,Canada,country,done,yes,yes,yes,yes
+cf,Central African Republic,country,done,yes,yes,yes,yes
+td,Chad,country,done,yes,yes,yes,yes
 cl,Chile,country,todo,no,no,no,no
 cn,China,country,todo,no,no,no,no
 co,Colombia,country,todo,no,no,no,no
-km,Comoros,country,done,yes,no,no,no
-cg,Congo,country,done,yes,no,no,no
-cd,Congo (DRC),country,done,yes,no,no,no
+km,Comoros,country,done,yes,yes,yes,yes
+cg,Congo,country,done,yes,yes,yes,yes
+cd,Congo (DRC),country,done,yes,yes,yes,yes
 cr,Costa Rica,country,todo,no,no,no,no
 hr,Croatia,country,todo,no,no,no,no
 cu,Cuba,country,todo,no,no,no,no
 cy,Cyprus,country,todo,no,no,no,no
 cz,Czechia,country,todo,no,no,no,no
-ci,Côte d'Ivoire,country,done,yes,no,no,no
+ci,Côte d'Ivoire,country,done,yes,yes,yes,yes
 dk,Denmark,country,todo,no,no,no,no
-dj,Djibouti,country,done,yes,no,no,no
-dm,Dominica,country,done,yes,no,no,no
+dj,Djibouti,country,done,yes,yes,yes,yes
+dm,Dominica,country,done,yes,yes,yes,yes
 do,Dominican Republic,country,todo,no,no,no,no
 ec,Ecuador,country,todo,no,no,no,no
 eg,Egypt,country,todo,no,no,no,no
 sv,El Salvador,country,todo,no,no,no,no
-gq,Equatorial Guinea,country,done,yes,no,no,no
+gq,Equatorial Guinea,country,done,yes,yes,yes,yes
 er,Eritrea,country,todo,no,no,no,no
 ee,Estonia,country,todo,no,no,no,no
 sz,Eswatini,country,todo,no,no,no,no
 et,Ethiopia,country,todo,no,no,no,no
-fj,Fiji,country,done,yes,no,no,no
+fj,Fiji,country,done,yes,yes,yes,yes
 fi,Finland,country,todo,no,no,no,no
 fr,France,country,done,yes,yes,yes,yes
-ga,Gabon,country,done,yes,no,no,no
-gm,Gambia,country,done,yes,no,no,no
+ga,Gabon,country,done,yes,yes,yes,yes
+gm,Gambia,country,done,yes,yes,yes,yes
 ge,Georgia,country,todo,no,no,no,no
 de,Germany,country,done,yes,yes,yes,yes
-gh,Ghana,country,done,yes,no,no,no
+gh,Ghana,country,done,yes,yes,yes,yes
 gr,Greece,country,done,yes,yes,yes,yes
-gd,Grenada,country,done,yes,no,no,no
+gd,Grenada,country,done,yes,yes,yes,yes
 gt,Guatemala,country,todo,no,no,no,no
-gn,Guinea,country,done,yes,no,no,no
+gn,Guinea,country,done,yes,yes,yes,yes
 gw,Guinea-Bissau,country,todo,no,no,no,no
-gy,Guyana,country,done,yes,no,no,no
-ht,Haiti,country,done,yes,no,no,no
+gy,Guyana,country,done,yes,yes,yes,yes
+ht,Haiti,country,done,yes,yes,yes,yes
 hn,Honduras,country,todo,no,no,no,no
 hu,Hungary,country,todo,no,no,no,no
 is,Iceland,country,todo,no,no,no,no
-in,India,country,done,yes,no,no,no
+in,India,country,done,yes,yes,yes,yes
 id,Indonesia,country,todo,no,no,no,no
 ir,Iran,country,todo,no,no,no,no
 iq,Iraq,country,todo,no,no,no,no
-ie,Ireland,country,done,yes,no,no,no
+ie,Ireland,country,done,yes,yes,yes,yes
 il,Israel,country,todo,no,no,no,no
 it,Italy,country,todo,no,no,no,no
-jm,Jamaica,country,done,yes,no,no,no
+jm,Jamaica,country,done,yes,yes,yes,yes
 jp,Japan,country,done,yes,yes,yes,yes
 jo,Jordan,country,todo,no,no,no,no
 kz,Kazakhstan,country,todo,no,no,no,no
 ke,Kenya,country,done,yes,yes,yes,yes
-ki,Kiribati,country,done,yes,no,no,no
+ki,Kiribati,country,done,yes,yes,yes,yes
 kw,Kuwait,country,todo,no,no,no,no
 kg,Kyrgyzstan,country,todo,no,no,no,no
 la,Laos,country,todo,no,no,no,no
 lv,Latvia,country,todo,no,no,no,no
 lb,Lebanon,country,todo,no,no,no,no
-ls,Lesotho,country,done,yes,no,no,no
-lr,Liberia,country,done,yes,no,no,no
+ls,Lesotho,country,done,yes,yes,yes,yes
+lr,Liberia,country,done,yes,yes,yes,yes
 ly,Libya,country,todo,no,no,no,no
 li,Liechtenstein,country,todo,no,no,no,no
 lt,Lithuania,country,todo,no,no,no,no
-lu,Luxembourg,country,done,yes,no,no,no
-mg,Madagascar,country,done,yes,no,no,no
-mw,Malawi,country,done,yes,no,no,no
+lu,Luxembourg,country,done,yes,yes,yes,yes
+mg,Madagascar,country,done,yes,yes,yes,yes
+mw,Malawi,country,done,yes,yes,yes,yes
 my,Malaysia,country,todo,no,no,no,no
 mv,Maldives,country,todo,no,no,no,no
-ml,Mali,country,done,yes,no,no,no
-mt,Malta,country,done,yes,no,no,no
-mh,Marshall Islands,country,done,yes,no,no,no
+ml,Mali,country,done,yes,yes,yes,yes
+mt,Malta,country,done,yes,yes,yes,yes
+mh,Marshall Islands,country,done,yes,yes,yes,yes
 mr,Mauritania,country,todo,no,no,no,no
-mu,Mauritius,country,done,yes,no,no,no
+mu,Mauritius,country,done,yes,yes,yes,yes
 mx,Mexico,country,todo,no,no,no,no
-fm,Micronesia,country,done,yes,no,no,no
+fm,Micronesia,country,done,yes,yes,yes,yes
 md,Moldova,country,todo,no,no,no,no
-mc,Monaco,country,done,yes,no,no,no
+mc,Monaco,country,done,yes,yes,yes,yes
 mn,Mongolia,country,todo,no,no,no,no
 me,Montenegro,country,todo,no,no,no,no
 ma,Morocco,country,todo,no,no,no,no
 mz,Mozambique,country,todo,no,no,no,no
 mm,Myanmar,country,todo,no,no,no,no
-na,Namibia,country,done,yes,no,no,no
-nr,Nauru,country,done,yes,no,no,no
+na,Namibia,country,done,yes,yes,yes,yes
+nr,Nauru,country,done,yes,yes,yes,yes
 np,Nepal,country,todo,no,no,no,no
 nl,Netherlands,country,todo,no,no,no,no
-nz,New Zealand,country,done,yes,no,no,no
+nz,New Zealand,country,done,yes,yes,yes,yes
 ni,Nicaragua,country,todo,no,no,no,no
-ne,Niger,country,done,yes,no,no,no
-ng,Nigeria,country,done,yes,no,no,no
+ne,Niger,country,done,yes,yes,yes,yes
+ng,Nigeria,country,done,yes,yes,yes,yes
 kp,North Korea,country,todo,no,no,no,no
 mk,North Macedonia,country,todo,no,no,no,no
 no,Norway,country,todo,no,no,no,no
 om,Oman,country,todo,no,no,no,no
-pk,Pakistan,country,done,yes,no,no,no
-pw,Palau,country,done,yes,no,no,no
+pk,Pakistan,country,done,yes,yes,yes,yes
+pw,Palau,country,done,yes,yes,yes,yes
 pa,Panama,country,todo,no,no,no,no
-pg,Papua New Guinea,country,done,yes,no,no,no
+pg,Papua New Guinea,country,done,yes,yes,yes,yes
 py,Paraguay,country,todo,no,no,no,no
 pe,Peru,country,todo,no,no,no,no
-ph,Philippines,country,done,yes,no,no,no
+ph,Philippines,country,done,yes,yes,yes,yes
 pl,Poland,country,todo,no,no,no,no
 pt,Portugal,country,todo,no,no,no,no
 qa,Qatar,country,todo,no,no,no,no
 ro,Romania,country,todo,no,no,no,no
 ru,Russia,country,todo,no,no,no,no
-rw,Rwanda,country,done,yes,no,no,no
-kn,Saint Kitts and Nevis,country,done,yes,no,no,no
-lc,Saint Lucia,country,done,yes,no,no,no
-vc,Saint Vincent and the Grenadines,country,done,yes,no,no,no
-ws,Samoa,country,done,yes,no,no,no
+rw,Rwanda,country,done,yes,yes,yes,yes
+kn,Saint Kitts and Nevis,country,done,yes,yes,yes,yes
+lc,Saint Lucia,country,done,yes,yes,yes,yes
+vc,Saint Vincent and the Grenadines,country,done,yes,yes,yes,yes
+ws,Samoa,country,done,yes,yes,yes,yes
 sm,San Marino,country,todo,no,no,no,no
 sa,Saudi Arabia,country,todo,no,no,no,no
-sn,Senegal,country,done,yes,no,no,no
+sn,Senegal,country,done,yes,yes,yes,yes
 rs,Serbia,country,todo,no,no,no,no
-sc,Seychelles,country,done,yes,no,no,no
-sl,Sierra Leone,country,done,yes,no,no,no
-sg,Singapore,country,done,yes,no,no,no
+sc,Seychelles,country,done,yes,yes,yes,yes
+sl,Sierra Leone,country,done,yes,yes,yes,yes
+sg,Singapore,country,done,yes,yes,yes,yes
 sk,Slovakia,country,todo,no,no,no,no
 si,Slovenia,country,todo,no,no,no,no
-sb,Solomon Islands,country,done,yes,no,no,no
+sb,Solomon Islands,country,done,yes,yes,yes,yes
 so,Somalia,country,todo,no,no,no,no
-za,South Africa,country,done,yes,no,no,no
+za,South Africa,country,done,yes,yes,yes,yes
 kr,South Korea,country,todo,no,no,no,no
-ss,South Sudan,country,done,yes,no,no,no
+ss,South Sudan,country,done,yes,yes,yes,yes
 es,Spain,country,todo,no,no,no,no
 lk,Sri Lanka,country,todo,no,no,no,no
-sd,Sudan,country,done,yes,no,no,no
+sd,Sudan,country,done,yes,yes,yes,yes
 sr,Suriname,country,todo,no,no,no,no
 se,Sweden,country,todo,no,no,no,no
-ch,Switzerland,country,done,yes,no,no,no
+ch,Switzerland,country,done,yes,yes,yes,yes
 sy,Syria,country,todo,no,no,no,no
 st,São Tomé and Príncipe,country,todo,no,no,no,no
 tj,Tajikistan,country,todo,no,no,no,no
-tz,Tanzania,country,done,yes,no,no,no
+tz,Tanzania,country,done,yes,yes,yes,yes
 th,Thailand,country,todo,no,no,no,no
 tl,Timor-Leste,country,todo,no,no,no,no
-tg,Togo,country,done,yes,no,no,no
-to,Tonga,country,done,yes,no,no,no
-tt,Trinidad and Tobago,country,done,yes,no,no,no
-tn,Tunisia,country,done,yes,no,no,no
+tg,Togo,country,done,yes,yes,yes,yes
+to,Tonga,country,done,yes,yes,yes,yes
+tt,Trinidad and Tobago,country,done,yes,yes,yes,yes
+tn,Tunisia,country,done,yes,yes,yes,yes
 tr,Turkey,country,todo,no,no,no,no
 tm,Turkmenistan,country,todo,no,no,no,no
-tv,Tuvalu,country,done,yes,no,no,no
-ug,Uganda,country,done,yes,no,no,no
+tv,Tuvalu,country,done,yes,yes,yes,yes
+ug,Uganda,country,done,yes,yes,yes,yes
 ua,Ukraine,country,todo,no,no,no,no
 ae,United Arab Emirates,country,todo,no,no,no,no
 gb,United Kingdom,country,done,yes,yes,yes,yes
 us,United States,country,done,yes,yes,yes,yes
 uy,Uruguay,country,todo,no,no,no,no
 uz,Uzbekistan,country,todo,no,no,no,no
-vu,Vanuatu,country,done,yes,no,no,no
+vu,Vanuatu,country,done,yes,yes,yes,yes
 ve,Venezuela,country,todo,no,no,no,no
 vn,Vietnam,country,todo,no,no,no,no
 ye,Yemen,country,todo,no,no,no,no
-zm,Zambia,country,done,yes,no,no,no
-zw,Zimbabwe,country,done,yes,no,no,no
+zm,Zambia,country,done,yes,yes,yes,yes
+zw,Zimbabwe,country,done,yes,yes,yes,yes
 tw,Taiwan,other/locales,todo,no,no,no,no
 xk,Kosovo,other/locales,todo,no,no,no,no
 northern-cyprus,Northern Cyprus,other/locales,todo,no,no,no,no

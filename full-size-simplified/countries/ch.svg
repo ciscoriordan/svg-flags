@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <g transform="scale(1.000000, 1.000000)">
+    <circle cx="256" cy="256" r="256" fill="#FF0000"/><path fill="#FFFFFF" fill-rule="evenodd" d="M304 96h-96v112H96v96h112v112h96V304h112v-96H304z" clip-rule="evenodd"/>
+  </g>
+</svg>

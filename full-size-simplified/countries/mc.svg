@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="800" viewBox="0 0 1000 800">
+  <g transform="scale(1.953125, 1.562500)">
+    <path fill="#FFFFFF" d="M256 512a256 256 0 0 0 256-255.5v-.5l-256-32L0 256a256 256 0 0 0 256 256"/><path fill="#CE1126" d="M512 255.5v.5H0a256 256 0 0 1 512-.5"/>
+  </g>
+</svg>
