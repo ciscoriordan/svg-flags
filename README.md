@@ -73,7 +73,7 @@ svg-flags/
 - **countries/** — UN member states, using [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) codes
 - **other/** — Two subcategories:
   - **other/locales/** — Places with widely recognized flags that are not UN member states (e.g. Taiwan, Northern Cyprus, Kosovo)
-  - **other/orgs/** — Organizations, symbols, and novelty flags (e.g. NATO, UN, Olympics, checkered flag, pirate flag)
+  - **other/orgs/** — Organizations, symbols, and novelty flags (e.g. NATO, UN, Olympics, checkered flag)
 - **historical/** — Flags of former states and defunct entities (e.g. Confederate States, Soviet Union, Prussia)
 - **states/** — Subnational divisions (e.g. US states, Canadian provinces), using [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-2) codes
 - **languages/** — Language flags (duplicated files, not symlinks)
@@ -122,11 +122,10 @@ svg-flags/
 
 | Code | Name | Circle | Rect | Simplified | Full-size | Colors | Source |
 |------|------|:------:|:----:|:----------:|:---------:|--------|--------|
-| `checkered` | [Checkered flag](https://en.wikipedia.org/wiki/Racing_flags#Chequered_flag) | | | | | | |
-| `nato` | [NATO](https://en.wikipedia.org/wiki/NATO) | | | | | | |
-| `olympics` | [Olympics](https://en.wikipedia.org/wiki/Olympic_symbols) | | | | | | |
-| `pirate` | [Pirate flag](https://en.wikipedia.org/wiki/Jolly_Roger) | | | | | | |
-| `un` | [United Nations](https://en.wikipedia.org/wiki/United_Nations) | | | | | | |
+| `checkered` | [Checkered flag](https://en.wikipedia.org/wiki/Racing_flags#Chequered_flag) | <img src="circle/other/orgs/checkered.svg" width="32"> | <img src="rect/other/orgs/checkered.svg" width="32"> | | | <img src="swatches/000000.svg" width="12">&nbsp;`#000000` | — |
+| `nato` | [NATO](https://en.wikipedia.org/wiki/NATO) | <img src="circle/other/orgs/nato.svg" width="32"> | <img src="rect/other/orgs/nato.svg" width="32"> | | | <img src="swatches/004990.svg" width="12">&nbsp;`#004990` | [Wikipedia](https://en.wikipedia.org/wiki/File:NATO_flag.svg) |
+| `olympics` | [Olympics](https://en.wikipedia.org/wiki/Olympic_symbols) | <img src="circle/other/orgs/olympics.svg" width="32"> | <img src="rect/other/orgs/olympics.svg" width="32"> | | | <img src="swatches/0081C8.svg" width="12">&nbsp;`#0081C8`<br><img src="swatches/EE334E.svg" width="12">&nbsp;`#EE334E`<br><img src="swatches/FCB131.svg" width="12">&nbsp;`#FCB131`<br><img src="swatches/00A651.svg" width="12">&nbsp;`#00A651` | [Wikipedia](https://en.wikipedia.org/wiki/File:Olympic_flag.svg) |
+| `un` | [United Nations](https://en.wikipedia.org/wiki/United_Nations) | <img src="circle/other/orgs/un.svg" width="32"> | <img src="rect/other/orgs/un.svg" width="32"> | | | <img src="swatches/009EDB.svg" width="12">&nbsp;`#009EDB` | [Wikipedia](https://en.wikipedia.org/wiki/File:Flag_of_the_United_Nations.svg) |
 
 ### US states
 

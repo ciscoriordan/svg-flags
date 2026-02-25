@@ -28,9 +28,8 @@ tw,Taiwan,other/locales,todo,no,no,no,no
 xk,Kosovo,other/locales,todo,no,no,no,no
 northern-cyprus,Northern Cyprus,other/locales,todo,no,no,no,no
 confederacy,Confederate States,historical,done,yes,yes,yes,yes
-nato,NATO,other/orgs,todo,no,no,no,no
-un,United Nations,other/orgs,todo,no,no,no,no
-olympics,Olympics,other/orgs,todo,no,no,no,no
-checkered,Checkered flag,other/orgs,todo,no,no,no,no
-pirate,Pirate flag,other/orgs,todo,no,no,no,no
+nato,NATO,other/orgs,done,yes,yes,no,no
+un,United Nations,other/orgs,done,yes,yes,no,no
+olympics,Olympics,other/orgs,done,yes,yes,no,no
+checkered,Checkered flag,other/orgs,done,yes,yes,no,no
 us-ca,California,states/us,done,yes,yes,yes,yes
