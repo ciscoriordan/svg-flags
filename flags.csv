@@ -1,29 +1,197 @@
 code,name,category,status,circle,rect,full_size_simplified,full_size
-us,United States,country,done,yes,yes,yes,yes
-gb,United Kingdom,country,done,yes,yes,yes,yes
-fr,France,country,done,yes,yes,yes,yes
-de,Germany,country,done,yes,yes,yes,yes
-jp,Japan,country,done,yes,yes,yes,yes
-ca,Canada,country,todo,no,no,no,no
-au,Australia,country,todo,no,no,no,no
-br,Brazil,country,todo,no,no,no,no
-cn,China,country,todo,no,no,no,no
-in,India,country,todo,no,no,no,no
-it,Italy,country,todo,no,no,no,no
-mx,Mexico,country,todo,no,no,no,no
-kr,South Korea,country,todo,no,no,no,no
-es,Spain,country,todo,no,no,no,no
-se,Sweden,country,todo,no,no,no,no
-no,Norway,country,todo,no,no,no,no
-nl,Netherlands,country,todo,no,no,no,no
-pt,Portugal,country,todo,no,no,no,no
-ru,Russia,country,todo,no,no,no,no
-ie,Ireland,country,todo,no,no,no,no
-ch,Switzerland,country,todo,no,no,no,no
-pl,Poland,country,todo,no,no,no,no
+af,Afghanistan,country,todo,no,no,no,no
+al,Albania,country,todo,no,no,no,no
+dz,Algeria,country,todo,no,no,no,no
+ad,Andorra,country,todo,no,no,no,no
+ao,Angola,country,todo,no,no,no,no
+ag,Antigua and Barbuda,country,todo,no,no,no,no
 ar,Argentina,country,todo,no,no,no,no
-za,South Africa,country,todo,no,no,no,no
+am,Armenia,country,todo,no,no,no,no
+au,Australia,country,todo,no,no,no,no
+at,Austria,country,todo,no,no,no,no
+az,Azerbaijan,country,todo,no,no,no,no
+bs,Bahamas,country,todo,no,no,no,no
+bh,Bahrain,country,todo,no,no,no,no
+bd,Bangladesh,country,todo,no,no,no,no
+bb,Barbados,country,todo,no,no,no,no
+by,Belarus,country,todo,no,no,no,no
+be,Belgium,country,todo,no,no,no,no
+bz,Belize,country,todo,no,no,no,no
+bj,Benin,country,todo,no,no,no,no
+bt,Bhutan,country,todo,no,no,no,no
+bo,Bolivia,country,todo,no,no,no,no
+ba,Bosnia and Herzegovina,country,todo,no,no,no,no
+bw,Botswana,country,todo,no,no,no,no
+br,Brazil,country,todo,no,no,no,no
+bn,Brunei,country,todo,no,no,no,no
+bg,Bulgaria,country,todo,no,no,no,no
+bf,Burkina Faso,country,todo,no,no,no,no
+bi,Burundi,country,todo,no,no,no,no
+cv,Cabo Verde,country,todo,no,no,no,no
+kh,Cambodia,country,todo,no,no,no,no
+cm,Cameroon,country,todo,no,no,no,no
+ca,Canada,country,todo,no,no,no,no
+cf,Central African Republic,country,todo,no,no,no,no
+td,Chad,country,todo,no,no,no,no
+cl,Chile,country,todo,no,no,no,no
+cn,China,country,todo,no,no,no,no
+co,Colombia,country,todo,no,no,no,no
+km,Comoros,country,todo,no,no,no,no
+cg,Congo,country,todo,no,no,no,no
+cd,Congo (DRC),country,todo,no,no,no,no
+cr,Costa Rica,country,todo,no,no,no,no
+hr,Croatia,country,todo,no,no,no,no
+cu,Cuba,country,todo,no,no,no,no
+cy,Cyprus,country,todo,no,no,no,no
+cz,Czechia,country,todo,no,no,no,no
+ci,Côte d'Ivoire,country,todo,no,no,no,no
+dk,Denmark,country,todo,no,no,no,no
+dj,Djibouti,country,todo,no,no,no,no
+dm,Dominica,country,todo,no,no,no,no
+do,Dominican Republic,country,todo,no,no,no,no
+ec,Ecuador,country,todo,no,no,no,no
+eg,Egypt,country,todo,no,no,no,no
+sv,El Salvador,country,todo,no,no,no,no
+gq,Equatorial Guinea,country,todo,no,no,no,no
+er,Eritrea,country,todo,no,no,no,no
+ee,Estonia,country,todo,no,no,no,no
+sz,Eswatini,country,todo,no,no,no,no
+et,Ethiopia,country,todo,no,no,no,no
+fj,Fiji,country,todo,no,no,no,no
+fi,Finland,country,todo,no,no,no,no
+fr,France,country,done,yes,yes,yes,yes
+ga,Gabon,country,todo,no,no,no,no
+gm,Gambia,country,todo,no,no,no,no
+ge,Georgia,country,todo,no,no,no,no
+de,Germany,country,done,yes,yes,yes,yes
+gh,Ghana,country,todo,no,no,no,no
+gr,Greece,country,todo,no,no,no,no
+gd,Grenada,country,todo,no,no,no,no
+gt,Guatemala,country,todo,no,no,no,no
+gn,Guinea,country,todo,no,no,no,no
+gw,Guinea-Bissau,country,todo,no,no,no,no
+gy,Guyana,country,todo,no,no,no,no
+ht,Haiti,country,todo,no,no,no,no
+hn,Honduras,country,todo,no,no,no,no
+hu,Hungary,country,todo,no,no,no,no
+is,Iceland,country,todo,no,no,no,no
+in,India,country,todo,no,no,no,no
+id,Indonesia,country,todo,no,no,no,no
+ir,Iran,country,todo,no,no,no,no
+iq,Iraq,country,todo,no,no,no,no
+ie,Ireland,country,todo,no,no,no,no
+il,Israel,country,todo,no,no,no,no
+it,Italy,country,todo,no,no,no,no
+jm,Jamaica,country,todo,no,no,no,no
+jp,Japan,country,done,yes,yes,yes,yes
+jo,Jordan,country,todo,no,no,no,no
+kz,Kazakhstan,country,todo,no,no,no,no
+ke,Kenya,country,todo,no,no,no,no
+ki,Kiribati,country,todo,no,no,no,no
+kw,Kuwait,country,todo,no,no,no,no
+kg,Kyrgyzstan,country,todo,no,no,no,no
+la,Laos,country,todo,no,no,no,no
+lv,Latvia,country,todo,no,no,no,no
+lb,Lebanon,country,todo,no,no,no,no
+ls,Lesotho,country,todo,no,no,no,no
+lr,Liberia,country,todo,no,no,no,no
+ly,Libya,country,todo,no,no,no,no
+li,Liechtenstein,country,todo,no,no,no,no
+lt,Lithuania,country,todo,no,no,no,no
+lu,Luxembourg,country,todo,no,no,no,no
+mg,Madagascar,country,todo,no,no,no,no
+mw,Malawi,country,todo,no,no,no,no
+my,Malaysia,country,todo,no,no,no,no
+mv,Maldives,country,todo,no,no,no,no
+ml,Mali,country,todo,no,no,no,no
+mt,Malta,country,todo,no,no,no,no
+mh,Marshall Islands,country,todo,no,no,no,no
+mr,Mauritania,country,todo,no,no,no,no
+mu,Mauritius,country,todo,no,no,no,no
+mx,Mexico,country,todo,no,no,no,no
+fm,Micronesia,country,todo,no,no,no,no
+md,Moldova,country,todo,no,no,no,no
+mc,Monaco,country,todo,no,no,no,no
+mn,Mongolia,country,todo,no,no,no,no
+me,Montenegro,country,todo,no,no,no,no
+ma,Morocco,country,todo,no,no,no,no
+mz,Mozambique,country,todo,no,no,no,no
+mm,Myanmar,country,todo,no,no,no,no
+na,Namibia,country,todo,no,no,no,no
+nr,Nauru,country,todo,no,no,no,no
+np,Nepal,country,todo,no,no,no,no
+nl,Netherlands,country,todo,no,no,no,no
 nz,New Zealand,country,todo,no,no,no,no
+ni,Nicaragua,country,todo,no,no,no,no
+ne,Niger,country,todo,no,no,no,no
+ng,Nigeria,country,todo,no,no,no,no
+kp,North Korea,country,todo,no,no,no,no
+mk,North Macedonia,country,todo,no,no,no,no
+no,Norway,country,todo,no,no,no,no
+om,Oman,country,todo,no,no,no,no
+pk,Pakistan,country,todo,no,no,no,no
+pw,Palau,country,todo,no,no,no,no
+pa,Panama,country,todo,no,no,no,no
+pg,Papua New Guinea,country,todo,no,no,no,no
+py,Paraguay,country,todo,no,no,no,no
+pe,Peru,country,todo,no,no,no,no
+ph,Philippines,country,todo,no,no,no,no
+pl,Poland,country,todo,no,no,no,no
+pt,Portugal,country,todo,no,no,no,no
+qa,Qatar,country,todo,no,no,no,no
+ro,Romania,country,todo,no,no,no,no
+ru,Russia,country,todo,no,no,no,no
+rw,Rwanda,country,todo,no,no,no,no
+kn,Saint Kitts and Nevis,country,todo,no,no,no,no
+lc,Saint Lucia,country,todo,no,no,no,no
+vc,Saint Vincent and the Grenadines,country,todo,no,no,no,no
+ws,Samoa,country,todo,no,no,no,no
+sm,San Marino,country,todo,no,no,no,no
+sa,Saudi Arabia,country,todo,no,no,no,no
+sn,Senegal,country,todo,no,no,no,no
+rs,Serbia,country,todo,no,no,no,no
+sc,Seychelles,country,todo,no,no,no,no
+sl,Sierra Leone,country,todo,no,no,no,no
+sg,Singapore,country,todo,no,no,no,no
+sk,Slovakia,country,todo,no,no,no,no
+si,Slovenia,country,todo,no,no,no,no
+sb,Solomon Islands,country,todo,no,no,no,no
+so,Somalia,country,todo,no,no,no,no
+za,South Africa,country,todo,no,no,no,no
+kr,South Korea,country,todo,no,no,no,no
+ss,South Sudan,country,todo,no,no,no,no
+es,Spain,country,todo,no,no,no,no
+lk,Sri Lanka,country,todo,no,no,no,no
+sd,Sudan,country,todo,no,no,no,no
+sr,Suriname,country,todo,no,no,no,no
+se,Sweden,country,todo,no,no,no,no
+ch,Switzerland,country,todo,no,no,no,no
+sy,Syria,country,todo,no,no,no,no
+st,São Tomé and Príncipe,country,todo,no,no,no,no
+tj,Tajikistan,country,todo,no,no,no,no
+tz,Tanzania,country,todo,no,no,no,no
+th,Thailand,country,todo,no,no,no,no
+tl,Timor-Leste,country,todo,no,no,no,no
+tg,Togo,country,todo,no,no,no,no
+to,Tonga,country,todo,no,no,no,no
+tt,Trinidad and Tobago,country,todo,no,no,no,no
+tn,Tunisia,country,todo,no,no,no,no
+tr,Turkey,country,todo,no,no,no,no
+tm,Turkmenistan,country,todo,no,no,no,no
+tv,Tuvalu,country,todo,no,no,no,no
+ug,Uganda,country,todo,no,no,no,no
+ua,Ukraine,country,todo,no,no,no,no
+ae,United Arab Emirates,country,todo,no,no,no,no
+gb,United Kingdom,country,done,yes,yes,yes,yes
+us,United States,country,done,yes,yes,yes,yes
+uy,Uruguay,country,todo,no,no,no,no
+uz,Uzbekistan,country,todo,no,no,no,no
+vu,Vanuatu,country,todo,no,no,no,no
+ve,Venezuela,country,todo,no,no,no,no
+vn,Vietnam,country,todo,no,no,no,no
+ye,Yemen,country,todo,no,no,no,no
+zm,Zambia,country,todo,no,no,no,no
+zw,Zimbabwe,country,todo,no,no,no,no
 tw,Taiwan,other/locales,todo,no,no,no,no
 xk,Kosovo,other/locales,todo,no,no,no,no
 northern-cyprus,Northern Cyprus,other/locales,todo,no,no,no,no
