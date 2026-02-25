@@ -2,6 +2,8 @@
 
 Clean, Xcode-compatible SVG flags with official colors in multiple shapes.
 
+**[Browse the gallery](https://motomatic-llc.github.io/svg-flags)**
+
 ## Why this exists
 
 I use [HatScripts/circle-flags](https://github.com/HatScripts/circle-flags) in many different projects — it's a fantastic collection of 400+ minimal circular SVG flags. But I keep running into the same issues:
