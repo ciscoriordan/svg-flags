@@ -36,6 +36,15 @@ This project is based on and inspired by [HatScripts/circle-flags](https://githu
 
 **circle** uses simplified geometry from circle-flags, **square** and **full-size-simplified** use geometry from square-flags — all with official Wikipedia colors and Xcode-compatible SVG elements. **full-size** uses the actual detailed flag SVGs from Wikimedia Commons with proper proportions and accurate geometry.
 
+## Xcode compatibility
+
+Xcode's SVG renderer has limited support compared to browsers. These SVGs are cleaned to avoid elements Xcode can't handle:
+
+- **No `<mask>`** — replaced with `<clipPath>` (circle and square variants)
+- **No `<style>` or CSS** — all styling uses inline `fill`/`stroke` attributes
+- **No `<use>` or `xlink:href`** — Wikimedia SVGs often define a shape once (e.g. a star) in `<defs>` and then reference it multiple times with `<use xlink:href="#id" x="..." y="..." transform="...">`. Xcode doesn't support `<use>`, so every instance is expanded into an inline copy with the correct `transform="translate(x,y)"` or `transform="rotate(N)"`. Recursive `<use>` patterns (where elements reference other compound elements to build up star rings, sun rays, wheel spokes, etc.) are fully unrolled.
+- **No symlinks** — language flags are duplicated files, not symlinks
+
 ## Border
 
 Circle and square variants of mostly-white flags (like Japan) include a subtle grey border (<img src="swatches/cdcfd3.svg" width="12">`#cdcfd3`) to prevent them from disappearing into white backgrounds.
