@@ -1,20 +1,39 @@
-<svg version="1.0" xmlns="http://www.w3.org/2000/svg" width="760" height="400" viewBox="-19 -10 38 20">
-	<rect x="-19" y="-10" width="38" height="20" fill="#75b2dd"/>
-	<g id="star" transform="translate(0,-6)" fill="#fff">
-		<g id="c">
-			<path id="t" d="M 0,-2 V 0 H 1" transform="rotate(18 0,-2)"/>
-		</g>
-	</g>
-	<g transform="rotate(90)"><g transform="translate(0,-6)" fill="#fff">
-		<g>
-			<path d="M 0,-2 V 0 H 1" transform="rotate(18 0,-2)"/>
-		</g></g>
-	<g transform="rotate(180)"><g transform="translate(0,-6)" fill="#fff">
-		<g>
-			<path d="M 0,-2 V 0 H 1" transform="rotate(18 0,-2)"/>
-		</g></g>
-	<g transform="rotate(270)"><g transform="translate(0,-6)" fill="#fff">
-		<g>
-			<path d="M 0,-2 V 0 H 1" transform="rotate(18 0,-2)"/>
-		</g></g>
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="400" viewBox="-19 -10 38 20">
+  <rect x="-19" y="-10" width="38" height="20" fill="#75B2DD"/>
+  <!-- Top star -->
+  <g transform="translate(0,-6)" fill="#FFF">
+    <path d="M 0,-2 V 0 H 1" transform="rotate(18 0,-2)"/>
+    <g transform="scale(-1,1)"><path d="M 0,-2 V 0 H 1" transform="rotate(18 0,-2)"/></g>
+    <g transform="rotate(72)"><path d="M 0,-2 V 0 H 1" transform="rotate(18 0,-2)"/><g transform="scale(-1,1)"><path d="M 0,-2 V 0 H 1" transform="rotate(18 0,-2)"/></g></g>
+    <g transform="rotate(144)"><path d="M 0,-2 V 0 H 1" transform="rotate(18 0,-2)"/><g transform="scale(-1,1)"><path d="M 0,-2 V 0 H 1" transform="rotate(18 0,-2)"/></g></g>
+    <g transform="rotate(216)"><path d="M 0,-2 V 0 H 1" transform="rotate(18 0,-2)"/><g transform="scale(-1,1)"><path d="M 0,-2 V 0 H 1" transform="rotate(18 0,-2)"/></g></g>
+    <g transform="rotate(288)"><path d="M 0,-2 V 0 H 1" transform="rotate(18 0,-2)"/><g transform="scale(-1,1)"><path d="M 0,-2 V 0 H 1" transform="rotate(18 0,-2)"/></g></g>
+  </g>
+  <!-- Right star -->
+  <g transform="rotate(90)"><g transform="translate(0,-6)" fill="#FFF">
+    <path d="M 0,-2 V 0 H 1" transform="rotate(18 0,-2)"/>
+    <g transform="scale(-1,1)"><path d="M 0,-2 V 0 H 1" transform="rotate(18 0,-2)"/></g>
+    <g transform="rotate(72)"><path d="M 0,-2 V 0 H 1" transform="rotate(18 0,-2)"/><g transform="scale(-1,1)"><path d="M 0,-2 V 0 H 1" transform="rotate(18 0,-2)"/></g></g>
+    <g transform="rotate(144)"><path d="M 0,-2 V 0 H 1" transform="rotate(18 0,-2)"/><g transform="scale(-1,1)"><path d="M 0,-2 V 0 H 1" transform="rotate(18 0,-2)"/></g></g>
+    <g transform="rotate(216)"><path d="M 0,-2 V 0 H 1" transform="rotate(18 0,-2)"/><g transform="scale(-1,1)"><path d="M 0,-2 V 0 H 1" transform="rotate(18 0,-2)"/></g></g>
+    <g transform="rotate(288)"><path d="M 0,-2 V 0 H 1" transform="rotate(18 0,-2)"/><g transform="scale(-1,1)"><path d="M 0,-2 V 0 H 1" transform="rotate(18 0,-2)"/></g></g>
+  </g></g>
+  <!-- Bottom star -->
+  <g transform="rotate(180)"><g transform="translate(0,-6)" fill="#FFF">
+    <path d="M 0,-2 V 0 H 1" transform="rotate(18 0,-2)"/>
+    <g transform="scale(-1,1)"><path d="M 0,-2 V 0 H 1" transform="rotate(18 0,-2)"/></g>
+    <g transform="rotate(72)"><path d="M 0,-2 V 0 H 1" transform="rotate(18 0,-2)"/><g transform="scale(-1,1)"><path d="M 0,-2 V 0 H 1" transform="rotate(18 0,-2)"/></g></g>
+    <g transform="rotate(144)"><path d="M 0,-2 V 0 H 1" transform="rotate(18 0,-2)"/><g transform="scale(-1,1)"><path d="M 0,-2 V 0 H 1" transform="rotate(18 0,-2)"/></g></g>
+    <g transform="rotate(216)"><path d="M 0,-2 V 0 H 1" transform="rotate(18 0,-2)"/><g transform="scale(-1,1)"><path d="M 0,-2 V 0 H 1" transform="rotate(18 0,-2)"/></g></g>
+    <g transform="rotate(288)"><path d="M 0,-2 V 0 H 1" transform="rotate(18 0,-2)"/><g transform="scale(-1,1)"><path d="M 0,-2 V 0 H 1" transform="rotate(18 0,-2)"/></g></g>
+  </g></g>
+  <!-- Left star -->
+  <g transform="rotate(270)"><g transform="translate(0,-6)" fill="#FFF">
+    <path d="M 0,-2 V 0 H 1" transform="rotate(18 0,-2)"/>
+    <g transform="scale(-1,1)"><path d="M 0,-2 V 0 H 1" transform="rotate(18 0,-2)"/></g>
+    <g transform="rotate(72)"><path d="M 0,-2 V 0 H 1" transform="rotate(18 0,-2)"/><g transform="scale(-1,1)"><path d="M 0,-2 V 0 H 1" transform="rotate(18 0,-2)"/></g></g>
+    <g transform="rotate(144)"><path d="M 0,-2 V 0 H 1" transform="rotate(18 0,-2)"/><g transform="scale(-1,1)"><path d="M 0,-2 V 0 H 1" transform="rotate(18 0,-2)"/></g></g>
+    <g transform="rotate(216)"><path d="M 0,-2 V 0 H 1" transform="rotate(18 0,-2)"/><g transform="scale(-1,1)"><path d="M 0,-2 V 0 H 1" transform="rotate(18 0,-2)"/></g></g>
+    <g transform="rotate(288)"><path d="M 0,-2 V 0 H 1" transform="rotate(18 0,-2)"/><g transform="scale(-1,1)"><path d="M 0,-2 V 0 H 1" transform="rotate(18 0,-2)"/></g></g>
+  </g></g>
 </svg>
