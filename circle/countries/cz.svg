@@ -6,5 +6,5 @@
   </defs>
   <g clip-path="url(#c)">
     <path fill="#FFFFFF" d="M0 0h512v256l-265 45.2z"/><path fill="#D7141A" d="M210 256h302v256H0z"/><path fill="#11457E" d="M0 0v512l256-256L0 0z"/>
-  </g>
+  <!-- border --><circle cx="256" cy="256" r="256" fill="none" stroke="#cdcfd3" stroke-width="4"/></g>
 </svg>
