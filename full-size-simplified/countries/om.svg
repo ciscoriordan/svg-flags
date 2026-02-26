@@ -4,6 +4,6 @@
   <path fill="#008000" d="M0 400h1050v200H0z"/>
   <path fill="#DB161B" d="M0 0h350v600H0z"/>
   <g transform="translate(269,44)">
-    <path fill="#D80027" d="M0 136h512v240H0z"/><path fill="#6DA544" d="M0 344h512v168H0z"/><path fill="#EEEEEE" d="M0 0h512v168H0z"/><path fill="#D80027" d="M0 512V0h168v512z"/><path fill="#EEEEEE" d="m101 130.9-17-29.6L67 131l-14-8 17.1-29.6H36v-16h34.1l-17-29.5 13.8-8L84 69.3l17-29.5 14 8-17.1 29.5H132v16H97.9l17 29.6z"/>
+    <path fill="#D80027" d="M0 136h512v240H0z"/><path fill="#6DA544" d="M0 344h512v168H0z"/><path fill="#FFFFFF" d="M0 0h512v168H0z"/><path fill="#D80027" d="M0 512V0h168v512z"/><path fill="#FFFFFF" d="m101 130.9-17-29.6L67 131l-14-8 17.1-29.6H36v-16h34.1l-17-29.5 13.8-8L84 69.3l17-29.5 14 8-17.1 29.5H132v16H97.9l17 29.6z"/>
   </g>
 </svg>

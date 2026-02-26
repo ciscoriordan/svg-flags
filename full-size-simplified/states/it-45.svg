@@ -4,5 +4,5 @@
       <rect width="512" height="512"/>
     </clipPath>
   </defs>
-  <g clip-path="url(#r)"><path fill="#EEEEEE" d="M0 0h512v512H0z"/><path fill="#496E2D" d="M136 128v240h240V128zm16 224V247l203 105zm208-161a166 166 0 0 1-104 0 166 166 0 0 0-104 0v-47h208z"/><path fill="#D80027" d="M136 384h240v16H136z"/>  </g>
+  <g clip-path="url(#r)"><path fill="#FFFFFF" d="M0 0h512v512H0z"/><path fill="#496E2D" d="M136 128v240h240V128zm16 224V247l203 105zm208-161a166 166 0 0 1-104 0 166 166 0 0 0-104 0v-47h208z"/><path fill="#D80027" d="M136 384h240v16H136z"/>  </g>
 </svg>
