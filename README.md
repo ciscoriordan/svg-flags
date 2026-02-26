@@ -4,6 +4,26 @@ Clean, Xcode-compatible SVG flags with official colors in multiple shapes.
 
 **[Browse the gallery](https://ciscoriordan.github.io/svg-flags)**
 
+## Table of contents
+
+- [Why this exists](#why-this-exists)
+- [Credits](#credits)
+- [Variants](#variants)
+- [Xcode compatibility](#xcode-compatibility)
+- [Border](#border)
+- [Structure](#structure)
+- [Categories](#categories)
+- [Progress](#progress)
+  - [Countries (UN member states)](#countries-un-member-states)
+  - [Languages](#languages)
+  - [Other locales (non-UN entities)](#other-locales-non-un-entities)
+  - [Organizations & symbols](#organizations--symbols)
+  - [Subdivisions (ISO 3166-2)](#subdivisions-iso-3166-2)
+  - [Historical](#historical)
+- [SVG Design Rules](#svg-design-rules)
+- [Usage](#usage)
+- [License](#license)
+
 ## Why this exists
 
 I use [HatScripts/circle-flags](https://github.com/HatScripts/circle-flags) in many different projects — it's a fantastic collection of 400+ minimal circular SVG flags. But I keep running into the same issues:
@@ -20,19 +40,6 @@ I use [HatScripts/circle-flags](https://github.com/HatScripts/circle-flags) in m
 | Official colors ![NEW](https://img.shields.io/badge/NEW-2ea44f) | Simplified palette ![OLD](https://img.shields.io/badge/OLD-gray) |
 
 **Symlinks cause problems.** The language flags in circle-flags are symlinks pointing to country flags. Symlinks break in Xcode asset catalogs, some npm packaging, and cross-platform workflows. This project duplicates files instead — every flag is a standalone SVG.
-
-## Language flags
-
-Base language flags (e.g. `fr.svg`) are copies of the primary country flag for that language (French → France). Locale-specific language flags use the diagonal split approach from circle-flags' `en-us` — the top-left triangle shows the locale's flag, and the bottom-right triangle shows the base language flag:
-
-| Flag | Code | Top-left | Bottom-right |
-|:----:|------|----------|--------------|
-| <img src="circle/languages/en-us.svg" width="48"> | `en-us` | United States | United Kingdom (English) |
-| <img src="circle/languages/es-mx.svg" width="48"> | `es-mx` | Mexico | Spain (Spanish) |
-| <img src="circle/languages/fr-ca.svg" width="48"> | `fr-ca` | Canada | France (French) |
-| <img src="circle/languages/fr-ca-qc.svg" width="48"> | `fr-ca-qc` | Quebec | France (French) |
-
-This extends naturally to any language + region combination — the locale flag goes top-left, the base language flag goes bottom-right. Flags use `<clipPath>` with `<polygon>` triangles (no `<mask>`), so they work in Xcode.
 
 ## Credits
 
