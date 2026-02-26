@@ -307,19 +307,31 @@ svg-flags/
 
 ### Languages
 
+A base language flag (e.g. `en`) is a copy of its primary country flag (English → GB). Locale variants (e.g. `en-us`) use a diagonal split: top-left triangle shows the locale country flag, bottom-right shows the base language flag.
+
+#### Base languages
+
 | Code | Name | Circle | Square |
 |------|------|:------:|:------:|
 | `af` | Afrikaans | <img src="circle/languages/af.svg" width="32"> | <img src="square/languages/af.svg" width="32"> |
 | `el` | Greek | <img src="circle/languages/el.svg" width="32"> | <img src="square/languages/el.svg" width="32"> |
 | `en` | English | <img src="circle/languages/en.svg" width="32"> | <img src="square/languages/en.svg" width="32"> |
-| `en-us` | English (US) | <img src="circle/languages/en-us.svg" width="32"> | <img src="square/languages/en-us.svg" width="32"> |
 | `es` | Spanish | <img src="circle/languages/es.svg" width="32"> | <img src="square/languages/es.svg" width="32"> |
-| `es-mx` | Spanish (Mexico) | <img src="circle/languages/es-mx.svg" width="32"> | <img src="square/languages/es-mx.svg" width="32"> |
 | `fr` | French | <img src="circle/languages/fr.svg" width="32"> | <img src="square/languages/fr.svg" width="32"> |
+| `hi` | Hindi | <img src="circle/languages/hi.svg" width="32"> | <img src="square/languages/hi.svg" width="32"> |
+| `id` | Indonesian | <img src="circle/languages/id.svg" width="32"> | <img src="square/languages/id.svg" width="32"> |
+| `ko` | Korean | <img src="circle/languages/ko.svg" width="32"> | <img src="square/languages/ko.svg" width="32"> |
+| `ur` | Urdu | <img src="circle/languages/ur.svg" width="32"> | <img src="square/languages/ur.svg" width="32"> |
+| `zh` | Chinese | <img src="circle/languages/zh.svg" width="32"> | <img src="square/languages/zh.svg" width="32"> |
+
+#### Locale variants
+
+| Code | Name | Circle | Square |
+|------|------|:------:|:------:|
+| `en-us` | English (US) | <img src="circle/languages/en-us.svg" width="32"> | <img src="square/languages/en-us.svg" width="32"> |
+| `es-mx` | Spanish (Mexico) | <img src="circle/languages/es-mx.svg" width="32"> | <img src="square/languages/es-mx.svg" width="32"> |
 | `fr-ca` | French (Canada) | <img src="circle/languages/fr-ca.svg" width="32"> | <img src="square/languages/fr-ca.svg" width="32"> |
 | `fr-ca-qc` | French (Quebec) | <img src="circle/languages/fr-ca-qc.svg" width="32"> | <img src="square/languages/fr-ca-qc.svg" width="32"> |
-| `ko` | Korean | <img src="circle/languages/ko.svg" width="32"> | <img src="square/languages/ko.svg" width="32"> |
-| `zh` | Chinese | <img src="circle/languages/zh.svg" width="32"> | <img src="square/languages/zh.svg" width="32"> |
 
 ### Other locales (non-UN entities)
 
