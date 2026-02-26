@@ -2,7 +2,7 @@
   <path fill="#ED1C24" d="M0 0h2880v480H0z"/>
   <path fill="#FFFFFF" d="M0 480h2880v960H0z"/>
   <path fill="#ED1C24" d="M0 1440h2880v480H0z"/>
-  <g transform="translate(1184,704)">
+  <g transform="translate(1440,960) scale(3.75) translate(-256,-256)">
     <path fill="#008C3E" d="M322.8 300.5 256 178.1l-66.8 122.4h50.1V334h33.4v-33.4z"/>
   </g>
 </svg>
