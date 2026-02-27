@@ -43,7 +43,7 @@ I use [HatScripts/circle-flags](https://github.com/HatScripts/circle-flags) in m
 
 ## Credits
 
-This project is based on and inspired by [HatScripts/circle-flags](https://github.com/HatScripts/circle-flags), which is MIT licensed. Circle variant geometry was adapted from that project, with `<mask>` replaced by `<clipPath>` for Xcode compatibility and official colors replacing the simplified palette. Square variant geometry comes from [kapowaz/square-flags](https://github.com/kapowaz/square-flags), again with official Wikipedia colors. Full-size variants are based on Wikimedia Commons SVGs.
+This project is based on and inspired by [HatScripts/circle-flags](https://github.com/HatScripts/circle-flags), which is MIT licensed. Circle variant geometry was adapted from that project, with `<mask>` replaced by `<clipPath>` for Xcode compatibility and official colors replacing the simplified palette. Some circle variant positioning and details were improved based on [kapowaz/circle-flags](https://github.com/kapowaz/circle-flags). Square variant geometry comes from [kapowaz/square-flags](https://github.com/kapowaz/square-flags), again with official Wikipedia colors. Full-size variants are based on Wikimedia Commons SVGs.
 
 ## Variants
 
