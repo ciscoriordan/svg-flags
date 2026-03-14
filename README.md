@@ -390,6 +390,7 @@ A base language flag (e.g. `en`) is a copy of its primary country flag (English 
 
 | Code | Name | Circle | Square |
 |------|------|:------:|:------:|
+| `en-ca` | English (Canada) | <img src="circle/languages/en-ca.svg" width="32"> | <img src="square/languages/en-ca.svg" width="32"> |
 | `en-us` | English (US) | <img src="circle/languages/en-us.svg" width="32"> | <img src="square/languages/en-us.svg" width="32"> |
 | `es-mx` | Spanish (Mexico) | <img src="circle/languages/es-mx.svg" width="32"> | <img src="square/languages/es-mx.svg" width="32"> |
 | `es-us` | Spanish (US) | <img src="circle/languages/es-us.svg" width="32"> | <img src="square/languages/es-us.svg" width="32"> |
