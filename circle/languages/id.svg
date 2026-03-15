@@ -7,6 +7,6 @@
   <g clip-path="url(#c)">
     <path fill="#FFFFFF" d="M0 0h512v512H0z"/>
     <path fill="#FF0000" d="M0 0h512v256H0z"/>
-    <!-- border --><circle cx="256" cy="256" r="256" fill="none" stroke="#cdcfd3" stroke-width="8"/>
+    <!-- border --><circle cx="256" cy="256" r="256" fill="none" stroke="#cdcfd3" stroke-width="16"/>
   </g>
 </svg>

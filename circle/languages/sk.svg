@@ -12,6 +12,6 @@
     <path fill="#ED1C24" d="M96 95v185a83 78 0 0 0 9 34h206a83 77 0 0 0 9-34V95z"/>
     <path fill="#FFFFFF" d="M288 224h-64v-32h32v-32h-32v-32h-32v32h-32v32h32v32h-64v32h64v32h32v-32h64z"/>
     <path fill="#254AA5" d="M152 359a247 231 0 0 0 56 24c12-3 34-11 56-24a123 115 0 0 0 47-45 60 56 0 0 0-34-10l-14 2a60 56 0 0 0-110 0 60 56 0 0 0-14-2c-12 0-24 4-34 10a123 115 0 0 0 47 45z"/>
-    <!-- border --><circle cx="256" cy="256" r="256" fill="none" stroke="#cdcfd3" stroke-width="8"/>
+    <!-- border --><circle cx="256" cy="256" r="256" fill="none" stroke="#cdcfd3" stroke-width="16"/>
   </g>
 </svg>

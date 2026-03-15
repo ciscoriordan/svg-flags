@@ -12,5 +12,5 @@
     <path fill="#171796" d="M292.7 181.7h-73.4V113L256 85.5l36.7 27.5z"/>
     <path fill="#FFFFFF" d="M146 168v110a110 110 0 0 0 220 0V168z"/>
     <path fill="#FF0000" fill-rule="evenodd" d="M146 212h44v44h44v-44h-44v-44h-44zm88-44v44h44v44h44v-44h44v-44h-44v44h-44v-44zm132 88h-44v44h-44v-44h-44v44h44v44h-44v41.8q10.6 2.1 21.9 2.2h.2q11.3 0 21.9-2.2V344h44v22q12.5-9.5 22-22h-22v-44h41.8q2.1-10.7 2.2-22zM190 366v-22h44v-44h-44v-44h-44v22q0 11.3 2.2 22H190v44h-22q9.5 12.5 22 22"/>
-  <!-- border --><circle cx="256" cy="256" r="256" fill="none" stroke="#cdcfd3" stroke-width="8"/></g>
+  <!-- border --><circle cx="256" cy="256" r="256" fill="none" stroke="#cdcfd3" stroke-width="16"/></g>
 </svg>

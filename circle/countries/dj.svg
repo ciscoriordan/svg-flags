@@ -6,6 +6,6 @@
   </defs>
   <g clip-path="url(#c)">
     <path fill="#12AD2B" d="M256 512a256 256 0 0 0 256-255.5v-.5l-256-32L0 256a256 256 0 0 0 256 256"/><path fill="#6AB2E7" d="M512 255.5v.5H0a256 256 0 0 1 512-.5"/><path fill="#FFFFFF" d="M0 245.6A255 255 0 0 1 74.9 74.9L256 256 74.9 437.1A255 255 0 0 1 0 266.4z"/><path fill="#D7141A" d="m106 182 16.7 51.2h53.7l-43.5 31.5 16.6 51.1-43.4-31.6-43.5 31.6 16.6-51-43.4-31.6h53.7z"/>
-    <!-- border --><circle cx="256" cy="256" r="256" fill="none" stroke="#cdcfd3" stroke-width="8"/>
+    <!-- border --><circle cx="256" cy="256" r="256" fill="none" stroke="#cdcfd3" stroke-width="16"/>
   </g>
 </svg>
