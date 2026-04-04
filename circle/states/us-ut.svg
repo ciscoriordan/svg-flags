@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <clipPath id="c">
+      <circle cx="256" cy="256" r="256"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="512" height="512" fill="#071D49"/>
+    <rect y="355" width="512" height="157" fill="#AA0200"/>
+    <path fill="#FFB81D" d="M256 80L108 165v170l148 85 148-85V165zM256 98l136 78v158L256 412 120 334V176z"/>
+    <path fill="#FFB81D" d="M236 178c6.2-6 12.8-9 20-9s13.8 3 20 9c1.5 1.5.4 4-1.5 4h-37c-1.9 0-3-2.5-1.5-4z"/>
+    <rect x="222" y="192" width="68" height="16" rx="3" fill="#FFB81D"/>
+    <rect x="214" y="216" width="84" height="16" rx="3" fill="#FFB81D"/>
+    <rect x="207" y="240" width="98" height="16" rx="3" fill="#FFB81D"/>
+    <rect x="201" y="264" width="110" height="16" rx="3" fill="#FFB81D"/>
+    <rect x="196" y="288" width="46" height="16" rx="3" fill="#FFB81D"/>
+    <rect x="270" y="288" width="46" height="16" rx="3" fill="#FFB81D"/>
+    <path fill="#FFFFFF" d="M256 338l-5.8-17.9h-18.8l15.2-11-5.8-17.9 15.2 11 15.2-11-5.8 17.9 15.2 11h-18.8z"/>
+  </g>
+</svg>

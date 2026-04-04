@@ -665,7 +665,7 @@ A base language flag (e.g. `en`) is a copy of its primary country flag (English 
 | `us-sd` | [South Dakota](https://en.wikipedia.org/wiki/South_Dakota) |  |  |  |  |  |
 | `us-tn` | [Tennessee](https://en.wikipedia.org/wiki/Tennessee) | <img src="circle/states/us-tn.svg" width="32"> | <img src="square/states/us-tn.svg" width="32"> | [✓](full-size-simplified/states/us-tn.svg) | [✓](full-size/states/us-tn.svg) | `#0052B4`<br>`#FFFFFF`<br>`#D80027` |
 | `us-tx` | [Texas](https://en.wikipedia.org/wiki/Texas) | <img src="circle/states/us-tx.svg" width="32"> | <img src="square/states/us-tx.svg" width="32"> | [✓](full-size-simplified/states/us-tx.svg) | [✓](full-size/states/us-tx.svg) | `#0052B4`<br>`#FFFFFF`<br>`#D80027` |
-| `us-ut` | [Utah](https://en.wikipedia.org/wiki/Utah) |  |  |  |  |  |
+| `us-ut` | [Utah](https://en.wikipedia.org/wiki/Utah) | <img src="circle/states/us-ut.svg" width="32"> | <img src="square/states/us-ut.svg" width="32"> | [✓](full-size-simplified/states/us-ut.svg) | [✓](full-size/states/us-ut.svg) | `#071D49`<br>`#AA0200`<br>`#FFB81D`<br>`#FFFFFF` |
 | `us-va` | [Virginia](https://en.wikipedia.org/wiki/Virginia) |  |  |  |  |  |
 | `us-vi` | [US Virgin Islands](https://en.wikipedia.org/wiki/United_States_Virgin_Islands) | <img src="circle/states/us-vi.svg" width="32"> | <img src="square/states/us-vi.svg" width="32"> | [✓](full-size-simplified/states/us-vi.svg) | [✓](full-size/states/us-vi.svg) | `#FFFFFF`<br>`#FFCD00`<br>`#338AF3`<br>`#BF0A30`<br>`#002868` |
 | `us-vt` | [Vermont](https://en.wikipedia.org/wiki/Vermont) |  |  |  |  |  |
