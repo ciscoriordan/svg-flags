@@ -15,5 +15,5 @@
     <path fill="#002654" d="M0 0h167v512H0z"/>
     <path fill="#CE1126" d="M345 0h167v512H345z"/>
   </g>
-  <!-- border --><rect width="512" height="512" fill="none" stroke="#cdcfd3" stroke-width="4"/>
+  <!-- border --><rect width="512" height="512" fill="none" stroke="#cdcfd3" stroke-width="16"/>
 </svg>

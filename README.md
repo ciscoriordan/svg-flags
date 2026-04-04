@@ -72,7 +72,7 @@ Circle and square variants of mostly-white flags (like Japan) include a subtle g
 The border is inside the `<clipPath>` group so only the inner half of the stroke is visible — the flag stays full-size. It's marked with a `<!-- border -->` comment:
 
 ```xml
-<!-- border --><circle cx="256" cy="256" r="256" fill="none" stroke="#cdcfd3" stroke-width="4"/>
+<!-- border --><circle cx="256" cy="256" r="256" fill="none" stroke="#cdcfd3" stroke-width="16"/>
 ```
 
 To remove it, delete the line or strip all borders with:

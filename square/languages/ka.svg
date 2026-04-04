@@ -8,6 +8,6 @@
     <path fill="#FFFFFF" d="M0 0h512v512H0z"/>
     <path fill="#FF0000" d="M512 288v-64H288V0h-64v224H0v64h224v224h64V288z"/>
     <path fill="#FF0000" d="M128 384h32v32h-32v32H96v-32H64v-32h32v-32h32zm288 0h32v32h-32v32h-32v-32h-32v-32h32v-32h32zM128 64v32h32v32h-32v32H96v-32H64V96h32V64zm288 32h32v32h-32v32h-32v-32h-32V96h32V64h32z"/>
-    <!-- border --><rect width="512" height="512" fill="none" stroke="#cdcfd3" stroke-width="4"/>
+    <!-- border --><rect width="512" height="512" fill="none" stroke="#cdcfd3" stroke-width="16"/>
   </g>
 </svg>
