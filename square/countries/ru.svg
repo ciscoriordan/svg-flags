@@ -8,6 +8,6 @@
     <path fill="#FFFFFF" d="M0 0h512v171H0z"/>
     <path fill="#0039A6" d="M0 171h512v170H0z"/>
     <path fill="#D52B1E" d="M0 341h512v171H0z"/>
-    <!-- border --><rect width="512" height="512" fill="none" stroke="#cdcfd3" stroke-width="4"/>
+    <!-- border --><rect width="512" height="512" fill="none" stroke="#cdcfd3" stroke-width="16"/>
   </g>
 </svg>

@@ -11,6 +11,6 @@
     <path fill="#BA0C2F" d="M0 416h512v96H0Z"/>
     <path fill="#5C462B" d="M288 340h140v32H288Z"/>
     <path fill="#BA0C2F" d="m71 182 69-50H55l69 50-26-81z"/>
-    <!-- border --><rect width="512" height="512" fill="none" stroke="#cdcfd3" stroke-width="4"/>
+    <!-- border --><rect width="512" height="512" fill="none" stroke="#cdcfd3" stroke-width="16"/>
   </g>
 </svg>
