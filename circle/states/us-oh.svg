@@ -1,0 +1,478 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <defs><clipPath id="c"><circle cx="256" cy="256" r="256"/></clipPath></defs>
+  <g clip-path="url(#c)">
+    <g transform="scale(32.000000) translate(-5.0000,-0.0000)">
+<defs>
+
+<clipPath id="c">
+<path d="M0,16V0L26,3 20,8 26,13z" />
+</clipPath>
+</defs>
+<g fill="#fff" stroke="#bf0a30" clip-path="url(#c)">
+<path d="M26,3 0,0V16L26,13" stroke-width="4" />
+<path d="M0,8H26" stroke-width="2" />
+</g>
+<path d="M0,0V16L16,8z" fill="#00205B" />
+
+<g transform="translate(4.944272,8)">
+<circle r="3" fill="#fff" />
+<circle r="2" fill="#bf0a30" />
+<g fill="#fff" transform="translate(4,0) translate(3.944272,0) scale(0.625)">
+<g>
+<g>
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+<g transform="rotate(72)">
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+</g>
+<g transform="rotate(-72)">
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+<g transform="rotate(144)">
+<g>
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+<g transform="rotate(72)">
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+</g>
+</g>
+<g>
+<g fill="#fff" transform="translate(3.944272,0) scale(0.625)">
+<g>
+<g>
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+<g transform="rotate(72)">
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+</g>
+<g transform="rotate(-72)">
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+<g transform="rotate(144)">
+<g>
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+<g transform="rotate(72)">
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+</g>
+</g>
+<g fill="#fff" transform="rotate(-9.650225) translate(2,0) translate(3.944272,0) scale(0.625)">
+<g>
+<g>
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+<g transform="rotate(72)">
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+</g>
+<g transform="rotate(-72)">
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+<g transform="rotate(144)">
+<g>
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+<g transform="rotate(72)">
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+</g>
+</g>
+<g fill="#fff" transform="rotate(9.650225) translate(2,0) translate(3.944272,0) scale(0.625)">
+<g>
+<g>
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+<g transform="rotate(72)">
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+</g>
+<g transform="rotate(-72)">
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+<g transform="rotate(144)">
+<g>
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+<g transform="rotate(72)">
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+</g>
+</g>
+</g>
+<g>
+
+<g fill="#fff" transform="rotate(63.434949) translate(3.944272,0) scale(0.625)">
+<g>
+<g>
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+<g transform="rotate(72)">
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+</g>
+<g transform="rotate(-72)">
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+<g transform="rotate(144)">
+<g>
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+<g transform="rotate(72)">
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+</g>
+</g>
+<g fill="#fff" transform="rotate(92.576212) translate(3.944272,0) scale(0.625)">
+<g>
+<g>
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+<g transform="rotate(72)">
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+</g>
+<g transform="rotate(-72)">
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+<g transform="rotate(144)">
+<g>
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+<g transform="rotate(72)">
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+</g>
+</g>
+<g transform="rotate(121.717474)">
+<g fill="#fff" transform="translate(3.944272,0) scale(0.625)">
+<g>
+<g>
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+<g transform="rotate(72)">
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+</g>
+<g transform="rotate(-72)">
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+<g transform="rotate(144)">
+<g>
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+<g transform="rotate(72)">
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+</g>
+</g>
+<g fill="#fff" transform="rotate(-9.650225) translate(2,0) translate(3.944272,0) scale(0.625)">
+<g>
+<g>
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+<g transform="rotate(72)">
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+</g>
+<g transform="rotate(-72)">
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+<g transform="rotate(144)">
+<g>
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+<g transform="rotate(72)">
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+</g>
+</g>
+<g fill="#fff" transform="rotate(9.650225) translate(2,0) translate(3.944272,0) scale(0.625)">
+<g>
+<g>
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+<g transform="rotate(72)">
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+</g>
+<g transform="rotate(-72)">
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+<g transform="rotate(144)">
+<g>
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+<g transform="rotate(72)">
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+</g>
+</g>
+</g>
+<g fill="#fff" transform="rotate(150.858737) translate(3.944272,0) scale(0.625)">
+<g>
+<g>
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+<g transform="rotate(72)">
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+</g>
+<g transform="rotate(-72)">
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+<g transform="rotate(144)">
+<g>
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+<g transform="rotate(72)">
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+</g>
+</g>
+</g>
+<g fill="#fff" transform="rotate(180) translate(3.944272,0) scale(0.625)">
+<g>
+<g>
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+<g transform="rotate(72)">
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+</g>
+<g transform="rotate(-72)">
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+<g transform="rotate(144)">
+<g>
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+<g transform="rotate(72)">
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+</g>
+</g>
+<g transform="scale(1,-1)">
+
+<g fill="#fff" transform="rotate(63.434949) translate(3.944272,0) scale(0.625)">
+<g>
+<g>
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+<g transform="rotate(72)">
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+</g>
+<g transform="rotate(-72)">
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+<g transform="rotate(144)">
+<g>
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+<g transform="rotate(72)">
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+</g>
+</g>
+<g fill="#fff" transform="rotate(92.576212) translate(3.944272,0) scale(0.625)">
+<g>
+<g>
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+<g transform="rotate(72)">
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+</g>
+<g transform="rotate(-72)">
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+<g transform="rotate(144)">
+<g>
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+<g transform="rotate(72)">
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+</g>
+</g>
+<g transform="rotate(121.717474)">
+<g fill="#fff" transform="translate(3.944272,0) scale(0.625)">
+<g>
+<g>
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+<g transform="rotate(72)">
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+</g>
+<g transform="rotate(-72)">
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+<g transform="rotate(144)">
+<g>
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+<g transform="rotate(72)">
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+</g>
+</g>
+<g fill="#fff" transform="rotate(-9.650225) translate(2,0) translate(3.944272,0) scale(0.625)">
+<g>
+<g>
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+<g transform="rotate(72)">
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+</g>
+<g transform="rotate(-72)">
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+<g transform="rotate(144)">
+<g>
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+<g transform="rotate(72)">
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+</g>
+</g>
+<g fill="#fff" transform="rotate(9.650225) translate(2,0) translate(3.944272,0) scale(0.625)">
+<g>
+<g>
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+<g transform="rotate(72)">
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+</g>
+<g transform="rotate(-72)">
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+<g transform="rotate(144)">
+<g>
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+<g transform="rotate(72)">
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+</g>
+</g>
+</g>
+<g fill="#fff" transform="rotate(150.858737) translate(3.944272,0) scale(0.625)">
+<g>
+<g>
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+<g transform="rotate(72)">
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+</g>
+<g transform="rotate(-72)">
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+<g transform="rotate(144)">
+<g>
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+<g transform="rotate(72)">
+<path d="M1,0H0V0.5z" transform="rotate(18,1,0)" />
+<path d="M1,0H0V0.5z" transform="scale(1,-1) rotate(18,1,0)" />
+</g>
+</g>
+</g>
+</g>
+</g>
+    </g>
+    <!-- border --><circle cx="256" cy="256" r="256" fill="none" stroke="#cdcfd3" stroke-width="16"/>
+  </g>
+</svg>
