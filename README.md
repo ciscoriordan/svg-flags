@@ -620,27 +620,58 @@ A base language flag (e.g. `en`) is a copy of its primary country flag (English 
 | `us-ak` | [Alaska](https://en.wikipedia.org/wiki/Alaska) | <img src="circle/states/us-ak.svg" width="32"> | <img src="square/states/us-ak.svg" width="32"> | [✓](full-size-simplified/states/us-ak.svg) | [✓](full-size/states/us-ak.svg) | `#0052B4`<br>`#FFDA44` |
 | `us-al` | [Alabama](https://en.wikipedia.org/wiki/Alabama) | <img src="circle/states/us-al.svg" width="32"> | <img src="square/states/us-al.svg" width="32"> | [✓](full-size-simplified/states/us-al.svg) | [✓](full-size/states/us-al.svg) | `#FFFFFF`<br>`#D80027` |
 | `us-ar` | [Arkansas](https://en.wikipedia.org/wiki/Arkansas) | <img src="circle/states/us-ar.svg" width="32"> | <img src="square/states/us-ar.svg" width="32"> | [✓](full-size-simplified/states/us-ar.svg) | [✓](full-size/states/us-ar.svg) | `#D80027`<br>`#0052B4`<br>`#FFFFFF` |
+| `us-as` | [American Samoa](https://en.wikipedia.org/wiki/American_Samoa) | <img src="circle/states/us-as.svg" width="32"> | <img src="square/states/us-as.svg" width="32"> | [✓](full-size-simplified/states/us-as.svg) | [✓](full-size/states/us-as.svg) | `#002868`<br>`#FFFFFF`<br>`#BF0A30`<br>`#A2001D`<br>`#FFCD00` |
 | `us-az` | [Arizona](https://en.wikipedia.org/wiki/Arizona) | <img src="circle/states/us-az.svg" width="32"> | <img src="square/states/us-az.svg" width="32"> | [✓](full-size-simplified/states/us-az.svg) | [✓](full-size/states/us-az.svg) | `#D80027`<br>`#0052B4`<br>`#FFDA44`<br>`#FF9811` |
 | `us-ca` | [California](https://en.wikipedia.org/wiki/California) | <img src="circle/states/us-ca.svg" width="32"> | <img src="square/states/us-ca.svg" width="32"> | [✓](full-size-simplified/states/us-ca.svg) | [✓](full-size/states/us-ca.svg) | [<img src="swatches/BA0C2F.svg" width="12">`#BA0C2F`](https://commons.wikimedia.org/wiki/File:Flag_of_California.svg)<br>[<img src="swatches/FFFFFF.svg" width="12">`#FFFFFF`](https://commons.wikimedia.org/wiki/File:Flag_of_California.svg)<br>[<img src="swatches/5C462B.svg" width="12">`#5C462B`](https://commons.wikimedia.org/wiki/File:Flag_of_California.svg)<br>[<img src="swatches/00843D.svg" width="12">`#00843D`](https://commons.wikimedia.org/wiki/File:Flag_of_California.svg)<br>[<img src="swatches/B58150.svg" width="12">`#B58150`](https://commons.wikimedia.org/wiki/File:Flag_of_California.svg) |
 | `us-co` | [Colorado](https://en.wikipedia.org/wiki/Colorado) | <img src="circle/states/us-co.svg" width="32"> | <img src="square/states/us-co.svg" width="32"> | [✓](full-size-simplified/states/us-co.svg) | [✓](full-size/states/us-co.svg) | `#0052B4`<br>`#FFFFFF`<br>`#D80027`<br>`#FFDA44` |
+| `us-ct` | [Connecticut](https://en.wikipedia.org/wiki/Connecticut) |  |  |  |  |  |
 | `us-dc` | [District of Columbia](https://en.wikipedia.org/wiki/Washington,_D.C.) | <img src="circle/states/us-dc.svg" width="32"> | <img src="square/states/us-dc.svg" width="32"> | [✓](full-size-simplified/states/us-dc.svg) | [✓](full-size/states/us-dc.svg) | `#FFFFFF`<br>`#D80027` |
+| `us-de` | [Delaware](https://en.wikipedia.org/wiki/Delaware) |  |  |  |  |  |
 | `us-fl` | [Florida](https://en.wikipedia.org/wiki/Florida) | <img src="circle/states/us-fl.svg" width="32"> | <img src="square/states/us-fl.svg" width="32"> | [✓](full-size-simplified/states/us-fl.svg) | [✓](full-size/states/us-fl.svg) | `#FFFFFF`<br>`#D80027`<br>`#FF9811`<br>`#6DA544` |
 | `us-ga` | [Georgia](https://en.wikipedia.org/wiki/Georgia_(U.S._state)) | <img src="circle/states/us-ga.svg" width="32"> | <img src="square/states/us-ga.svg" width="32"> | [✓](full-size-simplified/states/us-ga.svg) | [✓](full-size/states/us-ga.svg) | `#D80027`<br>`#FFFFFF`<br>`#0052B4`<br>`#FFDA44` |
+| `us-gu` | [Guam](https://en.wikipedia.org/wiki/Guam) | <img src="circle/states/us-gu.svg" width="32"> | <img src="square/states/us-gu.svg" width="32"> | [✓](full-size-simplified/states/us-gu.svg) | [✓](full-size/states/us-gu.svg) | `#002868`<br>`#BF0A30`<br>`#338AF3`<br>`#FFD700`<br>`#6DA544`<br>`#A2001D` |
 | `us-hi` | [Hawaii](https://en.wikipedia.org/wiki/Hawaii) | <img src="circle/states/us-hi.svg" width="32"> | <img src="square/states/us-hi.svg" width="32"> | [✓](full-size-simplified/states/us-hi.svg) | [✓](full-size/states/us-hi.svg) | `#FFFFFF`<br>`#0052B4`<br>`#D80027` |
+| `us-ia` | [Iowa](https://en.wikipedia.org/wiki/Iowa) |  |  |  |  |  |
+| `us-id` | [Idaho](https://en.wikipedia.org/wiki/Idaho) |  |  |  |  |  |
+| `us-il` | [Illinois](https://en.wikipedia.org/wiki/Illinois) |  |  |  |  |  |
 | `us-in` | [Indiana](https://en.wikipedia.org/wiki/Indiana) | <img src="circle/states/us-in.svg" width="32"> | <img src="square/states/us-in.svg" width="32"> | [✓](full-size-simplified/states/us-in.svg) | [✓](full-size/states/us-in.svg) | `#0052B4`<br>`#FFDA44` |
+| `us-ks` | [Kansas](https://en.wikipedia.org/wiki/Kansas) |  |  |  |  |  |
+| `us-ky` | [Kentucky](https://en.wikipedia.org/wiki/Kentucky) |  |  |  |  |  |
+| `us-la` | [Louisiana](https://en.wikipedia.org/wiki/Louisiana) |  |  |  |  |  |
+| `us-ma` | [Massachusetts](https://en.wikipedia.org/wiki/Massachusetts) |  |  |  |  |  |
 | `us-md` | [Maryland](https://en.wikipedia.org/wiki/Maryland) | <img src="circle/states/us-md.svg" width="32"> | <img src="square/states/us-md.svg" width="32"> | [✓](full-size-simplified/states/us-md.svg) | [✓](full-size/states/us-md.svg) | `#333333`<br>`#FF9811`<br>`#FFFFFF`<br>`#A2001D` |
+| `us-me` | [Maine](https://en.wikipedia.org/wiki/Maine) |  |  |  |  |  |
+| `us-mi` | [Michigan](https://en.wikipedia.org/wiki/Michigan) |  |  |  |  |  |
 | `us-mn` | [Minnesota](https://en.wikipedia.org/wiki/Minnesota) | <img src="circle/states/us-mn.svg" width="32"> | <img src="square/states/us-mn.svg" width="32"> | [✓](full-size-simplified/states/us-mn.svg) | [✓](full-size/states/us-mn.svg) | `#002266`<br>`#338AF3`<br>`#FFFFFF` |
 | `us-mo` | [Missouri](https://en.wikipedia.org/wiki/Missouri) | <img src="circle/states/us-mo.svg" width="32"> | <img src="square/states/us-mo.svg" width="32"> | [✓](full-size-simplified/states/us-mo.svg) | [✓](full-size/states/us-mo.svg) | `#FFFFFF`<br>`#D80027`<br>`#0052B4`<br>`#338AF3`<br>`#FF9811` |
+| `us-mp` | [Northern Mariana Islands](https://en.wikipedia.org/wiki/Northern_Mariana_Islands) | <img src="circle/states/us-mp.svg" width="32"> | <img src="square/states/us-mp.svg" width="32"> | [✓](full-size-simplified/states/us-mp.svg) | [✓](full-size/states/us-mp.svg) | `#002868`<br>`#F3F3F3`<br>`#ACABB1`<br>`#FFFFFF` |
 | `us-ms` | [Mississippi](https://en.wikipedia.org/wiki/Mississippi) | <img src="circle/states/us-ms.svg" width="32"> | <img src="square/states/us-ms.svg" width="32"> | [✓](full-size-simplified/states/us-ms.svg) | [✓](full-size/states/us-ms.svg) | `#D80027`<br>`#FF9811`<br>`#0052B4`<br>`#FFFFFF` |
+| `us-mt` | [Montana](https://en.wikipedia.org/wiki/Montana) |  |  |  |  |  |
 | `us-nc` | [North Carolina](https://en.wikipedia.org/wiki/North_Carolina) | <img src="circle/states/us-nc.svg" width="32"> | <img src="square/states/us-nc.svg" width="32"> | [✓](full-size-simplified/states/us-nc.svg) | [✓](full-size/states/us-nc.svg) | `#0052B4`<br>`#D80027`<br>`#FFFFFF`<br>`#FFDA44` |
+| `us-nd` | [North Dakota](https://en.wikipedia.org/wiki/North_Dakota) |  |  |  |  |  |
+| `us-ne` | [Nebraska](https://en.wikipedia.org/wiki/Nebraska) |  |  |  |  |  |
+| `us-nh` | [New Hampshire](https://en.wikipedia.org/wiki/New_Hampshire) |  |  |  |  |  |
+| `us-nj` | [New Jersey](https://en.wikipedia.org/wiki/New_Jersey) |  |  |  |  |  |
 | `us-nm` | [New Mexico](https://en.wikipedia.org/wiki/New_Mexico) | <img src="circle/states/us-nm.svg" width="32"> | <img src="square/states/us-nm.svg" width="32"> | [✓](full-size-simplified/states/us-nm.svg) | [✓](full-size/states/us-nm.svg) | `#FFDA44`<br>`#D80027` |
+| `us-nv` | [Nevada](https://en.wikipedia.org/wiki/Nevada) |  |  |  |  |  |
+| `us-ny` | [New York](https://en.wikipedia.org/wiki/New_York_(state)) |  |  |  |  |  |
+| `us-oh` | [Ohio](https://en.wikipedia.org/wiki/Ohio) |  |  |  |  |  |
+| `us-ok` | [Oklahoma](https://en.wikipedia.org/wiki/Oklahoma) |  |  |  |  |  |
 | `us-or` | [Oregon](https://en.wikipedia.org/wiki/Oregon) | <img src="circle/states/us-or.svg" width="32"> | <img src="square/states/us-or.svg" width="32"> | [✓](full-size-simplified/states/us-or.svg) | [✓](full-size/states/us-or.svg) | `#0052B4`<br>`#FFDA44` |
+| `us-pa` | [Pennsylvania](https://en.wikipedia.org/wiki/Pennsylvania) |  |  |  |  |  |
+| `us-pr` | [Puerto Rico](https://en.wikipedia.org/wiki/Puerto_Rico) | <img src="circle/states/us-pr.svg" width="32"> | <img src="square/states/us-pr.svg" width="32"> | [✓](full-size-simplified/states/us-pr.svg) | [✓](full-size/states/us-pr.svg) | `#BF0A30`<br>`#FFFFFF`<br>`#0033A0` |
 | `us-ri` | [Rhode Island](https://en.wikipedia.org/wiki/Rhode_Island) | <img src="circle/states/us-ri.svg" width="32"> | <img src="square/states/us-ri.svg" width="32"> | [✓](full-size-simplified/states/us-ri.svg) | [✓](full-size/states/us-ri.svg) | `#FFFFFF`<br>`#0052B4`<br>`#FFDA44` |
 | `us-sc` | [South Carolina](https://en.wikipedia.org/wiki/South_Carolina) | <img src="circle/states/us-sc.svg" width="32"> | <img src="square/states/us-sc.svg" width="32"> | [✓](full-size-simplified/states/us-sc.svg) | [✓](full-size/states/us-sc.svg) | `#0052B4`<br>`#FFFFFF` |
+| `us-sd` | [South Dakota](https://en.wikipedia.org/wiki/South_Dakota) |  |  |  |  |  |
 | `us-tn` | [Tennessee](https://en.wikipedia.org/wiki/Tennessee) | <img src="circle/states/us-tn.svg" width="32"> | <img src="square/states/us-tn.svg" width="32"> | [✓](full-size-simplified/states/us-tn.svg) | [✓](full-size/states/us-tn.svg) | `#0052B4`<br>`#FFFFFF`<br>`#D80027` |
 | `us-tx` | [Texas](https://en.wikipedia.org/wiki/Texas) | <img src="circle/states/us-tx.svg" width="32"> | <img src="square/states/us-tx.svg" width="32"> | [✓](full-size-simplified/states/us-tx.svg) | [✓](full-size/states/us-tx.svg) | `#0052B4`<br>`#FFFFFF`<br>`#D80027` |
+| `us-ut` | [Utah](https://en.wikipedia.org/wiki/Utah) |  |  |  |  |  |
+| `us-va` | [Virginia](https://en.wikipedia.org/wiki/Virginia) |  |  |  |  |  |
+| `us-vi` | [US Virgin Islands](https://en.wikipedia.org/wiki/United_States_Virgin_Islands) | <img src="circle/states/us-vi.svg" width="32"> | <img src="square/states/us-vi.svg" width="32"> | [✓](full-size-simplified/states/us-vi.svg) | [✓](full-size/states/us-vi.svg) | `#FFFFFF`<br>`#FFCD00`<br>`#338AF3`<br>`#BF0A30`<br>`#002868` |
+| `us-vt` | [Vermont](https://en.wikipedia.org/wiki/Vermont) |  |  |  |  |  |
 | `us-wa` | [Washington](https://en.wikipedia.org/wiki/Washington_(state)) | <img src="circle/states/us-wa.svg" width="32"> | <img src="square/states/us-wa.svg" width="32"> | [✓](full-size-simplified/states/us-wa.svg) | [✓](full-size/states/us-wa.svg) | `#6DA544`<br>`#333333`<br>`#FFDA44`<br>`#338AF3`<br>`#FFD6BB`<br>`#FFFFFF`<br>`#ACABB1`<br>`#FF9811` |
 | `us-wi` | [Wisconsin](https://en.wikipedia.org/wiki/Wisconsin) | <img src="circle/states/us-wi.svg" width="32"> | <img src="square/states/us-wi.svg" width="32"> | [✓](full-size-simplified/states/us-wi.svg) | [✓](full-size/states/us-wi.svg) | `#0052B4`<br>`#FFDA44`<br>`#FFFFFF` |
+| `us-wv` | [West Virginia](https://en.wikipedia.org/wiki/West_Virginia) |  |  |  |  |  |
 | `us-wy` | [Wyoming](https://en.wikipedia.org/wiki/Wyoming) | <img src="circle/states/us-wy.svg" width="32"> | <img src="square/states/us-wy.svg" width="32"> | [✓](full-size-simplified/states/us-wy.svg) | [✓](full-size/states/us-wy.svg) | `#D80027`<br>`#FFFFFF`<br>`#0052B4` |
 
 ### Historical
