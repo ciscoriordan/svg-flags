@@ -613,7 +613,7 @@ A base language flag (e.g. `en`) is a copy of its primary country flag (English 
 | `gb-sct` | [Scotland](https://en.wikipedia.org/wiki/Scotland) | <img src="circle/states/gb-sct.svg" width="32"> | <img src="square/states/gb-sct.svg" width="32"> | [✓](full-size-simplified/states/gb-sct.svg) | [✓](full-size/states/gb-sct.svg) | `#0052B4`<br>`#FFFFFF` |
 | `gb-wls` | [Wales](https://en.wikipedia.org/wiki/Wales) | <img src="circle/states/gb-wls.svg" width="32"> | <img src="square/states/gb-wls.svg" width="32"> | [✓](full-size-simplified/states/gb-wls.svg) | [✓](full-size/states/gb-wls.svg) | `#6DA544`<br>`#FFFFFF`<br>`#D80027` |
 
-#### United States
+#### United States (50 states, DC, and 5 territories)
 
 | Code | Name | Circle | Square | Simplified | Full-size | Colors |
 |------|------|:------:|:----:|:----------:|:---------:|--------|
