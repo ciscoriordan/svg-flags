@@ -4,11 +4,11 @@
     <g transform="scale(32.000000) translate(-5.0000,-0.0000)">
 <defs>
 
-<clipPath id="c">
+<clipPath id="oh">
 <path d="M0,16V0L26,3 20,8 26,13z" />
 </clipPath>
 </defs>
-<g fill="#fff" stroke="#bf0a30" clip-path="url(#c)">
+<g fill="#fff" stroke="#bf0a30" clip-path="url(#oh)">
 <path d="M26,3 0,0V16L26,13" stroke-width="4" />
 <path d="M0,8H26" stroke-width="2" />
 </g>
