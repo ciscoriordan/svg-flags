@@ -5,8 +5,8 @@
     </clipPath>
   </defs>
   <g clip-path="url(#c)">
-    <rect x="330" y="60" width="840" height="840" fill="#1565C0"/>
-    <g fill="#FFFFFF" stroke="none" transform="translate(750,480) scale(1.25) translate(-297.5,-420)">
+    <rect x="330" y="60" width="840" height="840" fill="#C34100"/>
+    <g fill="#FFFFFF" stroke="none" transform="translate(750,480) scale(1.1) translate(-297.5,-420)">
       <path d="M312.5,623.5c0,0,1.7-53.5,35.7-72.2C348.2,551.3,383.8,587,312.5,623.5z"/>
       <path d="M312.5,623.5c0,0,4.2,69.6,74.7,55.2C388.1,678.7,390.6,650.7,312.5,623.5z"/>
       <path d="M377.9,616.7c0,0-14.4-48.4,10.2-82.4C388.1,534.3,428,570.8,377.9,616.7z"/>
@@ -46,7 +46,7 @@
       <path d="M161.3,227.8c0,0-1.7-56,75.6-59.4C236.9,168.3,237.8,226.9,161.3,227.8z"/>
       <path d="M477.2,263c0,0-32.8-38.8-81.5,10C395.7,273,440.4,298.8,477.2,263z"/>
     </g>
-    <g fill="none" stroke="#FFFFFF" stroke-width="8" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" transform="translate(750,480) scale(1.25) translate(-297.5,-420)">
+    <g fill="none" stroke="#FFFFFF" stroke-width="8" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" transform="translate(750,480) scale(1.1) translate(-297.5,-420)">
       <path d="m 312.5,623.5 c -30.6,0 -30.6,0 -30.6,0 0,0 -84.59735,21.37145 -163.9,-81.5 C 38.697351,439.12855 58.6,371.3 58.6,371.3 c 0,0 24.076423,-99.42604 102.7,-143.5 78.62358,-44.07397 50.76148,-28.59502 50.76148,-28.59502"/>
       <path d="m 281.9,623.5 c 30.6,0 30.6,0 30.6,0 0,0 84.59735,21.37145 163.9,-81.5 79.30265,-102.87145 59.4,-170.7 59.4,-170.7 0,0 -24.07642,-99.42603 -102.7,-143.49999 -78.62358,-44.07398 -50.76148,-28.59503 -50.76148,-28.59503"/>
     </g>
