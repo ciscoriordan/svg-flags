@@ -19,6 +19,7 @@ Clean, Xcode-compatible SVG flags with official colors in multiple shapes.
   - [Other locales (non-UN entities)](#other-locales-non-un-entities)
   - [Organizations & symbols](#organizations--symbols)
   - [Subdivisions (ISO 3166-2)](#subdivisions-iso-3166-2)
+  - [Cities (UN/LOCODE)](#cities-unlocode)
   - [Historical](#historical)
 - [SVG Design Rules](#svg-design-rules)
 - [Usage](#usage)
@@ -92,6 +93,7 @@ svg-flags/
 │   │   └── orgs/      # Organizations & symbols (nato.svg, un.svg, ...)
 │   ├── historical/    # Former states (confederacy.svg, ussr.svg, ...)
 │   ├── states/        # Subdivisions (us-ca.svg, us-ny.svg, ...)
+│   ├── cities/        # Cities, UN/LOCODE (usnyc.svg, gblon.svg, ...)
 │   └── languages/     # Language codes (en.svg, es.svg, ...)
 ├── square/
 │   └── (same subcategories)
@@ -110,6 +112,7 @@ svg-flags/
   - **other/orgs/** — Organizations, symbols, and novelty flags (e.g. NATO, UN, Olympics, F1 chequered flag)
 - **historical/** — Flags of former states and defunct entities (e.g. Confederate battle flag, Soviet Union, Prussia)
 - **states/** — Subdivisions ([ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-2)), grouped by country code prefix (e.g. `ca-bc`, `us-ca`)
+- **cities/** — Cities, using [UN/LOCODE](https://en.wikipedia.org/wiki/UN/LOCODE) 5-letter codes (2-letter ISO 3166-1 country + 3-letter location, e.g. `usnyc`, `gblon`, `jptyo`)
 - **languages/** — Language flags (duplicated files, not symlinks)
 
 ## Progress
@@ -673,6 +676,14 @@ A base language flag (e.g. `en`) is a copy of its primary country flag (English 
 | `us-wi` | [Wisconsin](https://en.wikipedia.org/wiki/Wisconsin) | <img src="circle/states/us-wi.svg" width="32"> | <img src="square/states/us-wi.svg" width="32"> | [✓](full-size-simplified/states/us-wi.svg) | [✓](full-size/states/us-wi.svg) | `#0052B4`<br>`#FFDA44`<br>`#FFFFFF` |
 | `us-wv` | [West Virginia](https://en.wikipedia.org/wiki/West_Virginia) | <img src="circle/states/us-wv.svg" width="32"> | <img src="square/states/us-wv.svg" width="32"> | [✓](full-size-simplified/states/us-wv.svg) | [✓](full-size/states/us-wv.svg) |  |
 | `us-wy` | [Wyoming](https://en.wikipedia.org/wiki/Wyoming) | <img src="circle/states/us-wy.svg" width="32"> | <img src="square/states/us-wy.svg" width="32"> | [✓](full-size-simplified/states/us-wy.svg) | [✓](full-size/states/us-wy.svg) | `#D80027`<br>`#FFFFFF`<br>`#0052B4` |
+
+### Cities (UN/LOCODE)
+
+[UN/LOCODE](https://en.wikipedia.org/wiki/UN/LOCODE) — 5-letter codes: 2-letter ISO 3166-1 country code + 3-letter location code (e.g. `usnyc` = US + NYC).
+
+| Code | Name | Circle | Square | Simplified | Full-size | Colors |
+|------|------|:------:|:----:|:----------:|:---------:|--------|
+| `usnyc` | [New York City](https://en.wikipedia.org/wiki/Flag_of_New_York_City) | <img src="circle/cities/usnyc.svg" width="32"> | <img src="square/cities/usnyc.svg" width="32"> | [✓](full-size-simplified/cities/usnyc.svg) | [✓](full-size/cities/usnyc.svg) | [<img src="swatches/003884.svg" width="12">`#003884`](https://en.wikipedia.org/wiki/Flag_of_New_York_City)<br>[<img src="swatches/FFFFFF.svg" width="12">`#FFFFFF`](https://en.wikipedia.org/wiki/Flag_of_New_York_City)<br>[<img src="swatches/FF6600.svg" width="12">`#FF6600`](https://en.wikipedia.org/wiki/Flag_of_New_York_City) |
 
 ### Historical
 
