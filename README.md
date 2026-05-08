@@ -681,9 +681,9 @@ A base language flag (e.g. `en`) is a copy of its primary country flag (English 
 
 [UN/LOCODE](https://en.wikipedia.org/wiki/UN/LOCODE) — 5-letter codes: 2-letter ISO 3166-1 country code + 3-letter location code (e.g. `usnyc` = US + NYC).
 
-| Code | Name | Circle | Square | Simplified | Full-size | Colors |
-|------|------|:------:|:----:|:----------:|:---------:|--------|
-| `usnyc` | [New York City](https://en.wikipedia.org/wiki/Flag_of_New_York_City) | <img src="circle/cities/usnyc.svg" width="32"> | <img src="square/cities/usnyc.svg" width="32"> | [✓](full-size-simplified/cities/usnyc.svg) | [✓](full-size/cities/usnyc.svg) | [<img src="swatches/003884.svg" width="12">`#003884`](https://en.wikipedia.org/wiki/Flag_of_New_York_City)<br>[<img src="swatches/FFFFFF.svg" width="12">`#FFFFFF`](https://en.wikipedia.org/wiki/Flag_of_New_York_City)<br>[<img src="swatches/FF6600.svg" width="12">`#FF6600`](https://en.wikipedia.org/wiki/Flag_of_New_York_City) |
+| Code | Name | Circle | Square | Simplified | Full-size | Colors | Notes |
+|------|------|:------:|:----:|:----------:|:---------:|--------|-------|
+| `usnyc` | [New York City](https://en.wikipedia.org/wiki/Flag_of_New_York_City) | <img src="circle/cities/usnyc.svg" width="32"> | <img src="square/cities/usnyc.svg" width="32"> | [✓](full-size-simplified/cities/usnyc.svg) | [✓](full-size/cities/usnyc.svg) | [<img src="swatches/003884.svg" width="12">`#003884`](https://en.wikipedia.org/wiki/Flag_of_New_York_City)<br>[<img src="swatches/FFFFFF.svg" width="12">`#FFFFFF`](https://en.wikipedia.org/wiki/Flag_of_New_York_City)<br>[<img src="swatches/FF6600.svg" width="12">`#FF6600`](https://en.wikipedia.org/wiki/Flag_of_New_York_City) | Circle/square/simplified based on [cpvrn's redesign](https://www.reddit.com/r/vexillology/comments/1k420ag/a_flag_for_nyc/); full-size is the [official seal flag](https://commons.wikimedia.org/wiki/File:Flag_of_New_York_City.svg) |
 
 ### Historical
 
