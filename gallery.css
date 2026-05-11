@@ -264,6 +264,23 @@ h3 {
   grid-column: 1 / -1;
 }
 
+.usage-note {
+  font-size: 0.8em;
+  color: var(--text-secondary);
+  margin-top: 1em;
+}
+
+.usage-note a {
+  color: var(--accent);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.15s;
+}
+
+.usage-note a:hover {
+  border-bottom-color: var(--accent);
+}
+
 /* ── Variant Cards ── */
 
 .variants-grid {

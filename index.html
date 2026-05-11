@@ -6,9 +6,23 @@ variant: circle
 <div class="usage">
   <h3>Quick start</h3>
   <div class="usage-grid">
-    <div class="usage-item full-width">
-      <label>HTML (via GitHub Pages)</label>
+    <div class="usage-item">
+      <label>HTML (jsDelivr CDN)</label>
+      <pre>&lt;img src="https://cdn.jsdelivr.net/gh/ciscoriordan/svg-flags@main/circle/countries/us.svg" width="48"&gt;</pre>
+    </div>
+    <div class="usage-item">
+      <label>HTML (GitHub Pages)</label>
       <pre>&lt;img src="https://ciscoriordan.github.io/svg-flags/circle/countries/us.svg" width="48"&gt;</pre>
+    </div>
+    <div class="usage-item full-width">
+      <label>Swift Package (iOS 17+, macOS 13+)</label>
+      <pre>// Package.swift
+.package(url: "https://github.com/ciscoriordan/svg-flags", from: "1.0.0")
+
+// App
+import SVGFlags
+SVGFlags.install()                     // once at launch
+FlagView(for: place, size: 24)         // place: FlagLocatable</pre>
     </div>
     <div class="usage-item full-width">
       <label>URL pattern</label>
@@ -18,6 +32,7 @@ Variants: circle, square, full-size-simplified, full-size
 Categories: countries, languages, states, cities, other/orgs, other/locales, historical</pre>
     </div>
   </div>
+  <p class="usage-note">The Swift package bundles a curated subset of flags and streams the rest off jsDelivr. <a href="https://github.com/ciscoriordan/svg-flags#swift-package-svgflags">Full docs &rarr;</a></p>
 </div>
 
 <p class="subtitle">Circle — 512×512 circular flags. Geometry from <a href="https://github.com/HatScripts/circle-flags">circle-flags</a>, <code>&lt;mask&gt;</code> → <code>&lt;clipPath&gt;</code>, official colors. Flags with white backgrounds include a <code>&lt;circle&gt;</code> border stroke (<code>#cdcfd3</code>).</p>

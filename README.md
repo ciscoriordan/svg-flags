@@ -23,6 +23,14 @@ Clean, Xcode-compatible SVG flags with official colors in multiple shapes.
   - [Historical](#historical)
 - [SVG Design Rules](#svg-design-rules)
 - [Usage](#usage)
+  - [Xcode asset catalog](#xcode-asset-catalog)
+  - [SwiftUI](#swiftui)
+  - [HTML](#html)
+- [Swift Package (SVGFlags)](#swift-package-svgflags)
+  - [Install](#install)
+  - [Configure](#configure)
+  - [Use](#use)
+  - [What's bundled vs. streamed](#whats-bundled-vs-streamed)
 - [License](#license)
 
 ## Why this exists
@@ -712,9 +720,9 @@ All SVGs in this project follow these rules for maximum compatibility:
 
 ## Usage
 
-### Xcode Asset Catalog
+### Xcode asset catalog
 
-Drag any SVG directly into your asset catalog. Works out of the box — no conversion needed.
+Drag any SVG directly into your asset catalog. Works out of the box, no conversion needed.
 
 ### SwiftUI
 
@@ -727,6 +735,113 @@ Image("us") // after adding to asset catalog
 ```html
 <img src="svg-flags/square/countries/us.svg" alt="United States" width="30">
 ```
+
+You can also hotlink straight off jsDelivr's mirror of this repo for any web project:
+
+```html
+<img src="https://cdn.jsdelivr.net/gh/ciscoriordan/svg-flags@main/circle/countries/us.svg" width="48">
+```
+
+## Swift Package (SVGFlags)
+
+`SVGFlags` is an opinionated SwiftUI wrapper that ships a curated subset of these flags inside an asset catalog and streams the rest off jsDelivr on demand. You hand it any value that conforms to `FlagLocatable` (something with a name, region, country, and country code) and it renders a circular flag with a city → state → country → globe fallback walk.
+
+- **Platforms:** iOS 17+, macOS 13+
+- **Swift tools:** 6.0
+- **Dependencies:** [SDWebImage](https://github.com/SDWebImage/SDWebImage), [SDWebImageSwiftUI](https://github.com/SDWebImage/SDWebImageSwiftUI), [SDWebImageSVGCoder](https://github.com/SDWebImage/SDWebImageSVGCoder) (the package registers the SVG coder for you in `install()`)
+
+### Install
+
+Add this repo as a Swift Package Manager dependency.
+
+In Xcode: File → Add Package Dependencies → enter `https://github.com/ciscoriordan/svg-flags` → pick "Up to Next Major Version" from `1.0.0`.
+
+Or, in `Package.swift`:
+
+```swift
+dependencies: [
+    .package(url: "https://github.com/ciscoriordan/svg-flags", from: "1.0.0")
+],
+targets: [
+    .target(
+        name: "MyApp",
+        dependencies: [
+            .product(name: "SVGFlags", package: "svg-flags")
+        ]
+    )
+]
+```
+
+### Configure
+
+Configure once near app launch and call `install()` to register the SVG coder so remote flags can decode:
+
+```swift
+import SVGFlags
+
+@main
+struct MyApp: App {
+    init() {
+        SVGFlags.install()
+    }
+
+    var body: some Scene { /* ... */ }
+}
+```
+
+Optional configuration:
+
+```swift
+SVGFlags.configure(
+    cdnBase: URL(string: "https://cdn.jsdelivr.net/gh/ciscoriordan/svg-flags@main/circle")!,
+    bundledFlagOverrides: ["mycity"],                  // extra imagesets you ship yourself
+    missReporter: { miss in MyTelemetry.report(miss) } // called once per 404
+)
+// Opt-in: only call this if your in-app bundled flags lack the marker
+// <!-- border --> circle and you want the CDN-fetched flags to match.
+SVGFlags.installBorderStripper()
+```
+
+### Use
+
+Conform your own location type to `FlagLocatable`:
+
+```swift
+struct Place: FlagLocatable {
+    let name: String          // visible city name, possibly localized
+    let region: String?       // "British Columbia", "BC", or nil
+    let country: String?      // "Canada", or nil if countryCode is set
+    let countryCode: String?  // ISO 3166-1 alpha-2, strongly preferred
+}
+```
+
+Then drop a `FlagView` anywhere:
+
+```swift
+import SwiftUI
+import SVGFlags
+
+struct PlaceRow: View {
+    let place: Place
+
+    var body: some View {
+        HStack {
+            FlagView(for: place, size: 24)
+            Text(place.name)
+        }
+    }
+}
+```
+
+Resolution order: city (matched via UN/LOCODE map) → state/subdivision (ISO 3166-2 or known names) → country (ISO 3166-1) → SF Symbols globe placeholder.
+
+If you'd rather drive your own renderer, call `FlagResolver.source(for:)` directly. It returns a `FlagSource` enum (`.bundled(name)`, `.remote(folder, name, url)`, `.fallback`) that's safe to read off any thread.
+
+### What's bundled vs. streamed
+
+To keep app binaries small, only a curated set of flags ships inside the package's asset catalog (country flags for the major localization targets, plus a handful of city flags). Everything else is streamed off jsDelivr on demand and cached by SDWebImage.
+
+The currently bundled set lives in `FlagResolver.bundledFlags`. You can extend it with your own imagesets by passing names through `bundledFlagOverrides`.
 
 ## License
 
