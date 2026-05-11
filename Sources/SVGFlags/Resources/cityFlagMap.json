@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "_comment": "Maps lowercased city names (per country) to flag-asset names. Keys are 'cc:city-name', values are the asset basename in svg-flags/circle/cities. Asset names follow the cc+city-abbrev convention from the svg-flags repo (e.g. cavan = ca + van for Vancouver, esbcn = es + bcn for Barcelona).",
+  "entries": {
+    "ca:vancouver": "cavan",
+    "es:barcelona": "esbcn",
+    "es:barcelone": "esbcn",
+    "gr:athens": "grath",
+    "gr:athina": "grath",
+    "gr:αθήνα": "grath",
+    "us:new york": "usnyc",
+    "us:new york city": "usnyc",
+    "us:nyc": "usnyc",
+    "us:manhattan": "usnyc"
+  }
+}
