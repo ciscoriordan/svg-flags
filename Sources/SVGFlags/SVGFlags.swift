@@ -13,7 +13,8 @@ import SDWebImageSVGCoder
 ///     bundledFlagOverrides: ["mycity"],
 ///     missReporter: { miss in MyTelemetry.report(miss) }
 /// )
-/// SVGFlags.install()
+/// SVGFlags.install()                 // SVG coder only
+/// SVGFlags.installBorderStripper()  // opt-in, only if your bundled flags lack the marker border
 /// ```
 public enum SVGFlags {
     /// Default CDN base. Points to jsDelivr's mirror of the public svg-flags
@@ -42,13 +43,22 @@ public enum SVGFlags {
         }
     }
 
-    /// One-call setup. Registers the SDWebImage SVG coder so remote `.svg`
-    /// flags can be decoded, and installs a downloader hook that strips the
-    /// `<!-- border --><circle .../>` element so remote flags visually match
-    /// the bundled ones. Idempotent — safe to call multiple times.
+    /// Registers the SDWebImage SVG coder so remote `.svg` flags can be
+    /// decoded. Required for the `.remote` arm of `FlagSource` to actually
+    /// render. Idempotent.
     @MainActor
     public static func install() {
         SDImageCodersManager.shared.addCoder(SDImageSVGCoder.shared)
+    }
+
+    /// Opt-in: install a downloader hook that strips the
+    /// `<!-- border --><circle .../>` element from incoming SVG bytes so
+    /// remote flags visually match a bundled set that has already had that
+    /// marker border removed. Most consumers don't need this — call it only
+    /// when your in-app bundled flags lack the marker border but the CDN
+    /// flags include one. Idempotent.
+    @MainActor
+    public static func installBorderStripper() {
         FlagSVGStripper.install()
     }
 
