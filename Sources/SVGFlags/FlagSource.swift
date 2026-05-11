@@ -3,8 +3,8 @@ import Foundation
 /// Result of resolving a `FlagLocatable` to a renderable flag asset.
 public enum FlagSource: Sendable, Equatable {
     /// The asset is shipped inside the package's `Flags` image catalog.
-    /// Render via `Image("Flags/<name>", bundle: .module)` if you ever need to
-    /// reach into it yourself; otherwise use `FlagView`.
+    /// Render via `Image(<name>, bundle: .module)` if you ever need to reach
+    /// into it yourself; otherwise use `FlagView`.
     case bundled(String)
 
     /// The asset is not bundled; fetch it from the CDN. `folder` is the CDN
