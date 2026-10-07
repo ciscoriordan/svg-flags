@@ -264,6 +264,8 @@ def art_edges(layout, width, height):
 
 def build(code, recipe, tmp):
     results = {}
+    if recipe.get("full_size_only"):
+        return results
     for variant in ("circle", "square"):
         layout = layout_for(recipe, variant)
         art = art_for(code, layout, tmp)

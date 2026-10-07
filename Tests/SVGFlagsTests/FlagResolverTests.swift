@@ -128,6 +128,66 @@ final class FlagResolverTests: XCTestCase {
         XCTAssertEqual(name, "ca-bc")
     }
 
+    func test_stateLookup_newSubdivisionNamesAndGeocoderAliases() {
+        let cases: [(String, String, String)] = [
+            ("AR", "Córdoba", "ar-x"),
+            ("AR", "Buenos Aires", "ar-b"),
+            ("AR", "Ciudad Autónoma de Buenos Aires", "ar-c"),
+            ("AR", "Tierra del Fuego", "ar-v"),
+            ("BR", "São Paulo", "br-sp"),
+            ("BR", "Sao Paulo", "br-sp"),
+            ("BR", "Distrito Federal", "br-df"),
+            ("BR", "SP", "br-sp"),
+            ("CH", "Zürich", "ch-zh"),
+            ("CH", "Zurich", "ch-zh"),
+            ("CH", "Genève", "ch-ge"),
+            ("CH", "Graubünden", "ch-gr"),
+            ("CH", "Grigioni", "ch-gr"),
+            ("CH", "ZH", "ch-zh"),
+            ("MX", "Jalisco", "mx-jal"),
+            ("MX", "Jal.", "mx-jal"),
+            ("MX", "CDMX", "mx-cmx"),
+            ("MX", "Méx.", "mx-mex"),
+            ("MX", "México", "mx-mex"),
+            ("MX", "Gto", "mx-gua"),
+            ("MX", "Gto.", "mx-gua"),
+            ("MX", "Qro", "mx-que"),
+            ("MX", "NL", "mx-nle"),
+            ("MX", "B.C.", "mx-bcn"),
+            ("MX", "Q. Roo", "mx-roo"),
+            ("MX", "  jAL.  ", "mx-jal")
+        ]
+        for (country, region, expected) in cases {
+            let loc = StubLocation(name: "Unmapped locality", region: region, countryCode: country)
+            guard case .remote(let folder, let name, _) = FlagResolver.source(for: loc) else {
+                XCTFail("Expected a subdivision for \(country):\(region)")
+                continue
+            }
+            XCTAssertEqual(folder, "states")
+            XCTAssertEqual(name, expected, "\(country):\(region)")
+        }
+    }
+
+    func test_stateLookup_nativeNameHasPriority() {
+        let loc = StubLocation(name: "Unmapped locality", region: "Geneva", countryCode: "CH",
+                               nativeRegion: "Zürich")
+        guard case .remote(_, let name, _) = FlagResolver.source(for: loc) else {
+            return XCTFail("Expected a subdivision")
+        }
+        XCTAssertEqual(name, "ch-zh")
+    }
+
+    func test_stateLookup_mexicoCityFallsBackWhenFlagIsMissing() {
+        // Mexico City has a recognized subdivision code but no official flag
+        // in this collection. Preserve the existing missing-asset fallback.
+        let loc = StubLocation(name: "Unmapped locality", region: "CDMX", countryCode: "MX")
+        guard case .remote(_, let name, let url) = FlagResolver.source(for: loc) else {
+            return XCTFail("Expected Mexico City's subdivision code")
+        }
+        XCTAssertEqual(name, "mx-cmx")
+        XCTAssertEqual(FlagResolver.source(for: loc, skipping: [url]), .bundled("mx"))
+    }
+
     func test_cityLookup_vancouver() {
         let loc = StubLocation(name: "Vancouver", region: "British Columbia", countryCode: "CA")
         XCTAssertEqual(FlagResolver.source(for: loc), .bundled("cavan"))

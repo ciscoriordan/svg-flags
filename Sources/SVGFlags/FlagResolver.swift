@@ -105,11 +105,13 @@ public enum FlagResolver {
 
         for candidate in [location.nativeRegion, location.region] {
             guard let raw = candidate?.trimmingCharacters(in: .whitespaces), !raw.isEmpty else { continue }
+            // Geocoder abbreviations can look like ISO codes (Gto, Qro, NL)
+            // while naming a different ISO suffix (GUA, QUE, NLE).
+            let key = "\(cc):\(raw.lowercased())"
+            if let asset = subdivisionMap[key] { return asset }
             if let code = subdivisionCode(raw, countryCode: cc) {
                 return "\(cc)-\(code)"
             }
-            let key = "\(cc):\(raw.lowercased())"
-            if let asset = subdivisionMap[key] { return asset }
         }
         return nil
     }

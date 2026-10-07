@@ -101,14 +101,17 @@ def structural(path, report, strict):
         flag(rel, "is a symlink")
         return
     text = path.read_text(encoding="utf-8")
-    m = FORBIDDEN.search(text)
-    if m:
-        flag(rel, f"contains {m.group(0).strip()!r}, which CoreSVG does not support")
     try:
         root = etree.fromstring(text.encode())
     except etree.XMLSyntaxError as error:
         flag(rel, f"is not well-formed XML: {error}")
         return
+    # Comments may describe unsupported elements that were already expanded.
+    markup = etree.tostring(etree.fromstring(text.encode(), etree.XMLParser(remove_comments=True)),
+                            encoding="unicode")
+    m = FORBIDDEN.search(markup)
+    if m:
+        flag(rel, f"contains {m.group(0).strip()!r}, which CoreSVG does not support")
     ids = [e.get("id") for e in root.iter() if isinstance(e.tag, str) and e.get("id")]
     for dup in sorted({i for i in ids if ids.count(i) > 1}):
         flag(rel, f"id {dup!r} is defined more than once")
@@ -148,10 +151,10 @@ def check_flag(code, sources, flags, readme, report):
             report.error(path.relative_to(REPO), "is missing")
     if not all(p.exists() for p in paths.values()):
         return
-    for path in paths.values():
-        structural(path, report, strict=True)
+    for variant, path in paths.items():
+        structural(path, report, strict=not flags[code].get("full_size_only") or variant.startswith("full-size"))
     full_colors = st.colors_in(paths["full-size"].read_text(encoding="utf-8"))
-    for variant in ("circle", "square"):
+    for variant in (() if flags[code].get("full_size_only") else ("circle", "square")):
         extra = st.colors_in(paths[variant].read_text(encoding="utf-8")) - full_colors - {"#CDCFD3"}
         if extra:
             report.error(paths[variant].relative_to(REPO), f"uses colors not in the full-size flag: {sorted(extra)}")
@@ -271,7 +274,8 @@ def check_renders(codes, flags, report):
     jobs, pairs = [], []
     with tempfile.TemporaryDirectory() as tmp:
         for code in codes:
-            check_seams(code, flags[code], report)
+            if not flags[code].get("full_size_only"):
+                check_seams(code, flags[code], report)
             full = REPO / "full-size" / "states" / f"{code}.svg"
             root = etree.parse(str(full)).getroot()
             height = round(400 * float(root.get("height")) / float(root.get("width")))
@@ -285,6 +289,8 @@ def check_renders(codes, flags, report):
             else:
                 report.warn(full.relative_to(REPO), "Commons original not downloaded (run fetch.py); fidelity not checked")
             for variant, size in (("circle", (256, 256)), ("square", (256, 256)), ("full-size", (400, height))):
+                if flags[code].get("full_size_only") and variant in ("circle", "square"):
+                    continue
                 path = REPO / variant / "states" / f"{code}.svg"
                 png = Path(tmp) / f"{variant}-{code}.png"
                 jobs.append((path, png, *size))

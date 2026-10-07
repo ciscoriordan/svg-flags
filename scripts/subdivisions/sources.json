@@ -7345,5 +7345,4186 @@
     "wikidata_flag_images": [
       "Flag of Yucatan.svg"
     ]
+  },
+  "au-act": {
+    "commons_title": "Flag of the Australian Capital Territory.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Australian_Capital_Territory.svg",
+    "revision": {
+      "sha1": "b43ec92b1794cfd015adddc682d572e93453d04e",
+      "timestamp": "2026-03-18T11:41:20Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Flag_of_the_Australian_Capital_Territory.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 1500,
+      "height": 750,
+      "uploader": "RAPTOR7762"
+    },
+    "license": "CC0",
+    "license_kind": "public domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "license_tags": [
+      "CC-Zero",
+      "CC0",
+      "PD-AustralianStateGov"
+    ],
+    "license_options": [
+      "CC0"
+    ],
+    "license_conditions": [],
+    "own_license": "CC0",
+    "own_license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "own_kind": "release",
+    "author": "Ivo Ostyn (Original Designer)",
+    "versions": [
+      {
+        "user": "Dbenbenn",
+        "date": "2006-01-21",
+        "comment": "from http://openclipart.org/clipart//signs_and_symbols/flags/oceania/australia/australia_capital_territory.svg by Caleb Moore, PD"
+      },
+      {
+        "user": "SiBr4",
+        "date": "2013-07-24",
+        "comment": "Copying Southern Cross from [[:File:Flag of Australia.svg]] and reducing some code"
+      },
+      {
+        "user": "Squiresy92",
+        "date": "2016-10-16",
+        "comment": "Tweaked colours to those recommended by the ACT Government flag use guide, and made the flag elements more properly reflect the design used by the ACT Governmen"
+      },
+      {
+        "user": "Squiresy92",
+        "date": "2017-05-03",
+        "comment": "Optimised"
+      },
+      {
+        "user": "AndreyKva",
+        "date": "2019-03-12",
+        "comment": "Optimized."
+      },
+      {
+        "user": "Tcfc2349",
+        "date": "2020-02-20",
+        "comment": "fixed"
+      },
+      {
+        "user": "RAPTOR7762",
+        "date": "2025-11-05",
+        "comment": "Flag made official"
+      }
+    ],
+    "contributors": [
+      "Dbenbenn",
+      "SiBr4",
+      "Squiresy92",
+      "AndreyKva",
+      "Tcfc2349",
+      "RAPTOR7762"
+    ],
+    "releaser": "Dbenbenn",
+    "release_not_used": null,
+    "later_versions": "Later uploads replaced the Southern Cross, corrected official colors and government artwork, and optimized the SVG. These revisions were uploaded under the existing public-domain terms.",
+    "derived_from": [
+      {
+        "title": "Australian Capital Territory Flag.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Australian_Capital_Territory_Flag.jpg",
+        "author": "Ivo Ostyn",
+        "license": "Public domain",
+        "license_url": null,
+        "binding": false
+      }
+    ],
+    "attribution_required": false,
+    "wikidata": "Q3258",
+    "wikipedia": "Australian_Capital_Territory",
+    "wikidata_flag_images": [
+      "Flag of the Australian Capital Territory.svg"
+    ]
+  },
+  "au-nt": {
+    "commons_title": "Flag of the Northern Territory.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Northern_Territory.svg",
+    "revision": {
+      "sha1": "418b1bb373015b03c9ed9aa9f9ae68814d011f6b",
+      "timestamp": "2025-11-24T15:24:59Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_the_Northern_Territory.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 1200,
+      "height": 600,
+      "uploader": "RAPTOR7762"
+    },
+    "license": "CC0",
+    "license_kind": "public domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "license_tags": [
+      "CC-Zero",
+      "CC0",
+      "PD-AustralianStateGov"
+    ],
+    "license_options": [
+      "CC0"
+    ],
+    "license_conditions": [],
+    "own_license": "CC0",
+    "own_license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "own_kind": "release",
+    "author": "Robert Ingpen",
+    "versions": [
+      {
+        "user": "Dbenbenn",
+        "date": "2006-01-20",
+        "comment": "from http://openclipart.org/clipart//signs_and_symbols/flags/oceania/australia/australia_northern_territory.svg, by Caleb Moore, PD"
+      },
+      {
+        "user": "Froztbyte",
+        "date": "2008-06-09",
+        "comment": "new more precise and accurate vectorization using the Victorian configuration of the Southern Cross with stars having between five to eight points"
+      },
+      {
+        "user": "Fry1989",
+        "date": "2013-03-17",
+        "comment": "remove seam"
+      },
+      {
+        "user": "Tcfc2349",
+        "date": "2020-02-20",
+        "comment": "reduce size"
+      },
+      {
+        "user": "Mike Rohsopht",
+        "date": "2021-08-07",
+        "comment": "Redrawn according to the official specifications https://nt.gov.au/__data/assets/pdf_file/0005/389336/nt-flag-specifications.pdf"
+      },
+      {
+        "user": "RAPTOR7762",
+        "date": "2025-11-24",
+        "comment": "Simplified file by A LOT"
+      }
+    ],
+    "contributors": [
+      "Dbenbenn",
+      "Froztbyte",
+      "Fry1989",
+      "Tcfc2349",
+      "Mike Rohsopht",
+      "RAPTOR7762"
+    ],
+    "releaser": "Dbenbenn",
+    "release_not_used": null,
+    "later_versions": "Later uploads redrew the Southern Cross and then the flag to the government specifications, removed a seam and optimized the SVG. These revisions were uploaded under the existing public-domain terms.",
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q3235",
+    "wikipedia": "Northern_Territory",
+    "wikidata_flag_images": [
+      "Flag of the Northern Territory.svg"
+    ]
+  },
+  "bq-sa": {
+    "commons_title": "Flag of Saba.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Saba.svg",
+    "revision": {
+      "sha1": "c1daec02be2803e8088a355c3108a6b2684d1bb6",
+      "timestamp": "2013-12-09T19:40:53Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Flag_of_Saba.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 750,
+      "height": 500,
+      "uploader": "SiBr4"
+    },
+    "license": "CC BY-SA 3.0",
+    "license_kind": "share-alike",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "license_tags": [
+      "CC-BY-SA-3.0-migrated",
+      "GFDL",
+      "GFDL-user-en-no-disclaimers"
+    ],
+    "license_options": [
+      "CC BY-SA 3.0",
+      "GFDL"
+    ],
+    "license_conditions": [],
+    "own_license": "CC BY-SA 3.0",
+    "own_license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "own_kind": "copyleft",
+    "author": "Mysid",
+    "versions": [
+      {
+        "user": "Denelson83",
+        "date": "2006-02-12",
+        "comment": "Flag of [[w:Saba|]].  Based on an image at the [http://www.flags.net/NEAN01.htm World Flag Database]."
+      },
+      {
+        "user": "Denelson83",
+        "date": "2006-02-12",
+        "comment": "Enlarge intrinsic size"
+      },
+      {
+        "user": "SiBr4",
+        "date": "2012-10-06",
+        "comment": "Code reduction"
+      },
+      {
+        "user": "SiBr4",
+        "date": "2013-01-25",
+        "comment": "Exact star"
+      }
+    ],
+    "contributors": [
+      "Denelson83",
+      "SiBr4"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": true,
+    "wikidata": "Q25528",
+    "wikipedia": "Saba_(island)",
+    "wikidata_flag_images": [
+      "Flag of Saba.svg"
+    ]
+  },
+  "bq-se": {
+    "commons_title": "Flag of Sint Eustatius.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Sint_Eustatius.svg",
+    "revision": {
+      "sha1": "127ec68351ba9a9a9a33667c7c7e4943efb44791",
+      "timestamp": "2013-01-25T18:53:30Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Flag_of_Sint_Eustatius.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 900,
+      "height": 600,
+      "uploader": "SiBr4"
+    },
+    "license": "CC BY-SA 4.0",
+    "license_kind": "share-alike",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "license_tags": [
+      "CC-BY-SA-4.0,3.0,2.5,2.0,1.0",
+      "GFDL"
+    ],
+    "license_options": [
+      "GFDL",
+      "CC BY-SA 4.0"
+    ],
+    "license_conditions": [],
+    "own_license": "CC BY-SA 4.0",
+    "own_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "own_kind": "copyleft",
+    "author": "Andrwsc",
+    "versions": [
+      {
+        "user": "Andrwsc",
+        "date": "2010-01-19",
+        "comment": "{{Information"
+      },
+      {
+        "user": "Fry1989",
+        "date": "2010-07-11",
+        "comment": "colours"
+      },
+      {
+        "user": "Andrwsc",
+        "date": "2010-07-14",
+        "comment": "not necessary to add bloated SVG markup just to change the colours..."
+      },
+      {
+        "user": "SiBr4",
+        "date": "2013-01-25",
+        "comment": "Seams"
+      }
+    ],
+    "contributors": [
+      "Fry1989",
+      "SiBr4"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": true,
+    "wikidata": "Q26180",
+    "wikipedia": "Sint_Eustatius",
+    "wikidata_flag_images": [
+      "Flag of Sint Eustatius.svg"
+    ]
+  },
+  "cn-xj": {
+    "commons_title": "Kokbayraq flag.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Kokbayraq_flag.svg",
+    "revision": {
+      "sha1": "481749d48f8c5612cddd1acb443cb4bb2bf4a1c5",
+      "timestamp": "2024-06-16T05:05:19Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Kokbayraq_flag.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 900,
+      "height": 600,
+      "uploader": "Colohisto"
+    },
+    "license": "CC BY 3.0",
+    "license_kind": "attribution",
+    "license_url": "https://creativecommons.org/licenses/by/3.0/",
+    "license_tags": [
+      "PD shape",
+      "PD-simple"
+    ],
+    "license_options": [
+      "GFDL",
+      "CC BY 3.0"
+    ],
+    "license_conditions": [],
+    "own_license": "CC BY 3.0",
+    "own_license_url": "https://creativecommons.org/licenses/by/3.0/",
+    "own_kind": "attribution",
+    "author": "Tarkan",
+    "versions": [
+      {
+        "user": "BetacommandBot",
+        "date": "2009-09-13",
+        "comment": "move approved by: [[User:Zscout370]]"
+      },
+      {
+        "user": "Colohisto",
+        "date": "2022-02-17",
+        "comment": "As per construction sheet, code cleanup"
+      },
+      {
+        "user": "Colohisto",
+        "date": "2024-06-16",
+        "comment": "Simpler code"
+      }
+    ],
+    "contributors": [
+      "BetacommandBot",
+      "Colohisto"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [
+      {
+        "title": "Flag of Xinjiang Uyghur.png",
+        "page": "https://commons.wikimedia.org/wiki/File:Flag_of_Xinjiang_Uyghur.png",
+        "author": "Tarkan",
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0/",
+        "binding": false
+      },
+      {
+        "title": "Flag of Xinjiang Uyghur (East-Turkestan).png",
+        "page": "https://commons.wikimedia.org/wiki/File:Flag_of_Xinjiang_Uyghur_(East-Turkestan).png",
+        "author": null,
+        "license": "file not found",
+        "license_url": null,
+        "binding": false
+      }
+    ],
+    "attribution_required": true,
+    "wikidata": "Q34800",
+    "wikipedia": "Xinjiang",
+    "wikidata_flag_images": []
+  },
+  "es-ar": {
+    "commons_title": "Flag of Aragon.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Aragon.svg",
+    "revision": {
+      "sha1": "9816b944df1e0ae53b4ce259f9205ef3718d9840",
+      "timestamp": "2026-07-22T14:43:16Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Flag_of_Aragon.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 900,
+      "height": 600,
+      "uploader": "CarpetanoComplutense"
+    },
+    "license": "CC BY-SA 3.0",
+    "license_kind": "share-alike",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "license_tags": [
+      "CC-BY-SA-3.0",
+      "GFDL"
+    ],
+    "license_options": [
+      "CC BY-SA 3.0",
+      "GFDL"
+    ],
+    "license_conditions": [],
+    "own_license": "CC BY-SA 3.0",
+    "own_license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "own_kind": "copyleft",
+    "author": "Willtron (uploader)",
+    "versions": [
+      {
+        "user": "Willtron",
+        "date": "2006-09-13",
+        "comment": "*{{an|Bandera d'[[:an:Aragón|Aragón]]}}"
+      },
+      {
+        "user": "Mutxamel",
+        "date": "2009-03-12",
+        "comment": "FIAV colours"
+      },
+      {
+        "user": "Mutxamel",
+        "date": "2009-03-12",
+        "comment": "FIAV colours"
+      },
+      {
+        "user": "Mutxamel",
+        "date": "2009-03-12",
+        "comment": "FIAV colours, mistaken yellow"
+      },
+      {
+        "user": "Willtron",
+        "date": "2009-03-13",
+        "comment": "The moors are better in this colour (also FIAV)"
+      },
+      {
+        "user": "CarpetanoComplutense",
+        "date": "2026-07-22",
+        "comment": "Fixed the top and bottom yellow stripes of different color that didn't match with the original Senyera design. The coat of arms is left untouched."
+      }
+    ],
+    "contributors": [
+      "Mutxamel",
+      "CarpetanoComplutense"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": true,
+    "wikidata": "Q4040",
+    "wikipedia": "Aragon",
+    "wikidata_flag_images": [
+      "Flag of Aragon.svg"
+    ]
+  },
+  "es-cn": {
+    "commons_title": "Flag of the Canary Islands (simple).svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Canary_Islands_(simple).svg",
+    "revision": {
+      "sha1": "024eeb30c88418081213691c6e80ccb675e0fe95",
+      "timestamp": "2015-07-23T12:23:03Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Flag_of_the_Canary_Islands_%28simple%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 600,
+      "height": 400,
+      "uploader": "SiBr4"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD-self"
+    ],
+    "license_options": [
+      "Public domain"
+    ],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "release",
+    "author": "Zirland",
+    "versions": [
+      {
+        "user": "Zirland",
+        "date": "2006-01-22",
+        "comment": "Simple version of the Canary flag"
+      },
+      {
+        "user": "Zirland",
+        "date": "2006-06-29",
+        "comment": "color correction"
+      },
+      {
+        "user": "Fry1989",
+        "date": "2011-10-01",
+        "comment": "match"
+      },
+      {
+        "user": "SiBr4",
+        "date": "2015-07-23",
+        "comment": "Code // Editing SVG source code using [[User:Rillke/SVGedit.js]]; upload handled by [[User:Rillke/MwJSBot.js]]"
+      }
+    ],
+    "contributors": [
+      "Fry1989",
+      "SiBr4"
+    ],
+    "releaser": "Zirland",
+    "release_not_used": null,
+    "later_versions": "Later uploads corrected colors and reduced SVG code. These revisions were uploaded under the existing public-domain terms.",
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q5813",
+    "wikipedia": "Canary_Islands",
+    "wikidata_flag_images": [
+      "Flag of the Canary Islands (simple).svg"
+    ]
+  },
+  "es-ct": {
+    "commons_title": "Flag of Catalonia.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Catalonia.svg",
+    "revision": {
+      "sha1": "d9149091ca4dd51e427cbb0319d1fb7af4c5bca0",
+      "timestamp": "2011-02-19T07:55:16Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Catalonia.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 810,
+      "height": 540,
+      "uploader": "Sarang"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD ineligible",
+      "PD-ineligible"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "Martorell",
+    "versions": [
+      {
+        "user": "Martorell",
+        "date": "2005-10-28",
+        "comment": "{{ca|La [[:ca:Senyera|senyera]], bandera de [[:ca:Catalunya|Catalunya]], i també utilitzada a diferents països i municipis de l'antiga [[ca:Corona d'Aragó|Coron"
+      },
+      {
+        "user": "Martorell",
+        "date": "2005-10-28",
+        "comment": ""
+      },
+      {
+        "user": "Huhsunqu",
+        "date": "2006-04-07",
+        "comment": ""
+      },
+      {
+        "user": "Huhsunqu",
+        "date": "2006-05-13",
+        "comment": ""
+      },
+      {
+        "user": "Madden",
+        "date": "2006-05-17",
+        "comment": "clean code"
+      },
+      {
+        "user": "HansenBCN",
+        "date": "2009-01-17",
+        "comment": "colors FIAV, mida"
+      },
+      {
+        "user": "HansenBCN",
+        "date": "2009-01-17",
+        "comment": "ajuste"
+      },
+      {
+        "user": "Huhsunqu",
+        "date": "2010-11-10",
+        "comment": "reducir código"
+      },
+      {
+        "user": "Sarang",
+        "date": "2011-02-19",
+        "comment": "reducir código"
+      }
+    ],
+    "contributors": [
+      "Huhsunqu",
+      "Madden",
+      "HansenBCN",
+      "Sarang"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q5705",
+    "wikipedia": "Catalonia",
+    "wikidata_flag_images": [
+      "Flag of Catalonia.svg"
+    ]
+  },
+  "es-ib": {
+    "commons_title": "Flag of the Balearic Islands.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Balearic_Islands.svg",
+    "revision": {
+      "sha1": "f2058e6622d89f1bf8a0919bfc9e36ebd4d739ee",
+      "timestamp": "2014-06-21T16:04:51Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Flag_of_the_Balearic_Islands.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 1080,
+      "height": 720,
+      "uploader": "SiBr4"
+    },
+    "license": "CC0",
+    "license_kind": "public domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "license_tags": [
+      "CC-Zero",
+      "PD OpenClipart",
+      "PD-OpenClipart"
+    ],
+    "license_options": [
+      "CC0"
+    ],
+    "license_conditions": [],
+    "own_license": "CC0",
+    "own_license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "own_kind": "release",
+    "author": "Open Clip Art Library",
+    "versions": [
+      {
+        "user": "Kooma",
+        "date": "2005-12-02",
+        "comment": "Flag of the [[:Category:Illes Balears|Balearic Islands]] from [http://www.openclipart.org/cgi-bin/navigate/signs_and_symbols/flags/europe?page=3 Open Clip Art L"
+      },
+      {
+        "user": "Huhsunqu",
+        "date": "2006-02-26",
+        "comment": "Colours"
+      },
+      {
+        "user": "Huhsunqu",
+        "date": "2006-03-01",
+        "comment": ""
+      },
+      {
+        "user": "Huhsunqu",
+        "date": "2006-05-19",
+        "comment": ""
+      },
+      {
+        "user": "Huhsunqu",
+        "date": "2006-07-14",
+        "comment": ""
+      },
+      {
+        "user": "HansenBCN",
+        "date": "2008-08-11",
+        "comment": "ajustament de colors [http://www.caib.es/govern/president/index.do?path=/webcaib/govern_illes/president/curriculum&lang=ca] morat més fosc."
+      },
+      {
+        "user": "HansenBCN",
+        "date": "2008-08-11",
+        "comment": "Castell sense contorn"
+      },
+      {
+        "user": "HansenBCN",
+        "date": "2009-01-17",
+        "comment": "diseño limpio"
+      },
+      {
+        "user": "HansenBCN",
+        "date": "2009-01-17",
+        "comment": "ajuste menor"
+      },
+      {
+        "user": "SiBr4",
+        "date": "2014-06-21",
+        "comment": "Code reduction"
+      }
+    ],
+    "contributors": [
+      "Kooma",
+      "Huhsunqu",
+      "HansenBCN",
+      "SiBr4"
+    ],
+    "releaser": "Open Clip Art Library",
+    "release_not_used": null,
+    "later_versions": "Later uploads adjusted colors and redrew the castle without an outline, then reduced code. These revisions were uploaded under the existing public-domain terms.",
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q107356467",
+    "wikipedia": "Balearic_Islands",
+    "wikidata_flag_images": [
+      "Flag of the Balearic Islands.svg"
+    ]
+  },
+  "es-ml": {
+    "commons_title": "Flag of Melilla.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Melilla.svg",
+    "revision": {
+      "sha1": "f360045097aee2d4b8263a065ea36954cca0b9fb",
+      "timestamp": "2021-11-30T07:34:28Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Flag_of_Melilla.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 750,
+      "height": 500,
+      "uploader": "Great Brightstar"
+    },
+    "license": "CC BY-SA 3.0",
+    "license_kind": "share-alike",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "license_tags": [
+      "CC-BY-SA-3.0,2.5,2.0,1.0",
+      "GFDL"
+    ],
+    "license_options": [
+      "CC BY-SA 3.0",
+      "GFDL"
+    ],
+    "license_conditions": [],
+    "own_license": "CC BY-SA 3.0",
+    "own_license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "own_kind": "copyleft",
+    "author": "SanchoPanzaXXI",
+    "versions": [
+      {
+        "user": "Xinese-v",
+        "date": "2008-01-25",
+        "comment": "{{Information"
+      },
+      {
+        "user": "HansenBCN",
+        "date": "2008-10-26",
+        "comment": "Diseño del escudo actualizado. Color Azul celeste (B-)"
+      },
+      {
+        "user": "HansenBCN",
+        "date": "2008-12-24",
+        "comment": "corrección?"
+      },
+      {
+        "user": "HansenBCN",
+        "date": "2009-02-08",
+        "comment": "Corrección?"
+      },
+      {
+        "user": "Quibik",
+        "date": "2009-08-24",
+        "comment": "Valid code."
+      },
+      {
+        "user": "Quibik",
+        "date": "2009-08-24",
+        "comment": "Still had a minor issue. Now valid."
+      },
+      {
+        "user": "SiBr4",
+        "date": "2013-06-28",
+        "comment": "Cloning and compressing"
+      },
+      {
+        "user": "Great Brightstar",
+        "date": "2021-11-30",
+        "comment": "Rework the motto NON PLUS ULTRA"
+      }
+    ],
+    "contributors": [
+      "Xinese-v",
+      "HansenBCN",
+      "Quibik",
+      "SiBr4",
+      "Great Brightstar"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": true,
+    "wikidata": "Q5831",
+    "wikipedia": "Melilla",
+    "wikidata_flag_images": [
+      "Flag of Melilla.svg"
+    ]
+  },
+  "es-vc": {
+    "commons_title": "Flag of the Land of Valencia (official).svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Land_of_Valencia_(official).svg",
+    "revision": {
+      "sha1": "b254d12fc1d983cd432ca4e7e9b31ca50a7d7603",
+      "timestamp": "2013-12-09T19:59:48Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Flag_of_the_Land_of_Valencia_%28official%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 900,
+      "height": 450,
+      "uploader": "Mutxamel"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD-self"
+    ],
+    "license_options": [
+      "Public domain"
+    ],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "release",
+    "author": "Mutxamel",
+    "versions": [
+      {
+        "user": "Martorell",
+        "date": "2005-10-31",
+        "comment": "{{ca|[[:ca:Bandera del País Valencià|Senyera coronada valenciana]], bandera oficial del [[:ca:País Valencià|País Valencià]]}}"
+      },
+      {
+        "user": "Huhsunqu",
+        "date": "2006-02-26",
+        "comment": ""
+      },
+      {
+        "user": "Huhsunqu",
+        "date": "2006-05-13",
+        "comment": ""
+      },
+      {
+        "user": "Mutxamel",
+        "date": "2008-02-18",
+        "comment": "{{Information"
+      },
+      {
+        "user": "Mutxamel",
+        "date": "2008-12-01",
+        "comment": "{{Information"
+      },
+      {
+        "user": "Mutxamel",
+        "date": "2008-12-01",
+        "comment": "{{Information"
+      },
+      {
+        "user": "Mutxamel",
+        "date": "2009-01-28",
+        "comment": "Improved"
+      },
+      {
+        "user": "Mutxamel",
+        "date": "2009-02-03",
+        "comment": "heraldic colours"
+      },
+      {
+        "user": "Mutxamel",
+        "date": "2009-02-03",
+        "comment": "FIAV colours"
+      },
+      {
+        "user": "Mutxamel",
+        "date": "2009-02-03",
+        "comment": "FIAV colours"
+      },
+      {
+        "user": "Mutxamel",
+        "date": "2009-02-04",
+        "comment": "FIAV colours"
+      },
+      {
+        "user": "Mutxamel",
+        "date": "2009-02-15",
+        "comment": "blue fixed at Pantone 300, official tanning"
+      },
+      {
+        "user": "Rox-val",
+        "date": "2009-03-29",
+        "comment": "black border"
+      },
+      {
+        "user": "Mutxamel",
+        "date": "2013-12-09",
+        "comment": "size(half the KB) and styling improvement"
+      }
+    ],
+    "contributors": [
+      "Martorell",
+      "Huhsunqu",
+      "Rox-val"
+    ],
+    "releaser": "Mutxamel",
+    "release_not_used": null,
+    "later_versions": "The history includes the earlier Martorell/Huhsunqu drawing; Mutxamel revised the heraldic design and official colors, Rox-val added a black border, and Mutxamel optimized it. These revisions were uploaded under the existing public-domain terms.",
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q5720",
+    "wikipedia": "Valencian_Community",
+    "wikidata_flag_images": [
+      "Flag of the Land of Valencia (official).svg"
+    ]
+  },
+  "et-am": {
+    "commons_title": "Flag of the Amhara Region.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Amhara_Region.svg",
+    "revision": {
+      "sha1": "37fd8272d1b0d6ca5edd1df8ce00a05db88a3dff",
+      "timestamp": "2022-10-08T01:04:36Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Flag_of_the_Amhara_Region.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 1200,
+      "height": 600,
+      "uploader": "HapHaxion"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD ineligible",
+      "PD-Ethiopia",
+      "PD-ineligible"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "* made by J. Ollé; reshaped and resized by MaxxL",
+    "versions": [
+      {
+        "user": "Jed",
+        "date": "2007-12-03",
+        "comment": "{{Information"
+      },
+      {
+        "user": "Permjak",
+        "date": "2010-02-17",
+        "comment": "Ratio 3:4"
+      },
+      {
+        "user": "MaxxL",
+        "date": "2014-04-02",
+        "comment": "Ratio 2:1 according [[Commons:Commons:Graphic_Lab/Illustration_workshop?setlang=en#Flag_of_the_Amhara_Region]]"
+      },
+      {
+        "user": "Antemister",
+        "date": "2014-04-02",
+        "comment": "colors"
+      },
+      {
+        "user": "Fred the Oyster",
+        "date": "2014-11-01",
+        "comment": "Keep colours, reduce bloat"
+      },
+      {
+        "user": "HapHaxion",
+        "date": "2022-10-08",
+        "comment": "round transform number in code // Editing SVG source code using [[c:User:Rillke/SVGedit.js]]"
+      }
+    ],
+    "contributors": [
+      "Jed",
+      "Permjak",
+      "Antemister",
+      "Fred the Oyster",
+      "HapHaxion"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [
+      {
+        "title": "Et amhara.png",
+        "page": "https://commons.wikimedia.org/wiki/File:Et_amhara.png",
+        "author": null,
+        "license": "file not found",
+        "license_url": null,
+        "binding": false
+      }
+    ],
+    "attribution_required": false,
+    "wikidata": "Q203009",
+    "wikipedia": "Amhara_Region",
+    "wikidata_flag_images": [
+      "Flag of the Amhara Region.svg"
+    ]
+  },
+  "et-be": {
+    "commons_title": "Flag of the Benishangul-Gumuz Region.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Benishangul-Gumuz_Region.svg",
+    "revision": {
+      "sha1": "9f10b8b914905b4b987af1a5eb55e5ea703d0409",
+      "timestamp": "2022-08-27T15:39:30Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_the_Benishangul-Gumuz_Region.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 900,
+      "height": 450,
+      "uploader": "Smasongarrison"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD ineligible",
+      "PD-Ethiopia",
+      "PD-ineligible"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "TFlag of Benishangul-Gumaz Region; Image made by J. Ollé also see Autorizaciones/Banderas de Jaume Ollé",
+    "versions": [
+      {
+        "user": "Jed",
+        "date": "2007-12-03",
+        "comment": "{{Information"
+      },
+      {
+        "user": "Permjak",
+        "date": "2010-02-17",
+        "comment": "Colors"
+      },
+      {
+        "user": "Antemister",
+        "date": "2014-04-02",
+        "comment": "colors"
+      },
+      {
+        "user": "SiBr4",
+        "date": "2014-04-02",
+        "comment": "Code"
+      },
+      {
+        "user": "Smasongarrison",
+        "date": "2022-08-27",
+        "comment": "slimmed down with svgomg // Editing SVG source code using [[c:User:Rillke/SVGedit.js]]"
+      }
+    ],
+    "contributors": [
+      "Jed",
+      "Permjak",
+      "Antemister",
+      "SiBr4",
+      "Smasongarrison"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [
+      {
+        "title": "Et benishangul.png",
+        "page": "https://commons.wikimedia.org/wiki/File:Et_benishangul.png",
+        "author": null,
+        "license": "file not found",
+        "license_url": null,
+        "binding": false
+      }
+    ],
+    "attribution_required": false,
+    "wikidata": "Q207635",
+    "wikipedia": "Benishangul-Gumuz_Region",
+    "wikidata_flag_images": [
+      "Flag of the Benishangul-Gumuz Region.svg"
+    ]
+  },
+  "et-sw": {
+    "commons_title": "Flag of South West Ethiopia.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_South_West_Ethiopia.svg",
+    "revision": {
+      "sha1": "508b64b08af53cdb56f9304125b92d23fcd1a470",
+      "timestamp": "2022-06-15T20:39:32Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Flag_of_South_West_Ethiopia.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 1200,
+      "height": 600,
+      "uploader": "HapHaxion"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD ineligible",
+      "PD-Ethiopia",
+      "PD-ineligible"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "AquaVacation",
+    "versions": [
+      {
+        "user": "AquaVacation",
+        "date": "2021-11-23",
+        "comment": "Uploaded own work with UploadWizard"
+      },
+      {
+        "user": "AquaVacation",
+        "date": "2021-11-28",
+        "comment": "Corrected proportions of triangle/star and added white rays"
+      },
+      {
+        "user": "Ue3lman",
+        "date": "2022-02-21",
+        "comment": "Fixed code errors"
+      },
+      {
+        "user": "HapHaxion",
+        "date": "2022-06-15",
+        "comment": "file size reduction"
+      }
+    ],
+    "contributors": [
+      "Ue3lman",
+      "HapHaxion"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q109788993",
+    "wikipedia": "South_West_Ethiopia_Peoples'_Region",
+    "wikidata_flag_images": [
+      "Flag of South West Ethiopia.svg"
+    ]
+  },
+  "et-ti": {
+    "commons_title": "Flag of the Tigray Region.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Tigray_Region.svg",
+    "revision": {
+      "sha1": "484dd41842ea144c2464372eb6110fb8dc8dbe83",
+      "timestamp": "2022-10-08T01:23:23Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Flag_of_the_Tigray_Region.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 1400,
+      "height": 800,
+      "uploader": "HapHaxion"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD ineligible",
+      "PD-Ethiopia",
+      "PD-ineligible"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "Flag of the Tigray Region; Image made by J. Ollé also see Autorizaciones/Banderas de Jaume Ollé",
+    "versions": [
+      {
+        "user": "Jed",
+        "date": "2007-12-03",
+        "comment": "{{Information"
+      },
+      {
+        "user": "Permjak",
+        "date": "2010-02-17",
+        "comment": "http://www.worldstatesmen.org/Ethiopia_Regions.html"
+      },
+      {
+        "user": "Antemister",
+        "date": "2014-04-02",
+        "comment": "colors"
+      },
+      {
+        "user": "VileGecko",
+        "date": "2020-11-20",
+        "comment": "Simple image"
+      },
+      {
+        "user": "HapHaxion",
+        "date": "2022-10-08",
+        "comment": "optimise // Editing SVG source code using [[c:User:Rillke/SVGedit.js]]"
+      }
+    ],
+    "contributors": [
+      "Jed",
+      "Permjak",
+      "Antemister",
+      "VileGecko",
+      "HapHaxion"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [
+      {
+        "title": "Et tigray.png",
+        "page": "https://commons.wikimedia.org/wiki/File:Et_tigray.png",
+        "author": null,
+        "license": "file not found",
+        "license_url": null,
+        "binding": false
+      }
+    ],
+    "attribution_required": false,
+    "wikidata": "Q200127",
+    "wikipedia": "Tigray_Region",
+    "wikidata_flag_images": [
+      "Flag of the Tigray Region.svg"
+    ]
+  },
+  "gb-ork": {
+    "commons_title": "2007 Flag of Orkney.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:2007_Flag_of_Orkney.svg",
+    "revision": {
+      "sha1": "59adaa21d50e299eb481a9849b006f43e0544101",
+      "timestamp": "2011-11-11T22:38:24Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/2007_Flag_of_Orkney.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 1100,
+      "height": 800,
+      "uploader": "Alkari"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD-user",
+      "PD-user-en"
+    ],
+    "license_options": [
+      "Public domain"
+    ],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "release",
+    "author": "Rab-k from en.wikipedia",
+    "versions": [
+      {
+        "user": "Dybdal~commonswiki",
+        "date": "2007-06-15",
+        "comment": "{{Information"
+      },
+      {
+        "user": "Alkari",
+        "date": "2011-11-11",
+        "comment": "code cleanup"
+      }
+    ],
+    "contributors": [
+      "Dybdal~commonswiki",
+      "Alkari"
+    ],
+    "releaser": "Rab-k",
+    "release_not_used": null,
+    "later_versions": "The later Alkari upload cleaned the SVG code. These revisions were uploaded under the existing public-domain terms.",
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q100166",
+    "wikipedia": "Orkney",
+    "wikidata_flag_images": [
+      "2007 Flag of Orkney.svg"
+    ]
+  },
+  "gb-sct": {
+    "commons_title": "Flag of Scotland.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Scotland.svg",
+    "revision": {
+      "sha1": "c1cbff0b38aab01c2b93e1f2ccea8e70ed27722b",
+      "timestamp": "2022-08-22T02:17:08Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Flag_of_Scotland.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 1000,
+      "height": 600,
+      "uploader": "Smasongarrison"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD flag",
+      "PD-flag"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "none known",
+    "versions": [
+      {
+        "user": "Wangi",
+        "date": "2005-10-26",
+        "comment": "== Summary =="
+      },
+      {
+        "user": "Madden",
+        "date": "2006-11-01",
+        "comment": ""
+      },
+      {
+        "user": "Fibonacci",
+        "date": "2009-07-14",
+        "comment": "Is the clip-path necessary?"
+      },
+      {
+        "user": "Zscout370",
+        "date": "2009-12-08",
+        "comment": "Pantone color from http://www.pantone.com/pages/pantone/colorfinder.aspx"
+      },
+      {
+        "user": "Palomca",
+        "date": "2015-07-19",
+        "comment": "restore the clip path (this time!)"
+      },
+      {
+        "user": "Inkub0",
+        "date": "2020-01-11",
+        "comment": "SVG Code optimized"
+      },
+      {
+        "user": "Inkub0",
+        "date": "2020-01-11",
+        "comment": "Further SVG optimization"
+      },
+      {
+        "user": "Great Brightstar",
+        "date": "2020-05-24",
+        "comment": "Blue from Pantone Color Picker"
+      },
+      {
+        "user": "Smasongarrison",
+        "date": "2022-08-22",
+        "comment": "slimmed down with svgomg // Editing SVG source code using [[c:User:Rillke/SVGedit.js]]"
+      }
+    ],
+    "contributors": [
+      "Wangi",
+      "Madden",
+      "Fibonacci",
+      "Zscout370",
+      "Palomca",
+      "Inkub0",
+      "Great Brightstar",
+      "Smasongarrison"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q22",
+    "wikipedia": "Scotland",
+    "wikidata_flag_images": [
+      "Flag of Scotland.svg"
+    ]
+  },
+  "id-jb": {
+    "commons_title": "Flag of West Java (vectorised).svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_West_Java_(vectorised).svg",
+    "revision": {
+      "sha1": "1aa3de3490565ebc60225429c6e0b51fee936fe4",
+      "timestamp": "2025-11-16T17:13:48Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_West_Java_%28vectorised%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 1500,
+      "height": 1050,
+      "uploader": "Baqotun0023"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD Indonesian Government",
+      "PD-IDGov"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "Indonesian Government",
+    "versions": [
+      {
+        "user": "Muffin Wizard",
+        "date": "2015-04-05",
+        "comment": "User created page with UploadWizard"
+      },
+      {
+        "user": "Afrogindahood",
+        "date": "2019-07-26",
+        "comment": "Graphical improvement of the previous version"
+      },
+      {
+        "user": "Afrogindahood",
+        "date": "2022-01-08",
+        "comment": "Slight modifications in accordance with regional regulation num. 11/PD/DPRD-GR/1961"
+      },
+      {
+        "user": "Baqotun0023",
+        "date": "2025-10-11",
+        "comment": "Update"
+      },
+      {
+        "user": "Baqotun0023",
+        "date": "2025-10-12",
+        "comment": "recolour background flag"
+      },
+      {
+        "user": "Baqotun0023",
+        "date": "2025-11-16",
+        "comment": "Cropped  < 1 % horizontally, 1 % vertically, 1 % areawise using [[Commons:CropTool|CropTool]] with precise mode."
+      },
+      {
+        "user": "Baqotun0023",
+        "date": "2025-11-16",
+        "comment": "Cropped  < 1 % horizontally,  < 1 % areawise using [[Commons:CropTool|CropTool]] with precise mode."
+      },
+      {
+        "user": "Baqotun0023",
+        "date": "2025-11-16",
+        "comment": "fix"
+      }
+    ],
+    "contributors": [
+      "Muffin Wizard",
+      "Afrogindahood",
+      "Baqotun0023"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [
+      {
+        "title": "Coat of arms of West Java.svg",
+        "page": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_West_Java.svg",
+        "author": "unknown; vector by chris and Afrogindahood",
+        "license": "Public domain",
+        "license_url": null,
+        "binding": false
+      }
+    ],
+    "attribution_required": false,
+    "wikidata": "Q3724",
+    "wikipedia": "West_Java",
+    "wikidata_flag_images": [
+      "Flag of West Java (vectorised).svg"
+    ]
+  },
+  "id-jt": {
+    "commons_title": "Flag of Central Java.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Central_Java.svg",
+    "revision": {
+      "sha1": "d7853b9b9bac70e1e0aae2fe0cb92b7bb15efa16",
+      "timestamp": "2023-10-02T05:48:24Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Flag_of_Central_Java.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 1500,
+      "height": 1050,
+      "uploader": "Muffin Wizard"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD Indonesia",
+      "PD-IDNoCopyright"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "Indonesian Government",
+    "versions": [
+      {
+        "user": "Muffin Wizard",
+        "date": "2015-04-05",
+        "comment": "User created page with UploadWizard"
+      }
+    ],
+    "contributors": [
+      "Muffin Wizard"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [
+      {
+        "title": "Coat of arms of Central Java.svg",
+        "page": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Central_Java.svg",
+        "author": "Gunkarta",
+        "license": "Public domain",
+        "license_url": null,
+        "binding": false
+      }
+    ],
+    "attribution_required": false,
+    "wikidata": "Q3557",
+    "wikipedia": "Central_Java",
+    "wikidata_flag_images": [
+      "Flag of Central Java.svg"
+    ]
+  },
+  "in-ka": {
+    "commons_title": "Flag of the Kannada people.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Kannada_people.svg",
+    "revision": {
+      "sha1": "1b1aa3ba40aa28f4ffb5c55066e6b359607bcead",
+      "timestamp": "2024-07-08T13:19:48Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Flag_of_the_Kannada_people.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 900,
+      "height": 600,
+      "uploader": "WeaponizingArchitecture"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD-self"
+    ],
+    "license_options": [
+      "Public domain"
+    ],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "release",
+    "author": "Urmas",
+    "versions": [
+      {
+        "user": "Urmas",
+        "date": "2006-01-26",
+        "comment": "[[Category:SVG flags]]"
+      },
+      {
+        "user": "HapHaxion",
+        "date": "2022-08-23",
+        "comment": "reduce file size"
+      },
+      {
+        "user": "Colohisto",
+        "date": "2024-01-09",
+        "comment": "Simpler code"
+      },
+      {
+        "user": "WeaponizingArchitecture",
+        "date": "2024-07-08",
+        "comment": "Color correction, new colors taken from the Vijaynagara flag"
+      }
+    ],
+    "contributors": [
+      "HapHaxion",
+      "Colohisto",
+      "WeaponizingArchitecture"
+    ],
+    "releaser": "Urmas",
+    "release_not_used": null,
+    "later_versions": "HapHaxion and Colohisto reduced code; WeaponizingArchitecture corrected the yellow and red colors. These revisions were uploaded under the existing public-domain terms.",
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q1185",
+    "wikipedia": "Karnataka",
+    "wikidata_flag_images": [
+      "Flag of Karnataka, India.svg"
+    ]
+  },
+  "it-21": {
+    "commons_title": "Flag of Piedmont.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Piedmont.svg",
+    "revision": {
+      "sha1": "da5571fdf41da8b673d5f5e0fefb1cb7cf41a1b4",
+      "timestamp": "2023-02-03T14:18:43Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Piedmont.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 512,
+      "height": 341,
+      "uploader": "MacBrenner"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD textlogo",
+      "PD-self",
+      "PD-textlogo"
+    ],
+    "license_options": [
+      "Public domain"
+    ],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "release",
+    "author": "Orzetto",
+    "versions": [
+      {
+        "user": "Orzetto~commonswiki",
+        "date": "2006-03-03",
+        "comment": "{{PD-flag}}"
+      },
+      {
+        "user": "F l a n k e r",
+        "date": "2007-01-13",
+        "comment": ""
+      },
+      {
+        "user": "Ketipmaig",
+        "date": "2022-07-02",
+        "comment": "Official colors"
+      },
+      {
+        "user": "MacBrenner",
+        "date": "2023-02-03",
+        "comment": "Made the shade of blue darker as shown in pictures of the flag."
+      }
+    ],
+    "contributors": [
+      "F l a n k e r",
+      "Ketipmaig",
+      "MacBrenner"
+    ],
+    "releaser": "Orzetto~commonswiki",
+    "release_not_used": null,
+    "later_versions": "Later uploads include an undocumented Flanker revision, official color corrections and a darker blue. These revisions were uploaded under the existing public-domain terms.",
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q1216",
+    "wikipedia": "Piedmont",
+    "wikidata_flag_images": [
+      "Flag of Piedmont.svg"
+    ]
+  },
+  "it-23": {
+    "commons_title": "Flag of Valle d'Aosta.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Valle_d%27Aosta.svg",
+    "revision": {
+      "sha1": "5fc2086befbc643fbb40b6fe4c43924576fe64c4",
+      "timestamp": "2021-02-18T02:05:20Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Valle_d%27Aosta.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 900,
+      "height": 600,
+      "uploader": "SpinnerLaserzthe2nd"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD-self"
+    ],
+    "license_options": [
+      "Public domain"
+    ],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "release",
+    "author": "F l a n k e r",
+    "versions": [
+      {
+        "user": "F l a n k e r",
+        "date": "2007-01-13",
+        "comment": "{{Information|"
+      },
+      {
+        "user": "F l a n k e r",
+        "date": "2009-04-22",
+        "comment": ""
+      },
+      {
+        "user": "SiBr4",
+        "date": "2012-09-19",
+        "comment": "Code reduction"
+      },
+      {
+        "user": "Facquis",
+        "date": "2020-10-15",
+        "comment": "Official colors"
+      },
+      {
+        "user": "SpinnerLaserzthe2nd",
+        "date": "2021-02-18",
+        "comment": "Code"
+      }
+    ],
+    "contributors": [
+      "SiBr4",
+      "Facquis",
+      "SpinnerLaserzthe2nd"
+    ],
+    "releaser": "F l a n k e r",
+    "release_not_used": null,
+    "later_versions": "Later uploads reduced code and corrected official colors. These revisions were uploaded under the existing public-domain terms.",
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q1222",
+    "wikipedia": "Aosta_Valley",
+    "wikidata_flag_images": [
+      "Flag of Valle d'Aosta.svg"
+    ]
+  },
+  "it-25": {
+    "commons_title": "Flag of Lombardy.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Lombardy.svg",
+    "revision": {
+      "sha1": "b1c2c9d5ba5698e5688b0f72b1d4db062808325e",
+      "timestamp": "2024-06-09T01:48:44Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Lombardy.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 900,
+      "height": 600,
+      "uploader": "Jarvisa"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD-user"
+    ],
+    "license_options": [
+      "Public domain"
+    ],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "release",
+    "author": "Pino Tovaglia, Bob Noorda, Roberto Sambonet and Bruno Munari",
+    "versions": [
+      {
+        "user": "F l a n k e r",
+        "date": "2007-02-28",
+        "comment": "{{Information"
+      },
+      {
+        "user": "Zscout370",
+        "date": "2016-03-02",
+        "comment": "Tweak to the symbol (from the Lombardy Brand Guide), reduced code but kept same colors"
+      },
+      {
+        "user": "Facquis",
+        "date": "2020-03-01",
+        "comment": "Official 2019 design"
+      },
+      {
+        "user": "Jarvisa",
+        "date": "2020-06-10",
+        "comment": "Simplified SVG source"
+      }
+    ],
+    "contributors": [
+      "F l a n k e r",
+      "Zscout370",
+      "Facquis",
+      "Jarvisa"
+    ],
+    "releaser": "F l a n k e r",
+    "release_not_used": null,
+    "later_versions": "Later uploads corrected the emblem using the brand guide, updated it to the 2019 official design, and simplified code. These revisions were uploaded under the existing public-domain terms.",
+    "derived_from": [
+      {
+        "title": "Flag of Lombardy square.svg",
+        "page": "https://commons.wikimedia.org/wiki/File:Flag_of_Lombardy_square.svg",
+        "author": "Raminus",
+        "license": "Public domain",
+        "license_url": null,
+        "binding": false
+      }
+    ],
+    "attribution_required": false,
+    "wikidata": "Q1210",
+    "wikipedia": "Lombardy",
+    "wikidata_flag_images": [
+      "Flag of Lombardy.svg"
+    ]
+  },
+  "it-34": {
+    "commons_title": "Flag of Veneto.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Veneto.svg",
+    "revision": {
+      "sha1": "d877bcb78d9834b9d22a2446988137d2b0e8ffa5",
+      "timestamp": "2023-08-03T00:18:23Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Flag_of_Veneto.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 1163,
+      "height": 776,
+      "uploader": "MacBrenner"
+    },
+    "license": "CC BY-SA 3.0",
+    "license_kind": "share-alike",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "license_tags": [
+      "CC-BY-SA-3.0-migrated-with-disclaimers",
+      "GFDL-en"
+    ],
+    "license_options": [
+      "CC BY-SA 3.0",
+      "GFDL"
+    ],
+    "license_conditions": [],
+    "own_license": "CC BY-SA 3.0",
+    "own_license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "own_kind": "copyleft",
+    "author": "Derivative work: F l a n k e r",
+    "versions": [
+      {
+        "user": "Vajotwo",
+        "date": "2010-04-15",
+        "comment": "{{Information"
+      },
+      {
+        "user": "F l a n k e r",
+        "date": "2010-04-18",
+        "comment": "New version"
+      },
+      {
+        "user": "F l a n k e r",
+        "date": "2010-04-18",
+        "comment": "Coat of arms of Rovigo and some geometric improvements of the principal frame"
+      },
+      {
+        "user": "ANGELUS",
+        "date": "2011-11-04",
+        "comment": "fixed"
+      },
+      {
+        "user": "ANGELUS",
+        "date": "2011-11-04",
+        "comment": "fixed"
+      },
+      {
+        "user": "ANGELUS",
+        "date": "2011-11-04",
+        "comment": "micro fix"
+      },
+      {
+        "user": "ANGELUS",
+        "date": "2011-12-06",
+        "comment": "improved"
+      },
+      {
+        "user": "Pottercomuneo",
+        "date": "2013-02-12",
+        "comment": "Treviso and Rovigo switched"
+      },
+      {
+        "user": "MrPenguin20",
+        "date": "2015-09-24",
+        "comment": "Updated quality of Lion."
+      },
+      {
+        "user": "SiBr4",
+        "date": "2015-09-26",
+        "comment": "Removed raster images and other stuff that was outside the viewbox"
+      },
+      {
+        "user": "Facquis",
+        "date": "2020-10-18",
+        "comment": "Better design"
+      },
+      {
+        "user": "MacBrenner",
+        "date": "2023-05-12",
+        "comment": "Official RGB colours https://rdv.app.box.com/s/tmbcl0up623wrerhv1xog00i0pfmt6nf"
+      }
+    ],
+    "contributors": [
+      "Vajotwo",
+      "ANGELUS",
+      "Pottercomuneo",
+      "MrPenguin20",
+      "SiBr4",
+      "Facquis",
+      "MacBrenner"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": true,
+    "wikidata": "Q1243",
+    "wikipedia": "Veneto",
+    "wikidata_flag_images": [
+      "Flag of Veneto.svg"
+    ]
+  },
+  "it-36": {
+    "commons_title": "Flag of Friuli-Venezia Giulia.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Friuli-Venezia_Giulia.svg",
+    "revision": {
+      "sha1": "5ca7d5a80850e01b8dc0f939a96a5a77c5faea87",
+      "timestamp": "2021-04-05T04:28:25Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Flag_of_Friuli-Venezia_Giulia.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 1500,
+      "height": 1000,
+      "uploader": "SpinnerLaserzthe2nd"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD-self"
+    ],
+    "license_options": [
+      "Public domain"
+    ],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "release",
+    "author": "unknown author",
+    "versions": [
+      {
+        "user": "Hellerick",
+        "date": "2015-10-01",
+        "comment": "{{Information"
+      },
+      {
+        "user": "Shirley dejong",
+        "date": "2017-03-13",
+        "comment": "Removed bitmap sources from svg file."
+      },
+      {
+        "user": "SpinnerLaserzthe2nd",
+        "date": "2021-04-05",
+        "comment": "Fix"
+      }
+    ],
+    "contributors": [
+      "Hellerick",
+      "Shirley dejong",
+      "SpinnerLaserzthe2nd"
+    ],
+    "releaser": "Hellerick",
+    "release_not_used": null,
+    "later_versions": "Later uploads removed embedded bitmap source images and fixed the SVG. These revisions were uploaded under the existing public-domain terms.",
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q1250",
+    "wikipedia": "Friuli-Venezia_Giulia",
+    "wikidata_flag_images": [
+      "Flag of Friuli-Venezia Giulia.svg"
+    ]
+  },
+  "it-42": {
+    "commons_title": "Flag of Liguria.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Liguria.svg",
+    "revision": {
+      "sha1": "f628a40a514b97dc03f98fb679376fc5d7b7d01f",
+      "timestamp": "2023-10-07T11:22:42Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Liguria.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 900,
+      "height": 600,
+      "uploader": "Teo.raff"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD-user"
+    ],
+    "license_options": [
+      "Public domain"
+    ],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "release",
+    "author": "F l a n k e r",
+    "versions": [
+      {
+        "user": "F l a n k e r",
+        "date": "2007-01-13",
+        "comment": "{{Information|"
+      },
+      {
+        "user": "Teo.raff",
+        "date": "2023-10-07",
+        "comment": "changed symbol to match the source: https://www.regione.liguria.it/components/com_publiccompetitions/includes/download.php?id=12134:manuale-duso-del-logo-uffici"
+      }
+    ],
+    "contributors": [
+      "Teo.raff"
+    ],
+    "releaser": "F l a n k e r",
+    "release_not_used": null,
+    "later_versions": "The later upload replaced the emblem to match the official regional brand manual. These revisions were uploaded under the existing public-domain terms.",
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q1256",
+    "wikipedia": "Liguria",
+    "wikidata_flag_images": [
+      "Flag of Liguria.svg"
+    ]
+  },
+  "it-55": {
+    "commons_title": "Flag of Umbria.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Umbria.svg",
+    "revision": {
+      "sha1": "110104b4c9558b372b9984b00b0bd3728d7849b5",
+      "timestamp": "2021-12-15T15:39:52Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Flag_of_Umbria.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 600,
+      "height": 400,
+      "uploader": "Teo.raff"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD-user"
+    ],
+    "license_options": [
+      "Public domain"
+    ],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "release",
+    "author": "F l a n k e r",
+    "versions": [
+      {
+        "user": "F l a n k e r",
+        "date": "2007-03-05",
+        "comment": "{{Information"
+      },
+      {
+        "user": "Teo.raff",
+        "date": "2021-12-15",
+        "comment": "official emblem"
+      }
+    ],
+    "contributors": [
+      "Teo.raff"
+    ],
+    "releaser": "F l a n k e r",
+    "release_not_used": null,
+    "later_versions": "The later upload replaced the emblem with the official design. These revisions were uploaded under the existing public-domain terms.",
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q1280",
+    "wikipedia": "Umbria",
+    "wikidata_flag_images": [
+      "Flag of Umbria.svg"
+    ]
+  },
+  "it-57": {
+    "commons_title": "Flag of Marche.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Marche.svg",
+    "revision": {
+      "sha1": "53c6132045971c9ccd063530d8cebb2f96f4af14",
+      "timestamp": "2022-10-22T18:22:16Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Flag_of_Marche.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 750,
+      "height": 500,
+      "uploader": "MacBrenner"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD-user"
+    ],
+    "license_options": [
+      "Public domain"
+    ],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "release",
+    "author": "F l a n k e r",
+    "versions": [
+      {
+        "user": "F l a n k e r",
+        "date": "2007-02-28",
+        "comment": "{{Information"
+      },
+      {
+        "user": "MacBrenner",
+        "date": "2022-10-22",
+        "comment": "Official Design (https://presidenza.governo.it/ufficio_cerimoniale/cerimoniale/Bandiera.pdf)"
+      }
+    ],
+    "contributors": [
+      "MacBrenner"
+    ],
+    "releaser": "F l a n k e r",
+    "release_not_used": null,
+    "later_versions": "The later upload replaced the drawing with the official design from the government flag document. These revisions were uploaded under the existing public-domain terms.",
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q1279",
+    "wikipedia": "Marche",
+    "wikidata_flag_images": [
+      "Flag of Marche.svg"
+    ]
+  },
+  "it-62": {
+    "commons_title": "Flag of Lazio.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Lazio.svg",
+    "revision": {
+      "sha1": "e7e383206ceec4498ab3937bc6d206643df8e07d",
+      "timestamp": "2024-03-10T10:34:21Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Flag_of_Lazio.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 1649,
+      "height": 1101,
+      "uploader": "OttavianoLolnoob"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD-Flag",
+      "PD-self"
+    ],
+    "license_options": [
+      "Public domain"
+    ],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "release",
+    "author": "*Flag_of_Lazio.png: Sinigagl; derivative work: Serenthia",
+    "versions": [
+      {
+        "user": "Serenthia",
+        "date": "2011-06-06",
+        "comment": "{{Information"
+      },
+      {
+        "user": "Serenthia",
+        "date": "2011-06-06",
+        "comment": "Converted text to path"
+      },
+      {
+        "user": "SiBr4",
+        "date": "2013-10-20",
+        "comment": "Removed background PNG image & reduced code"
+      },
+      {
+        "user": "MacBrenner",
+        "date": "2024-02-27",
+        "comment": "Colours and font closer to official https://www.regione.lazio.it/la-regione/giunta"
+      },
+      {
+        "user": "OttavianoLolnoob",
+        "date": "2024-03-10",
+        "comment": "Reduced + Fixed 1 Error (W3C)"
+      }
+    ],
+    "contributors": [
+      "SiBr4",
+      "MacBrenner",
+      "OttavianoLolnoob"
+    ],
+    "releaser": "Serenthia",
+    "release_not_used": null,
+    "later_versions": "Later uploads removed the reference bitmap, corrected colors and outlined lettering, and reduced code. These revisions were uploaded under the existing public-domain terms.",
+    "derived_from": [
+      {
+        "title": "Flag of Lazio.png",
+        "page": "https://commons.wikimedia.org/wiki/File:Flag_of_Lazio.png",
+        "author": "Sinigagl",
+        "license": "Public domain",
+        "license_url": null,
+        "binding": false
+      }
+    ],
+    "attribution_required": false,
+    "wikidata": "Q1282",
+    "wikipedia": "Lazio",
+    "wikidata_flag_images": [
+      "Flag of Lazio.svg"
+    ]
+  },
+  "it-65": {
+    "commons_title": "Flag of Abruzzo.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Abruzzo.svg",
+    "revision": {
+      "sha1": "fe47315350d30a7c8de8633e350b7434fc2b49ea",
+      "timestamp": "2024-10-20T14:08:03Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Abruzzo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 512,
+      "height": 341,
+      "uploader": "MacBrenner"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD ineligible",
+      "PD-ineligible"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "Booyabazooka",
+    "versions": [
+      {
+        "user": "Chris-martin",
+        "date": "2006-08-14",
+        "comment": "Converted from raster image: [[:Image:Abruzzo-Bandiera.png]]"
+      },
+      {
+        "user": "DieBuche",
+        "date": "2007-03-19",
+        "comment": ""
+      },
+      {
+        "user": "DieBuche",
+        "date": "2007-03-19",
+        "comment": ""
+      },
+      {
+        "user": "DieBuche",
+        "date": "2007-03-19",
+        "comment": ""
+      },
+      {
+        "user": "F l a n k e r",
+        "date": "2007-03-30",
+        "comment": ""
+      },
+      {
+        "user": "Facquis",
+        "date": "2020-02-29",
+        "comment": "Official design"
+      },
+      {
+        "user": "Smasongarrison",
+        "date": "2022-08-09",
+        "comment": "slimmed down with svgomg // Editing SVG source code using [[c:User:Rillke/SVGedit.js]]"
+      },
+      {
+        "user": "MacBrenner",
+        "date": "2024-03-11",
+        "comment": "New de facto flag in use since december 2023 https://www.ansa.it/webimages/news_base/2024/3/11/d098e0bf47400a8bc4abd63762b69b47.jpg"
+      },
+      {
+        "user": "OttavianoLolnoob",
+        "date": "2024-03-12",
+        "comment": "Reduce + Removed 6 errors and 1 warning (W3C)"
+      },
+      {
+        "user": "MacBrenner",
+        "date": "2024-03-12",
+        "comment": "Colour correction + CoA design closer to official https://www.regione.abruzzo.it/content/lo-stemma-della-regione"
+      }
+    ],
+    "contributors": [
+      "Chris-martin",
+      "DieBuche",
+      "F l a n k e r",
+      "Facquis",
+      "Smasongarrison",
+      "MacBrenner",
+      "OttavianoLolnoob"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [
+      {
+        "title": "Abruzzo-Bandiera.png",
+        "page": "https://commons.wikimedia.org/wiki/File:Abruzzo-Bandiera.png",
+        "author": "Floriang (uploader)",
+        "license": "Public domain",
+        "license_url": null,
+        "binding": false
+      }
+    ],
+    "attribution_required": false,
+    "wikidata": "Q1284",
+    "wikipedia": "Abruzzo",
+    "wikidata_flag_images": [
+      "Flag of Abruzzo.svg"
+    ]
+  },
+  "it-67": {
+    "commons_title": "Flag of Molise.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Molise.svg",
+    "revision": {
+      "sha1": "06ade4dd3aa92151c103d4a1680c2c1884546b4e",
+      "timestamp": "2020-02-28T16:22:25Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Molise.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 750,
+      "height": 500,
+      "uploader": "Facquis"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD-user"
+    ],
+    "license_options": [
+      "Public domain"
+    ],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "release",
+    "author": "F l a n k e r",
+    "versions": [
+      {
+        "user": "F l a n k e r",
+        "date": "2007-02-28",
+        "comment": "{{Information"
+      },
+      {
+        "user": "F l a n k e r",
+        "date": "2007-02-28",
+        "comment": "{{Information"
+      },
+      {
+        "user": "Facquis",
+        "date": "2020-02-28",
+        "comment": "Correct design"
+      },
+      {
+        "user": "Facquis",
+        "date": "2020-02-28",
+        "comment": "Correct coat of arms"
+      }
+    ],
+    "contributors": [
+      "Facquis"
+    ],
+    "releaser": "F l a n k e r",
+    "release_not_used": null,
+    "later_versions": "Later uploads corrected the design and coat of arms. These revisions were uploaded under the existing public-domain terms.",
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q1443",
+    "wikipedia": "Molise",
+    "wikidata_flag_images": [
+      "Flag of Molise.svg"
+    ]
+  },
+  "it-72": {
+    "commons_title": "Flag of Campania.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Campania.svg",
+    "revision": {
+      "sha1": "c83fdeb74357930b9e8534768f893f2fb7c00bc9",
+      "timestamp": "2023-04-02T09:26:05Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Flag_of_Campania.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 512,
+      "height": 341,
+      "uploader": "MacBrenner"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD-user"
+    ],
+    "license_options": [
+      "Public domain"
+    ],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "release",
+    "author": "F l a n k e r",
+    "versions": [
+      {
+        "user": "F l a n k e r",
+        "date": "2007-02-28",
+        "comment": "{{Information"
+      },
+      {
+        "user": "ANGELUS",
+        "date": "2011-09-01",
+        "comment": "fixed"
+      },
+      {
+        "user": "Fry1989",
+        "date": "2012-01-13",
+        "comment": "fix"
+      },
+      {
+        "user": "Ricordisamoa",
+        "date": "2013-02-16",
+        "comment": "code cleanup (with clipPath)"
+      },
+      {
+        "user": "Facquis",
+        "date": "2020-03-01",
+        "comment": "Official colors"
+      },
+      {
+        "user": "MacBrenner",
+        "date": "2023-01-14",
+        "comment": "Blue colour. http://www.regione.campania.it/regione/it/news/loghi"
+      },
+      {
+        "user": "MacBrenner",
+        "date": "2023-02-03",
+        "comment": "Made the shade of blue darker as shown in pictures of the flag."
+      },
+      {
+        "user": "MacBrenner",
+        "date": "2023-04-02",
+        "comment": "Made the outline of the Coat of Arms gold, correct blue"
+      }
+    ],
+    "contributors": [
+      "ANGELUS",
+      "Fry1989",
+      "Ricordisamoa",
+      "Facquis",
+      "MacBrenner"
+    ],
+    "releaser": "F l a n k e r",
+    "release_not_used": null,
+    "later_versions": "Later uploads fixed and cleaned the SVG, corrected official colors and the gold coat-of-arms outline. These revisions were uploaded under the existing public-domain terms.",
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q1438",
+    "wikipedia": "Campania",
+    "wikidata_flag_images": [
+      "Flag of Campania.svg"
+    ]
+  },
+  "it-77": {
+    "commons_title": "Flag of Basilicata.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Basilicata.svg",
+    "revision": {
+      "sha1": "17e40398c5a492f873b2011cfe3ecd32f5698d81",
+      "timestamp": "2024-04-16T16:42:44Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Flag_of_Basilicata.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 890,
+      "height": 593,
+      "uploader": "Facquis"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD-user"
+    ],
+    "license_options": [
+      "Public domain"
+    ],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "release",
+    "author": "F l a n k e r",
+    "versions": [
+      {
+        "user": "F l a n k e r",
+        "date": "2007-02-28",
+        "comment": "{{Information"
+      },
+      {
+        "user": "Facquis",
+        "date": "2020-02-28",
+        "comment": "Stemma e proporzioni ufficiali"
+      },
+      {
+        "user": "Facquis",
+        "date": "2021-12-20",
+        "comment": "La bandiera usa lo stesso colore dello stemma"
+      }
+    ],
+    "contributors": [
+      "Facquis"
+    ],
+    "releaser": "F l a n k e r",
+    "release_not_used": null,
+    "later_versions": "Later uploads corrected the official coat of arms, proportions and blue field. These revisions were uploaded under the existing public-domain terms.",
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q1452",
+    "wikipedia": "Basilicata",
+    "wikidata_flag_images": [
+      "Flag of Basilicata.svg"
+    ]
+  },
+  "it-78": {
+    "commons_title": "Flag of Calabria.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Calabria.svg",
+    "revision": {
+      "sha1": "0e7d656e7074c4231a94bf2250e1561ba37ac65e",
+      "timestamp": "2020-02-29T12:38:34Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Flag_of_Calabria.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 1037,
+      "height": 692,
+      "uploader": "Facquis"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD-user"
+    ],
+    "license_options": [
+      "Public domain"
+    ],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "release",
+    "author": "F l a n k e r / 20px Coat of Arms taken from Coat of arms of Calabria.svg",
+    "versions": [
+      {
+        "user": "F l a n k e r",
+        "date": "2007-02-28",
+        "comment": "{{Information"
+      },
+      {
+        "user": "F l a n k e r",
+        "date": "2007-03-01",
+        "comment": ""
+      },
+      {
+        "user": "Facquis",
+        "date": "2020-02-29",
+        "comment": "Official design"
+      }
+    ],
+    "contributors": [
+      "Facquis"
+    ],
+    "releaser": "F l a n k e r",
+    "release_not_used": null,
+    "later_versions": "The later upload corrected the official design. These revisions were uploaded under the existing public-domain terms.",
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q1458",
+    "wikipedia": "Calabria",
+    "wikidata_flag_images": [
+      "Flag of Calabria.svg"
+    ]
+  },
+  "it-82": {
+    "commons_title": "Flag of Sicily (revised).svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Sicily_(revised).svg",
+    "revision": {
+      "sha1": "b6ed0b508916ed981d2e9b91c0d3efc1a134e6c5",
+      "timestamp": "2023-03-14T11:50:04Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Sicily_%28revised%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 800,
+      "height": 530,
+      "uploader": "Ketipmaig"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD-self"
+    ],
+    "license_options": [
+      "Public domain"
+    ],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "release",
+    "author": "Angelo.romano",
+    "versions": [
+      {
+        "user": "Angelo.romano",
+        "date": "2007-05-09",
+        "comment": "{{Information"
+      },
+      {
+        "user": "Ketipmaig",
+        "date": "2022-06-16",
+        "comment": "Triskelion"
+      }
+    ],
+    "contributors": [
+      "Ketipmaig"
+    ],
+    "releaser": "Angelo.romano",
+    "release_not_used": null,
+    "later_versions": "The later upload revised the triskelion. These revisions were uploaded under the existing public-domain terms.",
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q1460",
+    "wikipedia": "Sicily",
+    "wikidata_flag_images": [
+      "Flag of Sicily (revised).svg"
+    ]
+  },
+  "pk-sd": {
+    "commons_title": "Flag of Sindh.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Sindh.svg",
+    "revision": {
+      "sha1": "747a9ace25d91cf9ef55d7def3384efbcf99798f",
+      "timestamp": "2022-06-15T20:51:38Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_Sindh.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 1800,
+      "height": 1200,
+      "uploader": "HapHaxion"
+    },
+    "license": "CC0",
+    "license_kind": "public domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "license_tags": [
+      "CC-Zero"
+    ],
+    "license_options": [
+      "CC0"
+    ],
+    "license_conditions": [],
+    "own_license": "CC0",
+    "own_license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "own_kind": "release",
+    "author": "Baba66",
+    "versions": [
+      {
+        "user": "Hosmich",
+        "date": "2013-06-18",
+        "comment": "{{Information"
+      },
+      {
+        "user": "Hosmich",
+        "date": "2013-06-18",
+        "comment": "recreated using [[:File:Pk)sind.gif]] (should I vectorize the seal too?)"
+      },
+      {
+        "user": "Hosmich",
+        "date": "2013-06-18",
+        "comment": "trying to fix letters"
+      },
+      {
+        "user": "Hosmich",
+        "date": "2013-06-18",
+        "comment": "changing font to Arial"
+      },
+      {
+        "user": "Hosmich",
+        "date": "2013-06-18",
+        "comment": "changing letters to paths"
+      },
+      {
+        "user": "Baba66",
+        "date": "2013-12-01",
+        "comment": "update, readable Text"
+      },
+      {
+        "user": "HapHaxion",
+        "date": "2022-06-15",
+        "comment": "file size reduction"
+      }
+    ],
+    "contributors": [
+      "Hosmich",
+      "HapHaxion"
+    ],
+    "releaser": "Baba66",
+    "release_not_used": null,
+    "later_versions": "Hosmich vectorized the flag and outlined its lettering before Baba66 updated it with readable lettering; the later HapHaxion upload reduced file size. These revisions were uploaded under the existing public-domain terms.",
+    "derived_from": [
+      {
+        "title": "SINDHLOCALGOVERNMENTlogo.gif",
+        "page": "https://commons.wikimedia.org/wiki/File:SINDHLOCALGOVERNMENTlogo.gif",
+        "author": null,
+        "license": "file not found",
+        "license_url": null,
+        "binding": false
+      }
+    ],
+    "attribution_required": false,
+    "wikidata": "Q37211",
+    "wikipedia": "Sindh",
+    "wikidata_flag_images": [
+      "Flag of Sindh.svg"
+    ]
+  },
+  "pt-30": {
+    "commons_title": "Flag of Madeira.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Madeira.svg",
+    "revision": {
+      "sha1": "bba273bae9cefaea82b3d83bbe3607c3f49d1b0f",
+      "timestamp": "2021-05-06T22:47:13Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_Madeira.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 1200,
+      "height": 800,
+      "uploader": "~riley"
+    },
+    "license": "CC BY-SA 1.0",
+    "license_kind": "share-alike",
+    "license_url": "https://creativecommons.org/licenses/by-sa/1.0/",
+    "license_tags": [
+      "CC-BY-SA-1.0"
+    ],
+    "license_options": [
+      "unrecognized license template",
+      "CC BY-SA 1.0"
+    ],
+    "license_conditions": [],
+    "own_license": "CC BY-SA 1.0",
+    "own_license_url": "https://creativecommons.org/licenses/by-sa/1.0/",
+    "own_kind": "copyleft",
+    "author": "Brian Boru (design); Nuno Tavares (vector drawing)",
+    "versions": [
+      {
+        "user": "Denelson83",
+        "date": "2006-02-23",
+        "comment": "Flag of the [[w:Madeira Islands|]], from the xrmap flag collection 2.9."
+      },
+      {
+        "user": "Pmsyyz",
+        "date": "2006-05-04",
+        "comment": "better version"
+      },
+      {
+        "user": "Permjak",
+        "date": "2009-10-18",
+        "comment": "SVG code"
+      },
+      {
+        "user": "Sarang",
+        "date": "2013-08-31",
+        "comment": "changed to ValidSVG"
+      },
+      {
+        "user": "Zscout370",
+        "date": "2016-03-22",
+        "comment": "http://www.idr.madeira.gov.pt/portal/ficheiros/Intervir/Guia_Normas_IP_Intervir.pdf pp 16-19"
+      },
+      {
+        "user": "Zscout370",
+        "date": "2016-09-13",
+        "comment": "I am not sure what happened with the code; will fix (seems to be broken on Wikimedias end, not mine)"
+      },
+      {
+        "user": "Zscout370",
+        "date": "2016-09-13",
+        "comment": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> was failed to be added to the lead of the code; couldn't believe it was a simple solution!"
+      },
+      {
+        "user": "~riley",
+        "date": "2021-05-06",
+        "comment": "Edit request per talk page to match colouring to official source // Editing SVG source code using [[c:User:Rillke/SVGedit.js]]"
+      }
+    ],
+    "contributors": [
+      "Denelson83",
+      "Pmsyyz",
+      "Permjak",
+      "Sarang",
+      "Zscout370",
+      "~riley"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": true,
+    "wikidata": "Q26253",
+    "wikipedia": "Madeira",
+    "wikidata_flag_images": [
+      "Flag of Madeira.svg"
+    ]
+  },
+  "ru-ce": {
+    "commons_title": "Flag of the Chechen Republic.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Chechen_Republic.svg",
+    "revision": {
+      "sha1": "10d402dc99f5cae001abb3228fe0c668a5ea0eae",
+      "timestamp": "2025-07-03T10:25:59Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Flag_of_the_Chechen_Republic.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 450,
+      "height": 300,
+      "uploader": "Anonykitten"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD-RU-exempt",
+      "PD-RU-exempt (flags)"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "Lokal Profil",
+    "versions": [
+      {
+        "user": "Lokal Profil",
+        "date": "2007-11-30",
+        "comment": "== Summary =="
+      },
+      {
+        "user": "Fred the Oyster",
+        "date": "2011-12-24",
+        "comment": "tidy up code"
+      },
+      {
+        "user": "Fry1989",
+        "date": "2013-06-13",
+        "comment": "colours with code"
+      },
+      {
+        "user": "Sarang",
+        "date": "2014-02-24",
+        "comment": "simplified"
+      },
+      {
+        "user": "SpinnerLaserzthe2nd",
+        "date": "2021-02-06",
+        "comment": "New version"
+      },
+      {
+        "user": "Alterbulat",
+        "date": "2021-03-24",
+        "comment": "Орнамент совмещен"
+      },
+      {
+        "user": "Havsjö",
+        "date": "2021-11-24",
+        "comment": "thicker symbols (such as https://c8.alamy.com/comp/2D10MFJ/grozny-russia-4th-oct-2020-ramzan-kadyrov-c-head-of-the-chechen-republic-gives-a-speech-during-a-cere"
+      },
+      {
+        "user": "John emil hernandez",
+        "date": "2023-04-27",
+        "comment": "optimized"
+      },
+      {
+        "user": "Anonykitten",
+        "date": "2025-07-03",
+        "comment": "код оптимизаци яр"
+      }
+    ],
+    "contributors": [
+      "Fred the Oyster",
+      "Fry1989",
+      "Sarang",
+      "SpinnerLaserzthe2nd",
+      "Alterbulat",
+      "Havsjö",
+      "John emil hernandez",
+      "Anonykitten"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q5187",
+    "wikipedia": "Chechnya",
+    "wikidata_flag_images": [
+      "Flag of the Chechen Republic.svg"
+    ]
+  },
+  "ru-cu": {
+    "commons_title": "Flag of Chuvashia.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Chuvashia.svg",
+    "revision": {
+      "sha1": "4413e166325ff6e2dda19d73d2e48fc587761c96",
+      "timestamp": "2024-08-22T06:59:09Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Flag_of_Chuvashia.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 512,
+      "height": 320,
+      "uploader": "Glrx"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD-RU-exempt",
+      "PD-RU-exempt (flags)"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "English: Elli Mikhailovich Yuriev Чӑвашла: Элли Михаил ывӑлӗ Русский: Элли Михайлович Юрьев",
+    "versions": [
+      {
+        "user": "Urmas",
+        "date": "2006-02-22",
+        "comment": "[[Category:SVG flags]]"
+      },
+      {
+        "user": "AnonMoos",
+        "date": "2014-03-17",
+        "comment": "some code simplification"
+      },
+      {
+        "user": "GTRus",
+        "date": "2017-04-17",
+        "comment": "fix geometry"
+      },
+      {
+        "user": "GTRus",
+        "date": "2017-04-17",
+        "comment": "bug fix"
+      },
+      {
+        "user": "AnonMoos",
+        "date": "2017-04-17",
+        "comment": "eliminating Adobe cruft"
+      },
+      {
+        "user": "GTRus",
+        "date": "2017-04-20",
+        "comment": "максимально соблюдены пропорции"
+      },
+      {
+        "user": "GTRus",
+        "date": "2017-05-29",
+        "comment": "Красный цвет изменен на пурпурный"
+      },
+      {
+        "user": "GTRus",
+        "date": "2017-07-25",
+        "comment": "update"
+      },
+      {
+        "user": "GTRus",
+        "date": "2018-01-20",
+        "comment": "исправление цветов"
+      },
+      {
+        "user": "GTRus",
+        "date": "2018-01-20",
+        "comment": "rgb colors"
+      },
+      {
+        "user": "GTRus",
+        "date": "2020-06-12",
+        "comment": "fix geomentry"
+      },
+      {
+        "user": "John emil hernandez",
+        "date": "2023-04-28",
+        "comment": "optimized"
+      },
+      {
+        "user": "CalendulaAsteraceae",
+        "date": "2023-11-14",
+        "comment": "fix some of the problems with the code"
+      },
+      {
+        "user": "Glrx",
+        "date": "2023-11-17",
+        "comment": "floating point syntax // Editing SVG source code using [[c:User:Rillke/SVGedit.js]]"
+      },
+      {
+        "user": "Glrx",
+        "date": "2023-11-17",
+        "comment": "del width height; fix more floats // Editing SVG source code using [[c:User:Rillke/SVGedit.js]]"
+      },
+      {
+        "user": "Glrx",
+        "date": "2023-11-17",
+        "comment": "remove transform scale(1e-5)"
+      }
+    ],
+    "contributors": [
+      "Urmas",
+      "AnonMoos",
+      "GTRus",
+      "John emil hernandez",
+      "CalendulaAsteraceae",
+      "Glrx"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q5466",
+    "wikipedia": "Chuvashia",
+    "wikidata_flag_images": [
+      "Flag of Chuvashia.svg"
+    ]
+  },
+  "ru-da": {
+    "commons_title": "Flag of Dagestan.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Dagestan.svg",
+    "revision": {
+      "sha1": "37e942a3ec87a62d20e1370095ca5add21121671",
+      "timestamp": "2025-02-08T20:52:48Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_Dagestan.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 900,
+      "height": 600,
+      "uploader": "JPD"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD-RU-exempt",
+      "PD-RU-exempt (flags)"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "Stianbh",
+    "versions": [
+      {
+        "user": "Stianbh",
+        "date": "2006-01-02",
+        "comment": "Made by me, [[User:Stianbh]], and based on [[Image:Dagestani flag.png]]."
+      },
+      {
+        "user": "Fibonacci",
+        "date": "2006-06-20",
+        "comment": "Simplified version, corresponding to the specifications of FOTW, PD."
+      },
+      {
+        "user": "Lzhl",
+        "date": "2008-05-19",
+        "comment": ""
+      },
+      {
+        "user": "Permjak",
+        "date": "2009-06-19",
+        "comment": "color"
+      },
+      {
+        "user": "JPD",
+        "date": "2018-01-12",
+        "comment": "Colour change in 2003, see [https://geraldika.ru/symbols/16440] and [http://www.crwflags.com/fotw/flags/ru-05.html#pres]."
+      }
+    ],
+    "contributors": [
+      "Fibonacci",
+      "Lzhl",
+      "Permjak",
+      "JPD"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [
+      {
+        "title": "Dagestani flag.png",
+        "page": "https://commons.wikimedia.org/wiki/File:Dagestani_flag.png",
+        "author": "Maximaximax (uploader)",
+        "license": "Public domain",
+        "license_url": null,
+        "binding": false
+      }
+    ],
+    "attribution_required": false,
+    "wikidata": "Q5118",
+    "wikipedia": "Dagestan",
+    "wikidata_flag_images": [
+      "Flag of Dagestan.svg"
+    ]
+  },
+  "ru-dpr": {
+    "commons_title": "Flag of Donetsk People's Republic.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Donetsk_People%27s_Republic.svg",
+    "revision": {
+      "sha1": "19ce01be6b7fe77f8d796c19290b2034caaede6b",
+      "timestamp": "2023-08-12T23:21:14Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Donetsk_People%27s_Republic.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 512,
+      "height": 341,
+      "uploader": "Andrew Pertsev"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD ineligible",
+      "PD-RU-exempt",
+      "PD-RU-exempt (flags)",
+      "PD-self",
+      "PD-trivial"
+    ],
+    "license_options": [
+      "Public domain"
+    ],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "release",
+    "author": "Владимир Ђорђевић",
+    "versions": [
+      {
+        "user": "Владимир Ђорђевић",
+        "date": "2009-11-06",
+        "comment": "{{Information"
+      },
+      {
+        "user": "Владимир Ђорђевић",
+        "date": "2009-11-06",
+        "comment": "Colors are corrected."
+      },
+      {
+        "user": "Zscout370",
+        "date": "2010-04-15",
+        "comment": "Inkscape or the other programs cannot open this image. Fixing."
+      },
+      {
+        "user": "Ιγκόρ",
+        "date": "2018-11-29",
+        "comment": "colors"
+      },
+      {
+        "user": "Andrew Pertsev",
+        "date": "2023-08-12",
+        "comment": "svg code reduction"
+      },
+      {
+        "user": "Andrew Pertsev",
+        "date": "2023-08-12",
+        "comment": "correction"
+      }
+    ],
+    "contributors": [
+      "Zscout370",
+      "Ιγκόρ",
+      "Andrew Pertsev"
+    ],
+    "releaser": "Владимир Ђорђевић",
+    "release_not_used": null,
+    "later_versions": "Later uploads fixed SVG compatibility, corrected colors and reduced code. These revisions were uploaded under the existing public-domain terms.",
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": null,
+    "wikipedia": "Donetsk_People%27s_Republic",
+    "wikidata_flag_images": []
+  },
+  "ru-lpr": {
+    "commons_title": "Flag of the Luhansk People's Republic.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Luhansk_People%27s_Republic.svg",
+    "revision": {
+      "sha1": "82881b74bafa8b24d75de62b0f3769c9e003efc2",
+      "timestamp": "2022-02-24T03:09:53Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_the_Luhansk_People%27s_Republic.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 900,
+      "height": 600,
+      "uploader": "Colohisto"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD-LPR-exempt",
+      "PD-RU-exempt",
+      "PD-RU-exempt (flags)"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "Revolver 45",
+    "versions": [
+      {
+        "user": "Revolver 45",
+        "date": "2014-12-21",
+        "comment": "User created page with UploadWizard"
+      },
+      {
+        "user": "Havsjö",
+        "date": "2022-02-21",
+        "comment": "Colour vibrancy"
+      },
+      {
+        "user": "Havsjö",
+        "date": "2022-02-21",
+        "comment": "minor adjust"
+      },
+      {
+        "user": "Colohisto",
+        "date": "2022-02-24",
+        "comment": "Code cleanup"
+      }
+    ],
+    "contributors": [
+      "Havsjö",
+      "Colohisto"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [
+      {
+        "title": "t=f",
+        "page": "https://commons.wikimedia.org/wiki/File:t%3Df",
+        "author": null,
+        "license": "file not found",
+        "license_url": null,
+        "binding": false
+      }
+    ],
+    "attribution_required": false,
+    "wikidata": null,
+    "wikipedia": "Luhansk_People%27s_Republic",
+    "wikidata_flag_images": []
+  },
+  "ua-bpr": {
+    "commons_title": "Flag of the fictional \"Belgorod People's Republic\".svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_the_fictional_%22Belgorod_People%27s_Republic%22.svg",
+    "revision": {
+      "sha1": "1de7525d854b1c0cffeaee92ef0f2849f5eb1642",
+      "timestamp": "2023-05-23T02:45:23Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Flag_of_the_fictional_%22Belgorod_People%27s_Republic%22.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 512,
+      "height": 341,
+      "uploader": "Flagvisioner"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD-RU-exempt",
+      "PD-RU-exempt (flags)",
+      "PD-RU-exempt (possible wrong license)"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "Author unknown",
+    "versions": [
+      {
+        "user": "Flagvisioner",
+        "date": "2023-05-23",
+        "comment": "Uploaded a work by Author unknown from vector image based off of https://twitter.com/front_ukrainian/status/1660591411660554241/photo/1 with UploadWizard"
+      }
+    ],
+    "contributors": [
+      "Flagvisioner"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": null,
+    "wikipedia": "Belgorod_People%27s_Republic",
+    "wikidata_flag_images": []
+  },
+  "us-ak": {
+    "commons_title": "Flag of Alaska.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Alaska.svg",
+    "revision": {
+      "sha1": "2b87f6468b49810b6af02983a6496c5a5d5670d2",
+      "timestamp": "2022-11-28T10:49:57Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Alaska.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 1416,
+      "height": 1000,
+      "uploader": "John emil hernandez"
+    },
+    "license": "CC0",
+    "license_kind": "public domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "license_tags": [
+      "Author died more than 100 years ago public domain images",
+      "CC-PD-Mark",
+      "CC-Zero",
+      "PD OpenClipart",
+      "PD-100",
+      "PD-OpenClipart"
+    ],
+    "license_options": [
+      "CC0"
+    ],
+    "license_conditions": [],
+    "own_license": "CC0",
+    "own_license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "own_kind": "release",
+    "author": "Benny Benson",
+    "versions": [
+      {
+        "user": "Dbenbenn",
+        "date": "2005-09-14",
+        "comment": "from http://openclipart.org/clipart/signs_and_symbols/flags/america/united_states/usa_alaska.svg by Chris Hilker, PD"
+      },
+      {
+        "user": "Zscout370",
+        "date": "2010-05-14",
+        "comment": "Sec. 44.09.020. State flag states that the blue in the Alaska flag is the same as the US flag, so in this case, Pantone 281 C. I am not certain about the yellow"
+      },
+      {
+        "user": "DevinCook",
+        "date": "2010-05-16",
+        "comment": "I updated the fly to match the 2/3 of most U.S. Flags. The color of the stars was set to gold - as specified in State Law."
+      },
+      {
+        "user": "DevinCook",
+        "date": "2010-05-16",
+        "comment": "This is designed on a mockup displayed in photograph with Benny Benson, Gov. Egan and Charlotte Benson."
+      },
+      {
+        "user": "Zscout370",
+        "date": "2010-06-03",
+        "comment": "Received Sec. 44.09.020 via email today. Complete overhaul. The yellow is Spanish yellow pms 1235 according to the state, but the blue is kept the same."
+      },
+      {
+        "user": "Zscout370",
+        "date": "2010-06-03",
+        "comment": "The Government emailed me back and said Pantone 2768 is used on the state flag officially."
+      },
+      {
+        "user": "Zscout370",
+        "date": "2010-06-04",
+        "comment": "More accurate code"
+      },
+      {
+        "user": "HapHaxion",
+        "date": "2022-09-08",
+        "comment": "minor star adjustments per https://usflags.design/alaska/"
+      },
+      {
+        "user": "John emil hernandez",
+        "date": "2022-11-28",
+        "comment": "reduce file size"
+      }
+    ],
+    "contributors": [
+      "Dbenbenn",
+      "Zscout370",
+      "DevinCook",
+      "HapHaxion",
+      "John emil hernandez"
+    ],
+    "releaser": "Open Clip Art Library",
+    "release_not_used": null,
+    "later_versions": "Later uploads redrew the stars and their placement using state specifications, corrected colors from state correspondence, and optimized the SVG. These revisions were uploaded under the existing public-domain terms.",
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q797",
+    "wikipedia": "Alaska",
+    "wikidata_flag_images": [
+      "Flag of Alaska.svg"
+    ]
+  },
+  "us-ar": {
+    "commons_title": "Flag of Arkansas.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Arkansas.svg",
+    "revision": {
+      "sha1": "ec088ade04ce395af7e2c46daff5c0f83602628c",
+      "timestamp": "2026-01-22T00:22:17Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Arkansas.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 450,
+      "height": 300,
+      "uploader": "HoosierMan1816"
+    },
+    "license": "CC0",
+    "license_kind": "public domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "license_tags": [
+      "CC-Zero",
+      "PD OpenClipart",
+      "PD US expired",
+      "PD-1923",
+      "PD-OpenClipart"
+    ],
+    "license_options": [
+      "CC0"
+    ],
+    "license_conditions": [],
+    "own_license": "CC0",
+    "own_license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "own_kind": "release",
+    "author": "Open Clip Art Library",
+    "versions": [
+      {
+        "user": "Dbenbenn",
+        "date": "2005-09-14",
+        "comment": "from http://openclipart.org/clipart/signs_and_symbols/flags/america/united_states/usa_arkansas.svg by Steve Hall, PD"
+      },
+      {
+        "user": "Zscout370",
+        "date": "2007-05-24",
+        "comment": "Removing stroke lines and made text blue. Changes released as PD."
+      },
+      {
+        "user": "Zscout370",
+        "date": "2009-08-16",
+        "comment": "New font for Arkansas; matches a flag I received from a state office"
+      },
+      {
+        "user": "Zscout370",
+        "date": "2009-08-17",
+        "comment": "Cleanup"
+      },
+      {
+        "user": "Zscout370",
+        "date": "2009-08-17",
+        "comment": "Going back with smaller size, also reduced code as much as possible."
+      },
+      {
+        "user": "John emil hernandez",
+        "date": "2022-06-27",
+        "comment": "Missing Stars"
+      },
+      {
+        "user": "Anomie",
+        "date": "2022-06-27",
+        "comment": "Smaller file size, by fixing the prior version to work around [[phab:T276684]]"
+      },
+      {
+        "user": "John emil hernandez",
+        "date": "2022-11-28",
+        "comment": "reduce file size"
+      },
+      {
+        "user": "HoosierMan1816",
+        "date": "2026-01-22",
+        "comment": "Changed blue to match the flag of the United States."
+      }
+    ],
+    "contributors": [
+      "Dbenbenn",
+      "Zscout370",
+      "John emil hernandez",
+      "Anomie",
+      "HoosierMan1816"
+    ],
+    "releaser": "Open Clip Art Library",
+    "release_not_used": null,
+    "later_versions": "Later uploads corrected lettering and stars, restored US flag blue and reduced code; Zscout370 explicitly released the early corrections as public domain. These revisions were uploaded under the existing public-domain terms.",
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q1612",
+    "wikipedia": "Arkansas",
+    "wikidata_flag_images": [
+      "Flag of Arkansas.svg"
+    ]
+  },
+  "us-az": {
+    "commons_title": "Flag of Arizona.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Arizona.svg",
+    "revision": {
+      "sha1": "a8b734c09039728b30b305e0e5417694139ef88b",
+      "timestamp": "2026-01-22T00:28:29Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Arizona.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 900,
+      "height": 600,
+      "uploader": "HoosierMan1816"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "Author died more than 100 years ago public domain images",
+      "CC-PD-Mark",
+      "PD-100"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "unknown (design); Madden (vector drawing)",
+    "versions": [
+      {
+        "user": "Dbenbenn",
+        "date": "2005-09-14",
+        "comment": "from http://openclipart.org/clipart/signs_and_symbols/flags/america/united_states/usa_arizona.svg, PD"
+      },
+      {
+        "user": "Dbenbenn",
+        "date": "2005-09-14",
+        "comment": "change blue to #002868, to agree with [[Image:Flag of the United States.svg]], according to [[w:flag of Arizona]]"
+      },
+      {
+        "user": "Madden",
+        "date": "2006-09-01",
+        "comment": "Reconstruction after Arizona Flag Atatute, which besides defines \"The red and blue shall be the same shade as the colors in the flag of the United States\". Yell"
+      },
+      {
+        "user": "Madden",
+        "date": "2006-09-01",
+        "comment": "size of the star corrected"
+      },
+      {
+        "user": "Magasjukur2",
+        "date": "2012-05-02",
+        "comment": "Simplified"
+      },
+      {
+        "user": "Sarang",
+        "date": "2012-05-15",
+        "comment": "complicated"
+      },
+      {
+        "user": "SiBr4",
+        "date": "2014-09-15",
+        "comment": "Redid the sunrays. While the circle with stroke-dasharray is a clever idea which brings the code down substantially, it is quite visibly inexact."
+      },
+      {
+        "user": "Zscout370",
+        "date": "2016-05-19",
+        "comment": "As per https://arizonastatearchives.net/2011/12/22/the-arizona-state-flag/"
+      },
+      {
+        "user": "Thespoondragon",
+        "date": "2019-02-19",
+        "comment": "slightly moved star so it aligned with rays, per [https://azlibrary.gov/state-symbols/state-flag]"
+      },
+      {
+        "user": "Druaga2",
+        "date": "2019-03-04",
+        "comment": "optimized"
+      },
+      {
+        "user": "Mike Rohsopht",
+        "date": "2021-08-06",
+        "comment": "Simplified"
+      },
+      {
+        "user": "Flagvisioner",
+        "date": "2022-05-04",
+        "comment": "Used red and blue colors from File:Flag of the United States (Pantone).svg"
+      },
+      {
+        "user": "Flagvisioner",
+        "date": "2022-05-04",
+        "comment": "correct proportions"
+      },
+      {
+        "user": "Flagvisioner",
+        "date": "2022-09-17",
+        "comment": "Further code reduction"
+      },
+      {
+        "user": "HoosierMan1816",
+        "date": "2025-02-26",
+        "comment": "The blue was rendered wrong in the file's code."
+      },
+      {
+        "user": "HoosierMan1816",
+        "date": "2026-01-22",
+        "comment": "Fixed the colors to match the flag of the United States. #BF0A30 for red and #00205B for blue."
+      }
+    ],
+    "contributors": [
+      "Dbenbenn",
+      "Magasjukur2",
+      "Sarang",
+      "SiBr4",
+      "Zscout370",
+      "Thespoondragon",
+      "Druaga2",
+      "Mike Rohsopht",
+      "Flagvisioner",
+      "HoosierMan1816"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q816",
+    "wikipedia": "Arizona",
+    "wikidata_flag_images": [
+      "Flag of Arizona.svg"
+    ]
+  },
+  "us-in": {
+    "commons_title": "Flag of Indiana.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Indiana.svg",
+    "revision": {
+      "sha1": "e28c33ba61e09f68c44e68dea27f535e112f022b",
+      "timestamp": "2025-06-18T21:19:12Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Flag_of_Indiana.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 750,
+      "height": 500,
+      "uploader": "HoosierMan1816"
+    },
+    "license": "CC0",
+    "license_kind": "public domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "license_tags": [
+      "CC-Zero",
+      "PD OpenClipart",
+      "PD US expired",
+      "PD-1923",
+      "PD-OpenClipart"
+    ],
+    "license_options": [
+      "CC0"
+    ],
+    "license_conditions": [],
+    "own_license": "CC0",
+    "own_license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "own_kind": "release",
+    "author": "The Indiana state flag was designed by Paul Hadley in 1917. This SVG file was made by Zscout370 with some modifications by HoosierMan1816.",
+    "versions": [
+      {
+        "user": "Dbenbenn",
+        "date": "2005-09-16",
+        "comment": "from http://openclipart.org/clipart/signs_and_symbols/flags/america/united_states/usa_indiana.svg by Christian Schaller, PD"
+      },
+      {
+        "user": "Denelson83",
+        "date": "2006-01-21",
+        "comment": "Much improved version"
+      },
+      {
+        "user": "Denelson83",
+        "date": "2006-01-21",
+        "comment": "Get rid of that thin circle"
+      },
+      {
+        "user": "Zscout370",
+        "date": "2009-10-25",
+        "comment": "There was stray text"
+      },
+      {
+        "user": "Fry1989",
+        "date": "2010-06-23",
+        "comment": "blue"
+      },
+      {
+        "user": "Fry1989",
+        "date": "2010-07-02",
+        "comment": "better blue"
+      },
+      {
+        "user": "AnonMoos",
+        "date": "2012-08-22",
+        "comment": "simplify"
+      },
+      {
+        "user": "Zscout370",
+        "date": "2013-08-15",
+        "comment": "Overhaul of the flag, using a new color for the symbols. I am visiting the state next week so I can see what is used and get specs."
+      },
+      {
+        "user": "HoosierMan1816",
+        "date": "2024-04-01",
+        "comment": "Better yellow. Fixed one of the rays that was touching the flame. The text is more centered between the two stars. The details on the torch are more aligned."
+      },
+      {
+        "user": "HoosierMan1816",
+        "date": "2024-04-03",
+        "comment": "Added some finishing touches to the flame and to the text."
+      },
+      {
+        "user": "HoosierMan1816",
+        "date": "2024-04-06",
+        "comment": "Code fix. The text should appear correctly now."
+      },
+      {
+        "user": "HoosierMan1816",
+        "date": "2024-04-06",
+        "comment": "Everything is now correctly centered. The stars are perfectly centered, the torch is centered, and the aspect ratio fits. This is the best I can get the flag to"
+      },
+      {
+        "user": "HoosierMan1816",
+        "date": "2024-05-04",
+        "comment": "The rays were a bit skinny. Made the rays more thicker."
+      },
+      {
+        "user": "HoosierMan1816",
+        "date": "2024-05-24",
+        "comment": "Proper code for the rays."
+      },
+      {
+        "user": "HoosierMan1816",
+        "date": "2024-06-13",
+        "comment": "2:3 aspect ratio per the Indiana State Flag Code."
+      },
+      {
+        "user": "Kavigupta",
+        "date": "2024-06-29",
+        "comment": "Remove the alpha channel from fill to make it compatible with inkscape (before the yellow parts were being rendered as black)"
+      },
+      {
+        "user": "HoosierMan1816",
+        "date": "2024-07-12",
+        "comment": "The torch was slightly off center. I redid the stars and rays as their sides weren't perfectly aligned."
+      },
+      {
+        "user": "HoosierMan1816",
+        "date": "2024-07-20",
+        "comment": "Redid the flame."
+      },
+      {
+        "user": "SVG flag maker",
+        "date": "2025-01-11",
+        "comment": "reduce size"
+      },
+      {
+        "user": "SVG flag maker",
+        "date": "2025-01-15",
+        "comment": "reduce size"
+      },
+      {
+        "user": "SVG flag maker",
+        "date": "2025-01-15",
+        "comment": "reduce size"
+      },
+      {
+        "user": "HoosierMan1816",
+        "date": "2025-06-18",
+        "comment": "Separated the paths so that the file can be properly used in Inkscape."
+      }
+    ],
+    "contributors": [
+      "Dbenbenn",
+      "Denelson83",
+      "Fry1989",
+      "AnonMoos",
+      "Kavigupta",
+      "SVG flag maker"
+    ],
+    "releaser": "Open Clip Art Library",
+    "release_not_used": null,
+    "later_versions": "Later uploads redrew the torch, rays, stars and outlined lettering, corrected colors and the statutory 2:3 ratio, and optimized the SVG. These revisions were uploaded under the existing public-domain terms.",
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q1415",
+    "wikipedia": "Indiana",
+    "wikidata_flag_images": [
+      "Flag of Indiana.svg"
+    ]
+  },
+  "us-mn": {
+    "commons_title": "Flag of Minnesota.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Minnesota.svg",
+    "revision": {
+      "sha1": "8ac3bc6eeddbaeb55a54c88923fb80e879249f4f",
+      "timestamp": "2024-07-16T19:20:31Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Minnesota.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 1000,
+      "height": 600,
+      "uploader": "Jamie Eilat"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD flag",
+      "PD-flag"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "<>Minnesota State Emblems Redesign Commission (design); <>Jamie Eilat, Undertiago (vector drawing)",
+    "versions": [
+      {
+        "user": "Jamie Eilat",
+        "date": "2023-12-20",
+        "comment": "Uploaded own work with UploadWizard"
+      },
+      {
+        "user": "Djkauffman",
+        "date": "2023-12-22",
+        "comment": "Minified SVG"
+      },
+      {
+        "user": "QuickQuokka",
+        "date": "2023-12-23",
+        "comment": "Minified a bit // Editing SVG source code using [[c:User:Rillke/SVGedit.js]]"
+      },
+      {
+        "user": "QuickQuokka",
+        "date": "2023-12-23",
+        "comment": "`height` & `width` &rarr; `viewBox` for reasons // Editing SVG source code using [[c:User:Rillke/SVGedit.js]]"
+      },
+      {
+        "user": "Jamie Eilat",
+        "date": "2023-12-24",
+        "comment": "Adjustment to hex colors & chevron angle to better match image source"
+      },
+      {
+        "user": "Szmenderowiecki",
+        "date": "2023-12-28",
+        "comment": "Change the code to include paths only"
+      },
+      {
+        "user": "Jamie Eilat",
+        "date": "2023-12-30",
+        "comment": "Recreated following the construction sheet provided in the \"Report of the Minnesota State Emblems Redesign Commission to the Minnesota Legislature and Governor\""
+      },
+      {
+        "user": "Jamie Eilat",
+        "date": "2023-12-30",
+        "comment": "correction to previous code update"
+      },
+      {
+        "user": "Undertiago",
+        "date": "2024-01-06",
+        "comment": "Remade the file entirely, based on (https://21588026.fs1.hubspotusercontent-na1.net/hubfs/21588026/State%20Emblems%20Redesign%20Commission/2023_SERC_Final_Repor"
+      },
+      {
+        "user": "Jamie Eilat",
+        "date": "2024-01-09",
+        "comment": "Fix diagonally-angled star points, which were drawn slightly too long."
+      },
+      {
+        "user": "Jamie Eilat",
+        "date": "2024-01-09",
+        "comment": "width & height"
+      },
+      {
+        "user": "Undertiago",
+        "date": "2024-01-16",
+        "comment": "I can´t believe it but I made the star perfect after hours of studying SVG and experimenting with other files with perfect stars."
+      },
+      {
+        "user": "Undertiago",
+        "date": "2024-01-16",
+        "comment": "Removed (xmlns:xlink=\"http://www.w3.org/1999/xlink\")"
+      },
+      {
+        "user": "Undertiago",
+        "date": "2024-01-16",
+        "comment": "Solved the error. Now the flag should be perfect with no need of additional changes."
+      },
+      {
+        "user": "Jamie Eilat",
+        "date": "2024-01-16",
+        "comment": "Star points in previous version were slightly too thin, with an angular size of 44 degrees, instead of the correct 45 degrees"
+      },
+      {
+        "user": "Jamie Eilat",
+        "date": "2024-07-16",
+        "comment": "update hex values of colors based on finalized version of flag report"
+      },
+      {
+        "user": "Jamie Eilat",
+        "date": "2024-07-16",
+        "comment": "svg dimensions"
+      }
+    ],
+    "contributors": [
+      "Djkauffman",
+      "QuickQuokka",
+      "Szmenderowiecki"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q1527",
+    "wikipedia": "Minnesota",
+    "wikidata_flag_images": [
+      "Flag of Minnesota.svg"
+    ]
+  },
+  "us-ms": {
+    "commons_title": "Flag of Mississippi.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Mississippi.svg",
+    "revision": {
+      "sha1": "072e8114b205d5c6770a5a367ae99cb1e42ab3e0",
+      "timestamp": "2021-08-24T07:40:38Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Flag_of_Mississippi.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 1200,
+      "height": 720,
+      "uploader": "Mike Rohsopht"
+    },
+    "license": "Copyrighted free use",
+    "license_kind": "attribution",
+    "license_url": "https://commons.wikimedia.org/wiki/Template:Copyrighted_free_use",
+    "license_tags": [
+      "Copyrighted free use"
+    ],
+    "license_options": [
+      "Copyrighted free use"
+    ],
+    "license_conditions": [],
+    "own_license": "Copyrighted free use",
+    "own_license_url": "https://commons.wikimedia.org/wiki/Template:Copyrighted_free_use",
+    "own_kind": "attribution",
+    "author": "Rocky Vaughn, Sue Anna Joe, Dominique Pugh, Clay Moss, Kara Giles, Micah Whitson and the Mississippi Department of Archives and History",
+    "versions": [
+      {
+        "user": "DrRandomFactor",
+        "date": "2020-09-02",
+        "comment": "Uploaded a work by Rocky Vaughn, Sue Anna Joe, and Kara Giles from https://www.mdah.ms.gov/flagpoll-top2 with UploadWizard"
+      },
+      {
+        "user": "DrRandomFactor",
+        "date": "2020-09-03",
+        "comment": "Adjusted the ratio of the bars to make them more proportional to each other in size. The ratio of the bars is now 5:1:15:1:5. "
+      },
+      {
+        "user": "Wester",
+        "date": "2020-09-03",
+        "comment": "Based on https://www.mdah.ms.gov/sites/default/files/inline-images/chosen-final-flag.jpg"
+      },
+      {
+        "user": "Illegitimate Barrister",
+        "date": "2020-11-05",
+        "comment": "tweaked"
+      },
+      {
+        "user": "Mike Rohsopht",
+        "date": "2021-08-24",
+        "comment": "Converted from official AI format, adjusted the width of the bars according to Miss. Code Ann. § 3-3-16"
+      }
+    ],
+    "contributors": [
+      "DrRandomFactor",
+      "Wester",
+      "Illegitimate Barrister",
+      "Mike Rohsopht"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": true,
+    "wikidata": "Q1494",
+    "wikipedia": "Mississippi",
+    "wikidata_flag_images": [
+      "Flag of Mississippi.svg"
+    ]
+  },
+  "us-nm": {
+    "commons_title": "Flag of New Mexico.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_New_Mexico.svg",
+    "revision": {
+      "sha1": "120a055a856e270c877bb48d093175705a78cc20",
+      "timestamp": "2026-03-21T21:34:29Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_New_Mexico.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 1800,
+      "height": 1200,
+      "uploader": "Colohisto"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD flag",
+      "PD-flag"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "Nightstallion (uploader)",
+    "versions": [
+      {
+        "user": "Nightstallion",
+        "date": "2005-11-29",
+        "comment": "The [[w:flag of New Mexico|flag of New Mexico]]."
+      },
+      {
+        "user": "Permjak",
+        "date": "2009-11-10",
+        "comment": "SVG code"
+      },
+      {
+        "user": "Zscout370",
+        "date": "2011-12-03",
+        "comment": "http://law.justia.com/codes/new-mexico/2009/chapter-12/article-3/section-12-3-2/"
+      },
+      {
+        "user": "Zscout370",
+        "date": "2013-01-08",
+        "comment": "Code"
+      },
+      {
+        "user": "AnonMoos",
+        "date": "2013-06-24",
+        "comment": "simplify code"
+      },
+      {
+        "user": "AnonMoos",
+        "date": "2013-06-24",
+        "comment": "further simplify"
+      },
+      {
+        "user": "HapHaxion",
+        "date": "2022-09-08",
+        "comment": "dimensions from https://usflags.design/new-mexico/"
+      },
+      {
+        "user": "HapHaxion",
+        "date": "2023-03-20",
+        "comment": "nominal size increase"
+      },
+      {
+        "user": "Colohisto",
+        "date": "2023-06-01",
+        "comment": "Removed unnecessary code"
+      }
+    ],
+    "contributors": [
+      "Permjak",
+      "Zscout370",
+      "AnonMoos",
+      "HapHaxion",
+      "Colohisto"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q1522",
+    "wikipedia": "New_Mexico",
+    "wikidata_flag_images": [
+      "Flag of New Mexico.svg"
+    ]
+  },
+  "us-or": {
+    "commons_title": "Flag of Oregon.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Oregon.svg",
+    "revision": {
+      "sha1": "8d43b381e6fe3a0d38e4d8deab0caf48968abb35",
+      "timestamp": "2026-08-21T12:58:57Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Oregon.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 768,
+      "height": 512,
+      "uploader": "HoosierMan1816"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD-copyright holder",
+      "PD-xrmap"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "Denelson83",
+    "versions": [
+      {
+        "user": "Denelson83",
+        "date": "2006-01-22",
+        "comment": "Flag of [[w:Oregon|]], from the xrmap flag collection 2.7.  Colors derived from image at [http://www.flags.net/UNST01.htm World Flag Database]."
+      },
+      {
+        "user": "Tcfc2349",
+        "date": "2019-10-05",
+        "comment": "optimized and validated"
+      },
+      {
+        "user": "Enzwell",
+        "date": "2022-06-09",
+        "comment": "Refinements and smoothing."
+      },
+      {
+        "user": "Enzwell",
+        "date": "2022-06-09",
+        "comment": "Colors only defined in statute as Navy Blue and Gold. Changed colors to match previous."
+      },
+      {
+        "user": "John emil hernandez",
+        "date": "2022-11-25",
+        "comment": "reduce file size"
+      },
+      {
+        "user": "HoosierMan1816",
+        "date": "2025-03-21",
+        "comment": "Changed the colors to the actual hex codes for navy and gold."
+      }
+    ],
+    "contributors": [
+      "Tcfc2349",
+      "Enzwell",
+      "John emil hernandez",
+      "HoosierMan1816"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q824",
+    "wikipedia": "Oregon",
+    "wikidata_flag_images": [
+      "Flag of Oregon.svg"
+    ]
+  },
+  "fr-cp": {
+    "commons_title": "Flag of France.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_France.svg",
+    "revision": {
+      "sha1": "66bdc8e9edf0515a0742b58a4f04fa1103084d56",
+      "timestamp": "2024-09-25T13:23:18Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 900,
+      "height": 600,
+      "uploader": "Andrew Pertsev"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD France",
+      "PD flag",
+      "PD shape",
+      "PD-France",
+      "PD-flag",
+      "PD-simple"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "unknown (design); SKopp (vector drawing)",
+    "versions": [
+      {
+        "user": "Illegitimate Barrister",
+        "date": "2017-07-07",
+        "comment": "User created page with UploadWizard"
+      },
+      {
+        "user": "Sangjinhwa",
+        "date": "2018-05-07",
+        "comment": "reduce size"
+      },
+      {
+        "user": "Colohisto",
+        "date": "2022-11-19",
+        "comment": "Compression"
+      },
+      {
+        "user": "Andrew Pertsev",
+        "date": "2023-01-02",
+        "comment": "svg code reduction"
+      }
+    ],
+    "contributors": [
+      "Illegitimate Barrister",
+      "Sangjinhwa",
+      "Colohisto",
+      "Andrew Pertsev"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [
+      {
+        "title": "t=f",
+        "page": "https://commons.wikimedia.org/wiki/File:t%3Df",
+        "author": null,
+        "license": "file not found",
+        "license_url": null,
+        "binding": false
+      }
+    ],
+    "attribution_required": false,
+    "wikidata": "Q161258",
+    "wikipedia": "Clipperton_Island",
+    "wikidata_flag_images": [
+      "Flag of France.svg"
+    ]
+  },
+  "ch-gr": {
+    "commons_title": "CHE Graubünden Flag.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:CHE_Graub%C3%BCnden_Flag.svg",
+    "revision": {
+      "sha1": "92eb272381810f07b90c8ae22c2da700c1b44569",
+      "timestamp": "2026-02-02T19:17:48Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/CHE_Graub%C3%BCnden_Flag.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 600,
+      "height": 664,
+      "uploader": "ARK"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD Coa Switzerland",
+      "PD-Coa-Switzerland"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "Kanton Graubünden, Anton Nigg",
+    "versions": [
+      {
+        "user": "ARK",
+        "date": "2026-01-25",
+        "comment": "=={{int:filedesc}}=="
+      }
+    ],
+    "contributors": [
+      "ARK"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q11925",
+    "wikipedia": "Grisons",
+    "wikidata_flag_images": [
+      "CHE Graubünden Flag.svg"
+    ]
   }
 }

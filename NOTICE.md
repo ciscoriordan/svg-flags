@@ -88,6 +88,18 @@ Most of this repository is under the MIT license in [LICENSE](LICENSE). The file
 - License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 - Credit: [Bandera de la Provincia de Santa Cruz.svg](https://commons.wikimedia.org/wiki/File:Bandera_de_la_Provincia_de_Santa_Cruz.svg) by Unknown (Vector graphics image by Gorivero), with versions uploaded by Dexxter, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The circle and square files are crops of it.
 
+## `bq-sa` Saba
+
+- Files: `full-size/states/bq-sa.svg`, `full-size-simplified/states/bq-sa.svg`
+- License: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
+- Credit: [Flag of Saba.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Saba.svg) by Mysid, with versions uploaded by Denelson83 and SiBr4, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/). Only the two full-size files use this drawing; circle and square retain their existing artwork. The two full-size `bq-sa` files are distributed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) instead of MIT.
+
+## `bq-se` Sint Eustatius
+
+- Files: `full-size/states/bq-se.svg`, `full-size-simplified/states/bq-se.svg`
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+- Credit: [Flag of Sint Eustatius.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Sint_Eustatius.svg) by Andrwsc, with versions uploaded by Fry1989 and SiBr4, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Only the two full-size files use this drawing; circle and square retain their existing artwork. The two full-size `bq-se` files are distributed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) instead of MIT.
+
 ## `br-al` Alagoas
 
 - Files: `circle/states/br-al.svg`, `square/states/br-al.svg`, `full-size-simplified/states/br-al.svg`, `full-size/states/br-al.svg`
@@ -130,11 +142,23 @@ Most of this repository is under the MIT license in [LICENSE](LICENSE). The file
 - License: [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/)
 - Credit: [Bandeira do estado de São Paulo.svg](https://commons.wikimedia.org/wiki/File:Bandeira_do_estado_de_S%C3%A3o_Paulo.svg) by Felipe Micaroni Lalli, Giro720, with versions uploaded by FML and Mike Rohsopht, [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/), based on [Contorno do mapa do Brasil.svg](https://commons.wikimedia.org/wiki/File:Contorno_do_mapa_do_Brasil.svg) by FML (uploader), [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/). The circle and square files are crops of it. All four `br-sp` files are distributed under [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/) instead of MIT.
 
+## `cn-xj` Xinjiang
+
+- Files: `full-size/states/cn-xj.svg`, `full-size-simplified/states/cn-xj.svg`
+- License: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+- Credit: [Kokbayraq flag.svg](https://commons.wikimedia.org/wiki/File:Kokbayraq_flag.svg) by Tarkan, with versions uploaded by BetacommandBot and Colohisto, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/). Only the two full-size files use this drawing; circle and square retain their existing artwork.
+
 ## `es-an` Andalusia
 
 - Files: `circle/states/es-an.svg`, `square/states/es-an.svg`, `full-size-simplified/states/es-an.svg`, `full-size/states/es-an.svg`
 - License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 - Credit: [Flag of Andalucía.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Andaluc%C3%ADa.svg) by Miguillen, with versions uploaded by Tcfc2349, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). The circle and square files are crops of it. All four `es-an` files are distributed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) instead of MIT.
+
+## `es-ar` Aragon
+
+- Files: `full-size/states/es-ar.svg`, `full-size-simplified/states/es-ar.svg`
+- License: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
+- Credit: [Flag of Aragon.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Aragon.svg) by Willtron (uploader), with versions uploaded by Mutxamel and CarpetanoComplutense, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/). Only the two full-size files use this drawing; circle and square retain their existing artwork. The two full-size `es-ar` files are distributed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) instead of MIT.
 
 ## `es-cb` Cantabria
 
@@ -148,11 +172,23 @@ Most of this repository is under the MIT license in [LICENSE](LICENSE). The file
 - License: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 - Credit: [Flag of Castile and León.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Castile_and_Le%C3%B3n.svg) by Rastrojo, with versions uploaded by HansenBCN, Fry1989 and Χ, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/). The circle file is a zoomed-out view of it with its field continued past its edges, and the square file is a crop of it.
 
+## `es-ml` Melilla
+
+- Files: `full-size/states/es-ml.svg`, `full-size-simplified/states/es-ml.svg`
+- License: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
+- Credit: [Flag of Melilla.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Melilla.svg) by SanchoPanzaXXI, with versions uploaded by Xinese-v, HansenBCN, Quibik, SiBr4 and Great Brightstar, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/). Only the two full-size files use this drawing; circle and square retain their existing artwork. The two full-size `es-ml` files are distributed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) instead of MIT.
+
 ## `es-ri` La Rioja
 
 - Files: `circle/states/es-ri.svg`, `square/states/es-ri.svg`, `full-size-simplified/states/es-ri.svg`, `full-size/states/es-ri.svg`
 - License: [CC BY 2.5](https://creativecommons.org/licenses/by/2.5/)
 - Credit: [Flag of La Rioja (with coat of arms).svg](https://commons.wikimedia.org/wiki/File:Flag_of_La_Rioja_(with_coat_of_arms).svg) by jynus, with versions uploaded by Huhsunqu, Bigsus, HansenBCN and SiBr4, [CC BY 2.5](https://creativecommons.org/licenses/by/2.5/). The circle and square files are crops of it.
+
+## `it-34` Veneto
+
+- Files: `full-size/states/it-34.svg`, `full-size-simplified/states/it-34.svg`
+- License: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
+- Credit: [Flag of Veneto.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Veneto.svg) by Derivative work: F l a n k e r, with versions uploaded by Vajotwo, ANGELUS, Pottercomuneo, MrPenguin20, SiBr4, Facquis and MacBrenner, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/). The full-size files outline the book lettering with the recorded fallback font. Only the two full-size files use this drawing; circle and square retain their existing artwork. The two full-size `it-34` files are distributed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) instead of MIT.
 
 ## `mx-coa` Coahuila
 
@@ -213,3 +249,15 @@ Most of this repository is under the MIT license in [LICENSE](LICENSE). The file
 - Files: `circle/states/mx-yuc.svg`, `square/states/mx-yuc.svg`, `full-size-simplified/states/mx-yuc.svg`, `full-size/states/mx-yuc.svg`
 - License: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
 - Credit: [Flag of Yucatan.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Yucatan.svg) by TownDown, with versions uploaded by HapHaxion, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/). The circle file is a zoomed-out view of it with its field continued past its edges, and the square file is a crop of it. All four `mx-yuc` files are distributed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) instead of MIT.
+
+## `pt-30` Madeira
+
+- Files: `full-size/states/pt-30.svg`, `full-size-simplified/states/pt-30.svg`
+- License: [CC BY-SA 1.0](https://creativecommons.org/licenses/by-sa/1.0/)
+- Credit: [Flag of Madeira.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Madeira.svg) by Brian Boru (design); Nuno Tavares (vector drawing), with versions uploaded by Denelson83, Pmsyyz, Permjak, Sarang, Zscout370 and ~riley, [CC BY-SA 1.0](https://creativecommons.org/licenses/by-sa/1.0/). Only the two full-size files use this drawing; circle and square retain their existing artwork. The two full-size `pt-30` files are distributed under [CC BY-SA 1.0](https://creativecommons.org/licenses/by-sa/1.0/) instead of MIT.
+
+## `us-ms` Mississippi
+
+- Files: `full-size/states/us-ms.svg`, `full-size-simplified/states/us-ms.svg`
+- License: [Copyrighted free use](https://commons.wikimedia.org/wiki/Template:Copyrighted_free_use)
+- Credit: [Flag of Mississippi.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Mississippi.svg) by Rocky Vaughn, Sue Anna Joe, Dominique Pugh, Clay Moss, Kara Giles, Micah Whitson and the Mississippi Department of Archives and History, with versions uploaded by DrRandomFactor, Wester, Illegitimate Barrister and Mike Rohsopht, [Copyrighted free use](https://commons.wikimedia.org/wiki/Template:Copyrighted_free_use). Only the two full-size files use this drawing; circle and square retain their existing artwork.

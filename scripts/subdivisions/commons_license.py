@@ -118,6 +118,8 @@ def tag_kind(name):
         return "release", "Public domain"
     if n.startswith(("pd-", "pd ", "cc-pd-mark")) or "public domain" in n:
         return "design", "Public domain"
+    if n == "copyrighted free use":
+        return "attribution", "Copyrighted free use"
     if n.startswith("attribution"):
         return "attribution", "Attribution"
     return None
@@ -336,7 +338,10 @@ class Resolver:
         user_offers, conditions = self.user_templates_of(wikitext)
         offers += user_offers
         tags = []
-        for category in sorted(set(page["categories"])):
+        # Some current license templates have no category yet. Inspect their
+        # explicit names too, without treating design tags as artwork releases.
+        templates = re.findall(r"\{\{\s*([^{}|]+)", wikitext)
+        for category in sorted(set(page["categories"]) | {n.strip() for n in templates if tag_kind(n)}):
             kind = tag_kind(category)
             if kind is None:
                 continue
