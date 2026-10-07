@@ -1,0 +1,526 @@
+{
+  "ar-b": [
+    "Buenos Aires",
+    "Provincia de Buenos Aires"
+  ],
+  "ar-c": [
+    "Ciudad Autónoma de Buenos Aires",
+    "Ciudad de Buenos Aires",
+    "Capital Federal",
+    "CABA"
+  ],
+  "ar-v": [
+    "Tierra del Fuego",
+    "Tierra del Fuego, Antártida e Islas del Atlántico Sur"
+  ],
+  "br-df": [
+    "Distrito Federal"
+  ],
+  "ca-ab": [
+    "alberta"
+  ],
+  "ca-bc": [
+    "british columbia",
+    "colombie-britannique"
+  ],
+  "ca-mb": [
+    "manitoba"
+  ],
+  "ca-nb": [
+    "new brunswick"
+  ],
+  "ca-nl": [
+    "newfoundland and labrador"
+  ],
+  "ca-ns": [
+    "nova scotia"
+  ],
+  "ca-nt": [
+    "northwest territories"
+  ],
+  "ca-nu": [
+    "nunavut"
+  ],
+  "ca-on": [
+    "ontario"
+  ],
+  "ca-pe": [
+    "prince edward island"
+  ],
+  "ca-qc": [
+    "quebec",
+    "québec"
+  ],
+  "ca-sk": [
+    "saskatchewan"
+  ],
+  "ca-yt": [
+    "yukon"
+  ],
+  "ch-ag": [
+    "Aargau",
+    "Argovie",
+    "Argovia"
+  ],
+  "ch-ai": [
+    "Appenzell Innerrhoden",
+    "Appenzell Rhodes-Intérieures",
+    "Appenzello Interno"
+  ],
+  "ch-ar": [
+    "Appenzell Ausserrhoden",
+    "Appenzell Rhodes-Extérieures",
+    "Appenzello Esterno"
+  ],
+  "ch-be": [
+    "Bern",
+    "Berne",
+    "Berna"
+  ],
+  "ch-bl": [
+    "Basel-Landschaft",
+    "Basel-Land",
+    "Basel Country",
+    "Bâle-Campagne",
+    "Basilea Campagna"
+  ],
+  "ch-bs": [
+    "Basel-Stadt",
+    "Basel City",
+    "Bâle-Ville",
+    "Basilea Città"
+  ],
+  "ch-fr": [
+    "Fribourg",
+    "Freiburg",
+    "Friburgo"
+  ],
+  "ch-ge": [
+    "Genève",
+    "Geneva",
+    "Genf",
+    "Ginevra"
+  ],
+  "ch-gl": [
+    "Glarus",
+    "Glaris",
+    "Glarona"
+  ],
+  "ch-gr": [
+    "Graubünden",
+    "Grisons",
+    "Grigioni",
+    "Grischun"
+  ],
+  "ch-ju": [
+    "Jura",
+    "Giura"
+  ],
+  "ch-lu": [
+    "Luzern",
+    "Lucerne",
+    "Lucerna"
+  ],
+  "ch-ne": [
+    "Neuchâtel",
+    "Neuenburg"
+  ],
+  "ch-nw": [
+    "Nidwalden",
+    "Nidwald",
+    "Nidvaldo"
+  ],
+  "ch-ow": [
+    "Obwalden",
+    "Obwald",
+    "Obvaldo"
+  ],
+  "ch-sg": [
+    "St. Gallen",
+    "Saint Gallen",
+    "Sankt Gallen",
+    "Saint-Gall",
+    "San Gallo"
+  ],
+  "ch-sh": [
+    "Schaffhausen",
+    "Schaffhouse",
+    "Sciaffusa"
+  ],
+  "ch-so": [
+    "Solothurn",
+    "Soleure",
+    "Soletta"
+  ],
+  "ch-sz": [
+    "Schwyz",
+    "Schwytz",
+    "Svitto"
+  ],
+  "ch-tg": [
+    "Thurgau",
+    "Thurgovie",
+    "Turgovia"
+  ],
+  "ch-ti": [
+    "Ticino",
+    "Tessin"
+  ],
+  "ch-ur": [
+    "Uri"
+  ],
+  "ch-vd": [
+    "Vaud",
+    "Waadt"
+  ],
+  "ch-vs": [
+    "Valais",
+    "Wallis",
+    "Vallese"
+  ],
+  "ch-zg": [
+    "Zug",
+    "Zoug",
+    "Zugo"
+  ],
+  "ch-zh": [
+    "Zürich",
+    "Zurich",
+    "Zurigo"
+  ],
+  "es-an": [
+    "andalusia",
+    "andalucía"
+  ],
+  "es-ct": [
+    "catalonia",
+    "cataluña",
+    "catalunya"
+  ],
+  "es-ga": [
+    "galicia"
+  ],
+  "es-md": [
+    "madrid"
+  ],
+  "es-pv": [
+    "basque country",
+    "euskadi",
+    "país vasco"
+  ],
+  "es-vc": [
+    "valencia",
+    "comunidad valenciana"
+  ],
+  "mx-agu": [
+    "Aguascalientes",
+    "Ags.",
+    "Ags"
+  ],
+  "mx-bcn": [
+    "Baja California",
+    "B.C.",
+    "BC"
+  ],
+  "mx-bcs": [
+    "Baja California Sur",
+    "B.C.S."
+  ],
+  "mx-cam": [
+    "Campeche",
+    "Camp.",
+    "Camp"
+  ],
+  "mx-chh": [
+    "Chihuahua",
+    "Chih.",
+    "Chih"
+  ],
+  "mx-chp": [
+    "Chiapas",
+    "Chis.",
+    "Chis"
+  ],
+  "mx-cmx": [
+    "Ciudad de México",
+    "Mexico City",
+    "CDMX",
+    "Distrito Federal",
+    "D.F.",
+    "DF"
+  ],
+  "mx-coa": [
+    "Coahuila",
+    "Coahuila de Zaragoza",
+    "Coah.",
+    "Coah"
+  ],
+  "mx-col": [
+    "Colima",
+    "Col."
+  ],
+  "mx-dur": [
+    "Durango",
+    "Dgo.",
+    "Dgo"
+  ],
+  "mx-gro": [
+    "Guerrero",
+    "Gro."
+  ],
+  "mx-gua": [
+    "Guanajuato",
+    "Gto.",
+    "Gto"
+  ],
+  "mx-hid": [
+    "Hidalgo",
+    "Hgo.",
+    "Hgo"
+  ],
+  "mx-jal": [
+    "Jalisco",
+    "Jal."
+  ],
+  "mx-mex": [
+    "México",
+    "Estado de México",
+    "State of Mexico",
+    "Méx."
+  ],
+  "mx-mic": [
+    "Michoacán",
+    "Michoacán de Ocampo",
+    "Mich.",
+    "Mich"
+  ],
+  "mx-mor": [
+    "Morelos",
+    "Mor."
+  ],
+  "mx-nay": [
+    "Nayarit",
+    "Nay."
+  ],
+  "mx-nle": [
+    "Nuevo León",
+    "N.L.",
+    "NL"
+  ],
+  "mx-oax": [
+    "Oaxaca",
+    "Oax."
+  ],
+  "mx-pue": [
+    "Puebla",
+    "Pue."
+  ],
+  "mx-que": [
+    "Querétaro",
+    "Qro.",
+    "Qro",
+    "Querétaro de Arteaga"
+  ],
+  "mx-roo": [
+    "Quintana Roo",
+    "Q. Roo",
+    "Q.R.",
+    "QR",
+    "Q. Roo."
+  ],
+  "mx-sin": [
+    "Sinaloa",
+    "Sin."
+  ],
+  "mx-slp": [
+    "San Luis Potosí",
+    "S.L.P."
+  ],
+  "mx-son": [
+    "Sonora",
+    "Son."
+  ],
+  "mx-tab": [
+    "Tabasco",
+    "Tab."
+  ],
+  "mx-tam": [
+    "Tamaulipas",
+    "Tamps.",
+    "Tamps"
+  ],
+  "mx-tla": [
+    "Tlaxcala",
+    "Tlax.",
+    "Tlax"
+  ],
+  "mx-ver": [
+    "Veracruz",
+    "Veracruz de Ignacio de la Llave",
+    "Ver."
+  ],
+  "mx-yuc": [
+    "Yucatán",
+    "Yuc."
+  ],
+  "mx-zac": [
+    "Zacatecas",
+    "Zac."
+  ],
+  "us-ak": [
+    "alaska"
+  ],
+  "us-al": [
+    "alabama"
+  ],
+  "us-ar": [
+    "arkansas"
+  ],
+  "us-az": [
+    "arizona"
+  ],
+  "us-ca": [
+    "california"
+  ],
+  "us-co": [
+    "colorado"
+  ],
+  "us-ct": [
+    "connecticut"
+  ],
+  "us-dc": [
+    "district of columbia",
+    "washington, d.c.",
+    "washington dc"
+  ],
+  "us-de": [
+    "delaware"
+  ],
+  "us-fl": [
+    "florida"
+  ],
+  "us-ga": [
+    "georgia"
+  ],
+  "us-hi": [
+    "hawaii"
+  ],
+  "us-ia": [
+    "iowa"
+  ],
+  "us-id": [
+    "idaho"
+  ],
+  "us-il": [
+    "illinois"
+  ],
+  "us-in": [
+    "indiana"
+  ],
+  "us-ks": [
+    "kansas"
+  ],
+  "us-ky": [
+    "kentucky"
+  ],
+  "us-la": [
+    "louisiana"
+  ],
+  "us-ma": [
+    "massachusetts"
+  ],
+  "us-md": [
+    "maryland"
+  ],
+  "us-me": [
+    "maine"
+  ],
+  "us-mi": [
+    "michigan"
+  ],
+  "us-mn": [
+    "minnesota"
+  ],
+  "us-mo": [
+    "missouri"
+  ],
+  "us-ms": [
+    "mississippi"
+  ],
+  "us-mt": [
+    "montana"
+  ],
+  "us-nc": [
+    "north carolina"
+  ],
+  "us-nd": [
+    "north dakota"
+  ],
+  "us-ne": [
+    "nebraska"
+  ],
+  "us-nh": [
+    "new hampshire"
+  ],
+  "us-nj": [
+    "new jersey"
+  ],
+  "us-nm": [
+    "new mexico"
+  ],
+  "us-nv": [
+    "nevada"
+  ],
+  "us-ny": [
+    "new york"
+  ],
+  "us-oh": [
+    "ohio"
+  ],
+  "us-ok": [
+    "oklahoma"
+  ],
+  "us-or": [
+    "oregon"
+  ],
+  "us-pa": [
+    "pennsylvania"
+  ],
+  "us-ri": [
+    "rhode island"
+  ],
+  "us-sc": [
+    "south carolina"
+  ],
+  "us-sd": [
+    "south dakota"
+  ],
+  "us-tn": [
+    "tennessee"
+  ],
+  "us-tx": [
+    "texas"
+  ],
+  "us-ut": [
+    "utah"
+  ],
+  "us-va": [
+    "virginia"
+  ],
+  "us-vt": [
+    "vermont"
+  ],
+  "us-wa": [
+    "washington",
+    "washington state"
+  ],
+  "us-wi": [
+    "wisconsin"
+  ],
+  "us-wv": [
+    "west virginia"
+  ],
+  "us-wy": [
+    "wyoming"
+  ]
+}
