@@ -50,7 +50,7 @@ import urllib.parse
 
 from commons_author import looks_like_license
 from commons_license import Resolver
-from common import SOURCES_JSON, http_get, load_flags, write_json
+from common import SOURCES_JSON, http_get, load_flags, write_json, select_codes
 
 COMMONS_API = "https://commons.wikimedia.org/w/api.php"
 WIKIDATA_SPARQL = "https://query.wikidata.org/sparql"
@@ -148,6 +148,8 @@ def license_url(label):
     if m:
         port = f"{m.group(3).lower()}/" if m.group(3) else ""
         return f"https://creativecommons.org/licenses/by{'-sa' if m.group(1) else ''}/{m.group(2)}/{port}"
+    if label == "Copyrighted free use":
+        return "https://commons.wikimedia.org/wiki/Template:Copyrighted_free_use"
     if label == "CC0":
         return "https://creativecommons.org/publicdomain/zero/1.0/"
     if label == "GFDL":
@@ -169,9 +171,11 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("--refresh", nargs="*", default=[], metavar="CODE",
                         help="re-pin these flags to the current Commons revision")
+    parser.add_argument("codes", nargs="*", help="only update these codes or country prefixes")
     args = parser.parse_args()
 
-    flags = load_flags()["flags"]
+    all_flags = load_flags()["flags"]
+    flags = {c: all_flags[c] for c in select_codes(args.codes, all_flags)}
     existing = json.loads(SOURCES_JSON.read_text(encoding="utf-8")) if SOURCES_JSON.exists() else {}
 
     info = commons_info(recipe["commons"] for recipe in flags.values())
@@ -180,7 +184,7 @@ def main():
     resolver.prefetch(recipe["commons"] for recipe in flags.values())
 
     problems = []
-    out = {}
+    out = dict(existing)
     for code in sorted(flags):
         recipe = flags[code]
         title = recipe["commons"]
@@ -223,6 +227,8 @@ def main():
                             f"and say in the recipe's \"later_versions\" what they changed")
 
         wd = wikidata.get(code, {})
+        if recipe.get("wikipedia"):
+            wd["wikipedia"] = recipe["wikipedia"]
         if not wd.get("wikipedia"):
             problems.append(f"{code}: Wikidata has no English Wikipedia article for ISO code {code.upper()}")
         out[code] = {

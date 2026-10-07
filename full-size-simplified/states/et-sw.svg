@@ -1,8 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512">
-  <defs>
-    <clipPath id="r">
-      <rect width="512" height="512"/>
-    </clipPath>
-  </defs>
-  <g clip-path="url(#r)"><path fill="#6DA544" d="M0 0h512v512H0z"/><path fill="#0052B4" d="M0 0v80l64 176L0 432v80l256-256z"/><path fill="#FFFFFF" d="M0 80v80l64 96-64 96v80l176-176z"/><path fill="#D80027" d="M0 160v192l96-96z"/><path fill="#FFDA44" d="m384 182 16.6 51.2h53.7l-43.4 31.5 16.5 51.1-43.4-31.6-43.4 31.6 16.5-51-43.4-31.6h53.7z"/>  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600"><path fill="#00A64E" d="M0 0h1200v600H0z"/><path fill="#16469B" d="m0 0 600 300L0 600z"/><path fill="#FFFFFF" d="m0 90 400 210L0 500z"/><path fill="#EC2124" d="m0 200 200 100L0 400z"/><path fill="#F5EA12" d="m900 224-23.7 47.4-52.4 7.9 37.8 37.2-8.7 52.2 47-24.4 47 24.4-8.7-52.2 37.8-37.2-52.4-8z"/><path fill="#FFFFFF" d="M897 354h6l-3 46zm-45.5-37.4 1.9 5.7-44.7 11.4zm21.5-54.8-4.8 3.5-24.6-39zm58.8 3.5-4.8-3.5 29.4-35.5zm14.8 57 1.9-5.7 42.8 17z"/></svg>

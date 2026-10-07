@@ -57,6 +57,7 @@ CREDITS_END = "<!-- end of subdivision flag credits -->"
 NOTICE = REPO / "NOTICE.md"
 # What a full-size file changes on purpose, by recipe option.
 FULL_SIZE_CHANGES = {
+    "text_outlines": "outline the book lettering with the recorded fallback font",
     "drop_blurred": "leave out its blurred shadows",
     "flatten_images": "draw its embedded raster shading as flat color",
 }
@@ -137,6 +138,9 @@ def changes_sentence(code, recipe):
         full.append("extend its field to the proportions the flag's law gives")
     if full:
         sentences.append(f"The full-size files {names(full)}.")
+    if recipe.get("full_size_only"):
+        sentences.append("Only the two full-size files use this drawing; circle and square retain their existing artwork.")
+        return " ".join(sentences)
     if recipe.get("adaptation"):
         sentences.append(f"The circle and square files {recipe['adaptation']}.")
     else:
@@ -175,7 +179,8 @@ def credit_text(code, recipe, source):
                          f"{linked_license(part['license'], part['license_url'])}")
     parts.append(". " + changes_sentence(code, recipe))
     if source["license_kind"] == "share-alike":
-        parts.append(f" All four `{code}` files are distributed under "
+        scope = "The two full-size" if recipe.get("full_size_only") else "All four"
+        parts.append(f" {scope} `{code}` files are distributed under "
                      f"{linked_license(source['license'], source['license_url'])} instead of MIT.")
     return "".join(parts)
 
@@ -207,7 +212,8 @@ def notice_text(flags, sources):
     ]
     for code in credited:
         source = sources[code]
-        files = ", ".join(f"`{variant}/states/{code}.svg`" for variant in VARIANTS)
+        variants = ("full-size", "full-size-simplified") if flags[code].get("full_size_only") else VARIANTS
+        files = ", ".join(f"`{variant}/states/{code}.svg`" for variant in variants)
         lines += [
             f"## `{code}` {flags[code]['name']}",
             "",
@@ -244,7 +250,8 @@ def update_credits(flags, sources):
                  "coordinates rounded), with any further change named in its entry, and "
                  "`circle/states/<code>.svg` and `square/states/<code>.svg` are made from it as the entry says. "
                  "These files keep the license of their source, as listed here and in [NOTICE.md](NOTICE.md), "
-                 "instead of MIT. [`scripts/subdivisions/sources.json`](scripts/subdivisions/sources.json) records "
+                 "instead of MIT. Recipes marked `full_size_only` use the drawing and its license only for the two "
+                 "full-size files; their circle and square artwork is unchanged. [`scripts/subdivisions/sources.json`](scripts/subdivisions/sources.json) records "
                  "every license tag each license was worked out from.\n\n" + "\n".join(lines)
                  + f"\n\n{CREDITS_END}\n")
         start = text.index("\n## Credits\n")
@@ -261,7 +268,7 @@ def update_readme(countries, flags, sources, excluded):
     end = text.index("\n### ", start + 1) + 1
     preamble, blocks = split_blocks(text[start:end], "####")
     for cc, country in countries.items():
-        ours = sorted(c for c in flags if c.startswith(cc + "-"))
+        ours = sorted(c for c in flags if c.startswith(cc + "-") and not flags[c].get("full_size_only"))
         index = next((i for i, (title, _) in enumerate(blocks) if title == country["name"]), None)
         rows = {}
         if index is not None:
@@ -299,7 +306,7 @@ def update_gallery(name, image, countries, flags, excluded):
         codes = re.findall(r'<div class="flag-code">([^<]+)</div>', part)
         blocks.append([title, part, codes[0].split("-")[0] if codes else ""])
     for cc, country in countries.items():
-        ours = sorted(c for c in flags if c.startswith(cc + "-"))
+        ours = sorted(c for c in flags if c.startswith(cc + "-") and not flags[c].get("full_size_only"))
         index = next((i for i, b in enumerate(blocks) if b[0] == country["name"]), None)
         items = {}
         if index is not None:
@@ -331,6 +338,8 @@ def write_swatches(flags, sources):
     existing = set(os.listdir(folder))
     created = []
     for code in sorted(flags):
+        if flags[code].get("full_size_only"):
+            continue
         _, colors = colors_cell(code, sources[code])
         for color in colors:
             name = f"{color[1:]}.svg"

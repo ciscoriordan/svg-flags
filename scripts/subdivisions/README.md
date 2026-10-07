@@ -100,3 +100,31 @@ Do not edit the generated SVGs or `sources.json` by hand; change the recipe or t
 ## Publishing
 
 jsDelivr caches `@main` for hours, including 404 responses for files that did not exist yet. After pushing new flags, purge each new path, for example `https://purge.jsdelivr.net/gh/ciscoriordan/svg-flags@main/circle/states/ca-on.svg`, and check that the CDN URL returns 200.
+
+## Repairing legacy full-size flags
+
+A recipe with `"full_size_only": true` rebuilds only `full-size/states` and
+`full-size-simplified/states`; `build_variants.py` preserves its existing circle
+and square artwork. Credits and NOTICE list only the two generated files.
+Structural and render checks remain strict for the generated files, while the
+legacy circle/square artwork is checked with the repository rules. This permits
+restoring native proportions without changing existing icons.
+
+`lock_sources.py CODE...` updates only those source records, preserving all other
+pins. A recipe may provide `"wikipedia"` for a non-ISO code or an article missing
+from Wikidata. Source histories and license checks still apply.
+
+`fr-cp` uses the official French tricolor in full-size. Its legacy circle and
+square variants depict an unofficial palm-tree design with no established
+official proportions.
+
+The legacy repairs also use three optional `clean` settings:
+
+- `preserve_geometry` disables SVGO path/transform rewrites for drawings where
+  those rewrites move details (Aragon and the Balearic Islands).
+- `separate_clip_transforms` places a transform outside a clipped group after
+  optimization, avoiding CoreSVG's misplaced clipping of Campania's diagonal.
+- `text_outlines` names a checked-in JSON file of paths keyed by source text ID.
+  Veneto's book uses recorded Verdana outlines, matching librsvg's fallback for
+  the unavailable Trajan Pro font. The cleaner verifies the IDs against the pin
+  before replacing text. Rebuilding requires no font installation.

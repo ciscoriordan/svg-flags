@@ -37,6 +37,7 @@ does not come from circle-flags or square-flags.
 Usage: clean.py [CODE or COUNTRY ...]
 """
 
+import json
 import math
 import shutil
 import sys
@@ -159,10 +160,20 @@ def leftovers(root):
     return found
 
 
-def finalize(text):
+def finalize(text, separate_clip_transforms=False):
     """Re-check svgo's output: colors uppercase, root attribute order fixed."""
     root = etree.fromstring(text.encode())
     st.normalize_colors(root)
+    if separate_clip_transforms:
+        # CoreSVG applies a clip in the wrong coordinate system when the same
+        # element also has a transform. Keep the transform outside the clip.
+        for el in list(root.iter()):
+            if el.get("clip-path") and el.get("transform"):
+                parent = el.getparent()
+                outer = etree.Element(st.svg_tag("g"), transform=el.attrib.pop("transform"))
+                inner = etree.SubElement(outer, st.svg_tag("g"), {"clip-path": el.attrib.pop("clip-path")})
+                parent.replace(el, outer)
+                inner.append(el)
     # svgo can empty a clip path whose shapes collapse to nothing.
     st.drop_empty_clips(root)
     st.explicit_black(root)
@@ -177,7 +188,7 @@ def finalize(text):
     return etree.tostring(root, encoding="unicode") + "\n"
 
 
-def compact(code, middle, precision, tmp):
+def compact(code, middle, precision, tmp, preserve_geometry=False, separate_clip_transforms=False):
     """Run the final svgo pass at the lowest precision that renders as
     faithfully as the most precise output.
 
@@ -192,8 +203,8 @@ def compact(code, middle, precision, tmp):
 
     def attempt(decimals):
         out = tmp / f"{code}.final{decimals}.svg"
-        run_svgo([{"in": str(middle), "out": str(out), "pass": "final", "precision": decimals}])
-        text = finalize(out.read_text(encoding="utf-8"))
+        run_svgo([{"in": str(middle), "out": str(out), "pass": "final", "precision": decimals, "preserveGeometry": preserve_geometry}])
+        text = finalize(out.read_text(encoding="utf-8"), separate_clip_transforms)
         return text, compare_renders(reference, render(text.encode(), *size))
 
     best_text, (best_share, best_region) = attempt(MAX_PRECISION)
@@ -208,8 +219,27 @@ def clean(code, source, recipe, tmp):
     original = commons_cache_path(code)
     if not original.exists():
         raise RuntimeError("source not downloaded; run fetch.py")
+    input_path = original
+    outlines = recipe.get("clean", {}).get("text_outlines")
+    if outlines:
+        root = etree.parse(str(original)).getroot()
+        paths = json.loads((Path(__file__).parent / outlines).read_text())["paths"]
+        texts = [e for e in root.iter() if st.local(e) == "text"]
+        if {e.get("id") for e in texts} != set(paths):
+            raise RuntimeError("text outlines do not match the pinned source")
+        for el in texts:
+            el.tag = st.svg_tag("g")
+            for child in list(el):
+                el.remove(child)
+            el.text = None
+            for attr in ("x", "y"):
+                el.attrib.pop(attr, None)
+            etree.SubElement(el, st.svg_tag("path"), d=paths[el.get("id")])
+        input_path = tmp / f"{code}.outlined.svg"
+        input_path.write_bytes(etree.tostring(root))
     first = tmp / f"{code}.first.svg"
-    run_svgo([{"in": str(original), "out": str(first), "pass": "first", "precision": 6}])
+    run_svgo([{"in": str(input_path), "out": str(first), "pass": "first", "precision": 6,
+               "preserveGeometry": recipe.get("clean", {}).get("preserve_geometry", False)}])
 
     root = etree.parse(str(first), etree.XMLParser(huge_tree=True, remove_comments=True)).getroot()
     precision = clean_tree(root, code, source, recipe.get("clean", {}), recipe.get("canvas"))
@@ -219,7 +249,9 @@ def clean(code, source, recipe, tmp):
 
     middle = tmp / f"{code}.middle.svg"
     middle.write_text(etree.tostring(root, encoding="unicode"), encoding="utf-8")
-    text, precision = compact(code, middle, precision, tmp)
+    text, precision = compact(code, middle, precision, tmp,
+                              recipe.get("clean", {}).get("preserve_geometry", False),
+                              recipe.get("clean", {}).get("separate_clip_transforms", False))
 
     out = cleaned_path(code)
     out.parent.mkdir(parents=True, exist_ok=True)

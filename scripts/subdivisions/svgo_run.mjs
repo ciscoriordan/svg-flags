@@ -16,7 +16,7 @@ import { optimize } from "svgo";
 
 const keepColors = { names2hex: true, rgb2hex: true, shorthex: false, shortname: false, currentColor: false };
 
-function config(pass, precision) {
+function config(pass, precision, preserveGeometry = false) {
   const overrides = {
     convertColors: keepColors,
     inlineStyles: { onlyMatchedOnce: false },
@@ -35,6 +35,11 @@ function config(pass, precision) {
     // the guarantee that they cannot collide with the circle/square clip ids.
     overrides.cleanupIds = false;
   }
+  if (preserveGeometry) {
+    for (const name of ["convertPathData", "convertTransform", "collapseGroups", "mergePaths", "convertShapeToPath", "reusePaths"]) {
+      overrides[name] = false;
+    }
+  }
   return {
     multipass: true,
     floatPrecision: precision,
@@ -46,7 +51,7 @@ const jobs = JSON.parse(readFileSync(0, "utf8"));
 let failed = 0;
 for (const job of jobs) {
   try {
-    const result = optimize(readFileSync(job.in, "utf8"), { path: job.in, ...config(job.pass, job.precision) });
+    const result = optimize(readFileSync(job.in, "utf8"), { path: job.in, ...config(job.pass, job.precision, job.preserveGeometry) });
     writeFileSync(job.out, result.data);
   } catch (error) {
     failed += 1;

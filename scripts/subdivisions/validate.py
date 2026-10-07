@@ -151,10 +151,10 @@ def check_flag(code, sources, flags, readme, report):
             report.error(path.relative_to(REPO), "is missing")
     if not all(p.exists() for p in paths.values()):
         return
-    for path in paths.values():
-        structural(path, report, strict=True)
+    for variant, path in paths.items():
+        structural(path, report, strict=not flags[code].get("full_size_only") or variant.startswith("full-size"))
     full_colors = st.colors_in(paths["full-size"].read_text(encoding="utf-8"))
-    for variant in ("circle", "square"):
+    for variant in (() if flags[code].get("full_size_only") else ("circle", "square")):
         extra = st.colors_in(paths[variant].read_text(encoding="utf-8")) - full_colors - {"#CDCFD3"}
         if extra:
             report.error(paths[variant].relative_to(REPO), f"uses colors not in the full-size flag: {sorted(extra)}")
@@ -274,7 +274,8 @@ def check_renders(codes, flags, report):
     jobs, pairs = [], []
     with tempfile.TemporaryDirectory() as tmp:
         for code in codes:
-            check_seams(code, flags[code], report)
+            if not flags[code].get("full_size_only"):
+                check_seams(code, flags[code], report)
             full = REPO / "full-size" / "states" / f"{code}.svg"
             root = etree.parse(str(full)).getroot()
             height = round(400 * float(root.get("height")) / float(root.get("width")))
@@ -288,6 +289,8 @@ def check_renders(codes, flags, report):
             else:
                 report.warn(full.relative_to(REPO), "Commons original not downloaded (run fetch.py); fidelity not checked")
             for variant, size in (("circle", (256, 256)), ("square", (256, 256)), ("full-size", (400, height))):
+                if flags[code].get("full_size_only") and variant in ("circle", "square"):
+                    continue
                 path = REPO / variant / "states" / f"{code}.svg"
                 png = Path(tmp) / f"{variant}-{code}.png"
                 jobs.append((path, png, *size))

@@ -2286,6 +2286,310 @@
         }
       },
       "note": "The circle zooms out around the green panel so its five stars stay inside the circle; the fills continue the panel and the red stripes beyond the flag's edges."
+    },
+    "au-act": {
+      "name": "Australian Capital Territory",
+      "commons": "Flag of the Australian Capital Territory.svg",
+      "full_size_only": true,
+      "later_versions": "Later uploads replaced the Southern Cross, corrected official colors and government artwork, and optimized the SVG. These revisions were uploaded under the existing public-domain terms."
+    },
+    "au-nt": {
+      "name": "Northern Territory",
+      "commons": "Flag of the Northern Territory.svg",
+      "full_size_only": true,
+      "later_versions": "Later uploads redrew the Southern Cross and then the flag to the government specifications, removed a seam and optimized the SVG. These revisions were uploaded under the existing public-domain terms."
+    },
+    "bq-sa": {
+      "name": "Saba",
+      "commons": "Flag of Saba.svg",
+      "full_size_only": true
+    },
+    "bq-se": {
+      "name": "Sint Eustatius",
+      "commons": "Flag of Sint Eustatius.svg",
+      "full_size_only": true
+    },
+    "cn-xj": {
+      "name": "Xinjiang",
+      "commons": "Kokbayraq flag.svg",
+      "full_size_only": true
+    },
+    "es-ar": {
+      "name": "Aragon",
+      "commons": "Flag of Aragon.svg",
+      "full_size_only": true,
+      "clean": {
+        "preserve_geometry": true
+      }
+    },
+    "es-cn": {
+      "name": "Canary Islands",
+      "commons": "Flag of the Canary Islands (simple).svg",
+      "full_size_only": true,
+      "later_versions": "Later uploads corrected colors and reduced SVG code. These revisions were uploaded under the existing public-domain terms."
+    },
+    "es-ct": {
+      "name": "Catalonia",
+      "commons": "Flag of Catalonia.svg",
+      "full_size_only": true
+    },
+    "es-ib": {
+      "name": "Balearic Islands",
+      "commons": "Flag of the Balearic Islands.svg",
+      "full_size_only": true,
+      "later_versions": "Later uploads adjusted colors and redrew the castle without an outline, then reduced code. These revisions were uploaded under the existing public-domain terms.",
+      "wikipedia": "Balearic_Islands",
+      "clean": {
+        "preserve_geometry": true
+      }
+    },
+    "es-ml": {
+      "name": "Melilla",
+      "commons": "Flag of Melilla.svg",
+      "full_size_only": true
+    },
+    "es-vc": {
+      "name": "Valencia",
+      "commons": "Flag of the Land of Valencia (official).svg",
+      "full_size_only": true,
+      "later_versions": "The history includes the earlier Martorell/Huhsunqu drawing; Mutxamel revised the heraldic design and official colors, Rox-val added a black border, and Mutxamel optimized it. These revisions were uploaded under the existing public-domain terms."
+    },
+    "et-am": {
+      "name": "Amhara Region",
+      "commons": "Flag of the Amhara Region.svg",
+      "full_size_only": true
+    },
+    "et-be": {
+      "name": "Benishangul-Gumuz",
+      "commons": "Flag of the Benishangul-Gumuz Region.svg",
+      "full_size_only": true
+    },
+    "et-sw": {
+      "name": "South West Region",
+      "commons": "Flag of South West Ethiopia.svg",
+      "full_size_only": true
+    },
+    "et-ti": {
+      "name": "Tigray",
+      "commons": "Flag of the Tigray Region.svg",
+      "full_size_only": true
+    },
+    "gb-ork": {
+      "name": "Orkney",
+      "commons": "2007 Flag of Orkney.svg",
+      "full_size_only": true,
+      "later_versions": "The later Alkari upload cleaned the SVG code. These revisions were uploaded under the existing public-domain terms."
+    },
+    "gb-sct": {
+      "name": "Scotland",
+      "commons": "Flag of Scotland.svg",
+      "full_size_only": true
+    },
+    "id-jb": {
+      "name": "West Java",
+      "commons": "Flag of West Java (vectorised).svg",
+      "full_size_only": true
+    },
+    "id-jt": {
+      "name": "Central Java",
+      "commons": "Flag of Central Java.svg",
+      "full_size_only": true
+    },
+    "in-ka": {
+      "name": "Karnataka",
+      "commons": "Flag of the Kannada people.svg",
+      "full_size_only": true,
+      "note": "Keep the yellow/red Kannada flag used by the existing icons, rather than the different government flag currently listed on Wikidata.",
+      "later_versions": "HapHaxion and Colohisto reduced code; WeaponizingArchitecture corrected the yellow and red colors. These revisions were uploaded under the existing public-domain terms."
+    },
+    "it-21": {
+      "name": "Piedmont",
+      "commons": "Flag of Piedmont.svg",
+      "full_size_only": true,
+      "later_versions": "Later uploads include an undocumented Flanker revision, official color corrections and a darker blue. These revisions were uploaded under the existing public-domain terms."
+    },
+    "it-23": {
+      "name": "Aosta Valley",
+      "commons": "Flag of Valle d'Aosta.svg",
+      "full_size_only": true,
+      "later_versions": "Later uploads reduced code and corrected official colors. These revisions were uploaded under the existing public-domain terms."
+    },
+    "it-25": {
+      "name": "Lombardy",
+      "commons": "Flag of Lombardy.svg",
+      "full_size_only": true,
+      "later_versions": "Later uploads corrected the emblem using the brand guide, updated it to the 2019 official design, and simplified code. These revisions were uploaded under the existing public-domain terms."
+    },
+    "it-34": {
+      "name": "Veneto",
+      "commons": "Flag of Veneto.svg",
+      "full_size_only": true,
+      "clean": {
+        "text_outlines": "text-outlines/it-34.json"
+      }
+    },
+    "it-36": {
+      "name": "Friuli Venezia Giulia",
+      "commons": "Flag of Friuli-Venezia Giulia.svg",
+      "full_size_only": true,
+      "later_versions": "Later uploads removed embedded bitmap source images and fixed the SVG. These revisions were uploaded under the existing public-domain terms."
+    },
+    "it-42": {
+      "name": "Liguria",
+      "commons": "Flag of Liguria.svg",
+      "full_size_only": true,
+      "later_versions": "The later upload replaced the emblem to match the official regional brand manual. These revisions were uploaded under the existing public-domain terms."
+    },
+    "it-55": {
+      "name": "Umbria",
+      "commons": "Flag of Umbria.svg",
+      "full_size_only": true,
+      "later_versions": "The later upload replaced the emblem with the official design. These revisions were uploaded under the existing public-domain terms."
+    },
+    "it-57": {
+      "name": "Marche",
+      "commons": "Flag of Marche.svg",
+      "full_size_only": true,
+      "later_versions": "The later upload replaced the drawing with the official design from the government flag document. These revisions were uploaded under the existing public-domain terms."
+    },
+    "it-62": {
+      "name": "Lazio",
+      "commons": "Flag of Lazio.svg",
+      "full_size_only": true,
+      "later_versions": "Later uploads removed the reference bitmap, corrected colors and outlined lettering, and reduced code. These revisions were uploaded under the existing public-domain terms."
+    },
+    "it-65": {
+      "name": "Abruzzo",
+      "commons": "Flag of Abruzzo.svg",
+      "full_size_only": true
+    },
+    "it-67": {
+      "name": "Molise",
+      "commons": "Flag of Molise.svg",
+      "full_size_only": true,
+      "later_versions": "Later uploads corrected the design and coat of arms. These revisions were uploaded under the existing public-domain terms."
+    },
+    "it-72": {
+      "name": "Campania",
+      "commons": "Flag of Campania.svg",
+      "full_size_only": true,
+      "later_versions": "Later uploads fixed and cleaned the SVG, corrected official colors and the gold coat-of-arms outline. These revisions were uploaded under the existing public-domain terms.",
+      "clean": {
+        "separate_clip_transforms": true
+      }
+    },
+    "it-77": {
+      "name": "Basilicata",
+      "commons": "Flag of Basilicata.svg",
+      "full_size_only": true,
+      "later_versions": "Later uploads corrected the official coat of arms, proportions and blue field. These revisions were uploaded under the existing public-domain terms."
+    },
+    "it-78": {
+      "name": "Calabria",
+      "commons": "Flag of Calabria.svg",
+      "full_size_only": true,
+      "later_versions": "The later upload corrected the official design. These revisions were uploaded under the existing public-domain terms."
+    },
+    "it-82": {
+      "name": "Sicily",
+      "commons": "Flag of Sicily (revised).svg",
+      "full_size_only": true,
+      "later_versions": "The later upload revised the triskelion. These revisions were uploaded under the existing public-domain terms."
+    },
+    "pk-sd": {
+      "name": "Sindh",
+      "commons": "Flag of Sindh.svg",
+      "full_size_only": true,
+      "later_versions": "Hosmich vectorized the flag and outlined its lettering before Baba66 updated it with readable lettering; the later HapHaxion upload reduced file size. These revisions were uploaded under the existing public-domain terms."
+    },
+    "pt-30": {
+      "name": "Madeira",
+      "commons": "Flag of Madeira.svg",
+      "full_size_only": true
+    },
+    "ru-ce": {
+      "name": "Chechnya",
+      "commons": "Flag of the Chechen Republic.svg",
+      "full_size_only": true
+    },
+    "ru-cu": {
+      "name": "Chuvashia",
+      "commons": "Flag of Chuvashia.svg",
+      "full_size_only": true
+    },
+    "ru-da": {
+      "name": "Dagestan",
+      "commons": "Flag of Dagestan.svg",
+      "full_size_only": true
+    },
+    "ru-dpr": {
+      "name": "Donetsk People's Republic",
+      "commons": "Flag of Donetsk People's Republic.svg",
+      "full_size_only": true,
+      "wikipedia": "Donetsk_People%27s_Republic",
+      "later_versions": "Later uploads fixed SVG compatibility, corrected colors and reduced code. These revisions were uploaded under the existing public-domain terms."
+    },
+    "ru-lpr": {
+      "name": "Luhansk People's Republic",
+      "commons": "Flag of the Luhansk People's Republic.svg",
+      "full_size_only": true,
+      "wikipedia": "Luhansk_People%27s_Republic"
+    },
+    "ua-bpr": {
+      "name": "Belgorod People's Republic",
+      "commons": "Flag of the fictional \"Belgorod People's Republic\".svg",
+      "full_size_only": true,
+      "wikipedia": "Belgorod_People%27s_Republic"
+    },
+    "us-ak": {
+      "name": "Alaska",
+      "commons": "Flag of Alaska.svg",
+      "full_size_only": true,
+      "later_versions": "Later uploads redrew the stars and their placement using state specifications, corrected colors from state correspondence, and optimized the SVG. These revisions were uploaded under the existing public-domain terms."
+    },
+    "us-ar": {
+      "name": "Arkansas",
+      "commons": "Flag of Arkansas.svg",
+      "full_size_only": true,
+      "later_versions": "Later uploads corrected lettering and stars, restored US flag blue and reduced code; Zscout370 explicitly released the early corrections as public domain. These revisions were uploaded under the existing public-domain terms."
+    },
+    "us-az": {
+      "name": "Arizona",
+      "commons": "Flag of Arizona.svg",
+      "full_size_only": true
+    },
+    "us-in": {
+      "name": "Indiana",
+      "commons": "Flag of Indiana.svg",
+      "full_size_only": true,
+      "later_versions": "Later uploads redrew the torch, rays, stars and outlined lettering, corrected colors and the statutory 2:3 ratio, and optimized the SVG. These revisions were uploaded under the existing public-domain terms."
+    },
+    "us-mn": {
+      "name": "Minnesota",
+      "commons": "Flag of Minnesota.svg",
+      "full_size_only": true
+    },
+    "us-ms": {
+      "name": "Mississippi",
+      "commons": "Flag of Mississippi.svg",
+      "full_size_only": true
+    },
+    "us-nm": {
+      "name": "New Mexico",
+      "commons": "Flag of New Mexico.svg",
+      "full_size_only": true
+    },
+    "us-or": {
+      "name": "Oregon",
+      "commons": "Flag of Oregon.svg",
+      "full_size_only": true
+    },
+    "fr-cp": {
+      "name": "Clipperton Island",
+      "commons": "Flag of France.svg",
+      "full_size_only": true,
+      "wikipedia": "Clipperton_Island",
+      "note": "Full-size uses the official French tricolor at 3:2; the legacy circle and square files depict an unofficial palm-tree design with no established official proportions."
     }
   },
   "excluded": {
