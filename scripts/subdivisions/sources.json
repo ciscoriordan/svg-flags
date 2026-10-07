@@ -4183,5 +4183,932 @@
     "wikidata_flag_images": [
       "CHE Zürich Flag.svg"
     ]
+  },
+  "mx-bcs": {
+    "commons_title": "Flag of Baja California Sur.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Baja_California_Sur.svg",
+    "revision": {
+      "sha1": "2ae0cd2cf54f0032b1e1bd456cbb4a33acfb8d3a",
+      "timestamp": "2023-01-12T02:04:11Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Baja_California_Sur.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 512,
+      "height": 293,
+      "uploader": "Flagvisioner"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD-MX-CoA"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "Gobierno de Baja California Sur",
+    "versions": [
+      {
+        "user": "Javitomad",
+        "date": "2008-11-05",
+        "comment": "{{Information"
+      },
+      {
+        "user": "Flagvisioner",
+        "date": "2022-07-23",
+        "comment": "Escudo oficial (https://www.conago.org.mx/acercade/escudos-entidades-federativas)"
+      },
+      {
+        "user": "HapHaxion",
+        "date": "2022-09-13",
+        "comment": "reduce file size"
+      },
+      {
+        "user": "Flagvisioner",
+        "date": "2022-09-17",
+        "comment": "fix"
+      },
+      {
+        "user": "Flagvisioner",
+        "date": "2022-09-17",
+        "comment": "optimization in inkscape"
+      }
+    ],
+    "contributors": [
+      "Javitomad",
+      "Flagvisioner",
+      "HapHaxion"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q46508",
+    "wikipedia": "Baja_California_Sur",
+    "wikidata_flag_images": [
+      "Flag of Baja California Sur.svg"
+    ]
+  },
+  "mx-coa": {
+    "commons_title": "Flag of Coahuila.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Coahuila.svg",
+    "revision": {
+      "sha1": "0dab4e45023f5aa4344650910a0ae2d053a519a4",
+      "timestamp": "2022-12-22T19:30:56Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Flag_of_Coahuila.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 700,
+      "height": 400,
+      "uploader": "HapHaxion"
+    },
+    "license": "CC BY-SA 3.0",
+    "license_kind": "share-alike",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "license_tags": [
+      "CC-BY-SA-3.0-migrated",
+      "GFDL",
+      "PD-MX-CoA"
+    ],
+    "license_options": [
+      "GFDL",
+      "CC BY-SA 3.0"
+    ],
+    "license_conditions": [
+      "attribution requested by {{User:Heraldry/Attribution}}"
+    ],
+    "own_license": "CC BY-SA 3.0",
+    "own_license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "own_kind": "copyleft",
+    "author": "Heraldry",
+    "versions": [
+      {
+        "user": "TownDown",
+        "date": "2009-08-11",
+        "comment": "{{Information"
+      },
+      {
+        "user": "TownDown",
+        "date": "2009-08-16",
+        "comment": "arm sized"
+      },
+      {
+        "user": "HapHaxion",
+        "date": "2022-12-22",
+        "comment": "reduce file size"
+      }
+    ],
+    "contributors": [
+      "TownDown",
+      "HapHaxion"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": true,
+    "wikidata": "Q53079",
+    "wikipedia": "Coahuila",
+    "wikidata_flag_images": []
+  },
+  "mx-col": {
+    "commons_title": "Flag of Colima.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Colima.svg",
+    "revision": {
+      "sha1": "753cf3b8beec082abdad041a5d45ea4e2e57d12c",
+      "timestamp": "2022-12-22T19:33:04Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Flag_of_Colima.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 700,
+      "height": 400,
+      "uploader": "HapHaxion"
+    },
+    "license": "CC BY-SA 3.0",
+    "license_kind": "share-alike",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "license_tags": [
+      "CC-BY-SA-3.0-migrated",
+      "GFDL",
+      "PD-MX-CoA"
+    ],
+    "license_options": [
+      "GFDL",
+      "CC BY-SA 3.0"
+    ],
+    "license_conditions": [
+      "attribution requested by {{User:Heraldry/Attribution}}"
+    ],
+    "own_license": "CC BY-SA 3.0",
+    "own_license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "own_kind": "copyleft",
+    "author": "Heraldry",
+    "versions": [
+      {
+        "user": "TownDown",
+        "date": "2009-08-09",
+        "comment": "{{Information"
+      },
+      {
+        "user": "TownDown",
+        "date": "2009-08-09",
+        "comment": "-"
+      },
+      {
+        "user": "TownDown",
+        "date": "2009-08-09",
+        "comment": "fixing dimensions"
+      },
+      {
+        "user": "HapHaxion",
+        "date": "2022-12-22",
+        "comment": "reduce file size"
+      }
+    ],
+    "contributors": [
+      "TownDown",
+      "HapHaxion"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": true,
+    "wikidata": "Q61309",
+    "wikipedia": "Colima",
+    "wikidata_flag_images": [
+      "Flag of Colima.svg"
+    ]
+  },
+  "mx-dur": {
+    "commons_title": "Flag of Durango.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Durango.svg",
+    "revision": {
+      "sha1": "175cc2bcc7c837b90d9c972936cbe93e228db9ed",
+      "timestamp": "2023-08-25T02:20:37Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Flag_of_Durango.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 350,
+      "height": 200,
+      "uploader": "Flagvisioner"
+    },
+    "license": "CC BY-SA 3.0",
+    "license_kind": "share-alike",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "license_tags": [
+      "CC-BY-SA-3.0-migrated",
+      "GFDL",
+      "PD-MX-CoA"
+    ],
+    "license_options": [
+      "GFDL",
+      "CC BY-SA 3.0"
+    ],
+    "license_conditions": [
+      "attribution requested by {{User:Heraldry/Attribution}}"
+    ],
+    "own_license": "CC BY-SA 3.0",
+    "own_license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "own_kind": "copyleft",
+    "author": "Heraldry",
+    "versions": [
+      {
+        "user": "TownDown",
+        "date": "2009-08-15",
+        "comment": "{{Information"
+      },
+      {
+        "user": "Eddo",
+        "date": "2011-02-10",
+        "comment": "reuploading"
+      },
+      {
+        "user": "HapHaxion",
+        "date": "2022-09-13",
+        "comment": "reduce file size"
+      },
+      {
+        "user": "Flagvisioner",
+        "date": "2022-09-17",
+        "comment": "More accurate, according to Decree 130."
+      },
+      {
+        "user": "Flagvisioner",
+        "date": "2022-09-17",
+        "comment": "readded white background"
+      },
+      {
+        "user": "Flagvisioner",
+        "date": "2022-09-24",
+        "comment": "fix"
+      }
+    ],
+    "contributors": [
+      "TownDown",
+      "Eddo",
+      "HapHaxion",
+      "Flagvisioner"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": true,
+    "wikidata": "Q79918",
+    "wikipedia": "Durango",
+    "wikidata_flag_images": [
+      "Flag of Durango.svg"
+    ]
+  },
+  "mx-gro": {
+    "commons_title": "Flag of Guerrero.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Guerrero.svg",
+    "revision": {
+      "sha1": "7aa2c5edae0dd1d998b2f63c8d5e060feba5fe1b",
+      "timestamp": "2022-09-13T18:18:41Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Guerrero.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 350,
+      "height": 200,
+      "uploader": "HapHaxion"
+    },
+    "license": "CC BY-SA 3.0",
+    "license_kind": "share-alike",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "license_tags": [
+      "CC-BY-SA-3.0-migrated",
+      "GFDL",
+      "PD-MX-CoA"
+    ],
+    "license_options": [
+      "GFDL",
+      "CC BY-SA 3.0"
+    ],
+    "license_conditions": [
+      "attribution requested by {{User:Heraldry/Attribution}}"
+    ],
+    "own_license": "CC BY-SA 3.0",
+    "own_license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "own_kind": "copyleft",
+    "author": "Heraldry",
+    "versions": [
+      {
+        "user": "TownDown",
+        "date": "2009-08-13",
+        "comment": "{{Information"
+      },
+      {
+        "user": "TownDown",
+        "date": "2009-09-05",
+        "comment": "FX"
+      },
+      {
+        "user": "HapHaxion",
+        "date": "2022-09-13",
+        "comment": "reduce file size"
+      }
+    ],
+    "contributors": [
+      "TownDown",
+      "HapHaxion"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": true,
+    "wikidata": "Q60158",
+    "wikipedia": "Guerrero",
+    "wikidata_flag_images": [
+      "Flag of Guerrero.svg"
+    ]
+  },
+  "mx-gua": {
+    "commons_title": "Flag of Guanajuato.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Guanajuato.svg",
+    "revision": {
+      "sha1": "79e738eb95c9b532c27bee8be24b04208fe53553",
+      "timestamp": "2024-01-03T18:31:17Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Flag_of_Guanajuato.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 7000,
+      "height": 4000,
+      "uploader": "HapHaxion"
+    },
+    "license": "CC BY-SA 3.0",
+    "license_kind": "share-alike",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "license_tags": [
+      "CC-BY-SA-3.0",
+      "GFDL",
+      "PD-MX-CoA"
+    ],
+    "license_options": [
+      "CC BY-SA 3.0",
+      "GFDL"
+    ],
+    "license_conditions": [],
+    "own_license": "CC BY-SA 3.0",
+    "own_license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "own_kind": "copyleft",
+    "author": "Alexis Rojas, VegaMex; Derivative work: Giggette, VegaMex",
+    "versions": [
+      {
+        "user": "Alexis Rojas",
+        "date": "2011-02-21",
+        "comment": "{{Information"
+      },
+      {
+        "user": "Giggette",
+        "date": "2013-05-23",
+        "comment": "Design"
+      },
+      {
+        "user": "Giggette",
+        "date": "2013-05-23",
+        "comment": "size"
+      },
+      {
+        "user": "VegaMex",
+        "date": "2018-12-08",
+        "comment": "Historically correct design."
+      },
+      {
+        "user": "HapHaxion",
+        "date": "2024-01-03",
+        "comment": "prepare for file redirect (official flag)"
+      }
+    ],
+    "contributors": [
+      "HapHaxion"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": true,
+    "wikidata": "Q46475",
+    "wikipedia": "Guanajuato",
+    "wikidata_flag_images": [
+      "Flag of Guanajuato.svg"
+    ]
+  },
+  "mx-jal": {
+    "commons_title": "Flag of Jalisco.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Jalisco.svg",
+    "revision": {
+      "sha1": "7162dbc21f482444fcb1239fd92f76c8ee24f1a6",
+      "timestamp": "2022-08-22T03:36:33Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Flag_of_Jalisco.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 1400,
+      "height": 800,
+      "uploader": "Flagvisioner"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD-MX-CoA"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "Gobierno de Jalisco",
+    "versions": [
+      {
+        "user": "Jpablo cad",
+        "date": "2009-01-20",
+        "comment": "{{Information"
+      },
+      {
+        "user": "Jpablo cad",
+        "date": "2009-02-17",
+        "comment": "Corrección del tamaño según el tamaño oficial (4:7) de la bandera asi como del escudo (3/4 partes del ancho de la bandera)."
+      },
+      {
+        "user": "Jpablo cad",
+        "date": "2009-05-15",
+        "comment": "Changing of official colors"
+      },
+      {
+        "user": "Jpablo cad",
+        "date": "2011-11-19",
+        "comment": "Bandera de Jalisco adaptada por el Gobierno en 2011."
+      },
+      {
+        "user": "Viiticus",
+        "date": "2020-10-07",
+        "comment": "No white background on official flag."
+      },
+      {
+        "user": "Viiticus",
+        "date": "2020-10-07",
+        "comment": "Fixed mantling."
+      },
+      {
+        "user": "Flagvisioner",
+        "date": "2022-08-22",
+        "comment": "El gobierno de Jalisco usa esta bandera y la otra, pero el gobernador de Jalisco desde el 2020 usa esta bandera. Voy a enviarles un correo electrónico más tarde"
+      },
+      {
+        "user": "Flagvisioner",
+        "date": "2022-08-22",
+        "comment": "mejor"
+      }
+    ],
+    "contributors": [
+      "Jpablo cad",
+      "Viiticus",
+      "Flagvisioner"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q13160",
+    "wikipedia": "Jalisco",
+    "wikidata_flag_images": [
+      "Flag of Jalisco.svg"
+    ]
+  },
+  "mx-oax": {
+    "commons_title": "Flag of Oaxaca.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Oaxaca.svg",
+    "revision": {
+      "sha1": "7930a88557b8cbea4be4c7b2e64b851e291c1134",
+      "timestamp": "2009-08-09T22:20:17Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Flag_of_Oaxaca.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 350,
+      "height": 200,
+      "uploader": "TownDown"
+    },
+    "license": "CC BY-SA 3.0",
+    "license_kind": "share-alike",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "license_tags": [
+      "CC-BY-SA-3.0-migrated",
+      "GFDL",
+      "PD-MX-CoA"
+    ],
+    "license_options": [
+      "GFDL",
+      "CC BY-SA 3.0"
+    ],
+    "license_conditions": [
+      "attribution requested by {{User:Heraldry/Attribution}}"
+    ],
+    "own_license": "CC BY-SA 3.0",
+    "own_license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "own_kind": "copyleft",
+    "author": "Heraldry",
+    "versions": [
+      {
+        "user": "Joey-das-WBF",
+        "date": "2008-12-24",
+        "comment": "{{Information"
+      },
+      {
+        "user": "Joey-das-WBF",
+        "date": "2008-12-24",
+        "comment": "minor fix"
+      },
+      {
+        "user": "Joey-das-WBF",
+        "date": "2008-12-24",
+        "comment": "removed pattern altogether"
+      },
+      {
+        "user": "Joey-das-WBF",
+        "date": "2008-12-24",
+        "comment": "fixed the edges of the pattern"
+      },
+      {
+        "user": "Joey-das-WBF",
+        "date": "2008-12-24",
+        "comment": "pattern moved"
+      },
+      {
+        "user": "Joey-das-WBF",
+        "date": "2008-12-24",
+        "comment": "another approach at a seamless pattern"
+      },
+      {
+        "user": "Joey-das-WBF",
+        "date": "2008-12-24",
+        "comment": "no stitching of symbols anymore, just one symbol for the entire strip. Much easier."
+      },
+      {
+        "user": "TownDown",
+        "date": "2009-08-09",
+        "comment": "reuploading official national flag of oaxaca, the previous flag will be uploaded later as historical or proposal"
+      }
+    ],
+    "contributors": [
+      "Joey-das-WBF",
+      "TownDown"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": true,
+    "wikidata": "Q34110",
+    "wikipedia": "Oaxaca",
+    "wikidata_flag_images": [
+      "Flag of Oaxaca.svg"
+    ]
+  },
+  "mx-que": {
+    "commons_title": "Flag of Queretaro.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Queretaro.svg",
+    "revision": {
+      "sha1": "02c9b0b35b7290470de9f76a23e19a79ddd3d625",
+      "timestamp": "2022-09-17T05:00:26Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Flag_of_Queretaro.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 512,
+      "height": 293,
+      "uploader": "Flagvisioner"
+    },
+    "license": "attribution as the author requests",
+    "license_kind": "attribution",
+    "license_url": "https://commons.wikimedia.org/wiki/User:Heraldry/Attribution",
+    "license_tags": [
+      "PD-MX-CoA"
+    ],
+    "license_options": [],
+    "license_conditions": [
+      "attribution requested by {{User:Heraldry/Attribution}}"
+    ],
+    "own_license": "attribution as the author requests",
+    "own_license_url": "https://commons.wikimedia.org/wiki/User:Heraldry/Attribution",
+    "own_kind": "attribution",
+    "author": "Heraldry",
+    "versions": [
+      {
+        "user": "TownDown",
+        "date": "2009-08-09",
+        "comment": "{{Information"
+      },
+      {
+        "user": "TownDown",
+        "date": "2009-08-10",
+        "comment": "fixing screen preview"
+      },
+      {
+        "user": "HapHaxion",
+        "date": "2022-09-13",
+        "comment": "reduce file size"
+      },
+      {
+        "user": "Flagvisioner",
+        "date": "2022-09-17",
+        "comment": "using construction sheet"
+      }
+    ],
+    "contributors": [
+      "TownDown",
+      "HapHaxion",
+      "Flagvisioner"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": true,
+    "wikidata": "Q79754",
+    "wikipedia": "Querétaro",
+    "wikidata_flag_images": [
+      "Flag of Queretaro.svg"
+    ]
+  },
+  "mx-roo": {
+    "commons_title": "Flag of Quintana Roo.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Quintana_Roo.svg",
+    "revision": {
+      "sha1": "1820dbfb692d2f3daeb3a0633af12e17dca1f249",
+      "timestamp": "2024-11-27T19:14:23Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Quintana_Roo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 2100,
+      "height": 1200,
+      "uploader": "Kwamikagami"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD-MX-CoA"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "Heraldry",
+    "versions": [
+      {
+        "user": "TownDown",
+        "date": "2009-08-10",
+        "comment": "{{Information"
+      },
+      {
+        "user": "HapHaxion",
+        "date": "2022-06-15",
+        "comment": "file size reduction"
+      },
+      {
+        "user": "Flagvisioner",
+        "date": "2022-07-23",
+        "comment": "Official rendition of coat of arms, from https://www.conago.org.mx/acercade/escudos-entidades-federativas. There are now 11 rays instead of 8, as a new ray is a"
+      },
+      {
+        "user": "HapHaxion",
+        "date": "2022-11-16",
+        "comment": "fix emblem not being centered"
+      },
+      {
+        "user": "Kwamikagami",
+        "date": "2024-11-27",
+        "comment": "the law says the escudo is 1/3 the size of the flag"
+      },
+      {
+        "user": "Kwamikagami",
+        "date": "2024-11-27",
+        "comment": "average 1/3 height and 1/3 width"
+      }
+    ],
+    "contributors": [
+      "TownDown",
+      "HapHaxion",
+      "Flagvisioner",
+      "Kwamikagami"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q80245",
+    "wikipedia": "Quintana_Roo",
+    "wikidata_flag_images": [
+      "Flag of Quintana Roo.svg"
+    ]
+  },
+  "mx-tab": {
+    "commons_title": "Flag of Tabasco.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Tabasco.svg",
+    "revision": {
+      "sha1": "dcaed067148ea91f913ce444c4a33dbc3ca67493",
+      "timestamp": "2022-12-22T19:55:11Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Flag_of_Tabasco.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 700,
+      "height": 400,
+      "uploader": "HapHaxion"
+    },
+    "license": "CC BY-SA 3.0",
+    "license_kind": "share-alike",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "license_tags": [
+      "CC-BY-SA-3.0-migrated",
+      "GFDL",
+      "PD-MX-CoA"
+    ],
+    "license_options": [
+      "GFDL",
+      "CC BY-SA 3.0"
+    ],
+    "license_conditions": [
+      "attribution requested by {{User:Heraldry/Attribution}}"
+    ],
+    "own_license": "CC BY-SA 3.0",
+    "own_license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "own_kind": "copyleft",
+    "author": "Heraldry",
+    "versions": [
+      {
+        "user": "TownDown",
+        "date": "2009-08-10",
+        "comment": "{{Information"
+      },
+      {
+        "user": "HapHaxion",
+        "date": "2022-12-22",
+        "comment": "reduce file size"
+      }
+    ],
+    "contributors": [
+      "TownDown",
+      "HapHaxion"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": true,
+    "wikidata": "Q80914",
+    "wikipedia": "Tabasco",
+    "wikidata_flag_images": [
+      "Flag of Tabasco.svg"
+    ]
+  },
+  "mx-tam": {
+    "commons_title": "Flag of Tamaulipas.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Tamaulipas.svg",
+    "revision": {
+      "sha1": "497bc5d5a205c0084ec6be769feea37010327cc4",
+      "timestamp": "2009-08-14T05:31:52Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Tamaulipas.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 350,
+      "height": 200,
+      "uploader": "TownDown"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD-MX-CoA"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "Heraldry",
+    "versions": [
+      {
+        "user": "TownDown",
+        "date": "2009-08-14",
+        "comment": "{{Information"
+      }
+    ],
+    "contributors": [
+      "TownDown"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q80007",
+    "wikipedia": "Tamaulipas",
+    "wikidata_flag_images": []
+  },
+  "mx-tla": {
+    "commons_title": "Flag of Tlaxcala.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Tlaxcala.svg",
+    "revision": {
+      "sha1": "890efc5c1f49382307dd0d15c92f365912afbfd5",
+      "timestamp": "2022-05-31T21:59:08Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Flag_of_Tlaxcala.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 875,
+      "height": 500,
+      "uploader": "Flagvisioner"
+    },
+    "license": "CC BY 3.0",
+    "license_kind": "attribution",
+    "license_url": "https://creativecommons.org/licenses/by/3.0/",
+    "license_tags": [
+      "PD-MX-CoA"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "Javitomad",
+    "versions": [
+      {
+        "user": "Javitomad",
+        "date": "2009-03-27",
+        "comment": "{{Information"
+      },
+      {
+        "user": "Javitomad",
+        "date": "2010-10-15",
+        "comment": "Rojo gules"
+      },
+      {
+        "user": "Flagvisioner",
+        "date": "2022-05-31",
+        "comment": "According to https://www.crwflags.com/fotw/flags/mx-tl.html. The textless version is a variant."
+      },
+      {
+        "user": "Flagvisioner",
+        "date": "2022-05-31",
+        "comment": "text to path"
+      }
+    ],
+    "contributors": [
+      "Flagvisioner"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [
+      {
+        "title": "Coat of arms of Tlaxcala.svg",
+        "page": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Tlaxcala.svg",
+        "author": "Battroid",
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0/",
+        "binding": true
+      }
+    ],
+    "attribution_required": true,
+    "wikidata": "Q82681",
+    "wikipedia": "Tlaxcala",
+    "wikidata_flag_images": [
+      "Flag of Tlaxcala.svg"
+    ]
+  },
+  "mx-yuc": {
+    "commons_title": "Flag of Yucatan.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Yucatan.svg",
+    "revision": {
+      "sha1": "6ca51626d6334c3116d974285b16459c1053f49f",
+      "timestamp": "2024-12-16T16:16:57Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Flag_of_Yucatan.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 600,
+      "height": 300,
+      "uploader": "HapHaxion"
+    },
+    "license": "CC BY-SA 3.0",
+    "license_kind": "share-alike",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "license_tags": [
+      "CC-BY-SA-3.0-migrated",
+      "GFDL",
+      "PD-MX-exempt"
+    ],
+    "license_options": [
+      "GFDL",
+      "CC BY-SA 3.0"
+    ],
+    "license_conditions": [],
+    "own_license": "CC BY-SA 3.0",
+    "own_license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "own_kind": "copyleft",
+    "author": "TownDown",
+    "versions": [
+      {
+        "user": "TownDown",
+        "date": "2009-08-10",
+        "comment": "{{Information"
+      },
+      {
+        "user": "HapHaxion",
+        "date": "2024-08-28",
+        "comment": "adopted officially 13 Aug 2024"
+      }
+    ],
+    "contributors": [
+      "HapHaxion"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": true,
+    "wikidata": "Q60176",
+    "wikipedia": "Yucatán",
+    "wikidata_flag_images": [
+      "Flag of Yucatan.svg"
+    ]
   }
 }

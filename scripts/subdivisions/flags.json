@@ -8,6 +8,10 @@
     },
     "ch": {
       "name": "Switzerland"
+    },
+    "mx": {
+      "name": "Mexico",
+      "note": "States that en.wikipedia lists with a flag established by state law. Commons describes the files for Coahuila, Colima and Tamaulipas as fictitious or unofficial flags, and the current Tabasco drawing as used by the state government but not adopted by law. The other 17 states, and Mexico City, use only their coat of arms and have no official flag."
     }
   },
   "flags": {
@@ -994,7 +998,434 @@
       "layout": {
         "crop": "center"
       }
+    },
+    "mx-bcs": {
+      "name": "Baja California Sur",
+      "commons": "Flag of Baja California Sur.svg",
+      "layout": {
+        "fit": [
+          0.522,
+          0.135,
+          0.706,
+          0.73
+        ],
+        "fill": 0.7,
+        "fills": [
+          [
+            "#FFFFFF",
+            0,
+            0,
+            512,
+            512
+          ]
+        ],
+        "square": {
+          "fill": 0.85
+        }
+      }
+    },
+    "mx-coa": {
+      "name": "Coahuila",
+      "commons": "Flag of Coahuila.svg",
+      "layout": {
+        "fit": [
+          0.517,
+          0.132,
+          0.716,
+          0.736
+        ],
+        "fill": 0.7,
+        "fills": [
+          [
+            "#FFFFFF",
+            0,
+            0,
+            512,
+            512
+          ]
+        ],
+        "square": {
+          "fill": 0.85
+        }
+      },
+      "note": "en.wikipedia lists it among the state flags established by law, while its Commons file is tagged {{fictitious flag}} (a fictitious, proposed or unofficial flag).",
+      "clean": {
+        "flatten_images": true,
+        "max_drift": [
+          0.0015,
+          360
+        ],
+        "why": "The Commons drawing shades four scrolls of the arms with small embedded JPEG patches, which become flat rectangles of their median color; at 1200 pixels that changes about 0.13% of the pixels, in patches of up to 330 pixels."
+      }
+    },
+    "mx-col": {
+      "name": "Colima",
+      "commons": "Flag of Colima.svg",
+      "layout": {
+        "fit": [
+          0.575,
+          0.079,
+          0.6,
+          0.864
+        ],
+        "fill": 0.8,
+        "fills": [
+          [
+            "#FFFFFF",
+            0,
+            0,
+            512,
+            512
+          ]
+        ],
+        "square": {
+          "fill": 0.85
+        }
+      },
+      "note": "en.wikipedia lists it among the state flags established by law, while its Commons file is tagged {{fictitious flag}} (a fictitious, proposed or unofficial flag)."
+    },
+    "mx-dur": {
+      "name": "Durango",
+      "commons": "Flag of Durango.svg",
+      "layout": {
+        "fit": [
+          0.625,
+          0.125,
+          0.5,
+          0.749
+        ],
+        "fill": 0.8,
+        "fills": [
+          [
+            "#FFFFFF",
+            0,
+            0,
+            512,
+            512
+          ]
+        ],
+        "square": {
+          "fill": 0.85
+        }
+      }
+    },
+    "mx-gro": {
+      "name": "Guerrero",
+      "commons": "Flag of Guerrero.svg",
+      "layout": {
+        "fit": [
+          0.625,
+          0.073,
+          0.5,
+          0.854
+        ],
+        "fill": 0.82,
+        "fills": [
+          [
+            "#FFFFFF",
+            0,
+            0,
+            512,
+            512
+          ]
+        ],
+        "square": {
+          "fill": 0.85
+        }
+      }
+    },
+    "mx-gua": {
+      "name": "Guanajuato",
+      "commons": "Flag of Guanajuato.svg",
+      "layout": {
+        "fills": [
+          [
+            "#FFFFFF",
+            0,
+            0,
+            512,
+            512
+          ]
+        ],
+        "layers": [
+          {
+            "from": [
+              0.586,
+              0.085,
+              0.578,
+              0.83
+            ],
+            "to": [
+              102.0,
+              35.0,
+              308.0,
+              442.4
+            ]
+          }
+        ],
+        "square": {
+          "layers": [
+            {
+              "from": [
+                0.586,
+                0.085,
+                0.578,
+                0.83
+              ],
+              "to": [
+                88.4,
+                15.5,
+                335.2,
+                481.3
+              ]
+            }
+          ]
+        }
+      },
+      "note": "The circle and square show the arms on the white field without the gold frame around the flag, which would otherwise survive only as stray bars at the top and bottom.",
+      "adaptation": "show the arms on the white field without the gold frame around the flag"
+    },
+    "mx-jal": {
+      "name": "Jalisco",
+      "commons": "Flag of Jalisco.svg",
+      "layout": {
+        "crop": "center"
+      }
+    },
+    "mx-oax": {
+      "name": "Oaxaca",
+      "commons": "Flag of Oaxaca.svg",
+      "layout": {
+        "fit": [
+          0.573,
+          0.083,
+          0.6,
+          0.802
+        ],
+        "fill": 0.78,
+        "fills": [
+          [
+            "#FFFFFF",
+            0,
+            0,
+            512,
+            512
+          ]
+        ],
+        "square": {
+          "fill": 0.85
+        }
+      },
+      "clean": {
+        "flatten_images": true,
+        "max_drift": [
+          0.0001,
+          40
+        ],
+        "why": "The Commons drawing shades two thin bands of the arms with embedded JPEG strips, which become flat rectangles of their median color; at 1200 pixels that changes under 0.01% of the pixels, in patches of up to 35 pixels."
+      }
+    },
+    "mx-que": {
+      "name": "Querétaro",
+      "commons": "Flag of Queretaro.svg",
+      "layout": {
+        "fit": [
+          0.583,
+          0.125,
+          0.584,
+          0.75
+        ],
+        "fill": 0.85,
+        "fills": [
+          [
+            "#FFFFFF",
+            0,
+            0,
+            512,
+            512
+          ]
+        ]
+      }
+    },
+    "mx-roo": {
+      "name": "Quintana Roo",
+      "commons": "Flag of Quintana Roo.svg",
+      "layout": {
+        "fit": [
+          0.667,
+          0.219,
+          0.416,
+          0.561
+        ],
+        "fill": 0.75,
+        "fills": [
+          [
+            "#FFFFFF",
+            0,
+            0,
+            512,
+            512
+          ]
+        ],
+        "square": {
+          "fill": 0.85
+        }
+      }
+    },
+    "mx-tab": {
+      "name": "Tabasco",
+      "commons": "Flag of Tabasco.svg",
+      "layout": {
+        "fit": [
+          0.613,
+          0.106,
+          0.524,
+          0.788
+        ],
+        "fill": 0.85,
+        "fills": [
+          [
+            "#FFFFFF",
+            0,
+            0,
+            512,
+            512
+          ]
+        ]
+      },
+      "note": "en.wikipedia lists Tabasco's flag as established by law, while the Commons page of this drawing says it is used by the state government but has not been adopted by law."
+    },
+    "mx-tam": {
+      "name": "Tamaulipas",
+      "commons": "Flag of Tamaulipas.svg",
+      "layout": {
+        "fit": [
+          0.55,
+          0.131,
+          0.6,
+          0.744
+        ],
+        "fill": 0.78,
+        "fills": [
+          [
+            "#FFFFFF",
+            0,
+            0,
+            512,
+            512
+          ]
+        ],
+        "square": {
+          "fill": 0.85
+        }
+      },
+      "note": "en.wikipedia lists it among the state flags established by law, while its Commons file is tagged {{fictitious flag}} (a fictitious, proposed or unofficial flag)."
+    },
+    "mx-tla": {
+      "name": "Tlaxcala",
+      "commons": "Flag of Tlaxcala.svg",
+      "layout": {
+        "window": [
+          0.521,
+          0.098,
+          0.704
+        ]
+      },
+      "note": "The window is centered on the shield and ends just above the inscription \"EDO. DE TLAXCALA\", so no lettering is cut."
+    },
+    "mx-yuc": {
+      "name": "Yucatán",
+      "commons": "Flag of Yucatan.svg",
+      "layout": {
+        "window": [
+          -0.2,
+          -0.125,
+          1.25
+        ],
+        "fills": [
+          [
+            "#006847",
+            0,
+            0,
+            355,
+            512
+          ],
+          [
+            "#CE1126",
+            355,
+            0,
+            157,
+            512
+          ]
+        ],
+        "covers": [
+          [
+            "#006847",
+            75.92,
+            0,
+            12,
+            512
+          ],
+          [
+            "#006847",
+            0,
+            45.2,
+            355,
+            12
+          ],
+          [
+            "#CE1126",
+            355,
+            45.2,
+            157,
+            12
+          ],
+          [
+            "#006847",
+            0,
+            454.8,
+            355,
+            12
+          ],
+          [
+            "#CE1126",
+            355,
+            454.8,
+            157,
+            12
+          ]
+        ],
+        "square": {
+          "window": [
+            0,
+            0,
+            1
+          ],
+          "fills": [],
+          "covers": []
+        }
+      },
+      "note": "The circle zooms out around the green panel so its five stars stay inside the circle; the fills continue the panel and the red stripes beyond the flag's edges."
     }
   },
-  "excluded": {}
+  "excluded": {
+    "mx-agu": "Aguascalientes: no de jure state flag (only the coat of arms on white is used unofficially)",
+    "mx-bcn": "Baja California: the state constitution declares that there is no state flag",
+    "mx-cam": "Campeche: the state constitution declares that there is no state flag",
+    "mx-chh": "Chihuahua: no de jure state flag (only the coat of arms on white is used unofficially)",
+    "mx-chp": "Chiapas: no de jure state flag (only the coat of arms on white is used unofficially)",
+    "mx-cmx": "Mexico City: no de jure state flag (only the coat of arms on white is used unofficially)",
+    "mx-hid": "Hidalgo: no de jure state flag (only the coat of arms on white is used unofficially)",
+    "mx-mex": "State of Mexico: no de jure state flag (only the coat of arms on white is used unofficially)",
+    "mx-mic": "Michoacán: no de jure state flag (only the coat of arms on white is used unofficially)",
+    "mx-mor": "Morelos: no de jure state flag (only the coat of arms on white is used unofficially)",
+    "mx-nay": "Nayarit: no de jure state flag (only the coat of arms on white is used unofficially)",
+    "mx-nle": "Nuevo León: no de jure state flag (only the coat of arms on white is used unofficially)",
+    "mx-pue": "Puebla: no de jure state flag (only the coat of arms on white is used unofficially)",
+    "mx-sin": "Sinaloa: no de jure state flag (only the coat of arms on white is used unofficially)",
+    "mx-slp": "San Luis Potosí: no de jure state flag (only the coat of arms on white is used unofficially)",
+    "mx-son": "Sonora: no de jure state flag (only the coat of arms on white is used unofficially)",
+    "mx-ver": "Veracruz: no de jure state flag (only the coat of arms on white is used unofficially)",
+    "mx-zac": "Zacatecas: no de jure state flag (only the coat of arms on white is used unofficially)"
+  }
 }
