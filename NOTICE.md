@@ -130,6 +130,30 @@ Most of this repository is under the MIT license in [LICENSE](LICENSE). The file
 - License: [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/)
 - Credit: [Bandeira do estado de São Paulo.svg](https://commons.wikimedia.org/wiki/File:Bandeira_do_estado_de_S%C3%A3o_Paulo.svg) by Felipe Micaroni Lalli, Giro720, with versions uploaded by FML and Mike Rohsopht, [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/), based on [Contorno do mapa do Brasil.svg](https://commons.wikimedia.org/wiki/File:Contorno_do_mapa_do_Brasil.svg) by FML (uploader), [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/). The circle and square files are crops of it. All four `br-sp` files are distributed under [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/) instead of MIT.
 
+## `es-an` Andalusia
+
+- Files: `circle/states/es-an.svg`, `square/states/es-an.svg`, `full-size-simplified/states/es-an.svg`, `full-size/states/es-an.svg`
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+- Credit: [Flag of Andalucía.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Andaluc%C3%ADa.svg) by Miguillen, with versions uploaded by Tcfc2349, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). The circle and square files are crops of it. All four `es-an` files are distributed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) instead of MIT.
+
+## `es-cb` Cantabria
+
+- Files: `circle/states/es-cb.svg`, `square/states/es-cb.svg`, `full-size-simplified/states/es-cb.svg`, `full-size/states/es-cb.svg`
+- License: [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/)
+- Credit: [Flag of Cantabria (Official).svg](https://commons.wikimedia.org/wiki/File:Flag_of_Cantabria_(Official).svg) by Miguillen, [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/). The circle and square files are crops of it. All four `es-cb` files are distributed under [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/) instead of MIT.
+
+## `es-cl` Castile and León
+
+- Files: `circle/states/es-cl.svg`, `square/states/es-cl.svg`, `full-size-simplified/states/es-cl.svg`, `full-size/states/es-cl.svg`
+- License: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+- Credit: [Flag of Castile and León.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Castile_and_Le%C3%B3n.svg) by Rastrojo, with versions uploaded by HansenBCN, Fry1989 and Χ, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/). The circle file is a zoomed-out view of it with its field continued past its edges, and the square file is a crop of it.
+
+## `es-ri` La Rioja
+
+- Files: `circle/states/es-ri.svg`, `square/states/es-ri.svg`, `full-size-simplified/states/es-ri.svg`, `full-size/states/es-ri.svg`
+- License: [CC BY 2.5](https://creativecommons.org/licenses/by/2.5/)
+- Credit: [Flag of La Rioja (with coat of arms).svg](https://commons.wikimedia.org/wiki/File:Flag_of_La_Rioja_(with_coat_of_arms).svg) by jynus, with versions uploaded by Huhsunqu, Bigsus, HansenBCN and SiBr4, [CC BY 2.5](https://creativecommons.org/licenses/by/2.5/). The circle and square files are crops of it.
+
 ## `mx-coa` Coahuila
 
 - Files: `circle/states/mx-coa.svg`, `square/states/mx-coa.svg`, `full-size-simplified/states/mx-coa.svg`, `full-size/states/mx-coa.svg`

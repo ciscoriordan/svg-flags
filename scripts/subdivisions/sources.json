@@ -5688,6 +5688,737 @@
       "CHE Zürich Flag.svg"
     ]
   },
+  "es-an": {
+    "commons_title": "Flag of Andalucía.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Andaluc%C3%ADa.svg",
+    "revision": {
+      "sha1": "b33127ff8298e7119257caad08ece259761e1868",
+      "timestamp": "2019-05-07T11:34:24Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_Andaluc%C3%ADa.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 750,
+      "height": 500,
+      "uploader": "Tcfc2349"
+    },
+    "license": "CC BY-SA 4.0",
+    "license_kind": "share-alike",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "license_tags": [
+      "CC-BY-SA-4.0,3.0,2.5,2.0,1.0",
+      "GFDL"
+    ],
+    "license_options": [
+      "GFDL",
+      "CC BY-SA 4.0"
+    ],
+    "license_conditions": [],
+    "own_license": "CC BY-SA 4.0",
+    "own_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "own_kind": "copyleft",
+    "author": "Miguillen",
+    "versions": [
+      {
+        "user": "Miguillen",
+        "date": "2009-02-21",
+        "comment": "{{Information"
+      },
+      {
+        "user": "Miguillen",
+        "date": "2009-02-21",
+        "comment": "eliminas rallas inapropiadas"
+      },
+      {
+        "user": "Miguillen",
+        "date": "2009-03-10",
+        "comment": "A VER SI SE QUITAN LAS RALLITAS"
+      },
+      {
+        "user": "Miguillen",
+        "date": "2010-03-08",
+        "comment": "escudo mejorado"
+      },
+      {
+        "user": "Tcfc2349",
+        "date": "2019-05-07",
+        "comment": "fixed"
+      }
+    ],
+    "contributors": [
+      "Tcfc2349"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": true,
+    "wikidata": "Q5783",
+    "wikipedia": "Andalusia",
+    "wikidata_flag_images": [
+      "Flag of Andalucía.svg"
+    ]
+  },
+  "es-as": {
+    "commons_title": "Flag of Asturias.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Asturias.svg",
+    "revision": {
+      "sha1": "caefb74c9ba07d45bc1548887a6d38c5625d0634",
+      "timestamp": "2014-06-21T17:22:18Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_Asturias.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 900,
+      "height": 600,
+      "uploader": "SiBr4"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD-user"
+    ],
+    "license_options": [
+      "Public domain"
+    ],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "release",
+    "author": "Banderas",
+    "versions": [
+      {
+        "user": "Kooma",
+        "date": "2005-12-01",
+        "comment": "Flag of the [[Asturies|Asturias]] from [http://www.openclipart.org/cgi-bin/navigate/signs_and_symbols/flags/europe/spain Open Clip Art Library]."
+      },
+      {
+        "user": "Huhsunqu",
+        "date": "2006-07-22",
+        "comment": "Versión subida como [[:Image:Bandera asturias.svg|]], del usuario Banderas, con los colores de esta versión."
+      },
+      {
+        "user": "Huhsunqu",
+        "date": "2006-07-22",
+        "comment": "900x600"
+      },
+      {
+        "user": "Huhsunqu",
+        "date": "2006-07-22",
+        "comment": ""
+      },
+      {
+        "user": "Huhsunqu",
+        "date": "2006-07-23",
+        "comment": "From recomendations of Banderas (see my talk page)"
+      },
+      {
+        "user": "SiBr4",
+        "date": "2014-06-21",
+        "comment": "Code"
+      }
+    ],
+    "contributors": [
+      "Kooma",
+      "Huhsunqu",
+      "SiBr4"
+    ],
+    "releaser": "Banderas",
+    "release_not_used": null,
+    "later_versions": "Huhsunqu replaced the Open Clip Art drawing with Banderas' version, colors and dimensions (2006), and SiBr4 rewrote the code (2014).",
+    "derived_from": [
+      {
+        "title": "Bandera asturias.svg",
+        "page": "https://commons.wikimedia.org/wiki/File:Bandera_asturias.svg",
+        "author": "Banderas (uploader)",
+        "license": "Public domain",
+        "license_url": null,
+        "binding": false
+      }
+    ],
+    "attribution_required": false,
+    "wikidata": "Q3934",
+    "wikipedia": "Asturias",
+    "wikidata_flag_images": [
+      "Flag of Asturias (gala).svg"
+    ]
+  },
+  "es-cb": {
+    "commons_title": "Flag of Cantabria (Official).svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Cantabria_(Official).svg",
+    "revision": {
+      "sha1": "7b3808230af078ffee36d4ab99fd8acab0f0c671",
+      "timestamp": "2022-05-25T07:25:38Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Cantabria_%28Official%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 750,
+      "height": 500,
+      "uploader": "Miguillen"
+    },
+    "license": "CC BY-SA 2.5",
+    "license_kind": "share-alike",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.5/",
+    "license_tags": [
+      "CC-BY-SA-2.5"
+    ],
+    "license_options": [
+      "CC BY-SA 2.5"
+    ],
+    "license_conditions": [],
+    "own_license": "CC BY-SA 2.5",
+    "own_license_url": "https://creativecommons.org/licenses/by-sa/2.5/",
+    "own_kind": "copyleft",
+    "author": "Miguillen",
+    "versions": [
+      {
+        "user": "Miguillen",
+        "date": "2013-03-05",
+        "comment": "{{Information"
+      }
+    ],
+    "contributors": [],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": true,
+    "wikidata": "Q3946",
+    "wikipedia": "Cantabria",
+    "wikidata_flag_images": [
+      "Flag of Cantabria (Official).svg"
+    ]
+  },
+  "es-cl": {
+    "commons_title": "Flag of Castile and León.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Castile_and_Le%C3%B3n.svg",
+    "revision": {
+      "sha1": "8cc3fcbc53fdb32e9dbaf18ada6eacbe44af31ff",
+      "timestamp": "2012-04-29T08:17:24Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Flag_of_Castile_and_Le%C3%B3n.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 650,
+      "height": 500,
+      "uploader": "Χ"
+    },
+    "license": "CC BY 3.0",
+    "license_kind": "attribution",
+    "license_url": "https://creativecommons.org/licenses/by/3.0/",
+    "license_tags": [
+      "CC-BY-3.0",
+      "GFDL"
+    ],
+    "license_options": [
+      "GFDL",
+      "CC BY 3.0"
+    ],
+    "license_conditions": [],
+    "own_license": "CC BY 3.0",
+    "own_license_url": "https://creativecommons.org/licenses/by/3.0/",
+    "own_kind": "attribution",
+    "author": "Rastrojo",
+    "versions": [
+      {
+        "user": "Rastrojo",
+        "date": "2007-10-13",
+        "comment": "{{Information"
+      },
+      {
+        "user": "Rastrojo",
+        "date": "2008-07-18",
+        "comment": "Nueva versión, mejor vectorización, más detallista..."
+      },
+      {
+        "user": "HansenBCN",
+        "date": "2009-03-29",
+        "comment": "Colores wiki/FIAV, ajuste de proporciones según [http://www.jcyl.es/scsiau/Satellite/up/es/CastillayLeon/Page/PlantillaN3SinHijos/1139829793703/_/1/_?asm=jcyl&c"
+      },
+      {
+        "user": "Fry1989",
+        "date": "2010-11-16",
+        "comment": "white"
+      },
+      {
+        "user": "Χ",
+        "date": "2012-04-29",
+        "comment": "simplify"
+      }
+    ],
+    "contributors": [
+      "HansenBCN",
+      "Fry1989",
+      "Χ"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [
+      {
+        "title": "Bandera Castilla y Leon.png",
+        "page": "https://commons.wikimedia.org/wiki/File:Bandera_Castilla_y_Leon.png",
+        "author": "Jerbez",
+        "license": "Public domain",
+        "license_url": null,
+        "binding": false
+      }
+    ],
+    "attribution_required": true,
+    "wikidata": "Q5739",
+    "wikipedia": "Castile_and_León",
+    "wikidata_flag_images": [
+      "Flag of Castile and León.svg"
+    ]
+  },
+  "es-cm": {
+    "commons_title": "Flag of Castile-La Mancha.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Castile-La_Mancha.svg",
+    "revision": {
+      "sha1": "9dc760e7652266681b8ce248da2ec915c138162a",
+      "timestamp": "2009-09-03T09:26:14Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_Castile-La_Mancha.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 750,
+      "height": 500,
+      "uploader": "HansenBCN"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD-self"
+    ],
+    "license_options": [
+      "Public domain"
+    ],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "release",
+    "author": "Xinese-v",
+    "versions": [
+      {
+        "user": "Xinese-v",
+        "date": "2007-12-21",
+        "comment": "{{Information"
+      },
+      {
+        "user": "HansenBCN",
+        "date": "2009-02-07",
+        "comment": "Colores Taller; más vivos"
+      },
+      {
+        "user": "HansenBCN",
+        "date": "2009-09-03",
+        "comment": "rojo carmesí= 50% rojo + 50% carmesí"
+      }
+    ],
+    "contributors": [
+      "HansenBCN"
+    ],
+    "releaser": "Xinese-v",
+    "release_not_used": null,
+    "later_versions": "HansenBCN only changed the colors (2009).",
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q5748",
+    "wikipedia": "Castilla–La_Mancha",
+    "wikidata_flag_images": [
+      "Flag of Castile-La Mancha.svg"
+    ]
+  },
+  "es-ex": {
+    "commons_title": "Flag of Extremadura, Spain.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Extremadura,_Spain.svg",
+    "revision": {
+      "sha1": "e9db2d68b64d0aaafcc7c9d40902aaeb92feeabe",
+      "timestamp": "2020-07-01T12:56:02Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Extremadura%2C_Spain.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 900,
+      "height": 600,
+      "uploader": "Sarang"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD shape"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "IgnisFatuus",
+    "versions": [
+      {
+        "user": "IgnisFatuus",
+        "date": "2007-11-03",
+        "comment": "{{Information"
+      },
+      {
+        "user": "Andrwsc",
+        "date": "2010-01-14",
+        "comment": "much simpler SVG code"
+      },
+      {
+        "user": "Rkt2312",
+        "date": "2014-09-21",
+        "comment": "Simplified version."
+      },
+      {
+        "user": "Rkt2312",
+        "date": "2014-09-21",
+        "comment": "Corrected version."
+      },
+      {
+        "user": "Andrwsc",
+        "date": "2014-11-25",
+        "comment": "vastly simplified SVG code"
+      },
+      {
+        "user": "Sarang",
+        "date": "2020-07-01",
+        "comment": "vastlier simplified SVG code // Editing SVG source code using [[c:User:Rillke/SVGedit.js]]"
+      }
+    ],
+    "contributors": [
+      "Andrwsc",
+      "Rkt2312",
+      "Sarang"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q5777",
+    "wikipedia": "Extremadura",
+    "wikidata_flag_images": [
+      "Flag of Extremadura, Spain (with coat of arms).svg"
+    ]
+  },
+  "es-mc": {
+    "commons_title": "Flag of the Region of Murcia.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Region_of_Murcia.svg",
+    "revision": {
+      "sha1": "a33c24da75653260915e4b3cb436620c5685ba26",
+      "timestamp": "2014-06-21T17:04:37Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Flag_of_the_Region_of_Murcia.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 750,
+      "height": 500,
+      "uploader": "SiBr4"
+    },
+    "license": "CC0",
+    "license_kind": "public domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "license_tags": [
+      "CC-Zero",
+      "PD OpenClipart"
+    ],
+    "license_options": [
+      "CC0"
+    ],
+    "license_conditions": [],
+    "own_license": "CC0",
+    "own_license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "own_kind": "release",
+    "author": "Open Clip Art Library",
+    "versions": [
+      {
+        "user": "Kooma",
+        "date": "2005-12-01",
+        "comment": "Flag of the [[Región de Murcia|Region of Murcia]] from [http://www.openclipart.org/cgi-bin/navigate/signs_and_symbols/flags/europe/spain Open Clip Art Library]."
+      },
+      {
+        "user": "HansenBCN",
+        "date": "2009-05-08",
+        "comment": "Corrección del Pantone!"
+      },
+      {
+        "user": "Josec92",
+        "date": "2012-01-05",
+        "comment": "http://www.carm.es/web/pagina?IDCONTENIDO=1611&IDTIPO=100&RASTRO=c$m120,127,1605"
+      },
+      {
+        "user": "SiBr4",
+        "date": "2014-06-21",
+        "comment": "Code"
+      }
+    ],
+    "contributors": [
+      "Kooma",
+      "HansenBCN",
+      "Josec92",
+      "SiBr4"
+    ],
+    "releaser": "Open Clip Art Library",
+    "release_not_used": null,
+    "later_versions": "HansenBCN corrected the colors (2009), Josec92 updated the drawing from the regional government's page (2012) and SiBr4 rewrote the code (2014).",
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q5772",
+    "wikipedia": "Region_of_Murcia",
+    "wikidata_flag_images": [
+      "Flag of the Region of Murcia.svg"
+    ]
+  },
+  "es-md": {
+    "commons_title": "Flag of the Community of Madrid.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Community_of_Madrid.svg",
+    "revision": {
+      "sha1": "c7e2b5c9e5ff1232b484b388e7cd7bf5593a0a20",
+      "timestamp": "2021-08-01T05:07:11Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_the_Community_of_Madrid.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 1100,
+      "height": 700,
+      "uploader": "Mike Rohsopht"
+    },
+    "license": "CC0",
+    "license_kind": "public domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "license_tags": [
+      "CC-Zero",
+      "PD OpenClipart"
+    ],
+    "license_options": [
+      "CC0"
+    ],
+    "license_conditions": [],
+    "own_license": "CC0",
+    "own_license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "own_kind": "release",
+    "author": "Open Clip Art Library",
+    "versions": [
+      {
+        "user": "Kooma",
+        "date": "2005-12-01",
+        "comment": "Flag of the [[:Category:Comunidad de Madrid|Community of Madrid]] from [http://www.openclipart.org/cgi-bin/navigate/signs_and_symbols/flags/europe/spain Open Cl"
+      },
+      {
+        "user": "Huhsunqu",
+        "date": "2006-09-03",
+        "comment": ""
+      },
+      {
+        "user": "SanchoPanzaXXI~commonswiki",
+        "date": "2007-09-19",
+        "comment": "Ammended to official color; description is provided by [http://www.madrid.org/wleg/servlet/Servidor?opcion=VerHtml&nmnorma=3&cdestado=P Decreto 2/1984 que desar"
+      },
+      {
+        "user": "SanchoPanzaXXI~commonswiki",
+        "date": "2008-05-10",
+        "comment": "Fixed colour to \"rojo bandera\" as calculated for National Flag"
+      },
+      {
+        "user": "Magasjukur2",
+        "date": "2012-03-13",
+        "comment": "Simpler code. Stars aligned. Colors maintained."
+      },
+      {
+        "user": "Mike Rohsopht",
+        "date": "2021-08-01",
+        "comment": "fixed positions and shapes of the stars according to the law"
+      }
+    ],
+    "contributors": [
+      "Kooma",
+      "Huhsunqu",
+      "SanchoPanzaXXI~commonswiki",
+      "Magasjukur2",
+      "Mike Rohsopht"
+    ],
+    "releaser": "Open Clip Art Library",
+    "release_not_used": null,
+    "later_versions": "Huhsunqu's 2006 upload has no comment; SanchoPanzaXXI matched the colors to the official ones (2007, 2008), Magasjukur2 simplified the code (2012) and Mike Rohsopht placed and shaped the stars as the law describes (2021).",
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q5756",
+    "wikipedia": "Community_of_Madrid",
+    "wikidata_flag_images": [
+      "Flag of the Community of Madrid.svg"
+    ]
+  },
+  "es-nc": {
+    "commons_title": "Bandera de Navarra.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Bandera_de_Navarra.svg",
+    "revision": {
+      "sha1": "80256a54ed7ad911584a42fbf5790ddc505e901e",
+      "timestamp": "2019-10-06T22:45:25Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Bandera_de_Navarra.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 750,
+      "height": 500,
+      "uploader": "Tcfc2349"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD-self"
+    ],
+    "license_options": [
+      "Public domain"
+    ],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "release",
+    "author": "Miguillen",
+    "versions": [
+      {
+        "user": "Miguillen",
+        "date": "2008-01-22",
+        "comment": "{{Information"
+      },
+      {
+        "user": "Miguillen",
+        "date": "2008-02-09",
+        "comment": "Cambio de colores uniformando el conjunto"
+      },
+      {
+        "user": "Miguillen",
+        "date": "2008-05-01",
+        "comment": "adapto colores y forma"
+      },
+      {
+        "user": "HansenBCN",
+        "date": "2008-08-11",
+        "comment": "Ajustes menores, consonancia al Taller"
+      },
+      {
+        "user": "Miguillen",
+        "date": "2008-08-12",
+        "comment": "corona poco adecuada para este diseño"
+      },
+      {
+        "user": "Miguillen",
+        "date": "2008-10-08",
+        "comment": "{{Information"
+      },
+      {
+        "user": "Miguillen",
+        "date": "2009-01-21",
+        "comment": "corona escudo"
+      },
+      {
+        "user": "Miguillen",
+        "date": "2009-01-22",
+        "comment": "cambio escudo arreglado"
+      },
+      {
+        "user": "Miguillen",
+        "date": "2009-02-27",
+        "comment": "reduzco corona"
+      },
+      {
+        "user": "Miguillen",
+        "date": "2009-04-15",
+        "comment": "escudo modificado"
+      },
+      {
+        "user": "Miguillen",
+        "date": "2009-04-26",
+        "comment": "arreglos escudo"
+      },
+      {
+        "user": "Zscout370",
+        "date": "2011-11-28",
+        "comment": "Reduce code"
+      },
+      {
+        "user": "Tcfc2349",
+        "date": "2019-10-06",
+        "comment": "optimized and validated"
+      }
+    ],
+    "contributors": [
+      "HansenBCN",
+      "Zscout370",
+      "Tcfc2349"
+    ],
+    "releaser": "Miguillen",
+    "release_not_used": null,
+    "later_versions": "HansenBCN made minor adjustments (2008), Zscout370 reduced the code (2011) and Tcfc2349 optimized it (2019); the arms are Miguillen's.",
+    "derived_from": [
+      {
+        "title": "Escudo de Navarra (oficial).svg",
+        "page": "https://commons.wikimedia.org/wiki/File:Escudo_de_Navarra_(oficial).svg",
+        "author": "Miguillen (uploader)",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "binding": false
+      }
+    ],
+    "attribution_required": false,
+    "wikidata": "Q4018",
+    "wikipedia": "Navarre",
+    "wikidata_flag_images": [
+      "Bandera de Navarra.svg"
+    ]
+  },
+  "es-ri": {
+    "commons_title": "Flag of La Rioja (with coat of arms).svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_La_Rioja_(with_coat_of_arms).svg",
+    "revision": {
+      "sha1": "39249b1fc5a7e7bb9cdc77cab12cf187405c0bcb",
+      "timestamp": "2014-06-21T18:20:45Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Flag_of_La_Rioja_%28with_coat_of_arms%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 750,
+      "height": 500,
+      "uploader": "SiBr4"
+    },
+    "license": "CC BY 2.5",
+    "license_kind": "attribution",
+    "license_url": "https://creativecommons.org/licenses/by/2.5/",
+    "license_tags": [
+      "CC-BY-2.5",
+      "CC-BY-SA-3.0-migrated",
+      "GFDL"
+    ],
+    "license_options": [
+      "GFDL",
+      "CC BY-SA 3.0",
+      "CC BY 2.5"
+    ],
+    "license_conditions": [],
+    "own_license": "CC BY 2.5",
+    "own_license_url": "https://creativecommons.org/licenses/by/2.5/",
+    "own_kind": "attribution",
+    "author": "jynus",
+    "versions": [
+      {
+        "user": "Jynus",
+        "date": "2006-02-12",
+        "comment": "Flag of La Rioja, with coat of arms."
+      },
+      {
+        "user": "Huhsunqu",
+        "date": "2006-05-19",
+        "comment": ""
+      },
+      {
+        "user": "Bigsus",
+        "date": "2008-06-09",
+        "comment": "{{Information"
+      },
+      {
+        "user": "HansenBCN",
+        "date": "2009-05-08",
+        "comment": "Colores PANTONE"
+      },
+      {
+        "user": "SiBr4",
+        "date": "2014-06-21",
+        "comment": "Optimized SVG"
+      }
+    ],
+    "contributors": [
+      "Huhsunqu",
+      "Bigsus",
+      "HansenBCN",
+      "SiBr4"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": true,
+    "wikidata": "Q5727",
+    "wikipedia": "La_Rioja",
+    "wikidata_flag_images": [
+      "Flag of La Rioja (with coat of arms).svg"
+    ]
+  },
   "mx-bcs": {
     "commons_title": "Flag of Baja California Sur.svg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Baja_California_Sur.svg",

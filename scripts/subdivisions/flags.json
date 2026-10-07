@@ -12,6 +12,9 @@
     "ch": {
       "name": "Switzerland"
     },
+    "es": {
+      "name": "Spain"
+    },
     "mx": {
       "name": "Mexico",
       "note": "States that en.wikipedia lists with a flag established by state law. Commons describes the files for Coahuila, Colima and Tamaulipas as fictitious or unofficial flags, and the current Tabasco drawing as used by the state government but not adopted by law. The other 17 states, and Mexico City, use only their coat of arms and have no official flag."
@@ -1575,6 +1578,303 @@
     "ch-zh": {
       "name": "Zurich",
       "commons": "CHE Zürich Flag.svg",
+      "layout": {
+        "crop": "center"
+      }
+    },
+    "es-an": {
+      "name": "Andalusia",
+      "commons": "Flag of Andalucía.svg",
+      "layout": {
+        "crop": "center"
+      }
+    },
+    "es-as": {
+      "name": "Asturias",
+      "commons": "Flag of Asturias.svg",
+      "layout": {
+        "fit": [
+          0.238,
+          0.166,
+          0.524,
+          0.668
+        ],
+        "fill": 0.75
+      },
+      "note": "Uses the plain flag defined by Asturian law (Ley 4/1990), as en.wikipedia shows it; Wikidata currently lists a ceremonial variant (Flag of Asturias (gala).svg).",
+      "later_versions": "Huhsunqu replaced the Open Clip Art drawing with Banderas' version, colors and dimensions (2006), and SiBr4 rewrote the code (2014)."
+    },
+    "es-cb": {
+      "name": "Cantabria",
+      "commons": "Flag of Cantabria (Official).svg",
+      "layout": {
+        "crop": "center"
+      }
+    },
+    "es-cl": {
+      "name": "Castile and León",
+      "commons": "Flag of Castile and León.svg",
+      "layout": {
+        "window": [
+          0,
+          -0.15,
+          1.3
+        ],
+        "fills": [
+          [
+            "#DA121A",
+            0,
+            0,
+            256,
+            256
+          ],
+          [
+            "#FFFFFF",
+            256,
+            0,
+            256,
+            256
+          ],
+          [
+            "#FFFFFF",
+            0,
+            256,
+            256,
+            256
+          ],
+          [
+            "#DA121A",
+            256,
+            256,
+            256,
+            256
+          ]
+        ],
+        "covers": [
+          [
+            "#DA121A",
+            0,
+            53.08,
+            256,
+            12
+          ],
+          [
+            "#FFFFFF",
+            256,
+            53.08,
+            256,
+            12
+          ],
+          [
+            "#FFFFFF",
+            0,
+            446.92,
+            256,
+            12
+          ],
+          [
+            "#DA121A",
+            256,
+            446.92,
+            256,
+            12
+          ]
+        ],
+        "square": {
+          "window": [
+            0.15,
+            0,
+            1
+          ],
+          "fills": [],
+          "covers": []
+        }
+      },
+      "note": "The circle zooms out to the full width of the flag so the castles and lions stay inside it; the fills continue the four quarters."
+    },
+    "es-cm": {
+      "name": "Castilla–La Mancha",
+      "commons": "Flag of Castile-La Mancha.svg",
+      "layout": {
+        "window": [
+          0.05,
+          -0.2,
+          1.4
+        ],
+        "fills": [
+          [
+            "#B81626",
+            0,
+            0,
+            256,
+            512
+          ],
+          [
+            "#FFFFFF",
+            256,
+            0,
+            256,
+            512
+          ]
+        ],
+        "covers": [
+          [
+            "#B81626",
+            0,
+            67.14,
+            256,
+            12
+          ],
+          [
+            "#FFFFFF",
+            256,
+            67.14,
+            256,
+            12
+          ],
+          [
+            "#B81626",
+            0,
+            432.86,
+            256,
+            12
+          ],
+          [
+            "#FFFFFF",
+            256,
+            432.86,
+            256,
+            12
+          ]
+        ]
+      },
+      "note": "Zoomed out so the castle stays whole with the crimson and white halves meeting in the middle.",
+      "later_versions": "HansenBCN only changed the colors (2009)."
+    },
+    "es-ex": {
+      "name": "Extremadura",
+      "commons": "Flag of Extremadura, Spain.svg",
+      "layout": {
+        "crop": "center"
+      },
+      "note": "Uses the plain tricolor that the Statute of Autonomy defines, as the en.wikipedia article on the flag shows it; Wikidata currently lists the version with the coat of arms."
+    },
+    "es-mc": {
+      "name": "Region of Murcia",
+      "commons": "Flag of the Region of Murcia.svg",
+      "layout": {
+        "fills": [
+          [
+            "#9C1F2D",
+            0,
+            0,
+            512,
+            512
+          ]
+        ],
+        "layers": [
+          {
+            "from": [
+              0.054,
+              0.021,
+              0.31,
+              0.439
+            ],
+            "to": [
+              100,
+              72,
+              127.1,
+              180
+            ]
+          },
+          {
+            "from": [
+              1.063,
+              0.693,
+              0.401,
+              0.28
+            ],
+            "to": [
+              272,
+              290,
+              160,
+              111.7
+            ]
+          }
+        ],
+        "square": {
+          "layers": [
+            {
+              "from": [
+                0.054,
+                0.021,
+                0.31,
+                0.439
+              ],
+              "to": [
+                40,
+                32,
+                127.1,
+                180
+              ]
+            },
+            {
+              "from": [
+                1.063,
+                0.693,
+                0.401,
+                0.28
+              ],
+              "to": [
+                312,
+                368,
+                160,
+                111.7
+              ]
+            }
+          ]
+        }
+      },
+      "note": "The four castles and seven crowns sit in opposite corners of the flag, outside any centered crop; the circle and square move both groups inward in the same arrangement.",
+      "later_versions": "HansenBCN corrected the colors (2009), Josec92 updated the drawing from the regional government's page (2012) and SiBr4 rewrote the code (2014)."
+    },
+    "es-md": {
+      "name": "Community of Madrid",
+      "commons": "Flag of the Community of Madrid.svg",
+      "layout": {
+        "fit": [
+          0.238,
+          0.286,
+          1.095,
+          0.428
+        ],
+        "fill": 0.84,
+        "fills": [
+          [
+            "#C60B1E",
+            0,
+            0,
+            512,
+            512
+          ]
+        ],
+        "square": {
+          "fill": 0.9
+        }
+      },
+      "later_versions": "Huhsunqu's 2006 upload has no comment; SanchoPanzaXXI matched the colors to the official ones (2007, 2008), Magasjukur2 simplified the code (2012) and Mike Rohsopht placed and shaped the stars as the law describes (2021)."
+    },
+    "es-nc": {
+      "name": "Navarre",
+      "commons": "Bandera de Navarra.svg",
+      "layout": {
+        "crop": "center"
+      },
+      "later_versions": "HansenBCN made minor adjustments (2008), Zscout370 reduced the code (2011) and Tcfc2349 optimized it (2019); the arms are Miguillen's."
+    },
+    "es-ri": {
+      "name": "La Rioja",
+      "commons": "Flag of La Rioja (with coat of arms).svg",
       "layout": {
         "crop": "center"
       }
