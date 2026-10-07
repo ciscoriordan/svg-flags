@@ -1,5 +1,470 @@
 {
-  "countries": {},
-  "flags": {},
+  "countries": {
+    "ca": {
+      "name": "Canada"
+    }
+  },
+  "flags": {
+    "ca-ab": {
+      "name": "Alberta",
+      "commons": "Flag of Alberta.svg",
+      "layout": {
+        "crop": "center"
+      }
+    },
+    "ca-mb": {
+      "name": "Manitoba",
+      "commons": "Flag of Manitoba.svg",
+      "layout": {
+        "fills": [
+          [
+            "#C8102E",
+            0,
+            0,
+            512,
+            512
+          ]
+        ],
+        "layers": [
+          {
+            "from": [
+              0.333333,
+              0.166667,
+              0.666667,
+              0.333333
+            ],
+            "to": [
+              0,
+              0,
+              256,
+              256
+            ],
+            "stretch": true
+          },
+          {
+            "from": [
+              1.308,
+              0.272,
+              0.382,
+              0.456
+            ],
+            "to": [
+              308.6,
+              166,
+              150.8,
+              180
+            ]
+          }
+        ],
+        "square": {
+          "layers": [
+            {
+              "from": [
+                0,
+                0,
+                1,
+                0.5
+              ],
+              "to": [
+                0,
+                0,
+                256,
+                256
+              ],
+              "stretch": true
+            },
+            {
+              "from": [
+                1.308,
+                0.272,
+                0.382,
+                0.456
+              ],
+              "to": [
+                308.6,
+                166,
+                150.8,
+                180
+              ]
+            }
+          ]
+        }
+      },
+      "note": "The circle draws the canton the way the repo's other Union Jack circles (au, nz, au-nsw) do: the center of the jack near the top left and its lower-right quarter enlarged into the top-left quadrant, the saltire running to the middle of the circle. The square fits the whole canton into the top-left quadrant like square/states/au-nsw, and both center the badge on the right half.",
+      "later_versions": "Denelson83 rounded the dimensions and corrected a color (2006), Episteme added a DOCTYPE (2006), Superbenjamin corrected the shield (2015), Echando una mano redrew the bison (2015), Great Brightstar changed the colors (2019) and HapHaxion reduced the file size (2022)."
+    },
+    "ca-nb": {
+      "name": "New Brunswick",
+      "commons": "Flag of New Brunswick.svg",
+      "layout": {
+        "crop": "center"
+      }
+    },
+    "ca-nl": {
+      "name": "Newfoundland and Labrador",
+      "commons": "Flag of Newfoundland and Labrador.svg",
+      "layout": {
+        "crop": "center"
+      }
+    },
+    "ca-ns": {
+      "name": "Nova Scotia",
+      "commons": "Flag of Nova Scotia.svg",
+      "layout": {
+        "crop": "center"
+      }
+    },
+    "ca-nt": {
+      "name": "Northwest Territories",
+      "commons": "Flag of the Northwest Territories.svg",
+      "layout": {
+        "fills": [
+          [
+            "#2A317D",
+            0,
+            0,
+            144,
+            512
+          ],
+          [
+            "#FFFFFF",
+            144,
+            0,
+            224,
+            512
+          ],
+          [
+            "#2A317D",
+            368,
+            0,
+            144,
+            512
+          ]
+        ],
+        "layers": [
+          {
+            "from": [
+              0.697,
+              0.122,
+              0.606,
+              0.764
+            ],
+            "to": [
+              164.83,
+              141.06,
+              182.33,
+              229.87
+            ]
+          }
+        ],
+        "covers": [
+          [
+            "#FFFFFF",
+            158.83,
+            135.06,
+            194.33,
+            12
+          ],
+          [
+            "#FFFFFF",
+            158.83,
+            364.93,
+            194.33,
+            12
+          ],
+          [
+            "#FFFFFF",
+            158.83,
+            135.06,
+            12,
+            241.87
+          ],
+          [
+            "#FFFFFF",
+            341.16,
+            135.06,
+            12,
+            241.87
+          ]
+        ]
+      },
+      "note": "Laid out like circle/countries/ca.svg: side bars from 0 to 144 and 368 to 512, with the shield centered on the white pale. Covers hide the seam where the copied shield region meets the white fill.",
+      "later_versions": "Denelson83 made the white column a Canadian pale and corrected the colors (2006), Episteme added a DOCTYPE (2006), Connormah matched the colors to the territory's identity guide (2009), Zscout370 fixed the shield (2010) and Echando una mano redrew the fox (2018), before MapGrid's smaller version (2019)."
+    },
+    "ca-nu": {
+      "name": "Nunavut",
+      "commons": "Flag of Nunavut.svg",
+      "layout": {
+        "window": [
+          0.405,
+          -0.175,
+          1.35
+        ],
+        "fills": [
+          [
+            "#FDD500",
+            0,
+            0,
+            183.5,
+            512
+          ],
+          [
+            "#FFFFFF",
+            183.5,
+            0,
+            328.5,
+            512
+          ]
+        ]
+      },
+      "later_versions": "Alkari cleaned up the code (2011) and MapGrid reduced the file size (2019)."
+    },
+    "ca-on": {
+      "name": "Ontario",
+      "commons": "Flag of Ontario.svg",
+      "layout": {
+        "fills": [
+          [
+            "#C8102E",
+            0,
+            0,
+            512,
+            512
+          ]
+        ],
+        "layers": [
+          {
+            "from": [
+              0.333333,
+              0.166667,
+              0.666667,
+              0.333333
+            ],
+            "to": [
+              0,
+              0,
+              256,
+              256
+            ],
+            "stretch": true
+          },
+          {
+            "from": [
+              1.286,
+              0.236,
+              0.428,
+              0.528
+            ],
+            "to": [
+              311.05,
+              166,
+              145.9,
+              180
+            ]
+          }
+        ],
+        "square": {
+          "layers": [
+            {
+              "from": [
+                0,
+                0,
+                1,
+                0.5
+              ],
+              "to": [
+                0,
+                0,
+                256,
+                256
+              ],
+              "stretch": true
+            },
+            {
+              "from": [
+                1.286,
+                0.236,
+                0.428,
+                0.528
+              ],
+              "to": [
+                311.05,
+                166,
+                145.9,
+                180
+              ]
+            }
+          ]
+        }
+      },
+      "note": "The circle draws the canton the way the repo's other Union Jack circles (au, nz, au-nsw) do: the center of the jack near the top left and its lower-right quarter enlarged into the top-left quadrant, the saltire running to the middle of the circle. The square fits the whole canton into the top-left quadrant like square/states/au-nsw, and both center the badge on the right half.",
+      "later_versions": "E Pluribus Anthony (2005), Episteme (2006), Zscout370 (colors from the province, 2007 and 2011), Bosonic dressing (2008), Fry1989 (colors and the Union Jack, 2010 and 2015), Superbenjamin (shield and leaves, 2015), Great Brightstar (colors, 2019) and HapHaxion (file size, 2022) revised the drawing."
+    },
+    "ca-pe": {
+      "name": "Prince Edward Island",
+      "commons": "Flag of Prince Edward Island.svg",
+      "layout": {
+        "crop": "center"
+      },
+      "canvas": {
+        "extend": [
+          49.075,
+          0,
+          0,
+          0
+        ],
+        "fills": [
+          [
+            "#D54040",
+            -49.075,
+            -0.035,
+            50.075,
+            427.781
+          ],
+          [
+            "#FFFFFF",
+            -49.075,
+            427.746,
+            50.075,
+            772.244
+          ]
+        ],
+        "why": "The Provincial Flag Act makes the flag six feet in the fly and four feet in the hoist, fringe included (2:3). The Commons drawing was 1800 by 1200 until a 2024 upload removed a stray white strip at the hoist without restoring the width, which left it 1750.91 by 1199.99. The red chief and the white field are continued at the hoist, which has no fringe, back to 2:3."
+      }
+    },
+    "ca-sk": {
+      "name": "Saskatchewan",
+      "commons": "Flag of Saskatchewan.svg",
+      "layout": {
+        "fills": [
+          [
+            "#076A21",
+            0,
+            0,
+            512,
+            256
+          ],
+          [
+            "#FDD401",
+            0,
+            256,
+            512,
+            256
+          ]
+        ],
+        "layers": [
+          {
+            "from": [
+              0.21,
+              0.061,
+              0.336,
+              0.414
+            ],
+            "to": [
+              184.6,
+              52,
+              142.8,
+              176
+            ]
+          }
+        ],
+        "square": {
+          "layers": [
+            {
+              "from": [
+                0.21,
+                0.061,
+                0.336,
+                0.414
+              ],
+              "to": [
+                184.6,
+                40,
+                142.8,
+                176
+              ]
+            }
+          ]
+        }
+      },
+      "note": "The shield sits in the upper hoist quarter of the flag, where a crop cuts it at the rim; the circle and square center it on the green half above the gold, and leave out the western red lily on the fly."
+    },
+    "ca-yt": {
+      "name": "Yukon",
+      "commons": "Flag of Yukon.svg",
+      "layout": {
+        "crop": "center",
+        "zoom": 0.7,
+        "fills": [
+          [
+            "#187B01",
+            0,
+            0,
+            102.4,
+            512
+          ],
+          [
+            "#FFFFFF",
+            102.4,
+            0,
+            307.2,
+            512
+          ],
+          [
+            "#0738AC",
+            409.6,
+            0,
+            102.4,
+            512
+          ]
+        ],
+        "covers": [
+          [
+            "#187B01",
+            0,
+            70.8,
+            102.4,
+            12
+          ],
+          [
+            "#FFFFFF",
+            102.4,
+            70.8,
+            307.2,
+            12
+          ],
+          [
+            "#0738AC",
+            409.6,
+            70.8,
+            102.4,
+            12
+          ],
+          [
+            "#187B01",
+            0,
+            429.2,
+            102.4,
+            12
+          ],
+          [
+            "#FFFFFF",
+            102.4,
+            429.2,
+            307.2,
+            12
+          ],
+          [
+            "#0738AC",
+            409.6,
+            429.2,
+            102.4,
+            12
+          ]
+        ]
+      },
+      "note": "Covers hide the seams where the zoomed-out flag's top and bottom edges meet the fills."
+    }
+  },
   "excluded": {}
 }

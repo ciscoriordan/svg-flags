@@ -1,1 +1,929 @@
-{}
+{
+  "ca-ab": {
+    "commons_title": "Flag of Alberta.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Alberta.svg",
+    "revision": {
+      "sha1": "7fe899db9a6756d35a9653ceddf144df3f1af173",
+      "timestamp": "2013-06-11T18:44:45Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Flag_of_Alberta.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 1000,
+      "height": 500,
+      "uploader": "SiBr4"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD Canada"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "Kooma (original)",
+    "versions": [
+      {
+        "user": "Kooma",
+        "date": "2005-11-26",
+        "comment": "Flag of [[:Category:Alberta|Alberta]] from the [http://www.openclipart.org/cgi-bin/navigate/signs_and_symbols/flags/america/canada Open Clip Art Library]."
+      },
+      {
+        "user": "Svgalbertian",
+        "date": "2007-12-12",
+        "comment": "Colour has been adjusted using information from http://corporateidentity.gov.ab.ca/ (C=100 M=66 Y=o K=2)."
+      },
+      {
+        "user": "Svgalbertian",
+        "date": "2008-07-15",
+        "comment": "Added boarder around crest"
+      },
+      {
+        "user": "Svgalbertian",
+        "date": "2008-08-04",
+        "comment": "Reduced file size."
+      },
+      {
+        "user": "Zscout370",
+        "date": "2010-04-28",
+        "comment": "Fixed according to http://www.qp.alberta.ca/documents/Acts/E06.pdf"
+      },
+      {
+        "user": "Magu2k",
+        "date": "2011-05-23",
+        "comment": "Updated to correct appearance including size of crest and colors per Alberta Corporate style guide."
+      },
+      {
+        "user": "Zscout370",
+        "date": "2011-05-23",
+        "comment": "Basic size, some code fixed. Manual is page 50-52 of http://corporateidentity.alberta.ca/downloads/GoaCIM-1.0-Brand.pdf and 63.63% is indeed 7/11ths as required"
+      },
+      {
+        "user": "SiBr4",
+        "date": "2013-06-11",
+        "comment": "Cloning and compressing"
+      }
+    ],
+    "contributors": [
+      "Svgalbertian",
+      "Zscout370",
+      "Magu2k",
+      "SiBr4"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q1951",
+    "wikipedia": "Alberta",
+    "wikidata_flag_images": [
+      "Flag of Alberta.svg"
+    ]
+  },
+  "ca-mb": {
+    "commons_title": "Flag of Manitoba.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Manitoba.svg",
+    "revision": {
+      "sha1": "414d5dede49da244122da45e09d97378eecf961f",
+      "timestamp": "2025-10-08T18:44:07Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Flag_of_Manitoba.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 1000,
+      "height": 500,
+      "uploader": "HapHaxion"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD-author"
+    ],
+    "license_options": [
+      "Public domain"
+    ],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "release",
+    "author": "Kooma (original) Echando una mano (current)",
+    "versions": [
+      {
+        "user": "Kooma",
+        "date": "2005-11-26",
+        "comment": "{{Information|"
+      },
+      {
+        "user": "Denelson83",
+        "date": "2006-03-06",
+        "comment": "Dimensions rounded off; colour corrected"
+      },
+      {
+        "user": "Episteme",
+        "date": "2006-05-04",
+        "comment": "DOCTYPE added"
+      },
+      {
+        "user": "Superbenjamin",
+        "date": "2015-05-17",
+        "comment": "Correct shield (see pictures of the flag)"
+      },
+      {
+        "user": "Echando una mano",
+        "date": "2015-10-19",
+        "comment": "Bison, similar to real flag."
+      },
+      {
+        "user": "Great Brightstar",
+        "date": "2019-09-16",
+        "comment": "Pantone colours like the Ontario Flag"
+      },
+      {
+        "user": "HapHaxion",
+        "date": "2022-07-05",
+        "comment": "reduce file size"
+      }
+    ],
+    "contributors": [
+      "Denelson83",
+      "Episteme",
+      "Superbenjamin",
+      "Great Brightstar",
+      "HapHaxion"
+    ],
+    "releaser": "James Leigh",
+    "release_not_used": null,
+    "later_versions": "Denelson83 rounded the dimensions and corrected a color (2006), Episteme added a DOCTYPE (2006), Superbenjamin corrected the shield (2015), Echando una mano redrew the bison (2015), Great Brightstar changed the colors (2019) and HapHaxion reduced the file size (2022).",
+    "derived_from": [
+      {
+        "title": "Flag-of-Manitoba.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Flag-of-Manitoba.jpg",
+        "author": "Makaristos",
+        "license": "Public domain",
+        "license_url": null,
+        "binding": false
+      }
+    ],
+    "attribution_required": false,
+    "wikidata": "Q1948",
+    "wikipedia": "Manitoba",
+    "wikidata_flag_images": [
+      "Flag of the Province of Manitoba.svg"
+    ]
+  },
+  "ca-nb": {
+    "commons_title": "Flag of New Brunswick.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_New_Brunswick.svg",
+    "revision": {
+      "sha1": "d63659bfefa1aa4f79126179a220ec357578833f",
+      "timestamp": "2023-08-03T17:10:28Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Flag_of_New_Brunswick.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 1920,
+      "height": 1200,
+      "uploader": "SVG-image-maker"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD Canada"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "Dbenbenn (original) E Pluribus Anthony (current)",
+    "versions": [
+      {
+        "user": "Dbenbenn",
+        "date": "2005-10-05",
+        "comment": "from http://openclipart.org/clipart/signs_and_symbols/canada_new_brunswick.svg by Caleb Moore, PD"
+      },
+      {
+        "user": "E Pluribus Anthony~commonswiki",
+        "date": "2005-10-09",
+        "comment": "Flag of New Brunswick"
+      },
+      {
+        "user": "John emil hernandez",
+        "date": "2023-01-30",
+        "comment": "reduce file size"
+      },
+      {
+        "user": "SVG-image-maker",
+        "date": "2023-08-03",
+        "comment": "Pantone from https://web.archive.org/web/20170411181742/http://www2.gnb.ca/content/gnb/en/departments/government_services/symbols.html and converted via Pantone"
+      }
+    ],
+    "contributors": [
+      "John emil hernandez",
+      "SVG-image-maker"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q1965",
+    "wikipedia": "New_Brunswick",
+    "wikidata_flag_images": [
+      "Flag of New Brunswick.svg"
+    ]
+  },
+  "ca-nl": {
+    "commons_title": "Flag of Newfoundland and Labrador.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Newfoundland_and_Labrador.svg",
+    "revision": {
+      "sha1": "c0ec902b8c8240e8103043ab0123251eb06da411",
+      "timestamp": "2025-10-03T15:42:39Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Newfoundland_and_Labrador.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 1200,
+      "height": 600,
+      "uploader": "MapGrid"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD ineligible"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "Original 2005 upload was created by Robert Crosbie and uploaded by Kooma. Entire flag redrawn/recoded from scratch by MapGrid in 2019. Colors changed by Great Brightstar in 2019.",
+    "versions": [
+      {
+        "user": "Kooma",
+        "date": "2005-11-26",
+        "comment": "{{Information|"
+      },
+      {
+        "user": "Denelson83",
+        "date": "2006-02-02",
+        "comment": "Removing internal border"
+      },
+      {
+        "user": "Episteme",
+        "date": "2006-05-04",
+        "comment": "DOCTYPE added"
+      },
+      {
+        "user": "Alkari",
+        "date": "2011-08-19",
+        "comment": "code cleanup"
+      },
+      {
+        "user": "Fry1989",
+        "date": "2013-02-10",
+        "comment": "colour corrections as well as symmetry, two trident blades were not the same"
+      },
+      {
+        "user": "Druaga2",
+        "date": "2019-02-16",
+        "comment": "optimized"
+      },
+      {
+        "user": "MapGrid",
+        "date": "2019-08-21",
+        "comment": "Spared nothing but the colours."
+      },
+      {
+        "user": "MapGrid",
+        "date": "2019-09-03",
+        "comment": "Red triangles painted with fills instead of strokes.  This is a code change only; the flag should look the same as previous version."
+      },
+      {
+        "user": "Great Brightstar",
+        "date": "2019-09-28",
+        "comment": "All colors comes from Pantone website"
+      },
+      {
+        "user": "MapGrid",
+        "date": "2021-07-24",
+        "comment": "Reduced file size. Red/yellow arrow painted with separate fills.  Geometry of flag remains unchanged."
+      },
+      {
+        "user": "MapGrid",
+        "date": "2022-01-10",
+        "comment": "Updated to match revised construction sheet ([[:File:Flag of Newfoundland and Labrador (construction sheet).svg]])"
+      }
+    ],
+    "contributors": [
+      "Denelson83",
+      "Episteme",
+      "Alkari",
+      "Fry1989",
+      "Druaga2"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [
+      {
+        "title": "Flag of Newfoundland and Labrador (construction sheet).svg",
+        "page": "https://commons.wikimedia.org/wiki/File:Flag_of_Newfoundland_and_Labrador_(construction_sheet).svg",
+        "author": "MapGrid",
+        "license": "Public domain",
+        "license_url": null,
+        "binding": false
+      }
+    ],
+    "attribution_required": false,
+    "wikidata": "Q2003",
+    "wikipedia": "Newfoundland_and_Labrador",
+    "wikidata_flag_images": [
+      "Flag of Newfoundland and Labrador.svg"
+    ]
+  },
+  "ca-ns": {
+    "commons_title": "Flag of Nova Scotia.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Nova_Scotia.svg",
+    "revision": {
+      "sha1": "311a02d80801857b0d000fa79367df122a5ddc8d",
+      "timestamp": "2022-12-01T05:25:44Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Nova_Scotia.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 1200,
+      "height": 600,
+      "uploader": "MapGrid"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "CC-PD-Mark",
+      "PD-old-70-expired"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "unknown (design); Kooma, FJDEACKB, Zscout370 and Denelson83 (vector drawing)",
+    "versions": [
+      {
+        "user": "Kooma",
+        "date": "2005-11-26",
+        "comment": "{{Information|"
+      },
+      {
+        "user": "Denelson83",
+        "date": "2006-02-08",
+        "comment": "Improved arms"
+      },
+      {
+        "user": "Denelson83",
+        "date": "2006-03-05",
+        "comment": "Dimensions rounded off"
+      },
+      {
+        "user": "Episteme",
+        "date": "2006-05-04",
+        "comment": "DOCTYPE added"
+      },
+      {
+        "user": "Zscout370",
+        "date": "2006-10-17",
+        "comment": "According to http://www.gov.ns.ca/cmns/flagspublic.asp, the flag is 1:2 ratio. Will make other changes later"
+      },
+      {
+        "user": "Zscout370",
+        "date": "2006-10-19",
+        "comment": "Fixing shield a bit"
+      },
+      {
+        "user": "Zscout370",
+        "date": "2007-09-12",
+        "comment": "Fixing pantone hues of the flag"
+      },
+      {
+        "user": "Zscout370",
+        "date": "2007-09-14",
+        "comment": "Fixed shield"
+      },
+      {
+        "user": "Zscout370",
+        "date": "2007-09-22",
+        "comment": "Making some of the lion one path, as demonstrated in the official images"
+      },
+      {
+        "user": "Zscout370",
+        "date": "2009-10-18",
+        "comment": "Decrease code a bit, fixed the crosses"
+      },
+      {
+        "user": "MapGrid",
+        "date": "2019-08-08",
+        "comment": "Reduced file size."
+      },
+      {
+        "user": "Great Brightstar",
+        "date": "2020-08-03",
+        "comment": "Adjust the point of shield"
+      },
+      {
+        "user": "Great Brightstar",
+        "date": "2021-05-02",
+        "comment": "Reimplement the border of shield"
+      },
+      {
+        "user": "John emil hernandez",
+        "date": "2022-11-30",
+        "comment": "reduce file size"
+      },
+      {
+        "user": "MapGrid",
+        "date": "2022-12-01",
+        "comment": "Redid the outer border of the shield with one path instead of two. Removed a minor Bézier asymmetry from the border that was introduced on May 2,2021. Restored "
+      }
+    ],
+    "contributors": [
+      "Episteme",
+      "MapGrid",
+      "Great Brightstar",
+      "John emil hernandez"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q1952",
+    "wikipedia": "Nova_Scotia",
+    "wikidata_flag_images": [
+      "Flag of Nova Scotia.svg"
+    ]
+  },
+  "ca-nt": {
+    "commons_title": "Flag of the Northwest Territories.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Northwest_Territories.svg",
+    "revision": {
+      "sha1": "81762c39b2ff38272bbda2caabcdd9fc21b26fa5",
+      "timestamp": "2019-08-14T12:19:11Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_the_Northwest_Territories.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 1200,
+      "height": 600,
+      "uploader": "MapGrid"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD-self"
+    ],
+    "license_options": [
+      "Public domain"
+    ],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "release",
+    "author": "Kooma Updated image created and uploaded by MapGrid",
+    "versions": [
+      {
+        "user": "Kooma",
+        "date": "2005-11-26",
+        "comment": "{{Information|"
+      },
+      {
+        "user": "Denelson83",
+        "date": "2006-02-18",
+        "comment": "Colour correction; white column changed to \"Canadian pale\", PD"
+      },
+      {
+        "user": "Episteme",
+        "date": "2006-05-04",
+        "comment": "DOCTYPE added"
+      },
+      {
+        "user": "Connormah",
+        "date": "2009-10-18",
+        "comment": "Color update to the Gov't of the NWT Visual identity guide"
+      },
+      {
+        "user": "Zscout370",
+        "date": "2010-04-09",
+        "comment": "http://en.wikipedia.org/wiki/File:NWT_flag.svg"
+      },
+      {
+        "user": "Zscout370",
+        "date": "2010-04-09",
+        "comment": "One more tweek"
+      },
+      {
+        "user": "Zscout370",
+        "date": "2010-04-09",
+        "comment": "Fixed stroke issues with the shield"
+      },
+      {
+        "user": "Echando una mano",
+        "date": "2018-04-04",
+        "comment": "Fox"
+      },
+      {
+        "user": "MapGrid",
+        "date": "2019-08-14",
+        "comment": "Reduced file size."
+      }
+    ],
+    "contributors": [
+      "Denelson83",
+      "Episteme",
+      "Connormah",
+      "Zscout370",
+      "Echando una mano"
+    ],
+    "releaser": "Kooma, MapGrid",
+    "release_not_used": null,
+    "later_versions": "Denelson83 made the white column a Canadian pale and corrected the colors (2006), Episteme added a DOCTYPE (2006), Connormah matched the colors to the territory's identity guide (2009), Zscout370 fixed the shield (2010) and Echando una mano redrew the fox (2018), before MapGrid's smaller version (2019).",
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q2007",
+    "wikipedia": "Northwest_Territories",
+    "wikidata_flag_images": [
+      "Flag of the Northwest Territories.svg"
+    ]
+  },
+  "ca-nu": {
+    "commons_title": "Flag of Nunavut.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Nunavut.svg",
+    "revision": {
+      "sha1": "94093e78aceab81767519f05a579a91235bf0034",
+      "timestamp": "2019-07-23T00:09:57Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Nunavut.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 1200,
+      "height": 675,
+      "uploader": "MapGrid"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD-author"
+    ],
+    "license_options": [
+      "Public domain"
+    ],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "release",
+    "author": "Kooma (original)",
+    "versions": [
+      {
+        "user": "Kooma",
+        "date": "2005-11-26",
+        "comment": "{{Information|"
+      },
+      {
+        "user": "Alkari",
+        "date": "2011-08-19",
+        "comment": "code cleanup"
+      },
+      {
+        "user": "MapGrid",
+        "date": "2019-07-23",
+        "comment": "Reduced file size."
+      }
+    ],
+    "contributors": [
+      "Alkari",
+      "MapGrid"
+    ],
+    "releaser": "James Leigh",
+    "release_not_used": null,
+    "later_versions": "Alkari cleaned up the code (2011) and MapGrid reduced the file size (2019).",
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q2023",
+    "wikipedia": "Nunavut",
+    "wikidata_flag_images": [
+      "Flag of Nunavut.svg"
+    ]
+  },
+  "ca-on": {
+    "commons_title": "Flag of Ontario.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Ontario.svg",
+    "revision": {
+      "sha1": "fd8181a060566a1e27afc5f8584f4a88c69e576f",
+      "timestamp": "2022-07-05T15:29:14Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Ontario.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 2400,
+      "height": 1200,
+      "uploader": "HapHaxion"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD Canada",
+      "PD-self"
+    ],
+    "license_options": [
+      "Public domain"
+    ],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "release",
+    "author": "Kooma",
+    "versions": [
+      {
+        "user": "Kooma",
+        "date": "2005-11-26",
+        "comment": "{{Information|"
+      },
+      {
+        "user": "E Pluribus Anthony~commonswiki",
+        "date": "2005-12-02",
+        "comment": "Flag of Ontario"
+      },
+      {
+        "user": "Episteme",
+        "date": "2006-05-04",
+        "comment": "xmlns:sodipodi added"
+      },
+      {
+        "user": "Zscout370",
+        "date": "2007-06-25",
+        "comment": "The Ontario Ministry of Government Services emailed me the Pantone colors of the shield and the rest of the colors are from the British flag image."
+      },
+      {
+        "user": "Bosonic dressing",
+        "date": "2008-12-14",
+        "comment": "{{Information"
+      },
+      {
+        "user": "Bosonic dressing",
+        "date": "2008-12-14",
+        "comment": "{{Information"
+      },
+      {
+        "user": "Fry1989",
+        "date": "2010-09-03",
+        "comment": "colours"
+      },
+      {
+        "user": "Fry1989",
+        "date": "2010-09-03",
+        "comment": "jack"
+      },
+      {
+        "user": "Zscout370",
+        "date": "2011-02-01",
+        "comment": "gold - pantone 125ontario green - pantone 356red - pantone warm red (from the Ministry of Government Services of Ontario)"
+      },
+      {
+        "user": "Superbenjamin",
+        "date": "2015-05-17",
+        "comment": "Correct shield and leaves"
+      },
+      {
+        "user": "Fry1989",
+        "date": "2015-05-17",
+        "comment": "Fixes"
+      },
+      {
+        "user": "Great Brightstar",
+        "date": "2019-09-16",
+        "comment": "Rework red and blue colors"
+      },
+      {
+        "user": "HapHaxion",
+        "date": "2022-07-05",
+        "comment": "reduce file size"
+      }
+    ],
+    "contributors": [
+      "E Pluribus Anthony~commonswiki",
+      "Episteme",
+      "Zscout370",
+      "Bosonic dressing",
+      "Fry1989",
+      "Superbenjamin",
+      "Great Brightstar",
+      "HapHaxion"
+    ],
+    "releaser": "Kooma",
+    "release_not_used": null,
+    "later_versions": "E Pluribus Anthony (2005), Episteme (2006), Zscout370 (colors from the province, 2007 and 2011), Bosonic dressing (2008), Fry1989 (colors and the Union Jack, 2010 and 2015), Superbenjamin (shield and leaves, 2015), Great Brightstar (colors, 2019) and HapHaxion (file size, 2022) revised the drawing.",
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q1904",
+    "wikipedia": "Ontario",
+    "wikidata_flag_images": [
+      "Flag of Ontario.svg"
+    ]
+  },
+  "ca-pe": {
+    "commons_title": "Flag of Prince Edward Island.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Prince_Edward_Island.svg",
+    "revision": {
+      "sha1": "f500b51a04418de665945601aa6fc48113344ed8",
+      "timestamp": "2025-01-26T03:49:17Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Flag_of_Prince_Edward_Island.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 1751,
+      "height": 1200,
+      "uploader": "SVG flag maker"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD Canada"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "E Pluribus Anthony",
+    "versions": [
+      {
+        "user": "E Pluribus Anthony~commonswiki",
+        "date": "2005-10-09",
+        "comment": "Flag of Prince Edward Island"
+      },
+      {
+        "user": "E Pluribus Anthony~commonswiki",
+        "date": "2005-10-12",
+        "comment": "Flag of Prince Edward Island"
+      },
+      {
+        "user": "Denelson83",
+        "date": "2006-02-16",
+        "comment": "Several defects fixed"
+      },
+      {
+        "user": "Episteme",
+        "date": "2006-05-04",
+        "comment": "DOCTYPE added"
+      },
+      {
+        "user": "Zscout370",
+        "date": "2009-12-15",
+        "comment": "Combined some elements, now under 1 Meg."
+      },
+      {
+        "user": "Zscout370",
+        "date": "2010-03-17",
+        "comment": "Compression"
+      },
+      {
+        "user": "HapHaxion",
+        "date": "2022-07-05",
+        "comment": "further file size reduction"
+      },
+      {
+        "user": "NorthTension",
+        "date": "2024-03-25",
+        "comment": "removing extraneous white stripe"
+      },
+      {
+        "user": "SVG flag maker",
+        "date": "2025-01-26",
+        "comment": "reduce size"
+      }
+    ],
+    "contributors": [
+      "Denelson83",
+      "Episteme",
+      "Zscout370",
+      "HapHaxion",
+      "NorthTension",
+      "SVG flag maker"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q1978",
+    "wikipedia": "Prince_Edward_Island",
+    "wikidata_flag_images": [
+      "Flag of Prince Edward Island.svg"
+    ]
+  },
+  "ca-sk": {
+    "commons_title": "Flag of Saskatchewan.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Saskatchewan.svg",
+    "revision": {
+      "sha1": "8f8fd8208383da5bd9aaadf3a6ce732e6eaf50fb",
+      "timestamp": "2018-12-25T03:37:16Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Flag_of_Saskatchewan.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 992,
+      "height": 496,
+      "uploader": "Tcfc2349"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD Canada"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "Kooma",
+    "versions": [
+      {
+        "user": "Kooma",
+        "date": "2005-11-26",
+        "comment": "Flag of [[:Category:Saskatchewan|Saskatchewan]] from the [http://www.openclipart.org/cgi-bin/navigate/signs_and_symbols/flags/america/canada Open Clip Art Libra"
+      },
+      {
+        "user": "Yeeno",
+        "date": "2018-04-10",
+        "comment": "optimize svg"
+      },
+      {
+        "user": "Tcfc2349",
+        "date": "2018-12-25",
+        "comment": "fixed code"
+      }
+    ],
+    "contributors": [
+      "Yeeno",
+      "Tcfc2349"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q1989",
+    "wikipedia": "Saskatchewan",
+    "wikidata_flag_images": [
+      "Flag of Saskatchewan.svg"
+    ]
+  },
+  "ca-yt": {
+    "commons_title": "Flag of Yukon.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Yukon.svg",
+    "revision": {
+      "sha1": "fce1f0ffcea1cebeb43bac15dd77b4e139486053",
+      "timestamp": "2022-07-19T18:18:45Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Flag_of_Yukon.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 2800,
+      "height": 1400,
+      "uploader": "HapHaxion"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD Canada"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "Kooma (original)",
+    "versions": [
+      {
+        "user": "Kooma",
+        "date": "2005-11-26",
+        "comment": "Flag of [[:Category:Yukon|Yukon]] from the [http://www.openclipart.org/cgi-bin/navigate/signs_and_symbols/flags/america/canada Open Clip Art Library]."
+      },
+      {
+        "user": "Zscout370",
+        "date": "2011-07-19",
+        "comment": "The arms looked a bit odd to me, so using what the government has in the terms of the shield and dog"
+      },
+      {
+        "user": "Zscout370",
+        "date": "2011-07-19",
+        "comment": "Removing issues from Corel"
+      },
+      {
+        "user": "Fry1989",
+        "date": "2012-03-11",
+        "comment": "fix"
+      },
+      {
+        "user": "HapHaxion",
+        "date": "2022-07-19",
+        "comment": "reduce file size"
+      }
+    ],
+    "contributors": [
+      "Zscout370",
+      "Fry1989",
+      "HapHaxion"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q2009",
+    "wikipedia": "Yukon",
+    "wikidata_flag_images": [
+      "Flag of Yukon.svg"
+    ]
+  }
+}
