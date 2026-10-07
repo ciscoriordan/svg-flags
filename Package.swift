@@ -34,7 +34,10 @@ let package = Package(
         ),
         .testTarget(
             name: "SVGFlagsTests",
-            dependencies: ["SVGFlags"]
+            dependencies: [
+                "SVGFlags",
+                .product(name: "SDWebImage", package: "SDWebImage")
+            ]
         )
     ]
 )

@@ -1,4 +1,8 @@
 import XCTest
+#if canImport(AppKit)
+import AppKit
+#endif
+import SDWebImage
 @testable import SVGFlags
 
 private struct StubLocation: FlagLocatable {
@@ -44,14 +48,15 @@ final class FlagResolverTests: XCTestCase {
 
     /// Guards against drift: every name in `bundledFlags` must have a matching
     /// imageset in the asset catalog, and every imageset in the catalog must be
-    /// listed in `bundledFlags`. Reads the catalog's `Flags/` namespace folder
-    /// off disk via Bundle.module.
+    /// listed in `bundledFlags`. SwiftPM compiles the catalog into Assets.car,
+    /// so the `.xcassets` folder itself never ships in `Bundle.module`; the
+    /// imagesets are read from the package sources instead.
     func test_bundledFlagsMatchesAssetCatalogContents() throws {
-        let url = try XCTUnwrap(
-            Bundle.module.url(forResource: "Assets", withExtension: "xcassets"),
-            "Assets.xcassets must ship as a package resource"
-        )
-        let flagsDir = url.appendingPathComponent("Flags", isDirectory: true)
+        let flagsDir = URL(fileURLWithPath: #filePath)
+            .deletingLastPathComponent()  // SVGFlagsTests
+            .deletingLastPathComponent()  // Tests
+            .deletingLastPathComponent()  // package root
+            .appendingPathComponent("Sources/SVGFlags/Resources/Assets.xcassets/Flags", isDirectory: true)
         let entries = try FileManager.default.contentsOfDirectory(atPath: flagsDir.path)
         let onDisk: Set<String> = Set(
             entries
@@ -63,6 +68,17 @@ final class FlagResolverTests: XCTestCase {
             "Drift between bundledFlags and asset catalog. Missing from catalog: \(FlagResolver.bundledFlags.subtracting(onDisk)). Extra in catalog: \(onDisk.subtracting(FlagResolver.bundledFlags))."
         )
     }
+
+    #if canImport(AppKit)
+    /// Every bundled flag loads from the compiled catalog under the `Flags/`
+    /// namespace that `FlagView` uses.
+    func test_bundledFlagsLoadFromCompiledCatalog() {
+        for name in FlagResolver.bundledFlags.sorted() {
+            XCTAssertNotNil(Bundle.module.image(forResource: "Flags/\(name)"),
+                            "Flags/\(name) is not in the compiled asset catalog")
+        }
+    }
+    #endif
 
     func test_countryCode_resolvesBundled() {
         // "Anytown, USA" — no city/state hit, just country code.
@@ -122,6 +138,93 @@ final class FlagResolverTests: XCTestCase {
         XCTAssertEqual(FlagResolver.source(for: loc), .bundled("usnyc"))
     }
 
+    func test_stateLookup_singleLetterCode() {
+        // Argentina's provinces have one-letter ISO 3166-2 codes.
+        let loc = StubLocation(name: "Córdoba", region: "X", countryCode: "AR")
+        guard case .remote(let folder, let name, _) = FlagResolver.source(for: loc) else {
+            return XCTFail("Expected remote state asset")
+        }
+        XCTAssertEqual(folder, "states")
+        XCTAssertEqual(name, "ar-x")
+    }
+
+    func test_stateLookup_nonASCIIRegion_isNotUsedAsACode() {
+        // Character.isLetter is true for kanji; 東京都 must not become "jp-東京都".
+        let loc = StubLocation(name: "新宿区", region: "東京都", countryCode: "JP")
+        XCTAssertEqual(FlagResolver.source(for: loc), .bundled("jp"))
+        XCTAssertEqual(FlagResolver.sources(for: loc), [.bundled("jp")])
+    }
+
+    func test_stateLookup_hangulRegion_isNotUsedAsACode() {
+        let loc = StubLocation(name: "강남구", region: "서울", countryCode: "KR")
+        XCTAssertEqual(FlagResolver.sources(for: loc), [.bundled("kr")])
+    }
+
+    func test_stateLookup_accentedLatinRegion_isNotUsedAsACode() {
+        let loc = StubLocation(name: "Somewhere", region: "Ñu", countryCode: "ES")
+        XCTAssertEqual(FlagResolver.sources(for: loc), [.bundled("es")])
+    }
+
+    func test_stateLookup_regionEqualToCountryCode_isTheCountry() {
+        // Singapore reports its region as "SG"; there is no sg-sg flag.
+        let loc = StubLocation(name: "Singapore", region: "SG", countryCode: "SG")
+        XCTAssertEqual(FlagResolver.sources(for: loc), [.bundled("sg")])
+    }
+
+    func test_stateLookup_regionEqualToCountryCode_ignoresCase() {
+        let loc = StubLocation(name: "Singapore", region: "sg", countryCode: "SG")
+        XCTAssertEqual(FlagResolver.sources(for: loc), [.bundled("sg")])
+    }
+
+    func test_sources_listStateThenCountry() {
+        let loc = StubLocation(name: "Buffalo", region: "NY", countryCode: "US")
+        let sources = FlagResolver.sources(for: loc)
+        XCTAssertEqual(sources.count, 2)
+        guard case .remote(let folder, let name, _) = sources.first else {
+            return XCTFail("Expected the state first, got \(sources)")
+        }
+        XCTAssertEqual(folder, "states")
+        XCTAssertEqual(name, "us-ny")
+        XCTAssertEqual(sources.last, .bundled("us"))
+    }
+
+    func test_sources_listCityStateCountry() {
+        let loc = StubLocation(name: "Vancouver", region: "British Columbia", countryCode: "CA")
+        let sources = FlagResolver.sources(for: loc)
+        XCTAssertEqual(sources.count, 3)
+        XCTAssertEqual(sources.first, .bundled("cavan"))
+        XCTAssertEqual(sources.last, .bundled("ca"))
+    }
+
+    func test_sources_emptyWhenNothingMatches() {
+        XCTAssertEqual(FlagResolver.sources(for: StubLocation(name: "Mystery")), [])
+    }
+
+    func test_skippingFailedState_fallsBackToCountry() {
+        // A state flag the CDN does not have (404) gives way to the country flag.
+        let loc = StubLocation(name: "Monterrey", region: "NLE", countryCode: "MX")
+        guard case .remote(_, let name, let url) = FlagResolver.source(for: loc) else {
+            return XCTFail("Expected remote state asset")
+        }
+        XCTAssertEqual(name, "mx-nle")
+        XCTAssertEqual(FlagResolver.source(for: loc, skipping: [url]), .bundled("mx"))
+    }
+
+    func test_skippingFailedStateAndCountry_fallsBackToGlobe() {
+        let loc = StubLocation(name: "Reykjavík", region: "RVK", countryCode: "IS")
+        let urls = FlagResolver.sources(for: loc).compactMap { source -> URL? in
+            if case .remote(_, _, let url) = source { return url }
+            return nil
+        }
+        XCTAssertEqual(urls.count, 2)
+        XCTAssertEqual(FlagResolver.source(for: loc, skipping: Set(urls)), .fallback)
+    }
+
+    func test_skippingNothing_matchesSource() {
+        let loc = StubLocation(name: "Buffalo", region: "NY", countryCode: "US")
+        XCTAssertEqual(FlagResolver.source(for: loc, skipping: []), FlagResolver.source(for: loc))
+    }
+
     func test_fallback_whenNothingMatches() {
         let loc = StubLocation(name: "Mystery")
         XCTAssertEqual(FlagResolver.source(for: loc), .fallback)
@@ -140,6 +243,72 @@ final class FlagResolverTests: XCTestCase {
         SVGFlags.configure(bundledFlagOverrides: ["is"])
         let loc = StubLocation(name: "Reykjavík", countryCode: "IS")
         XCTAssertEqual(FlagResolver.source(for: loc), .bundled("is"))
+    }
+}
+
+/// `FlagView` gives a source up for good only when loading it again cannot
+/// help, so a launch without network does not leave rows on the country flag
+/// or the globe after the connection returns.
+final class FlagLoadFailureTests: XCTestCase {
+    private func statusError(_ status: Int) -> NSError {
+        NSError(
+            domain: SDWebImageErrorDomain,
+            code: SDWebImageError.Code.invalidDownloadStatusCode.rawValue,
+            userInfo: [SDWebImageErrorDownloadStatusCodeKey: status]
+        )
+    }
+
+    private func sdError(_ code: SDWebImageError.Code) -> NSError {
+        NSError(domain: SDWebImageErrorDomain, code: code.rawValue)
+    }
+
+    func test_notFound_isMissing() {
+        XCTAssertTrue(FlagLoadFailure.isMissingFlag(statusError(404)))
+        XCTAssertEqual(FlagLoadFailure.statusCode(of: statusError(404)), 404)
+    }
+
+    func test_otherClientErrors_areMissing() {
+        XCTAssertTrue(FlagLoadFailure.isMissingFlag(statusError(403)))
+        XCTAssertTrue(FlagLoadFailure.isMissingFlag(statusError(410)))
+    }
+
+    func test_requestTimeoutAndRateLimit_areNotMissing() {
+        XCTAssertFalse(FlagLoadFailure.isMissingFlag(statusError(408)))
+        XCTAssertFalse(FlagLoadFailure.isMissingFlag(statusError(429)))
+    }
+
+    func test_serverErrors_areNotMissing() {
+        XCTAssertFalse(FlagLoadFailure.isMissingFlag(statusError(500)))
+        XCTAssertFalse(FlagLoadFailure.isMissingFlag(statusError(503)))
+    }
+
+    func test_networkErrors_areNotMissing() {
+        let codes = [
+            NSURLErrorNotConnectedToInternet,
+            NSURLErrorTimedOut,
+            NSURLErrorCannotFindHost,
+            NSURLErrorCannotConnectToHost,
+            NSURLErrorNetworkConnectionLost,
+            NSURLErrorCancelled
+        ]
+        for code in codes {
+            let error = NSError(domain: NSURLErrorDomain, code: code)
+            XCTAssertFalse(FlagLoadFailure.isMissingFlag(error), "NSURLError \(code)")
+            XCTAssertNil(FlagLoadFailure.statusCode(of: error))
+        }
+    }
+
+    func test_cancelledLoad_isNotMissing() {
+        XCTAssertFalse(FlagLoadFailure.isMissingFlag(sdError(.cancelled)))
+    }
+
+    func test_undecodableFile_isMissing() {
+        XCTAssertTrue(FlagLoadFailure.isMissingFlag(sdError(.badImageData)))
+        XCTAssertTrue(FlagLoadFailure.isMissingFlag(sdError(.invalidURL)))
+    }
+
+    func test_urlSDWebImageBlocked_isMissing() {
+        XCTAssertTrue(FlagLoadFailure.isMissingFlag(sdError(.blackListed)))
     }
 }
 

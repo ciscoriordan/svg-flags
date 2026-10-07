@@ -9,7 +9,8 @@ public protocol FlagLocatable {
     var name: String { get }
 
     /// Visible region/state/province, in the user's language. May be a full
-    /// name ("British Columbia"), a 2–3 letter ISO code ("BC"), or nil.
+    /// name ("British Columbia"), a 1–3 letter ISO 3166-2 code in ASCII
+    /// letters ("BC"), or nil.
     var region: String? { get }
 
     /// Visible country name in the user's language. Used only as a fallback

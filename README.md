@@ -1013,9 +1013,9 @@ struct PlaceRow: View {
 }
 ```
 
-Resolution order: city (matched via UN/LOCODE map) → state/subdivision (ISO 3166-2 or known names) → country (ISO 3166-1) → SF Symbols globe placeholder.
+Resolution order: city (matched via UN/LOCODE map) → state/subdivision (an ISO 3166-2 code written in ASCII letters, or a known name) → country (ISO 3166-1) → SF Symbols globe placeholder. A region equal to the country code (Singapore's "SG") is the country, not a subdivision. When the CDN has no flag at a streamed URL (a 404, or a file that cannot be decoded), `FlagView` moves on to the next level, so a subdivision without a flag on the CDN shows its country flag. Failures that may go away, such as being offline, a timeout or a server error, keep the level, and SDWebImage loads it again the next time the flag appears.
 
-If you'd rather drive your own renderer, call `FlagResolver.source(for:)` directly. It returns a `FlagSource` enum (`.bundled(name)`, `.remote(folder, name, url)`, `.fallback`) that's safe to read off any thread.
+If you'd rather drive your own renderer, call `FlagResolver.source(for:)` directly. It returns a `FlagSource` enum (`.bundled(name)`, `.remote(folder, name, url)`, `.fallback`) that's safe to read off any thread. `FlagResolver.sources(for:)` lists every level that matched, most specific first, and `FlagResolver.source(for:skipping:)` returns the first one whose URL is not in a set of URLs the CDN reported missing.
 
 ### What's bundled vs. streamed
 

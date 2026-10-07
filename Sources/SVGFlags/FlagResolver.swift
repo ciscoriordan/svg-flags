@@ -7,16 +7,41 @@ public enum FlagResolver {
     /// Resolve to a renderable source. Pure function, safe to call off the
     /// main actor.
     public static func source<L: FlagLocatable>(for location: L) -> FlagSource {
+        sources(for: location).first ?? .fallback
+    }
+
+    /// Every source that can draw the location, most specific first: city,
+    /// then state, then country. The CDN does not have a flag for every
+    /// subdivision a region name can map to, so a renderer that fails to
+    /// load one source moves on to the next instead of showing the globe.
+    /// Empty when nothing matches.
+    public static func sources<L: FlagLocatable>(for location: L) -> [FlagSource] {
+        var found: [FlagSource] = []
         if let asset = cityAsset(for: location) {
-            return resolved(asset: asset, folder: "cities")
+            found.append(resolved(asset: asset, folder: "cities"))
         }
         if let asset = stateAsset(for: location) {
-            return resolved(asset: asset, folder: "states")
+            found.append(resolved(asset: asset, folder: "states"))
         }
         if let asset = countryAsset(for: location) {
-            return resolved(asset: asset, folder: "countries")
+            found.append(resolved(asset: asset, folder: "countries"))
         }
-        return .fallback
+        return found
+    }
+
+    /// The most specific source whose remote URL is not in `missingURLs`, or
+    /// `.fallback` once every source is missing. `FlagView` calls this after
+    /// the CDN reports a flag missing (404), so a state without a flag falls
+    /// back to the country flag. Pass only URLs that loading again cannot
+    /// fix; a URL that failed because the device was offline would otherwise
+    /// stay skipped after the connection returns.
+    public static func source<L: FlagLocatable>(for location: L, skipping missingURLs: Set<URL>) -> FlagSource {
+        sources(for: location).first { source in
+            if case .remote(_, _, let url) = source {
+                return !missingURLs.contains(url)
+            }
+            return true
+        } ?? .fallback
     }
 
     /// Asset basenames available in the package's bundled `Flags` catalog.
@@ -80,14 +105,30 @@ public enum FlagResolver {
 
         for candidate in [location.nativeRegion, location.region] {
             guard let raw = candidate?.trimmingCharacters(in: .whitespaces), !raw.isEmpty else { continue }
-            // Direct subdivision code (2–3 letters): "BC", "NY", "ENG".
-            if raw.count <= 3, raw.allSatisfy(\.isLetter) {
-                return "\(cc)-\(raw.lowercased())"
+            if let code = subdivisionCode(raw, countryCode: cc) {
+                return "\(cc)-\(code)"
             }
             let key = "\(cc):\(raw.lowercased())"
             if let asset = subdivisionMap[key] { return asset }
         }
         return nil
+    }
+
+    /// The region as an ISO 3166-2 subdivision code ("BC", "NY", "ENG", or
+    /// Argentina's single letters), lowercased, or nil if it is not one.
+    ///
+    /// Only ASCII letters qualify: `Character.isLetter` is also true for
+    /// kanji, hangul and every other script, so a region such as 東京都 would
+    /// otherwise become the asset name "jp-東京都". A region equal to the
+    /// country code is the country itself rather than a subdivision
+    /// (Singapore reports its region as "SG"), so it does not count either.
+    static func subdivisionCode(_ region: String, countryCode: String) -> String? {
+        let isASCIILetter: (Unicode.Scalar) -> Bool = { ("a"..."z").contains($0) || ("A"..."Z").contains($0) }
+        guard (1...3).contains(region.unicodeScalars.count), region.unicodeScalars.allSatisfy(isASCIILetter) else {
+            return nil
+        }
+        let code = region.lowercased()
+        return code == countryCode.lowercased() ? nil : code
     }
 
     // MARK: - Country
