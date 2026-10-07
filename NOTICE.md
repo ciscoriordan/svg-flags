@@ -4,6 +4,90 @@ Most of this repository is under the MIT license in [LICENSE](LICENSE). The file
 
 [`scripts/subdivisions/render_docs.py`](scripts/subdivisions/render_docs.py) writes this file from [`scripts/subdivisions/sources.json`](scripts/subdivisions/sources.json), which also records every license tag each license was worked out from.
 
+## `ar-a` Salta
+
+- Files: `circle/states/ar-a.svg`, `square/states/ar-a.svg`, `full-size-simplified/states/ar-a.svg`, `full-size/states/ar-a.svg`
+- License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- Credit: [Bandera de la Provincia de Salta.svg](https://commons.wikimedia.org/wiki/File:Bandera_de_la_Provincia_de_Salta.svg) by Students of Nicolás Avellaneda School of Salta (Vector graphics by Gorivero), with versions uploaded by SiBr4, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The circle and square files are crops of it.
+
+## `ar-b` Buenos Aires Province
+
+- Files: `circle/states/ar-b.svg`, `square/states/ar-b.svg`, `full-size-simplified/states/ar-b.svg`, `full-size/states/ar-b.svg`
+- License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- Credit: [Bandera de la Provincia de Buenos Aires.svg](https://commons.wikimedia.org/wiki/File:Bandera_de_la_Provincia_de_Buenos_Aires.svg) by Matías Hiribarne, Facundo Bailo, Ignacio Rossi, Esteban Carrasco and Fernando Barroso (Vector graphics image by Starchild), with versions uploaded by Hurfer and Frodar, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The circle and square files are crops of it.
+
+## `ar-c` Buenos Aires City
+
+- Files: `circle/states/ar-c.svg`, `square/states/ar-c.svg`, `full-size-simplified/states/ar-c.svg`, `full-size/states/ar-c.svg`
+- License: [CC BY 2.5 AR](https://creativecommons.org/licenses/by/2.5/ar/)
+- Credit: [Bandera de la Ciudad de Buenos Aires.svg](https://commons.wikimedia.org/wiki/File:Bandera_de_la_Ciudad_de_Buenos_Aires.svg) by Juan de Garay (design); Hurfer (vector drawing) (Original Vector: Ginés90), with versions uploaded by HapHaxion, [CC BY 2.5 AR](https://creativecommons.org/licenses/by/2.5/ar/). The full-size files leave out its blurred shadows. The circle and square files are crops of it.
+
+## `ar-h` Chaco
+
+- Files: `circle/states/ar-h.svg`, `square/states/ar-h.svg`, `full-size-simplified/states/ar-h.svg`, `full-size/states/ar-h.svg`
+- License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- Credit: [Bandera de la Provincia del Chaco.svg](https://commons.wikimedia.org/wiki/File:Bandera_de_la_Provincia_del_Chaco.svg) by Mario Gadotti, whose work was chosen after a contest organized by the Government of Chaco to adopt an emblem. (Vector graphics image by Lu1g1-ktupq), with versions uploaded by HapHaxion, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The circle and square files are crops of it.
+
+## `ar-k` Catamarca
+
+- Files: `circle/states/ar-k.svg`, `square/states/ar-k.svg`, `full-size-simplified/states/ar-k.svg`, `full-size/states/ar-k.svg`
+- License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- Credit: [Bandera de la Provincia de Catamarca.svg](https://commons.wikimedia.org/wiki/File:Bandera_de_la_Provincia_de_Catamarca.svg) by Fabián Martinena (Vector graphics image by 3188a), with versions uploaded by Ginés90, Nahuel9m, HapHaxion and Goldsztern, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The circle and square files leave out the gold border around the flag: they zoom out on the flag inside the border and continue its three fields past it.
+
+## `ar-l` La Pampa
+
+- Files: `circle/states/ar-l.svg`, `square/states/ar-l.svg`, `full-size-simplified/states/ar-l.svg`, `full-size/states/ar-l.svg`
+- License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- Credit: [Bandera de la Provincia de La Pampa.svg](https://commons.wikimedia.org/wiki/File:Bandera_de_la_Provincia_de_La_Pampa.svg) by Government of La Pampa (Ley Provincial 1513/93), vector graphics image by Jaume Ollé), with versions uploaded by Ginés90, Hurfer and HapHaxion, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The circle and square files are crops of it.
+
+## `ar-m` Mendoza
+
+- Files: `circle/states/ar-m.svg`, `square/states/ar-m.svg`, `full-size-simplified/states/ar-m.svg`, `full-size/states/ar-m.svg`
+- License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- Credit: [Bandera de la Provincia de Mendoza.svg](https://commons.wikimedia.org/wiki/File:Bandera_de_la_Provincia_de_Mendoza.svg) by Bernardo O'Higgins (1778–1842) (Vector graphics images by B1mbo, Tonyjeff, James2813 and SamsonBVB), with versions uploaded by HapHaxion, Hurfer and Swiãtopôłk, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The circle and square files are crops of it.
+
+## `ar-p` Formosa
+
+- Files: `circle/states/ar-p.svg`, `square/states/ar-p.svg`, `full-size-simplified/states/ar-p.svg`, `full-size/states/ar-p.svg`
+- License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- Credit: [Bandera de la Provincia de Formosa.svg](https://commons.wikimedia.org/wiki/File:Bandera_de_la_Provincia_de_Formosa.svg) by Honorable Convención Constituyente de Formosa (Vector graphics by Guilherme Paula), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The circle and square files are crops of it.
+
+## `ar-q` Neuquén
+
+- Files: `circle/states/ar-q.svg`, `square/states/ar-q.svg`, `full-size-simplified/states/ar-q.svg`, `full-size/states/ar-q.svg`
+- License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- Credit: [Bandera de la Provincia del Neuquen.svg](https://commons.wikimedia.org/wiki/File:Bandera_de_la_Provincia_del_Neuquen.svg) by Aldo Mástice (Vector graphics image by Lu1g1-ktupq), with versions uploaded by RapiarteBanderas, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), based on [Flag of Neuquen province in Argentina.gif](https://commons.wikimedia.org/wiki/File:Flag_of_Neuquen_province_in_Argentina.gif) by Aldo Mástice, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The circle and square files are crops of it.
+
+## `ar-r` Río Negro
+
+- Files: `circle/states/ar-r.svg`, `square/states/ar-r.svg`, `full-size-simplified/states/ar-r.svg`, `full-size/states/ar-r.svg`
+- License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- Credit: [Bandera de la Provincia del Río Negro.svg](https://commons.wikimedia.org/wiki/File:Bandera_de_la_Provincia_del_R%C3%ADo_Negro.svg) by Daniel Cuomo (design); Hellerick (vector drawing), with versions uploaded by SiBr4, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The circle file is a zoomed-out view of it with its field continued past its edges, and the square file is a crop of it.
+
+## `ar-u` Chubut
+
+- Files: `circle/states/ar-u.svg`, `square/states/ar-u.svg`, `full-size-simplified/states/ar-u.svg`, `full-size/states/ar-u.svg`
+- License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- Credit: [Bandera de la Provincia del Chubut.svg](https://commons.wikimedia.org/wiki/File:Bandera_de_la_Provincia_del_Chubut.svg) by Roxana Vanesa Jones, with versions uploaded by ALE! and SiBr4, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The circle and square files are crops of it.
+
+## `ar-w` Corrientes
+
+- Files: `circle/states/ar-w.svg`, `square/states/ar-w.svg`, `full-size-simplified/states/ar-w.svg`, `full-size/states/ar-w.svg`
+- License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- Credit: [Bandera de la Provincia de Corrientes.svg](https://commons.wikimedia.org/wiki/File:Bandera_de_la_Provincia_de_Corrientes.svg) by Constituent Congress of Corrientes (Vector graphics image by Gorivero, Guilherme Paula), with versions uploaded by HapHaxion and Hurfer, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The circle and square files are crops centered on the inscriptions, with the blue bands continued past the top and bottom of the flag and the tip of the hoist triangle covered in white.
+
+## `ar-x` Córdoba
+
+- Files: `circle/states/ar-x.svg`, `square/states/ar-x.svg`, `full-size-simplified/states/ar-x.svg`, `full-size/states/ar-x.svg`
+- License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- Credit: [Bandera de la Provincia de Córdoba 2014.svg](https://commons.wikimedia.org/wiki/File:Bandera_de_la_Provincia_de_C%C3%B3rdoba_2014.svg) by Cristian Baquero Lazcano, with versions uploaded by RapiarteBanderas, Hurfer and HapHaxion, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The circle and square files are crops of it.
+
+## `ar-z` Santa Cruz
+
+- Files: `circle/states/ar-z.svg`, `square/states/ar-z.svg`, `full-size-simplified/states/ar-z.svg`, `full-size/states/ar-z.svg`
+- License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- Credit: [Bandera de la Provincia de Santa Cruz.svg](https://commons.wikimedia.org/wiki/File:Bandera_de_la_Provincia_de_Santa_Cruz.svg) by Unknown (Vector graphics image by Gorivero), with versions uploaded by Dexxter, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The circle and square files are crops of it.
+
 ## `br-al` Alagoas
 
 - Files: `circle/states/br-al.svg`, `square/states/br-al.svg`, `full-size-simplified/states/br-al.svg`, `full-size/states/br-al.svg`

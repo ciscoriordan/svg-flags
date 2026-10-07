@@ -1,5 +1,8 @@
 {
   "countries": {
+    "ar": {
+      "name": "Argentina"
+    },
     "br": {
       "name": "Brazil"
     },
@@ -15,6 +18,583 @@
     }
   },
   "flags": {
+    "ar-a": {
+      "name": "Salta",
+      "commons": "Bandera de la Provincia de Salta.svg",
+      "layout": {
+        "crop": "center"
+      }
+    },
+    "ar-b": {
+      "name": "Buenos Aires Province",
+      "commons": "Bandera de la Provincia de Buenos Aires.svg",
+      "layout": {
+        "crop": "center"
+      }
+    },
+    "ar-c": {
+      "name": "Buenos Aires City",
+      "commons": "Bandera de la Ciudad de Buenos Aires.svg",
+      "layout": {
+        "fit": [
+          0.5,
+          0.166,
+          0.556,
+          0.668
+        ],
+        "fill": 0.75,
+        "fills": [
+          [
+            "#FFFFFF",
+            0,
+            0,
+            512,
+            512
+          ]
+        ],
+        "square": {
+          "fill": 0.85
+        }
+      },
+      "clean": {
+        "drop_blurred": true,
+        "why": "The Commons drawing adds a few soft shadows with a Gaussian blur, which CoreSVG cannot draw; they are left out, which changes no pixel by more than the drift threshold at 1200 pixels."
+      }
+    },
+    "ar-d": {
+      "name": "San Luis",
+      "commons": "Bandera de la Provincia de San Luis.svg",
+      "layout": {
+        "fit": [
+          0.474,
+          0.156,
+          0.552,
+          0.688
+        ],
+        "fill": 0.85,
+        "fills": [
+          [
+            "#FFFFFF",
+            0,
+            0,
+            512,
+            512
+          ]
+        ]
+      },
+      "later_versions": "RoyFocker 12 uploaded the first drawing (2010) and Ginés90 a version by J. Ollé (2012). Hurfer, whom the page names as the author, corrected its colors and proportions (2021) and replaced the arms (2022); HapHaxion then only reduced the file size."
+    },
+    "ar-e": {
+      "name": "Entre Ríos",
+      "commons": "Bandera de la Provincia de Entre Ríos.svg",
+      "layout": {
+        "crop": "center"
+      }
+    },
+    "ar-f": {
+      "name": "La Rioja",
+      "commons": "Bandera de la Provincia de La Rioja.svg",
+      "layout": {
+        "crop": "center"
+      }
+    },
+    "ar-g": {
+      "name": "Santiago del Estero",
+      "commons": "Bandera de la Provincia de Santiago del Estero.svg",
+      "layout": {
+        "window": [
+          0.25,
+          -0.5,
+          2.0
+        ],
+        "fills": [
+          [
+            "#75AADB",
+            0,
+            0,
+            64,
+            512
+          ],
+          [
+            "#FFFFFF",
+            64,
+            0,
+            64,
+            512
+          ],
+          [
+            "#D21010",
+            128,
+            0,
+            256,
+            512
+          ],
+          [
+            "#FFFFFF",
+            384,
+            0,
+            64,
+            512
+          ],
+          [
+            "#75AADB",
+            448,
+            0,
+            64,
+            512
+          ]
+        ],
+        "covers": [
+          [
+            "#75AADB",
+            0,
+            122,
+            64,
+            12
+          ],
+          [
+            "#FFFFFF",
+            64,
+            122,
+            64,
+            12
+          ],
+          [
+            "#D21010",
+            128,
+            122,
+            256,
+            12
+          ],
+          [
+            "#FFFFFF",
+            384,
+            122,
+            64,
+            12
+          ],
+          [
+            "#75AADB",
+            448,
+            122,
+            64,
+            12
+          ],
+          [
+            "#75AADB",
+            0,
+            378,
+            64,
+            12
+          ],
+          [
+            "#FFFFFF",
+            64,
+            378,
+            64,
+            12
+          ],
+          [
+            "#D21010",
+            128,
+            378,
+            256,
+            12
+          ],
+          [
+            "#FFFFFF",
+            384,
+            378,
+            64,
+            12
+          ],
+          [
+            "#75AADB",
+            448,
+            378,
+            64,
+            12
+          ]
+        ]
+      },
+      "note": "The circle and square zoom out to show the white and light blue bands on both sides of the red center, as circle/countries/ca shows the red bars; the fills continue the bands above and below the flag."
+    },
+    "ar-h": {
+      "name": "Chaco",
+      "commons": "Bandera de la Provincia del Chaco.svg",
+      "layout": {
+        "crop": "center"
+      }
+    },
+    "ar-j": {
+      "name": "San Juan",
+      "commons": "Flag of the San Juan Province.svg",
+      "layout": {
+        "crop": "center"
+      }
+    },
+    "ar-k": {
+      "name": "Catamarca",
+      "commons": "Bandera de la Provincia de Catamarca.svg",
+      "layout": {
+        "fills": [
+          [
+            "#80B3FF",
+            0,
+            0,
+            256,
+            256
+          ],
+          [
+            "#FFFFFF",
+            256,
+            0,
+            256,
+            256
+          ],
+          [
+            "#FF0000",
+            0,
+            256,
+            512,
+            256
+          ]
+        ],
+        "layers": [
+          {
+            "from": [
+              0.04,
+              0.04,
+              1.92,
+              0.92
+            ],
+            "to": [
+              -153.6,
+              59.73,
+              819.2,
+              392.53
+            ]
+          }
+        ],
+        "covers": [
+          [
+            "#80B3FF",
+            0,
+            53.73,
+            256,
+            12
+          ],
+          [
+            "#FFFFFF",
+            256,
+            53.73,
+            256,
+            12
+          ],
+          [
+            "#FF0000",
+            0,
+            446.27,
+            512,
+            12
+          ]
+        ]
+      },
+      "note": "The Commons drawing frames the flag with a gold border, which the circle and square leave out: the flag inside the border is zoomed out about the emblem so the laurel branches stay inside the circle, and the fills continue its three fields.",
+      "adaptation": "leave out the gold border around the flag: they zoom out on the flag inside the border and continue its three fields past it"
+    },
+    "ar-l": {
+      "name": "La Pampa",
+      "commons": "Bandera de la Provincia de La Pampa.svg",
+      "layout": {
+        "crop": "center"
+      }
+    },
+    "ar-m": {
+      "name": "Mendoza",
+      "commons": "Bandera de la Provincia de Mendoza.svg",
+      "layout": {
+        "crop": "center"
+      }
+    },
+    "ar-n": {
+      "name": "Misiones",
+      "commons": "Bandera de la Provincia de Misiones.svg",
+      "layout": {
+        "crop": "center"
+      }
+    },
+    "ar-p": {
+      "name": "Formosa",
+      "commons": "Bandera de la Provincia de Formosa.svg",
+      "layout": {
+        "crop": "fly"
+      },
+      "note": "The white triangle and its stars sit toward the fly; the fly crop centers on them."
+    },
+    "ar-q": {
+      "name": "Neuquén",
+      "commons": "Bandera de la Provincia del Neuquen.svg",
+      "layout": {
+        "crop": "center"
+      }
+    },
+    "ar-r": {
+      "name": "Río Negro",
+      "commons": "Bandera de la Provincia del Río Negro.svg",
+      "layout": {
+        "window": [
+          -0.15,
+          -0.1,
+          1.2
+        ],
+        "fills": [
+          [
+            "#0063BE",
+            0,
+            0,
+            512,
+            184.89
+          ],
+          [
+            "#000000",
+            0,
+            0,
+            277.33,
+            184.89
+          ],
+          [
+            "#FFFFFF",
+            0,
+            184.89,
+            512,
+            142.22
+          ],
+          [
+            "#009A3B",
+            0,
+            327.11,
+            512,
+            184.89
+          ]
+        ],
+        "covers": [
+          [
+            "#000000",
+            58,
+            0,
+            12,
+            184.89
+          ],
+          [
+            "#FFFFFF",
+            58,
+            184.89,
+            12,
+            142.22
+          ],
+          [
+            "#009A3B",
+            58,
+            327.11,
+            12,
+            184.89
+          ],
+          [
+            "#000000",
+            0,
+            36.67,
+            277.33,
+            12
+          ],
+          [
+            "#0063BE",
+            277.33,
+            36.67,
+            234.67,
+            12
+          ]
+        ],
+        "square": {
+          "window": [
+            0,
+            0,
+            1
+          ],
+          "fills": [],
+          "covers": []
+        }
+      },
+      "note": "The circle zooms out around the black canton so its ring of nine stars stays inside the circle; the fills continue the canton and the three bands beyond the flag's edges."
+    },
+    "ar-s": {
+      "name": "Santa Fe",
+      "commons": "Bandera de la Provincia de Santa Fe.svg",
+      "layout": {
+        "crop": "center"
+      }
+    },
+    "ar-t": {
+      "name": "Tucumán",
+      "commons": "Bandera de la Provincia de Tucumán.svg",
+      "layout": {
+        "crop": "center"
+      }
+    },
+    "ar-u": {
+      "name": "Chubut",
+      "commons": "Bandera de la Provincia del Chubut.svg",
+      "layout": {
+        "crop": "center"
+      }
+    },
+    "ar-v": {
+      "name": "Tierra del Fuego",
+      "commons": "Bandera de la Provincia de Tierra del Fuego.svg",
+      "layout": {
+        "window": [
+          0.3,
+          -0.15,
+          1.2
+        ],
+        "fills": [
+          [
+            "#1983DD",
+            0,
+            0,
+            512,
+            64
+          ],
+          [
+            "#FD9730",
+            0,
+            490.67,
+            512,
+            21.33
+          ]
+        ],
+        "covers": [
+          [
+            "#1983DD",
+            0,
+            58,
+            512,
+            12
+          ],
+          [
+            "#FD9730",
+            0,
+            484.67,
+            430,
+            12
+          ]
+        ],
+        "square": {
+          "window": [
+            0.4,
+            0,
+            1
+          ],
+          "fills": [],
+          "covers": []
+        }
+      },
+      "note": "The circle zooms out toward the fly so that every star of the Southern Cross is wholly inside it; the fills continue the blue above and the orange below the flag. The square needs no zoom and is a crop that holds the stars and the albatross."
+    },
+    "ar-w": {
+      "name": "Corrientes",
+      "commons": "Bandera de la Provincia de Corrientes.svg",
+      "layout": {
+        "window": [
+          0.2695,
+          -0.02,
+          1.04
+        ],
+        "fills": [
+          [
+            "#74ACDF",
+            0,
+            0,
+            512,
+            512
+          ]
+        ],
+        "covers": [
+          [
+            "#FFFFFF",
+            0,
+            173.95,
+            16,
+            164.1
+          ]
+        ]
+      },
+      "note": "The window is centered on the inscriptions rather than the arms, so \"PATRIA - LIBERTAD\" and \"CONSTITUCIÓN\" end the same distance from the rim. It starts just inside the tip of the hoist triangle, which a white cover hides, and the fill continues the blue bands above and below the flag.",
+      "adaptation": "are crops centered on the inscriptions, with the blue bands continued past the top and bottom of the flag and the tip of the hoist triangle covered in white"
+    },
+    "ar-x": {
+      "name": "Córdoba",
+      "commons": "Bandera de la Provincia de Córdoba 2014.svg",
+      "layout": {
+        "crop": "center"
+      }
+    },
+    "ar-y": {
+      "name": "Jujuy",
+      "commons": "Bandera de la Provincia de Jujuy.svg",
+      "layout": {
+        "fit": [
+          0.18,
+          0.078,
+          0.64,
+          0.845
+        ],
+        "fill": 0.92,
+        "fills": [
+          [
+            "#FFFFFF",
+            0,
+            0,
+            512,
+            512
+          ]
+        ]
+      },
+      "note": "Uses the CC0 redrawing of the official flag; Wikidata lists 'Flag of the Civil Freedom of Argentina (unofficial improved version).svg', which is not the provincial flag as adopted.",
+      "canvas": {
+        "extend": [
+          46.5,
+          0,
+          46.5,
+          0
+        ],
+        "fills": [
+          [
+            "#FFFFFF",
+            -46.5,
+            0,
+            47.5,
+            804
+          ],
+          [
+            "#FFFFFF",
+            710,
+            0,
+            47.5,
+            804
+          ]
+        ],
+        "why": "Jujuy's flag law (as Flags of the World translates it) gives the flag a length of 3:2 or 1:1 to its width, but this CC0 drawing is 711 by 804. The white field is continued on both sides to the square shape, which the earlier Commons versions of the file also had."
+      },
+      "later_versions": "Hstoops' 2025 upload is a new drawing (\"Uploaded own work\"), not an edit of the earlier uploads by Cronholm144, HapHaxion and Lasunncty, which it replaced."
+    },
+    "ar-z": {
+      "name": "Santa Cruz",
+      "commons": "Bandera de la Provincia de Santa Cruz.svg",
+      "layout": {
+        "crop": "center"
+      }
+    },
     "br-ac": {
       "name": "Acre",
       "commons": "Bandeira do Acre.svg",

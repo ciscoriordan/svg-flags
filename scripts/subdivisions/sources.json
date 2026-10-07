@@ -1,4 +1,1508 @@
 {
+  "ar-a": {
+    "commons_title": "Bandera de la Provincia de Salta.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Bandera_de_la_Provincia_de_Salta.svg",
+    "revision": {
+      "sha1": "251741729b85b925d5c43300a8caeb3d59e7a4e4",
+      "timestamp": "2013-10-18T15:30:13Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Bandera_de_la_Provincia_de_Salta.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 564,
+      "height": 400,
+      "uploader": "SiBr4"
+    },
+    "license": "CC BY 4.0",
+    "license_kind": "attribution",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "license_tags": [
+      "CC-BY-4.0"
+    ],
+    "license_options": [
+      "CC BY 4.0"
+    ],
+    "license_conditions": [],
+    "own_license": "CC BY 4.0",
+    "own_license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "own_kind": "attribution",
+    "author": "Students of Nicolás Avellaneda School of Salta (Vector graphics by Gorivero)",
+    "versions": [
+      {
+        "user": "Gorivero",
+        "date": "2007-12-28",
+        "comment": "{{Information"
+      },
+      {
+        "user": "SiBr4",
+        "date": "2013-10-18",
+        "comment": "Reduced code & corrected ratio according to flag law"
+      }
+    ],
+    "contributors": [
+      "SiBr4"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": true,
+    "wikidata": "Q44803",
+    "wikipedia": "Salta_Province",
+    "wikidata_flag_images": [
+      "Bandera de la Provincia de Salta.svg"
+    ]
+  },
+  "ar-b": {
+    "commons_title": "Bandera de la Provincia de Buenos Aires.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Bandera_de_la_Provincia_de_Buenos_Aires.svg",
+    "revision": {
+      "sha1": "62d6861f469227918b244004e169853dcc5f708c",
+      "timestamp": "2023-05-01T02:01:07Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Bandera_de_la_Provincia_de_Buenos_Aires.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 1400,
+      "height": 900,
+      "uploader": "Frodar"
+    },
+    "license": "CC BY 4.0",
+    "license_kind": "attribution",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "license_tags": [
+      "CC-BY-4.0",
+      "CC-PD-Mark",
+      "PD-old-70-expired"
+    ],
+    "license_options": [
+      "CC BY 4.0"
+    ],
+    "license_conditions": [],
+    "own_license": "CC BY 4.0",
+    "own_license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "own_kind": "attribution",
+    "author": "Matías Hiribarne, Facundo Bailo, Ignacio Rossi, Esteban Carrasco and Fernando Barroso (Vector graphics image by Starchild)",
+    "versions": [
+      {
+        "user": "Starchild~commonswiki",
+        "date": "2007-09-20",
+        "comment": "{{Information"
+      },
+      {
+        "user": "Hurfer",
+        "date": "2021-09-26",
+        "comment": "Proporción correcta y pequeña corrección en la simetría de los símbolos"
+      },
+      {
+        "user": "Hurfer",
+        "date": "2021-10-03",
+        "comment": "Al no encontrar información sobre sus colores oficiales, decidí colocarle unos lo más parecidos posibles a los utilizados."
+      },
+      {
+        "user": "Frodar",
+        "date": "2021-12-01",
+        "comment": "Cambio en las tonalidades, de acuerdo con fotografías de la bandera en despachos y eventos oficiales.."
+      }
+    ],
+    "contributors": [
+      "Hurfer",
+      "Frodar"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": true,
+    "wikidata": "Q44754",
+    "wikipedia": "Buenos_Aires_Province",
+    "wikidata_flag_images": [
+      "Bandera de la Provincia de Buenos Aires.svg"
+    ]
+  },
+  "ar-c": {
+    "commons_title": "Bandera de la Ciudad de Buenos Aires.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Bandera_de_la_Ciudad_de_Buenos_Aires.svg",
+    "revision": {
+      "sha1": "e7a26f983f9bde12ed283cb4534613dcc591f643",
+      "timestamp": "2025-09-01T15:10:44Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Bandera_de_la_Ciudad_de_Buenos_Aires.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 700,
+      "height": 450,
+      "uploader": "HapHaxion"
+    },
+    "license": "CC BY 2.5 AR",
+    "license_kind": "attribution",
+    "license_url": "https://creativecommons.org/licenses/by/2.5/ar/",
+    "license_tags": [
+      "CC-BY-2.5-AR"
+    ],
+    "license_options": [
+      "CC BY 2.5 AR"
+    ],
+    "license_conditions": [],
+    "own_license": "CC BY 2.5 AR",
+    "own_license_url": "https://creativecommons.org/licenses/by/2.5/ar/",
+    "own_kind": "attribution",
+    "author": "Juan de Garay (design); Hurfer (vector drawing) (Original Vector: Ginés90)",
+    "versions": [
+      {
+        "user": "Ginés90",
+        "date": "2012-04-15",
+        "comment": "{{Information"
+      },
+      {
+        "user": "Ginés90",
+        "date": "2012-04-15",
+        "comment": "fondo blanco arreglado"
+      },
+      {
+        "user": "Ginés90",
+        "date": "2012-04-15",
+        "comment": "colores, águila centrada"
+      },
+      {
+        "user": "Hurfer",
+        "date": "2021-09-11",
+        "comment": "Escudo más detallado"
+      },
+      {
+        "user": "HapHaxion",
+        "date": "2022-06-14",
+        "comment": "file size reduction"
+      }
+    ],
+    "contributors": [
+      "HapHaxion"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": true,
+    "wikidata": "Q1486",
+    "wikipedia": "Buenos_Aires",
+    "wikidata_flag_images": [
+      "Bandera de la Ciudad de Buenos Aires.svg"
+    ]
+  },
+  "ar-d": {
+    "commons_title": "Bandera de la Provincia de San Luis.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Bandera_de_la_Provincia_de_San_Luis.svg",
+    "revision": {
+      "sha1": "4db2f348f7d0255204723eee9cd6e348bef918b8",
+      "timestamp": "2022-06-14T17:43:22Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Bandera_de_la_Provincia_de_San_Luis.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 562,
+      "height": 375,
+      "uploader": "HapHaxion"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD-self"
+    ],
+    "license_options": [
+      "Public domain"
+    ],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "release",
+    "author": "SVG by Hurfer",
+    "versions": [
+      {
+        "user": "RoyFocker 12",
+        "date": "2010-07-19",
+        "comment": "{{Information"
+      },
+      {
+        "user": "RoyFocker 12",
+        "date": "2010-07-19",
+        "comment": "{{Information"
+      },
+      {
+        "user": "RoyFocker 12",
+        "date": "2010-07-19",
+        "comment": "{{Information"
+      },
+      {
+        "user": "RoyFocker 12",
+        "date": "2010-07-19",
+        "comment": "A ver si ahora..."
+      },
+      {
+        "user": "RoyFocker 12",
+        "date": "2010-07-20",
+        "comment": "{{Information"
+      },
+      {
+        "user": "Ginés90",
+        "date": "2012-04-15",
+        "comment": "nueva versión por J. Ollé"
+      },
+      {
+        "user": "Hurfer",
+        "date": "2021-09-11",
+        "comment": "Mejora en los colores del escudo y correcta proporción de la bandera (2:3)"
+      },
+      {
+        "user": "Hurfer",
+        "date": "2022-02-12",
+        "comment": "Cambio del escudo."
+      },
+      {
+        "user": "HapHaxion",
+        "date": "2022-06-14",
+        "comment": "file size reduction"
+      }
+    ],
+    "contributors": [
+      "RoyFocker 12",
+      "Ginés90",
+      "HapHaxion"
+    ],
+    "releaser": "Hurfer",
+    "release_not_used": null,
+    "later_versions": "RoyFocker 12 uploaded the first drawing (2010) and Ginés90 a version by J. Ollé (2012). Hurfer, whom the page names as the author, corrected its colors and proportions (2021) and replaced the arms (2022); HapHaxion then only reduced the file size.",
+    "derived_from": [
+      {
+        "title": "Escudo de San Luis.svg",
+        "page": "https://commons.wikimedia.org/wiki/File:Escudo_de_San_Luis.svg",
+        "author": "Unknown SVG by Ginés90",
+        "license": "Public domain",
+        "license_url": null,
+        "binding": false
+      }
+    ],
+    "attribution_required": false,
+    "wikidata": "Q44818",
+    "wikipedia": "San_Luis_Province",
+    "wikidata_flag_images": [
+      "Bandera de la Provincia de San Luis.svg"
+    ]
+  },
+  "ar-e": {
+    "commons_title": "Bandera de la Provincia de Entre Ríos.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Bandera_de_la_Provincia_de_Entre_R%C3%ADos.svg",
+    "revision": {
+      "sha1": "28fe864d8248c4c8aec61318f569a75d01c65953",
+      "timestamp": "2007-08-06T00:32:10Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Bandera_de_la_Provincia_de_Entre_R%C3%ADos.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 900,
+      "height": 450,
+      "uploader": "Guilherme Paula"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD ineligible"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "Sergio Alberto Montiel (1927–2011)",
+    "versions": [
+      {
+        "user": "Guilherme Paula",
+        "date": "2007-08-06",
+        "comment": "{{Information"
+      }
+    ],
+    "contributors": [
+      "Guilherme Paula"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q44762",
+    "wikipedia": "Entre_Ríos_Province",
+    "wikidata_flag_images": [
+      "Bandera de la Provincia de Entre Ríos.svg"
+    ]
+  },
+  "ar-f": {
+    "commons_title": "Bandera de la Provincia de La Rioja.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Bandera_de_la_Provincia_de_La_Rioja.svg",
+    "revision": {
+      "sha1": "e9b599c719aae19701027859995d57b0423556d3",
+      "timestamp": "2014-06-15T13:15:26Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Bandera_de_la_Provincia_de_La_Rioja.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 700,
+      "height": 450,
+      "uploader": "SiBr4"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD ineligible"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "Goverment of La Rioja Province (vector graphics by: Lu1g1-ktupq).",
+    "versions": [
+      {
+        "user": "Lu1g1-ktupq",
+        "date": "2009-04-08",
+        "comment": "{{Information"
+      },
+      {
+        "user": "SiBr4",
+        "date": "2014-06-15",
+        "comment": "Ratio & code"
+      }
+    ],
+    "contributors": [
+      "SiBr4"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [
+      {
+        "title": "Flag of La Rioja province in Argentina.gif",
+        "page": "https://commons.wikimedia.org/wiki/File:Flag_of_La_Rioja_province_in_Argentina.gif",
+        "author": "ALE! (uploader)",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "binding": false
+      }
+    ],
+    "attribution_required": false,
+    "wikidata": "Q44796",
+    "wikipedia": "La_Rioja_Province,_Argentina",
+    "wikidata_flag_images": [
+      "Bandera de la Provincia de La Rioja.svg"
+    ]
+  },
+  "ar-g": {
+    "commons_title": "Bandera de la Provincia de Santiago del Estero.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Bandera_de_la_Provincia_de_Santiago_del_Estero.svg",
+    "revision": {
+      "sha1": "bcd3d0aec3e9bb9eca250bd3277b39a8129f01fc",
+      "timestamp": "2022-07-08T08:05:36Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Bandera_de_la_Provincia_de_Santiago_del_Estero.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 500,
+      "height": 200,
+      "uploader": "Hurfer"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD ineligible"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "Government of Santiago del Estero (vector graphics by Guilherme Paula)",
+    "versions": [
+      {
+        "user": "Guilherme Paula",
+        "date": "2007-10-13",
+        "comment": "{{Information"
+      },
+      {
+        "user": "Hurfer",
+        "date": "2022-07-08",
+        "comment": "Cambios en el sol."
+      }
+    ],
+    "contributors": [
+      "Hurfer"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q44827",
+    "wikipedia": "Santiago_del_Estero_Province",
+    "wikidata_flag_images": [
+      "Bandera de la Provincia de Santiago del Estero.svg"
+    ]
+  },
+  "ar-h": {
+    "commons_title": "Bandera de la Provincia del Chaco.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Bandera_de_la_Provincia_del_Chaco.svg",
+    "revision": {
+      "sha1": "551ec77600a3f0b764fd016a28446465f945ac00",
+      "timestamp": "2022-06-14T17:24:50Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Bandera_de_la_Provincia_del_Chaco.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 728,
+      "height": 485,
+      "uploader": "HapHaxion"
+    },
+    "license": "CC BY 4.0",
+    "license_kind": "attribution",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "license_tags": [
+      "CC-BY-4.0"
+    ],
+    "license_options": [
+      "CC BY 4.0"
+    ],
+    "license_conditions": [],
+    "own_license": "CC BY 4.0",
+    "own_license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "own_kind": "attribution",
+    "author": "Mario Gadotti, whose work was chosen after a contest organized by the Government of Chaco to adopt an emblem. (Vector graphics image by Lu1g1-ktupq)",
+    "versions": [
+      {
+        "user": "Lu1g1-ktupq",
+        "date": "2009-02-08",
+        "comment": "{{Information"
+      },
+      {
+        "user": "HapHaxion",
+        "date": "2022-06-14",
+        "comment": "file size reduction"
+      }
+    ],
+    "contributors": [
+      "HapHaxion"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": true,
+    "wikidata": "Q44757",
+    "wikipedia": "Chaco_Province",
+    "wikidata_flag_images": [
+      "Bandera de la Provincia del Chaco.svg"
+    ]
+  },
+  "ar-j": {
+    "commons_title": "Flag of the San Juan Province.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_the_San_Juan_Province.svg",
+    "revision": {
+      "sha1": "a7cf3acb617e2871ed9d59e558a131ef8533d4a8",
+      "timestamp": "2022-06-14T17:41:03Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Flag_of_the_San_Juan_Province.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 1312,
+      "height": 844,
+      "uploader": "HapHaxion"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "CC-PD-Mark",
+      "PD-old-70-expired"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "Borja Toranzo de Zavalla, Jacinta Angulo de Rojo, and Félix de la Roza de Junco",
+    "versions": [
+      {
+        "user": "Hurfer",
+        "date": "2022-02-28",
+        "comment": "== {{int:filedesc}} =="
+      },
+      {
+        "user": "HapHaxion",
+        "date": "2022-06-14",
+        "comment": "file size reduction"
+      }
+    ],
+    "contributors": [
+      "Hurfer",
+      "HapHaxion"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [
+      {
+        "title": "Bandera de San Juan Ciudadana.png",
+        "page": "https://commons.wikimedia.org/wiki/File:Bandera_de_San_Juan_Ciudadana.png",
+        "author": "Borja Toranzo de Zavalla, Jacinta Angulo de Rojo, and Félix de la Roza de Junco",
+        "license": "Public domain",
+        "license_url": null,
+        "binding": false
+      }
+    ],
+    "attribution_required": false,
+    "wikidata": "Q44805",
+    "wikipedia": "San_Juan_Province,_Argentina",
+    "wikidata_flag_images": [
+      "Flag of the San Juan Province.svg"
+    ]
+  },
+  "ar-k": {
+    "commons_title": "Bandera de la Provincia de Catamarca.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Bandera_de_la_Provincia_de_Catamarca.svg",
+    "revision": {
+      "sha1": "200f9a112dee1ac929c3ce64f441cc6d33418980",
+      "timestamp": "2023-10-16T16:19:11Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Bandera_de_la_Provincia_de_Catamarca.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 512,
+      "height": 256,
+      "uploader": "Goldsztern"
+    },
+    "license": "CC BY 4.0",
+    "license_kind": "attribution",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "license_tags": [
+      "CC-BY-4.0"
+    ],
+    "license_options": [
+      "CC BY 4.0"
+    ],
+    "license_conditions": [],
+    "own_license": "CC BY 4.0",
+    "own_license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "own_kind": "attribution",
+    "author": "Fabián Martinena (Vector graphics image by 3188a)",
+    "versions": [
+      {
+        "user": "Ginés90",
+        "date": "2011-09-03",
+        "comment": ""
+      },
+      {
+        "user": "Ginés90",
+        "date": "2012-01-28",
+        "comment": "arreglo laureles y tamaño"
+      },
+      {
+        "user": "Nahuel9m",
+        "date": "2016-02-10",
+        "comment": "Corrección en colores."
+      },
+      {
+        "user": "HapHaxion",
+        "date": "2023-02-01",
+        "comment": "reduce file size, round to correct ratio"
+      },
+      {
+        "user": "Goldsztern",
+        "date": "2023-10-16",
+        "comment": "Actualización en los laureles y el sol"
+      }
+    ],
+    "contributors": [
+      "Ginés90",
+      "Nahuel9m",
+      "HapHaxion",
+      "Goldsztern"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": true,
+    "wikidata": "Q44756",
+    "wikipedia": "Catamarca_Province",
+    "wikidata_flag_images": [
+      "Bandera de la Provincia de Catamarca.svg"
+    ]
+  },
+  "ar-l": {
+    "commons_title": "Bandera de la Provincia de La Pampa.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Bandera_de_la_Provincia_de_La_Pampa.svg",
+    "revision": {
+      "sha1": "8cf2fd55bf75b7d6dbbd521f0894ff79d08eaa65",
+      "timestamp": "2022-06-14T17:36:02Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Bandera_de_la_Provincia_de_La_Pampa.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 1400,
+      "height": 900,
+      "uploader": "HapHaxion"
+    },
+    "license": "CC BY 4.0",
+    "license_kind": "attribution",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "license_tags": [
+      "CC-BY-4.0"
+    ],
+    "license_options": [
+      "CC BY 4.0"
+    ],
+    "license_conditions": [],
+    "own_license": "CC BY 4.0",
+    "own_license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "own_kind": "attribution",
+    "author": "Government of La Pampa (Ley Provincial 1513/93), vector graphics image by Jaume Ollé)",
+    "versions": [
+      {
+        "user": "Ginés90",
+        "date": "2012-04-15",
+        "comment": "{{Information"
+      },
+      {
+        "user": "Ginés90",
+        "date": "2012-04-15",
+        "comment": "centrado el escudo"
+      },
+      {
+        "user": "Ginés90",
+        "date": "2012-04-21",
+        "comment": "colores"
+      },
+      {
+        "user": "Hurfer",
+        "date": "2021-09-26",
+        "comment": "Corrección de los colores del escudo y proporciones correctas de la bandera."
+      },
+      {
+        "user": "Hurfer",
+        "date": "2022-01-02",
+        "comment": "Cambio del escudo y arreglo de los colores (las franjas celestes eran más oscuras que la franjas de la bandera oficial"
+      },
+      {
+        "user": "HapHaxion",
+        "date": "2022-06-14",
+        "comment": "file size reduction"
+      }
+    ],
+    "contributors": [
+      "Ginés90",
+      "Hurfer",
+      "HapHaxion"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": true,
+    "wikidata": "Q44795",
+    "wikipedia": "La_Pampa_Province",
+    "wikidata_flag_images": [
+      "Bandera de la Provincia de La Pampa.svg"
+    ]
+  },
+  "ar-m": {
+    "commons_title": "Bandera de la Provincia de Mendoza.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Bandera_de_la_Provincia_de_Mendoza.svg",
+    "revision": {
+      "sha1": "5def69b388a482476dde2db5bb475163b65b7f2d",
+      "timestamp": "2025-03-03T19:05:23Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Bandera_de_la_Provincia_de_Mendoza.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 610,
+      "height": 720,
+      "uploader": "Swiãtopôłk"
+    },
+    "license": "CC BY 4.0",
+    "license_kind": "attribution",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "license_tags": [
+      "CC-BY-4.0",
+      "CC-PD-Mark",
+      "PD-old-70-expired"
+    ],
+    "license_options": [
+      "CC BY 4.0"
+    ],
+    "license_conditions": [],
+    "own_license": "CC BY 4.0",
+    "own_license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "own_kind": "attribution",
+    "author": "Bernardo O'Higgins (1778–1842) (Vector graphics images by B1mbo, Tonyjeff, James2813 and SamsonBVB)",
+    "versions": [
+      {
+        "user": "B1mbo",
+        "date": "2008-06-20",
+        "comment": "{{Information"
+      },
+      {
+        "user": "SamsonBVB",
+        "date": "2021-04-19",
+        "comment": "nueva versión"
+      },
+      {
+        "user": "SamsonBVB",
+        "date": "2021-04-19",
+        "comment": "Lazo"
+      },
+      {
+        "user": "HapHaxion",
+        "date": "2022-06-14",
+        "comment": "file size reduction"
+      },
+      {
+        "user": "Hurfer",
+        "date": "2022-07-20",
+        "comment": "Moño arreglado y proporciones correctas de la bandera"
+      },
+      {
+        "user": "HapHaxion",
+        "date": "2022-09-13",
+        "comment": "reduce file size"
+      },
+      {
+        "user": "Swiãtopôłk",
+        "date": "2025-03-03",
+        "comment": "Improved the colors of the smaller branches and ribbon to be more like the actual preserved copies, but it is still a very poor reproduction..."
+      }
+    ],
+    "contributors": [
+      "HapHaxion",
+      "Hurfer",
+      "Swiãtopôłk"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [
+      {
+        "title": "Flag of the Army of the Andes.svg",
+        "page": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Army_of_the_Andes.svg",
+        "author": "James2813, from the work of Manuel Belgrano",
+        "license": "Public domain",
+        "license_url": null,
+        "binding": false
+      }
+    ],
+    "attribution_required": true,
+    "wikidata": "Q44797",
+    "wikipedia": "Mendoza_Province",
+    "wikidata_flag_images": [
+      "Bandera de la Provincia de Mendoza.svg"
+    ]
+  },
+  "ar-n": {
+    "commons_title": "Bandera de la Provincia de Misiones.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Bandera_de_la_Provincia_de_Misiones.svg",
+    "revision": {
+      "sha1": "31c12d07ce6cd1c453207eb8595a7c317f3815e4",
+      "timestamp": "2023-02-23T01:02:46Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Bandera_de_la_Provincia_de_Misiones.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 1400,
+      "height": 900,
+      "uploader": "Undertiago"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD ineligible (flags)"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "unknown (design); Mysid (vector drawing)",
+    "versions": [
+      {
+        "user": "Mysid",
+        "date": "2006-05-26",
+        "comment": "{{Information"
+      },
+      {
+        "user": "Kacnepcku-Cp6uja",
+        "date": "2012-05-02",
+        "comment": "http://www.misiones.gov.ar/misiones/bandera.htm"
+      },
+      {
+        "user": "Metrónomo",
+        "date": "2013-01-20",
+        "comment": "Simplified"
+      },
+      {
+        "user": "Undertiago",
+        "date": "2022-10-17",
+        "comment": "Archivo rehecho manualmente con la proporción y colores oficiales"
+      },
+      {
+        "user": "Undertiago",
+        "date": "2023-02-23",
+        "comment": "Cambiada la proporción a 9:14 según especificaciones en artículos de compra"
+      }
+    ],
+    "contributors": [
+      "Kacnepcku-Cp6uja",
+      "Metrónomo",
+      "Undertiago"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q44798",
+    "wikipedia": "Misiones_Province",
+    "wikidata_flag_images": [
+      "Bandera de la Provincia de Misiones.svg"
+    ]
+  },
+  "ar-p": {
+    "commons_title": "Bandera de la Provincia de Formosa.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Bandera_de_la_Provincia_de_Formosa.svg",
+    "revision": {
+      "sha1": "f98d6e0fecd0941a4c5360707db4f58210732609",
+      "timestamp": "2007-10-04T14:31:55Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Bandera_de_la_Provincia_de_Formosa.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 550,
+      "height": 300,
+      "uploader": "Guilherme Paula"
+    },
+    "license": "CC BY 4.0",
+    "license_kind": "attribution",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "license_tags": [
+      "CC-BY-4.0"
+    ],
+    "license_options": [
+      "CC BY 4.0"
+    ],
+    "license_conditions": [],
+    "own_license": "CC BY 4.0",
+    "own_license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "own_kind": "attribution",
+    "author": "Honorable Convención Constituyente de Formosa (Vector graphics by Guilherme Paula)",
+    "versions": [
+      {
+        "user": "Guilherme Paula",
+        "date": "2007-10-03",
+        "comment": "== Summary =="
+      },
+      {
+        "user": "Guilherme Paula",
+        "date": "2007-10-04",
+        "comment": "Fixing green collor."
+      },
+      {
+        "user": "Guilherme Paula",
+        "date": "2007-10-04",
+        "comment": "Clean up the code..."
+      }
+    ],
+    "contributors": [],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": true,
+    "wikidata": "Q44761",
+    "wikipedia": "Formosa_Province",
+    "wikidata_flag_images": [
+      "Bandera de la Provincia de Formosa.svg"
+    ]
+  },
+  "ar-q": {
+    "commons_title": "Bandera de la Provincia del Neuquen.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Bandera_de_la_Provincia_del_Neuquen.svg",
+    "revision": {
+      "sha1": "5983e594ee26e7f78d997d33889e7322ca25cf8e",
+      "timestamp": "2025-04-07T06:33:13Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Bandera_de_la_Provincia_del_Neuquen.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 5783,
+      "height": 3515,
+      "uploader": "RapiarteBanderas"
+    },
+    "license": "CC BY 4.0",
+    "license_kind": "attribution",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "license_tags": [
+      "CC-BY-4.0"
+    ],
+    "license_options": [
+      "CC BY 4.0"
+    ],
+    "license_conditions": [],
+    "own_license": "CC BY 4.0",
+    "own_license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "own_kind": "attribution",
+    "author": "Aldo Mástice (Vector graphics image by Lu1g1-ktupq)",
+    "versions": [
+      {
+        "user": "Lu1g1-ktupq",
+        "date": "2009-02-05",
+        "comment": "{{Information"
+      },
+      {
+        "user": "RapiarteBanderas",
+        "date": "2021-02-25",
+        "comment": "Uploaded a work by Mario Aldo Mástice from RapiarteBanderas with UploadWizard"
+      }
+    ],
+    "contributors": [
+      "RapiarteBanderas"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [
+      {
+        "title": "Flag of Neuquen province in Argentina.gif",
+        "page": "https://commons.wikimedia.org/wiki/File:Flag_of_Neuquen_province_in_Argentina.gif",
+        "author": "Aldo Mástice",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "binding": true
+      }
+    ],
+    "attribution_required": true,
+    "wikidata": "Q44800",
+    "wikipedia": "Neuquén_Province",
+    "wikidata_flag_images": [
+      "Bandera de la Provincia del Neuquen.svg"
+    ]
+  },
+  "ar-r": {
+    "commons_title": "Bandera de la Provincia del Río Negro.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Bandera_de_la_Provincia_del_R%C3%ADo_Negro.svg",
+    "revision": {
+      "sha1": "0830643f9f8fd309cecc5a1e4df95c6418f5bd4f",
+      "timestamp": "2013-11-10T15:31:51Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Bandera_de_la_Provincia_del_R%C3%ADo_Negro.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 900,
+      "height": 600,
+      "uploader": "SiBr4"
+    },
+    "license": "CC BY 4.0",
+    "license_kind": "attribution",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "license_tags": [
+      "CC-BY-4.0"
+    ],
+    "license_options": [
+      "CC BY 4.0"
+    ],
+    "license_conditions": [],
+    "own_license": "CC BY 4.0",
+    "own_license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "own_kind": "attribution",
+    "author": "Daniel Cuomo (design); Hellerick (vector drawing)",
+    "versions": [
+      {
+        "user": "Hellerick",
+        "date": "2009-03-30",
+        "comment": "{{Information"
+      },
+      {
+        "user": "SiBr4",
+        "date": "2013-11-10",
+        "comment": "Code"
+      }
+    ],
+    "contributors": [
+      "SiBr4"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": true,
+    "wikidata": "Q44802",
+    "wikipedia": "Río_Negro_Province",
+    "wikidata_flag_images": [
+      "Bandera de la Provincia del Río Negro.svg"
+    ]
+  },
+  "ar-s": {
+    "commons_title": "Bandera de la Provincia de Santa Fe.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Bandera_de_la_Provincia_de_Santa_Fe.svg",
+    "revision": {
+      "sha1": "55672f8d393a4992eaa5dcc37a69a0276b34eae9",
+      "timestamp": "2022-06-14T17:19:53Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Bandera_de_la_Provincia_de_Santa_Fe.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 900,
+      "height": 450,
+      "uploader": "HapHaxion"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "Author died more than 100 years ago public domain images",
+      "CC-PD-Mark"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "Estanislao López (1786–1838) (design); Gorivero (vector drawing)",
+    "versions": [
+      {
+        "user": "Gorivero",
+        "date": "2007-12-31",
+        "comment": "{{Information"
+      },
+      {
+        "user": "Gorivero",
+        "date": "2007-12-31",
+        "comment": "== Sumario =="
+      },
+      {
+        "user": "Hurfer",
+        "date": "2022-02-13",
+        "comment": "Mejora en detalles y colores."
+      },
+      {
+        "user": "HapHaxion",
+        "date": "2022-06-14",
+        "comment": "file size reduction"
+      }
+    ],
+    "contributors": [
+      "Hurfer",
+      "HapHaxion"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q44823",
+    "wikipedia": "Santa_Fe_Province",
+    "wikidata_flag_images": [
+      "Bandera de la Provincia de Santa Fe.svg"
+    ]
+  },
+  "ar-t": {
+    "commons_title": "Bandera de la Provincia de Tucumán.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Bandera_de_la_Provincia_de_Tucum%C3%A1n.svg",
+    "revision": {
+      "sha1": "096b5eb05ebfc2d459b98e144143fee310c149e2",
+      "timestamp": "2023-02-12T22:12:10Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Bandera_de_la_Provincia_de_Tucum%C3%A1n.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 900,
+      "height": 600,
+      "uploader": "Hurfer"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD ineligible"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "Manuel Belgrano",
+    "versions": [
+      {
+        "user": "Acha1993",
+        "date": "2010-04-19",
+        "comment": "{{Information"
+      },
+      {
+        "user": "SiBr4",
+        "date": "2014-02-28",
+        "comment": "Code; dimensions"
+      },
+      {
+        "user": "Hurfer",
+        "date": "2021-09-26",
+        "comment": "Proporciones correctas"
+      },
+      {
+        "user": "SagoShader",
+        "date": "2022-04-10",
+        "comment": "Fixes a file flag"
+      },
+      {
+        "user": "Hurfer",
+        "date": "2023-02-12",
+        "comment": "Tamaño reducido."
+      }
+    ],
+    "contributors": [
+      "Acha1993",
+      "SiBr4",
+      "Hurfer",
+      "SagoShader"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q44829",
+    "wikipedia": "Tucumán_Province",
+    "wikidata_flag_images": [
+      "Bandera de la Provincia de Tucumán.svg"
+    ]
+  },
+  "ar-u": {
+    "commons_title": "Bandera de la Provincia del Chubut.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Bandera_de_la_Provincia_del_Chubut.svg",
+    "revision": {
+      "sha1": "0687680a6c9cf35814191409b50799fba728d79f",
+      "timestamp": "2014-01-25T18:38:01Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Bandera_de_la_Provincia_del_Chubut.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 1200,
+      "height": 600,
+      "uploader": "SiBr4"
+    },
+    "license": "CC BY 4.0",
+    "license_kind": "attribution",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "license_tags": [
+      "CC-BY-4.0"
+    ],
+    "license_options": [
+      "CC BY 4.0"
+    ],
+    "license_conditions": [],
+    "own_license": "CC BY 4.0",
+    "own_license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "own_kind": "attribution",
+    "author": "Roxana Vanesa Jones",
+    "versions": [
+      {
+        "user": "ALE!",
+        "date": "2005-12-03",
+        "comment": "Flag of Chubut province in [[Argentina]]"
+      },
+      {
+        "user": "ALE!",
+        "date": "2005-12-03",
+        "comment": "slightly better vectorization"
+      },
+      {
+        "user": "SiBr4",
+        "date": "2014-01-25",
+        "comment": "Redraw using the image at the official site of the province (http://www.chubut.gov.ar/portal/banderadelchubut/)"
+      }
+    ],
+    "contributors": [
+      "ALE!",
+      "SiBr4"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": true,
+    "wikidata": "Q45007",
+    "wikipedia": "Chubut_Province",
+    "wikidata_flag_images": [
+      "Bandera de la Provincia del Chubut.svg"
+    ]
+  },
+  "ar-v": {
+    "commons_title": "Bandera de la Provincia de Tierra del Fuego.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Bandera_de_la_Provincia_de_Tierra_del_Fuego.svg",
+    "revision": {
+      "sha1": "3cb0b48640c53487de9e063f75bd5455a294a3c0",
+      "timestamp": "2023-04-18T07:54:13Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Bandera_de_la_Provincia_de_Tierra_del_Fuego.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 900,
+      "height": 600,
+      "uploader": "Foxelbeton"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD flag",
+      "PD ineligible"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "Teresa Beatriz Martínez (Vector graphics image by Urmas)",
+    "versions": [
+      {
+        "user": "Urmas",
+        "date": "2006-08-22",
+        "comment": "Source: http://www.angelfire.com/realm/jolle/argentina/tfuego.htm"
+      },
+      {
+        "user": "Alkari",
+        "date": "2011-09-22",
+        "comment": "code cleanup"
+      },
+      {
+        "user": "Foxelbeton",
+        "date": "2023-04-18",
+        "comment": "Fixed the ratio of the flag to 2:3, as your one was 2.025:3. Rounded some position of the points, and made clones of stars. Grouped everything together."
+      }
+    ],
+    "contributors": [
+      "Alkari",
+      "Foxelbeton"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q44832",
+    "wikipedia": "Tierra_del_Fuego_Province,_Argentina",
+    "wikidata_flag_images": [
+      "Bandera de la Provincia de Tierra del Fuego.svg"
+    ]
+  },
+  "ar-w": {
+    "commons_title": "Bandera de la Provincia de Corrientes.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Bandera_de_la_Provincia_de_Corrientes.svg",
+    "revision": {
+      "sha1": "4eb9e409e5c6db321cdc6482ddd638a333a1bafa",
+      "timestamp": "2022-06-30T05:36:59Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Bandera_de_la_Provincia_de_Corrientes.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 900,
+      "height": 600,
+      "uploader": "Hurfer"
+    },
+    "license": "CC BY 4.0",
+    "license_kind": "attribution",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "license_tags": [
+      "CC-BY-4.0",
+      "PD US expired",
+      "PD-AR-Anonymous"
+    ],
+    "license_options": [
+      "CC BY 4.0"
+    ],
+    "license_conditions": [],
+    "own_license": "CC BY 4.0",
+    "own_license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "own_kind": "attribution",
+    "author": "Constituent Congress of Corrientes (Vector graphics image by Gorivero, Guilherme Paula)",
+    "versions": [
+      {
+        "user": "Gorivero",
+        "date": "2007-12-30",
+        "comment": "{{Information"
+      },
+      {
+        "user": "Gorivero",
+        "date": "2007-12-31",
+        "comment": "{{Information"
+      },
+      {
+        "user": "Guilherme Paula",
+        "date": "2009-04-26",
+        "comment": "Improving the image"
+      },
+      {
+        "user": "Guilherme Paula",
+        "date": "2009-04-26",
+        "comment": "blue collor following the argentine flag"
+      },
+      {
+        "user": "HapHaxion",
+        "date": "2022-06-14",
+        "comment": "file size reduction"
+      },
+      {
+        "user": "HapHaxion",
+        "date": "2022-06-14",
+        "comment": "attempted fix"
+      },
+      {
+        "user": "Hurfer",
+        "date": "2022-06-30",
+        "comment": "Diseño correcto de la bandera."
+      }
+    ],
+    "contributors": [
+      "HapHaxion",
+      "Hurfer"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": true,
+    "wikidata": "Q44758",
+    "wikipedia": "Corrientes_Province",
+    "wikidata_flag_images": [
+      "Bandera de la Provincia de Corrientes.svg"
+    ]
+  },
+  "ar-x": {
+    "commons_title": "Bandera de la Provincia de Córdoba 2014.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Bandera_de_la_Provincia_de_C%C3%B3rdoba_2014.svg",
+    "revision": {
+      "sha1": "52f1b5b411a5e3102031bc900c9d11c4229055c4",
+      "timestamp": "2022-06-14T17:21:25Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Bandera_de_la_Provincia_de_C%C3%B3rdoba_2014.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 900,
+      "height": 600,
+      "uploader": "HapHaxion"
+    },
+    "license": "CC BY 4.0",
+    "license_kind": "attribution",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "license_tags": [
+      "CC-BY-4.0"
+    ],
+    "license_options": [
+      "CC BY 4.0"
+    ],
+    "license_conditions": [],
+    "own_license": "CC BY 4.0",
+    "own_license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "own_kind": "attribution",
+    "author": "Cristian Baquero Lazcano",
+    "versions": [
+      {
+        "user": "RapiarteBanderas",
+        "date": "2021-02-25",
+        "comment": "Cross-wiki upload from commons.wikimedia.org"
+      },
+      {
+        "user": "RapiarteBanderas",
+        "date": "2021-02-25",
+        "comment": "la parte blanca salía transparente"
+      },
+      {
+        "user": "Hurfer",
+        "date": "2021-09-25",
+        "comment": "Proporción correcta y colores exactos según la ley."
+      },
+      {
+        "user": "Hurfer",
+        "date": "2022-03-10",
+        "comment": "Sol con mejores detalles."
+      },
+      {
+        "user": "HapHaxion",
+        "date": "2022-06-14",
+        "comment": "file size reduction"
+      }
+    ],
+    "contributors": [
+      "RapiarteBanderas",
+      "Hurfer",
+      "HapHaxion"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": true,
+    "wikidata": "Q44759",
+    "wikipedia": "Córdoba_Province,_Argentina",
+    "wikidata_flag_images": [
+      "Bandera de la Provincia de Córdoba 2014.svg"
+    ]
+  },
+  "ar-y": {
+    "commons_title": "Bandera de la Provincia de Jujuy.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Bandera_de_la_Provincia_de_Jujuy.svg",
+    "revision": {
+      "sha1": "3d7b5b954a66f92622fb005faeb80842094b77c2",
+      "timestamp": "2025-09-04T17:04:59Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Bandera_de_la_Provincia_de_Jujuy.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 711,
+      "height": 804,
+      "uploader": "Hstoops"
+    },
+    "license": "CC0",
+    "license_kind": "public domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "license_tags": [
+      "CC-Zero"
+    ],
+    "license_options": [
+      "CC0"
+    ],
+    "license_conditions": [],
+    "own_license": "CC0",
+    "own_license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "own_kind": "release",
+    "author": "Hstoops",
+    "versions": [
+      {
+        "user": "Cronholm144",
+        "date": "2007-08-12",
+        "comment": "made svg"
+      },
+      {
+        "user": "HapHaxion",
+        "date": "2022-06-14",
+        "comment": "ratio must be either 1:1 or 3 height:2 width"
+      },
+      {
+        "user": "Lasunncty",
+        "date": "2022-09-30",
+        "comment": "fix rendering errors"
+      },
+      {
+        "user": "Hstoops",
+        "date": "2025-08-12",
+        "comment": "Uploaded own work with UploadWizard"
+      }
+    ],
+    "contributors": [
+      "Cronholm144",
+      "HapHaxion",
+      "Lasunncty"
+    ],
+    "releaser": "Hstoops",
+    "release_not_used": null,
+    "later_versions": "Hstoops' 2025 upload is a new drawing (\"Uploaded own work\"), not an edit of the earlier uploads by Cronholm144, HapHaxion and Lasunncty, which it replaced.",
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q44764",
+    "wikipedia": "Jujuy_Province",
+    "wikidata_flag_images": [
+      "Flag of the Civil Freedom of Argentina (unofficial improved version).svg"
+    ]
+  },
+  "ar-z": {
+    "commons_title": "Bandera de la Provincia de Santa Cruz.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Bandera_de_la_Provincia_de_Santa_Cruz.svg",
+    "revision": {
+      "sha1": "357f3177fe74f64fd9a8c2c56ad599492f39f01b",
+      "timestamp": "2009-07-11T02:59:54Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Bandera_de_la_Provincia_de_Santa_Cruz.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 765,
+      "height": 504,
+      "uploader": "Dexxter"
+    },
+    "license": "CC BY 4.0",
+    "license_kind": "attribution",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "license_tags": [
+      "CC-BY-4.0"
+    ],
+    "license_options": [
+      "CC BY 4.0"
+    ],
+    "license_conditions": [],
+    "own_license": "CC BY 4.0",
+    "own_license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "own_kind": "attribution",
+    "author": "Unknown (Vector graphics image by Gorivero)",
+    "versions": [
+      {
+        "user": "Gorivero",
+        "date": "2007-12-31",
+        "comment": "{{Information"
+      },
+      {
+        "user": "Dexxter",
+        "date": "2009-07-11",
+        "comment": "fixings"
+      }
+    ],
+    "contributors": [
+      "Dexxter"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": true,
+    "wikidata": "Q44821",
+    "wikipedia": "Santa_Cruz_Province,_Argentina",
+    "wikidata_flag_images": [
+      "Bandera de la Provincia de Santa Cruz.svg"
+    ]
+  },
   "br-ac": {
     "commons_title": "Bandeira do Acre.svg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Bandeira_do_Acre.svg",
