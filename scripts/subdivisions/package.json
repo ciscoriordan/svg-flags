@@ -1,0 +1,8 @@
+{
+  "name": "svg-flags-subdivisions",
+  "private": true,
+  "description": "Pinned SVG optimizer used by the subdivision flag pipeline",
+  "devDependencies": {
+    "svgo": "4.1.0"
+  }
+}

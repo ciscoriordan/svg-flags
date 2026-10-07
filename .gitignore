@@ -5,3 +5,10 @@ CLAUDE.md
 .build/
 .swiftpm/
 Package.resolved
+
+# Subdivision flag pipeline (scripts/subdivisions): downloaded Commons
+# sources, review renders, and local tooling
+.cache/
+node_modules/
+.venv/
+__pycache__/
