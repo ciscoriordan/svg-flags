@@ -1,4 +1,1881 @@
 {
+  "br-ac": {
+    "commons_title": "Bandeira do Acre.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Bandeira_do_Acre.svg",
+    "revision": {
+      "sha1": "93a834dfb4a5719694d0347dede9eb4dc8cbdbef",
+      "timestamp": "2022-09-06T16:45:53Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Bandeira_do_Acre.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 500,
+      "height": 350,
+      "uploader": "HapHaxion"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD Brazil Government",
+      "PD-user"
+    ],
+    "license_options": [
+      "Public domain"
+    ],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "release",
+    "author": "E2m",
+    "versions": [
+      {
+        "user": "E2m",
+        "date": "2006-02-14",
+        "comment": "Bandeira do [[Acre]]."
+      },
+      {
+        "user": "Huhsunqu",
+        "date": "2006-11-06",
+        "comment": ""
+      },
+      {
+        "user": "Giro720",
+        "date": "2011-01-05",
+        "comment": "Arquivo otimizado e corrigido:"
+      },
+      {
+        "user": "Magasjukur2",
+        "date": "2012-03-31",
+        "comment": "Still to complicated code. Simplified further."
+      },
+      {
+        "user": "HapHaxion",
+        "date": "2022-09-06",
+        "comment": "adjust colours per http://acre.gov.br/wp-content/uploads/2019/02/MANUAL-LOGO-ACRE.pdf // Editing SVG source code using [[c:User:Rillke/SVGedit.js]]"
+      }
+    ],
+    "contributors": [
+      "Huhsunqu",
+      "Giro720",
+      "Magasjukur2",
+      "HapHaxion"
+    ],
+    "releaser": "E2m",
+    "release_not_used": null,
+    "later_versions": "Giro720 (2011) and Magasjukur2 (2012) rewrote the code, HapHaxion matched the colors to the state's identity manual (2022), and Huhsunqu's 2006 upload has no comment. The flag is a plain geometric design.",
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q40780",
+    "wikipedia": "Acre_(state)",
+    "wikidata_flag_images": [
+      "Bandeira do Acre.svg"
+    ]
+  },
+  "br-al": {
+    "commons_title": "Bandeira de Alagoas.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Bandeira_de_Alagoas.svg",
+    "revision": {
+      "sha1": "dcdc3aa25d05d63f0db1b25a531f9d6dac54ce47",
+      "timestamp": "2007-09-28T16:36:08Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Bandeira_de_Alagoas.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 600,
+      "height": 400,
+      "uploader": "Guilherme Paula"
+    },
+    "license": "CC BY 2.5",
+    "license_kind": "attribution",
+    "license_url": "https://creativecommons.org/licenses/by/2.5/",
+    "license_tags": [
+      "CC-BY-2.5",
+      "PD Brazil Government"
+    ],
+    "license_options": [
+      "CC BY 2.5"
+    ],
+    "license_conditions": [],
+    "own_license": "CC BY 2.5",
+    "own_license_url": "https://creativecommons.org/licenses/by/2.5/",
+    "own_kind": "attribution",
+    "author": "Giro720",
+    "versions": [
+      {
+        "user": "Giro720",
+        "date": "2007-07-31",
+        "comment": "{{Information"
+      },
+      {
+        "user": "Guilherme Paula",
+        "date": "2007-09-28",
+        "comment": ""
+      }
+    ],
+    "contributors": [
+      "Guilherme Paula"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [
+      {
+        "title": "AlagoasFlag.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:AlagoasFlag.jpg",
+        "author": null,
+        "license": "file not found",
+        "license_url": null,
+        "binding": false
+      }
+    ],
+    "attribution_required": true,
+    "wikidata": "Q40885",
+    "wikipedia": "Alagoas",
+    "wikidata_flag_images": [
+      "Bandeira de Alagoas.svg"
+    ]
+  },
+  "br-am": {
+    "commons_title": "Bandeira do Amazonas.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Bandeira_do_Amazonas.svg",
+    "revision": {
+      "sha1": "1c56cd6835424e5c7fdfdd4e552062033e999f52",
+      "timestamp": "2026-07-28T05:56:33Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Bandeira_do_Amazonas.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 700,
+      "height": 500,
+      "uploader": "Hlticgh"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD Brazil Government"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "Government of Amazonas",
+    "versions": [
+      {
+        "user": "E2m",
+        "date": "2006-02-14",
+        "comment": "Bandeira do [[Amazonas]]."
+      },
+      {
+        "user": "Giro720",
+        "date": "2011-01-09",
+        "comment": "Cleaned svg"
+      },
+      {
+        "user": "OAlexander~commonswiki",
+        "date": "2011-08-11",
+        "comment": "Current version of the flag of Amazonas (http://www.amazonas.am.gov.br/pg-amazonas.php?cod=134). Technically a somewhat crude construction for now, but I suppos"
+      },
+      {
+        "user": "OAlexander~commonswiki",
+        "date": "2011-08-11",
+        "comment": "Interestinly, the government website of Amazonas carries a flag phased out decades ago. So revert to previous model, but optimized and enhanced version"
+      },
+      {
+        "user": "Mike Rohsopht",
+        "date": "2022-01-07",
+        "comment": "optimized"
+      },
+      {
+        "user": "Chronus",
+        "date": "2026-07-27",
+        "comment": "new"
+      },
+      {
+        "user": "DanielPietroWiki2022",
+        "date": "2026-07-27",
+        "comment": "fixed to look less pixelated and reduced size"
+      },
+      {
+        "user": "Hlticgh",
+        "date": "2026-07-28",
+        "comment": "Stars centered, file size reduced and changed to 700x500 px"
+      },
+      {
+        "user": "Hlticgh",
+        "date": "2026-07-28",
+        "comment": "Fix"
+      }
+    ],
+    "contributors": [
+      "E2m",
+      "Giro720",
+      "OAlexander~commonswiki",
+      "Mike Rohsopht",
+      "Chronus",
+      "DanielPietroWiki2022",
+      "Hlticgh"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q40040",
+    "wikipedia": "Amazonas_(Brazilian_state)",
+    "wikidata_flag_images": [
+      "Bandeira do Amazonas.svg"
+    ]
+  },
+  "br-ap": {
+    "commons_title": "Bandeira do Amapá.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Bandeira_do_Amap%C3%A1.svg",
+    "revision": {
+      "sha1": "f1ae0e37700f4346b59e63b0e9c2233b01b3c6b0",
+      "timestamp": "2022-06-23T14:09:33Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Bandeira_do_Amap%C3%A1.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 1000,
+      "height": 700,
+      "uploader": "HapHaxion"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD Brazil Government",
+      "PD-user"
+    ],
+    "license_options": [
+      "Public domain"
+    ],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "release",
+    "author": "E2m",
+    "versions": [
+      {
+        "user": "E2m",
+        "date": "2006-02-13",
+        "comment": "Bandeira do [[Amapá]]."
+      },
+      {
+        "user": "Huhsunqu",
+        "date": "2006-11-06",
+        "comment": ""
+      },
+      {
+        "user": "HapHaxion",
+        "date": "2022-06-23",
+        "comment": "reduce file size"
+      }
+    ],
+    "contributors": [
+      "Huhsunqu",
+      "HapHaxion"
+    ],
+    "releaser": "E2m",
+    "release_not_used": null,
+    "later_versions": "Huhsunqu's 2006 upload has no comment, and HapHaxion only reduced the file size (2022).",
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q40130",
+    "wikipedia": "Amapá",
+    "wikidata_flag_images": [
+      "Bandeira do Amapá.svg"
+    ]
+  },
+  "br-ba": {
+    "commons_title": "Bandeira da Bahia.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Bandeira_da_Bahia.svg",
+    "revision": {
+      "sha1": "61b5c0d68cac22a08ac51b017ac5fe0b5f38848d",
+      "timestamp": "2023-05-10T14:36:58Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Bandeira_da_Bahia.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 1500,
+      "height": 1000,
+      "uploader": "HapHaxion"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD Brazil Government",
+      "PD ineligible"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "Diocleciano Ramos",
+    "versions": [
+      {
+        "user": "EugeneZelenko",
+        "date": "2005-09-26",
+        "comment": "Made fron SVG source on [[:Image:Bandeira da Bahia.png|PNG version]] page."
+      },
+      {
+        "user": "Giro720",
+        "date": "2011-01-05",
+        "comment": "cleaner SVG"
+      },
+      {
+        "user": "Giro720",
+        "date": "2011-08-15",
+        "comment": "setting 2:3 proportion"
+      },
+      {
+        "user": "Mike Rohsopht",
+        "date": "2022-01-07",
+        "comment": "to eliminate any possibility of colour bleed"
+      },
+      {
+        "user": "HapHaxion",
+        "date": "2022-09-06",
+        "comment": "colours per https://cupdf.com/document/manual-da-marca-manual-de-identidade-visual-governo-da-bahia-a-marca-associa.html"
+      }
+    ],
+    "contributors": [
+      "EugeneZelenko",
+      "Giro720",
+      "Mike Rohsopht",
+      "HapHaxion"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [
+      {
+        "title": "Bandeira da Bahia.png",
+        "page": "https://commons.wikimedia.org/wiki/File:Bandeira_da_Bahia.png",
+        "author": "Luan",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "binding": false
+      }
+    ],
+    "attribution_required": false,
+    "wikidata": "Q40430",
+    "wikipedia": "Bahia",
+    "wikidata_flag_images": [
+      "Bandeira da Bahia.svg"
+    ]
+  },
+  "br-ce": {
+    "commons_title": "Bandeira do Ceará.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Bandeira_do_Cear%C3%A1.svg",
+    "revision": {
+      "sha1": "c3f0eaf4acdcbeea6aeb2321e9cdb94d6d9b7bd1",
+      "timestamp": "2022-06-23T14:13:03Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Bandeira_do_Cear%C3%A1.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 720,
+      "height": 504,
+      "uploader": "HapHaxion"
+    },
+    "license": "CC BY 2.5",
+    "license_kind": "attribution",
+    "license_url": "https://creativecommons.org/licenses/by/2.5/",
+    "license_tags": [
+      "CC-BY-2.5",
+      "PD Brazil Government"
+    ],
+    "license_options": [
+      "CC BY 2.5"
+    ],
+    "license_conditions": [],
+    "own_license": "CC BY 2.5",
+    "own_license_url": "https://creativecommons.org/licenses/by/2.5/",
+    "own_kind": "attribution",
+    "author": "Srfortes",
+    "versions": [
+      {
+        "user": "Srfortes",
+        "date": "2007-02-22",
+        "comment": "{{Information|"
+      },
+      {
+        "user": "Srfortes",
+        "date": "2008-01-08",
+        "comment": ""
+      },
+      {
+        "user": "Guilherme Paula",
+        "date": "2008-06-21",
+        "comment": ""
+      },
+      {
+        "user": "Marquinhos",
+        "date": "2012-07-10",
+        "comment": "[[s:Lei estadual do Ceará 13878 de 2007|Lei nº 13878 de 23 de fevereiro de 2007]]"
+      },
+      {
+        "user": "Marquinhos",
+        "date": "2012-10-21",
+        "comment": "Reajustando a escala do brasão que havia colocado antes."
+      },
+      {
+        "user": "Giro720",
+        "date": "2021-02-19",
+        "comment": "smaller, simpler and +human readable code; using solid colors for the coat of arms // Editing SVG source code using [[c:User:Rillke/SVGedit.js]]"
+      },
+      {
+        "user": "HapHaxion",
+        "date": "2022-06-23",
+        "comment": "file size reduce"
+      }
+    ],
+    "contributors": [
+      "Guilherme Paula",
+      "Marquinhos",
+      "Giro720",
+      "HapHaxion"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [
+      {
+        "title": "Brasão do Ceará (cores sólidas).svg",
+        "page": "https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_Cear%C3%A1_(cores_s%C3%B3lidas).svg",
+        "author": "Governo do Ceará (design); Giro720 (vector drawing)",
+        "license": "Public domain",
+        "license_url": null,
+        "binding": false
+      }
+    ],
+    "attribution_required": true,
+    "wikidata": "Q40123",
+    "wikipedia": "Ceará",
+    "wikidata_flag_images": [
+      "Bandeira do Ceará.svg"
+    ]
+  },
+  "br-df": {
+    "commons_title": "Bandeira do Distrito Federal (Brasil).svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Bandeira_do_Distrito_Federal_(Brasil).svg",
+    "revision": {
+      "sha1": "dd66f1bad4dfb5426308f0982d7cd71637a55efe",
+      "timestamp": "2025-11-01T05:19:54Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Bandeira_do_Distrito_Federal_%28Brasil%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 1454,
+      "height": 1050,
+      "uploader": "Zscout370"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD Brazil Government"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "Governo do Distrito Federal; Decreto 1090 de 25/08/1969 Sem Revogação Expressa",
+    "versions": [
+      {
+        "user": "E2m",
+        "date": "2006-02-14",
+        "comment": "Bandeira do [[Distrito Federal]]."
+      },
+      {
+        "user": "Marquinhos",
+        "date": "2012-05-03",
+        "comment": "setting 7:10 proportion"
+      },
+      {
+        "user": "Metrónomo",
+        "date": "2016-10-15",
+        "comment": "Minimized"
+      },
+      {
+        "user": "Zscout370",
+        "date": "2025-08-07",
+        "comment": "The specifications of the city flag can be found at https://www.sinj.df.gov.br/sinj/Diario/97b57569-dff4-35b9-878b-80769812c242/00fcaf81.pdf while the colors co"
+      }
+    ],
+    "contributors": [
+      "E2m",
+      "Marquinhos",
+      "Metrónomo",
+      "Zscout370"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q119158",
+    "wikipedia": "Federal_District_(Brazil)",
+    "wikidata_flag_images": [
+      "Bandeira do Distrito Federal (Brasil).svg"
+    ]
+  },
+  "br-es": {
+    "commons_title": "Bandeira do Espírito Santo.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Bandeira_do_Esp%C3%ADrito_Santo.svg",
+    "revision": {
+      "sha1": "73cf8a674d9953136859bf6b654bbde0633b35aa",
+      "timestamp": "2022-05-04T01:12:50Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Bandeira_do_Esp%C3%ADrito_Santo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 2000,
+      "height": 1400,
+      "uploader": "HapHaxion"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD Brazil Government"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "SVG implementation by E2m",
+    "versions": [
+      {
+        "user": "E2m",
+        "date": "2006-02-14",
+        "comment": "Bandeira do [[Espírito Santo]]. "
+      },
+      {
+        "user": "E2m",
+        "date": "2006-02-14",
+        "comment": ""
+      },
+      {
+        "user": "Denelson83",
+        "date": "2006-02-14",
+        "comment": "Attempting to add motto"
+      },
+      {
+        "user": "Giro720",
+        "date": "2011-08-14",
+        "comment": "code clean up; fixing proportion (this flag must be 7:10 as [[:File:Flag of Brazil.svg]])"
+      },
+      {
+        "user": "Zscout370",
+        "date": "2013-04-17",
+        "comment": "Since people cannot agree, http://commons.wikimedia.org/wiki/File:Bandeira_do_Esp%C3%ADrito_Santo_%28light_blue%29.svg"
+      },
+      {
+        "user": "LucFreitas",
+        "date": "2019-02-19",
+        "comment": "De acordo com as cores oficiais como vistos em: https://secult.es.gov.br/Media/secult/2018/FUNCULTURA_BRAS%C3%83O_NOVO.pdf e http://antigo.es.gov.br/Governo/pag"
+      },
+      {
+        "user": "HapHaxion",
+        "date": "2022-05-04",
+        "comment": "adjustments per Decree 16453 of 16 June 1947"
+      }
+    ],
+    "contributors": [
+      "Denelson83",
+      "Giro720",
+      "Zscout370",
+      "LucFreitas",
+      "HapHaxion"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q43233",
+    "wikipedia": "Espírito_Santo",
+    "wikidata_flag_images": [
+      "Bandeira do Espírito Santo.svg"
+    ]
+  },
+  "br-go": {
+    "commons_title": "Flag of Goiás.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Goi%C3%A1s.svg",
+    "revision": {
+      "sha1": "35a6a461b0f5a5b06e8af2c960f57624fc077da1",
+      "timestamp": "2022-09-06T17:24:55Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Flag_of_Goi%C3%A1s.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 560,
+      "height": 392,
+      "uploader": "HapHaxion"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD Brazil Government",
+      "PD-user"
+    ],
+    "license_options": [
+      "Public domain"
+    ],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "release",
+    "author": "E2m",
+    "versions": [
+      {
+        "user": "E2m",
+        "date": "2006-02-14",
+        "comment": "Bandeira de [[Goiás]]."
+      },
+      {
+        "user": "Huhsunqu",
+        "date": "2006-11-06",
+        "comment": ""
+      },
+      {
+        "user": "Marquinhos",
+        "date": "2012-05-03",
+        "comment": "setting 7:10 proportion"
+      },
+      {
+        "user": "HapHaxion",
+        "date": "2022-06-23",
+        "comment": "file size reduce"
+      },
+      {
+        "user": "HapHaxion",
+        "date": "2022-09-06",
+        "comment": "adjust colours per https://www.comunicacao.go.gov.br/files/MANUAL2019.pdf"
+      }
+    ],
+    "contributors": [
+      "Huhsunqu",
+      "Marquinhos",
+      "HapHaxion"
+    ],
+    "releaser": "E2m",
+    "release_not_used": null,
+    "later_versions": "Huhsunqu's 2006 upload has no comment; Marquinhos set the 7:10 proportion (2012), and HapHaxion reduced the file size and matched the colors to the state's manual (2022).",
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q41587",
+    "wikipedia": "Goiás",
+    "wikidata_flag_images": [
+      "Flag of Goiás.svg"
+    ]
+  },
+  "br-ma": {
+    "commons_title": "Bandeira do Maranhão.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Bandeira_do_Maranh%C3%A3o.svg",
+    "revision": {
+      "sha1": "868fdd593bd64e5dde3524a64a8e31159fd98e57",
+      "timestamp": "2022-05-04T02:02:12Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Bandeira_do_Maranh%C3%A3o.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 1350,
+      "height": 900,
+      "uploader": "HapHaxion"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD-self"
+    ],
+    "license_options": [
+      "Public domain"
+    ],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "release",
+    "author": "E2m",
+    "versions": [
+      {
+        "user": "E2m",
+        "date": "2006-02-14",
+        "comment": "Bandeira do [[Maranhão]]."
+      },
+      {
+        "user": "Giro720",
+        "date": "2011-02-01",
+        "comment": "Clean up SVG"
+      },
+      {
+        "user": "HapHaxion",
+        "date": "2022-05-04",
+        "comment": "color intensity adjustments"
+      }
+    ],
+    "contributors": [
+      "Giro720",
+      "HapHaxion"
+    ],
+    "releaser": "E2m",
+    "release_not_used": null,
+    "later_versions": "Giro720 cleaned up the code (2011) and HapHaxion adjusted the color intensity (2022).",
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q42362",
+    "wikipedia": "Maranhão",
+    "wikidata_flag_images": [
+      "Bandeira do Maranhão.svg"
+    ]
+  },
+  "br-mg": {
+    "commons_title": "Bandeira de Minas Gerais.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Bandeira_de_Minas_Gerais.svg",
+    "revision": {
+      "sha1": "800a2472eae056e455bd2462744abe85d54bbb24",
+      "timestamp": "2024-07-30T05:34:30Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Bandeira_de_Minas_Gerais.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 600,
+      "height": 420,
+      "uploader": "HapHaxion"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD Brazil Government"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "Plovisanta",
+    "versions": [
+      {
+        "user": "E2m",
+        "date": "2006-02-14",
+        "comment": "Bandeira de [[Minas Gerais]]."
+      },
+      {
+        "user": "Maislucinha",
+        "date": "2010-01-31",
+        "comment": "Bandeira de Minas Gerais"
+      },
+      {
+        "user": "Maislucinha",
+        "date": "2010-10-10",
+        "comment": "Correction of proportions and type."
+      },
+      {
+        "user": "OAlexander~commonswiki",
+        "date": "2011-08-08",
+        "comment": "Cleaned-up code, minor corrections and enhancements, more manageable nominal size. TO DO: lettering should be in a serif font."
+      },
+      {
+        "user": "Maislucinha",
+        "date": "2022-06-09",
+        "comment": "Drawing according to Lei estadual de Minas Gerais 2793 de 1963"
+      },
+      {
+        "user": "HapHaxion",
+        "date": "2022-06-23",
+        "comment": "file size reduction"
+      }
+    ],
+    "contributors": [
+      "E2m",
+      "Maislucinha",
+      "OAlexander~commonswiki",
+      "HapHaxion"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q39109",
+    "wikipedia": "Minas_Gerais",
+    "wikidata_flag_images": [
+      "Bandeira de Minas Gerais.svg"
+    ]
+  },
+  "br-ms": {
+    "commons_title": "Bandeira de Mato Grosso do Sul.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Bandeira_de_Mato_Grosso_do_Sul.svg",
+    "revision": {
+      "sha1": "46b127c756d8963e4d981da07eebb8cba164d498",
+      "timestamp": "2022-09-06T18:18:41Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Bandeira_de_Mato_Grosso_do_Sul.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 1000,
+      "height": 700,
+      "uploader": "HapHaxion"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD Brazil Government",
+      "PD-user"
+    ],
+    "license_options": [
+      "Public domain"
+    ],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "release",
+    "author": "E2m",
+    "versions": [
+      {
+        "user": "EugeneZelenko",
+        "date": "2005-09-26",
+        "comment": "Made from SVG source located on [[:Image:Bandeira de Mato Grosso do Sul.png|PNG version]] page."
+      },
+      {
+        "user": "Dbenbenn",
+        "date": "2005-10-09",
+        "comment": "\"scale up\" by 100, to avoid MediaWiki bug (MediaWiki won't automatically scale SVG up)"
+      },
+      {
+        "user": "E2m",
+        "date": "2006-02-14",
+        "comment": "Pequenas correções."
+      },
+      {
+        "user": "PatríciaR",
+        "date": "2009-01-25",
+        "comment": "correcting colours (lighter blue and yellow), according to request on http://commons.wikimedia.org/w/index.php?title=User_talk:Patr%C3%ADciaR&oldid=17924190#Ban"
+      },
+      {
+        "user": "Giro720",
+        "date": "2011-01-05",
+        "comment": "cleaned svg"
+      },
+      {
+        "user": "HapHaxion",
+        "date": "2022-09-06",
+        "comment": "reduce file size"
+      }
+    ],
+    "contributors": [
+      "EugeneZelenko",
+      "Dbenbenn",
+      "PatríciaR",
+      "Giro720",
+      "HapHaxion"
+    ],
+    "releaser": "E2m",
+    "release_not_used": null,
+    "later_versions": "PatríciaR corrected the colors (2009), Giro720 cleaned up the code (2011) and HapHaxion reduced the file size (2022). Dbenbenn only scaled EugeneZelenko's first upload (2005), which E2m's 2006 version replaced.",
+    "derived_from": [
+      {
+        "title": "Bandeira de Mato Grosso do Sul.png",
+        "page": "https://commons.wikimedia.org/wiki/File:Bandeira_de_Mato_Grosso_do_Sul.png",
+        "author": null,
+        "license": "file not found",
+        "license_url": null,
+        "binding": false
+      }
+    ],
+    "attribution_required": false,
+    "wikidata": "Q43319",
+    "wikipedia": "Mato_Grosso_do_Sul",
+    "wikidata_flag_images": [
+      "Bandeira de Mato Grosso do Sul.svg"
+    ]
+  },
+  "br-mt": {
+    "commons_title": "Bandeira de Mato Grosso.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Bandeira_de_Mato_Grosso.svg",
+    "revision": {
+      "sha1": "682d12fe7591f15a5430bcc813c4a7f6db603e13",
+      "timestamp": "2022-07-29T22:02:16Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Bandeira_de_Mato_Grosso.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 2000,
+      "height": 1400,
+      "uploader": "Smasongarrison"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD Brazil Government"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "SVG implementation by E2m",
+    "versions": [
+      {
+        "user": "E2m",
+        "date": "2006-02-14",
+        "comment": "Bandeira de [[Mato Grosso]]."
+      },
+      {
+        "user": "Giro720",
+        "date": "2011-08-15",
+        "comment": "code clean up"
+      },
+      {
+        "user": "Smasongarrison",
+        "date": "2022-07-29",
+        "comment": "slimmed down with svgomg // Editing SVG source code using [[c:User:Rillke/SVGedit.js]]"
+      }
+    ],
+    "contributors": [
+      "Giro720",
+      "Smasongarrison"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q42824",
+    "wikipedia": "Mato_Grosso",
+    "wikidata_flag_images": [
+      "Bandeira de Mato Grosso.svg"
+    ]
+  },
+  "br-pa": {
+    "commons_title": "Bandeira do Pará.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Bandeira_do_Par%C3%A1.svg",
+    "revision": {
+      "sha1": "18e457c9aa636a7d6fb9029421b51f4d8eefee60",
+      "timestamp": "2022-05-04T02:09:07Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Bandeira_do_Par%C3%A1.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 900,
+      "height": 600,
+      "uploader": "HapHaxion"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD Brazil Government",
+      "PD-user"
+    ],
+    "license_options": [
+      "Public domain"
+    ],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "release",
+    "author": "E2m",
+    "versions": [
+      {
+        "user": "E2m",
+        "date": "2006-02-14",
+        "comment": "Bandeira do [[Pará]]."
+      },
+      {
+        "user": "HapHaxion",
+        "date": "2022-05-04",
+        "comment": "red hex color adjustment per http://cph.pa.gov.br/sites/default/files/anexo_iii_manual_governo_para2019_identi_visual_v2.6.pdf"
+      }
+    ],
+    "contributors": [
+      "HapHaxion"
+    ],
+    "releaser": "E2m",
+    "release_not_used": null,
+    "later_versions": "HapHaxion only matched the red to the state's identity manual (2022).",
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q39517",
+    "wikipedia": "Pará",
+    "wikidata_flag_images": [
+      "Bandeira do Pará.svg"
+    ]
+  },
+  "br-pb": {
+    "commons_title": "Bandeira da Paraíba.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Bandeira_da_Para%C3%ADba.svg",
+    "revision": {
+      "sha1": "b8d7ee80174096d2988065efad5d1aa8ac0b04bd",
+      "timestamp": "2011-08-14T00:46:55Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Bandeira_da_Para%C3%ADba.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 2000,
+      "height": 1400,
+      "uploader": "Giro720"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD Brazil Government"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "SVG implementation by E2m",
+    "versions": [
+      {
+        "user": "E2m",
+        "date": "2006-02-15",
+        "comment": "Bandeira da [[Paraíba]]."
+      },
+      {
+        "user": "FML",
+        "date": "2006-08-05",
+        "comment": "ver http://abtt.org.br/imagens/bandeira_paraiba.jpg e http://pt.wikipedia.org/wiki/Wikipedia:Contato/Linha_direta#Bandeira_da_Para.C3.ADba"
+      },
+      {
+        "user": "Franklinbaldo",
+        "date": "2006-12-31",
+        "comment": ""
+      },
+      {
+        "user": "Franklinbaldo",
+        "date": "2006-12-31",
+        "comment": ""
+      },
+      {
+        "user": "Dantadd",
+        "date": "2007-08-11",
+        "comment": "ver discussão - see talk page"
+      },
+      {
+        "user": "Abani79",
+        "date": "2011-08-13",
+        "comment": "size reduced"
+      },
+      {
+        "user": "Giro720",
+        "date": "2011-08-14",
+        "comment": "The letters must have 1 unity of length (http://www.vexilologia.com.br/pb.html); code clean up"
+      }
+    ],
+    "contributors": [
+      "FML",
+      "Franklinbaldo",
+      "Dantadd",
+      "Abani79",
+      "Giro720"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q38088",
+    "wikipedia": "Paraíba",
+    "wikidata_flag_images": [
+      "Bandeira da Paraíba.svg"
+    ]
+  },
+  "br-pe": {
+    "commons_title": "Bandeira de Pernambuco.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Bandeira_de_Pernambuco.svg",
+    "revision": {
+      "sha1": "104454844f03cc26b5440d261fdc19db3008f27c",
+      "timestamp": "2021-02-16T15:11:35Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Bandeira_de_Pernambuco.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 540,
+      "height": 360,
+      "uploader": "Giro720"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD Brazil Government"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "Revolução Pernambucana (design), E2m, Pedro Alb Xavier",
+    "versions": [
+      {
+        "user": "E2m",
+        "date": "2006-02-13",
+        "comment": "Bandeira de [[Pernambuco]]."
+      },
+      {
+        "user": "Giro720",
+        "date": "2011-08-15",
+        "comment": "code clean up"
+      },
+      {
+        "user": "Pedro Alb Xavier",
+        "date": "2021-01-05",
+        "comment": "Bandeira de Pernambuco com atualização da legislação que descreve a bandeira."
+      },
+      {
+        "user": "Giro720",
+        "date": "2021-02-16",
+        "comment": "+human readable code, adjusting flag precision, 1 unit of length = 9 pixels // Editing SVG source code using [[c:User:Rillke/SVGedit.js]]"
+      }
+    ],
+    "contributors": [
+      "Giro720"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q40942",
+    "wikipedia": "Pernambuco",
+    "wikidata_flag_images": [
+      "Bandeira de Pernambuco.svg"
+    ]
+  },
+  "br-pi": {
+    "commons_title": "Bandeira do Piauí.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Bandeira_do_Piau%C3%AD.svg",
+    "revision": {
+      "sha1": "87dfe5a6e94117b023f91b9d1c791ba4cbfd3888",
+      "timestamp": "2025-01-22T16:18:11Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Bandeira_do_Piau%C3%AD.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 1950,
+      "height": 1300,
+      "uploader": "HapHaxion"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD Brazil Government",
+      "PD-user"
+    ],
+    "license_options": [
+      "Public domain"
+    ],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "release",
+    "author": "E2m, Giro720",
+    "versions": [
+      {
+        "user": "E2m",
+        "date": "2006-02-15",
+        "comment": "Bandeira do [[Piauí]]."
+      },
+      {
+        "user": "Huhsunqu",
+        "date": "2006-10-20",
+        "comment": ""
+      },
+      {
+        "user": "Giro720",
+        "date": "2008-03-23",
+        "comment": ""
+      },
+      {
+        "user": "Giro720",
+        "date": "2011-02-03",
+        "comment": "Using the colors specified in http://www.pi.gov.br/download/200701/CCOM19_daba449f10.pdf, resizing flag to keep the ration 13:19.5; specifying (better) font for"
+      },
+      {
+        "user": "NorthTension",
+        "date": "2024-05-03",
+        "comment": "text to path"
+      },
+      {
+        "user": "HapHaxion",
+        "date": "2025-01-22",
+        "comment": "optimise"
+      }
+    ],
+    "contributors": [
+      "Huhsunqu",
+      "NorthTension",
+      "HapHaxion"
+    ],
+    "releaser": "E2m",
+    "release_not_used": null,
+    "later_versions": "Huhsunqu's 2006 upload has no comment. Giro720, whom the page names next to E2m, redrew the flag in the colors of the state's specification (2008, 2011); NorthTension turned its text into paths (2024) and HapHaxion optimized the code (2025).",
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q42722",
+    "wikipedia": "Piauí",
+    "wikidata_flag_images": [
+      "Bandeira do Piauí.svg"
+    ]
+  },
+  "br-pr": {
+    "commons_title": "Bandeira do Paraná.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Bandeira_do_Paran%C3%A1.svg",
+    "revision": {
+      "sha1": "934b69e29bfdf74fb62a908d26454fdaf34c8b1d",
+      "timestamp": "2025-06-07T19:13:09Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Bandeira_do_Paran%C3%A1.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 2500,
+      "height": 1748,
+      "uploader": "SVG flag maker"
+    },
+    "license": "CC BY 2.5",
+    "license_kind": "attribution",
+    "license_url": "https://creativecommons.org/licenses/by/2.5/",
+    "license_tags": [
+      "CC-BY-2.5",
+      "CC-BY-SA-2.5",
+      "PD Brazil Government",
+      "PD-user"
+    ],
+    "license_options": [
+      "CC BY 2.5",
+      "CC BY-SA 2.5",
+      "Public domain"
+    ],
+    "license_conditions": [],
+    "own_license": "CC BY 2.5",
+    "own_license_url": "https://creativecommons.org/licenses/by/2.5/",
+    "own_kind": "attribution",
+    "author": "FXXX",
+    "versions": [
+      {
+        "user": "FXXX",
+        "date": "2008-03-15",
+        "comment": "== Summary =="
+      },
+      {
+        "user": "JPedroBrazil",
+        "date": "2021-04-06",
+        "comment": "Most appropriate version of the flag"
+      },
+      {
+        "user": "JPedroBrazil",
+        "date": "2023-04-28",
+        "comment": "A imagem anterior possui um ramo a direita do globo celeste que não corresponde graficamente a um \"pinheiro-do-paraná\" ou Araucária angustifolia, conforme deter"
+      },
+      {
+        "user": "SVG flag maker",
+        "date": "2025-02-23",
+        "comment": "True SVG"
+      }
+    ],
+    "contributors": [
+      "JPedroBrazil",
+      "SVG flag maker"
+    ],
+    "releaser": "FXXX",
+    "release_not_used": "FXXX's public-domain release covers only their own work, and the pinned revision has uploads by others too, so the page's CC BY 2.5 applies",
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": true,
+    "wikidata": "Q15499",
+    "wikipedia": "Paraná_(state)",
+    "wikidata_flag_images": [
+      "Bandeira do Paraná.svg"
+    ]
+  },
+  "br-rj": {
+    "commons_title": "Bandeira do estado do Rio de Janeiro.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Bandeira_do_estado_do_Rio_de_Janeiro.svg",
+    "revision": {
+      "sha1": "9cfa7425c481c6ed9ba5d032885b6d1737d4fadb",
+      "timestamp": "2011-02-08T02:38:22Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Bandeira_do_estado_do_Rio_de_Janeiro.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 1000,
+      "height": 700,
+      "uploader": "Giro720"
+    },
+    "license": "CC BY 2.5",
+    "license_kind": "attribution",
+    "license_url": "https://creativecommons.org/licenses/by/2.5/",
+    "license_tags": [
+      "CC-BY-2.5",
+      "PD Brazil Government"
+    ],
+    "license_options": [
+      "CC BY 2.5"
+    ],
+    "license_conditions": [],
+    "own_license": "CC BY 2.5",
+    "own_license_url": "https://creativecommons.org/licenses/by/2.5/",
+    "own_kind": "attribution",
+    "author": "FORTES",
+    "versions": [
+      {
+        "user": "Srfortes",
+        "date": "2007-03-29",
+        "comment": "{{Information|"
+      },
+      {
+        "user": "Srfortes",
+        "date": "2007-03-29",
+        "comment": ""
+      },
+      {
+        "user": "Giro720",
+        "date": "2011-02-08",
+        "comment": "cleanup and more readable svg; fix coat of arms position; using colors according to official description (http://www.governo.rj.gov.br/brasaohinos.asp); approxi"
+      }
+    ],
+    "contributors": [
+      "Srfortes",
+      "Giro720"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [
+      {
+        "title": "Brasão do estado do Rio de Janeiro.svg",
+        "page": "https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_estado_do_Rio_de_Janeiro.svg",
+        "author": "FORTES",
+        "license": "CC BY 2.5",
+        "license_url": "https://creativecommons.org/licenses/by/2.5/",
+        "binding": true
+      }
+    ],
+    "attribution_required": true,
+    "wikidata": "Q41428",
+    "wikipedia": "Rio_de_Janeiro_(state)",
+    "wikidata_flag_images": [
+      "Bandeira do estado do Rio de Janeiro.svg"
+    ]
+  },
+  "br-rn": {
+    "commons_title": "Bandeira do Rio Grande do Norte.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Bandeira_do_Rio_Grande_do_Norte.svg",
+    "revision": {
+      "sha1": "8c2ff29482851a3e6313063602fc1dde67563762",
+      "timestamp": "2023-03-15T23:03:28Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Bandeira_do_Rio_Grande_do_Norte.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 900,
+      "height": 600,
+      "uploader": "BeakyTunic"
+    },
+    "license": "CC BY 2.5",
+    "license_kind": "attribution",
+    "license_url": "https://creativecommons.org/licenses/by/2.5/",
+    "license_tags": [
+      "CC-BY-2.5",
+      "PD Brazil Government"
+    ],
+    "license_options": [
+      "CC BY 2.5"
+    ],
+    "license_conditions": [],
+    "own_license": "CC BY 2.5",
+    "own_license_url": "https://creativecommons.org/licenses/by/2.5/",
+    "own_kind": "attribution",
+    "author": "Giro720",
+    "versions": [
+      {
+        "user": "Giro720",
+        "date": "2007-08-01",
+        "comment": "{{Information"
+      },
+      {
+        "user": "Guilherme Paula",
+        "date": "2007-09-30",
+        "comment": ""
+      },
+      {
+        "user": "Guilherme Paula",
+        "date": "2007-10-01",
+        "comment": "improving more..."
+      },
+      {
+        "user": "Guilherme Paula",
+        "date": "2007-11-21",
+        "comment": "cleaning up..."
+      },
+      {
+        "user": "Marquinhos",
+        "date": "2011-09-16",
+        "comment": "New version based in the image of the website [http://3.bp.blogspot.com/_8zhTLGrKoCk/TSBFD2rE1fI/AAAAAAAAMT0/tC7iFyJumNw/s1600/Marcia-entrega-bandeiradoRN.jpg]."
+      },
+      {
+        "user": "Marquinhos",
+        "date": "2012-07-16",
+        "comment": "Identical to the green [[:File:Flag of Brazil.svg|flag of Brazil]], as the [[:s:Lei Estadual do Rio_Grande do_Norte 2160 de 1957|State Law Rio Grande do Norte 2"
+      },
+      {
+        "user": "BeakyTunic",
+        "date": "2023-03-11",
+        "comment": "Bottom of shield pointed to the left and was off center incorrectly, removing unnecessary groupings in the file which contained nothing"
+      },
+      {
+        "user": "BeakyTunic",
+        "date": "2023-03-15",
+        "comment": "Centering Coat of Arms"
+      }
+    ],
+    "contributors": [
+      "Guilherme Paula",
+      "Marquinhos",
+      "BeakyTunic"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": true,
+    "wikidata": "Q43255",
+    "wikipedia": "Rio_Grande_do_Norte",
+    "wikidata_flag_images": [
+      "Bandeira do Rio Grande do Norte.svg"
+    ]
+  },
+  "br-ro": {
+    "commons_title": "Bandeira de Rondônia.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Bandeira_de_Rond%C3%B4nia.svg",
+    "revision": {
+      "sha1": "b7614b134820a57e57e3a37a9500ce621f949f3f",
+      "timestamp": "2022-06-02T17:18:22Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Bandeira_de_Rond%C3%B4nia.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 2000,
+      "height": 1400,
+      "uploader": "Giro720"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD Brazil Government",
+      "PD-user"
+    ],
+    "license_options": [
+      "Public domain"
+    ],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "release",
+    "author": "E2m",
+    "versions": [
+      {
+        "user": "E2m",
+        "date": "2005-10-03",
+        "comment": "{{PD-self}}"
+      },
+      {
+        "user": "E2m",
+        "date": "2006-02-15",
+        "comment": "{{PD-user|E2m}}"
+      },
+      {
+        "user": "Huhsunqu",
+        "date": "2006-10-20",
+        "comment": ""
+      },
+      {
+        "user": "Giro720",
+        "date": "2011-02-04",
+        "comment": "clean up, fix star size"
+      }
+    ],
+    "contributors": [
+      "Huhsunqu",
+      "Giro720"
+    ],
+    "releaser": "E2m",
+    "release_not_used": null,
+    "later_versions": "Huhsunqu's 2006 upload has no comment, and Giro720 cleaned up the code and fixed the star size (2011).",
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q43235",
+    "wikipedia": "Rondônia",
+    "wikidata_flag_images": [
+      "Bandeira de Rondônia.svg"
+    ]
+  },
+  "br-rr": {
+    "commons_title": "Bandeira de Roraima.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Bandeira_de_Roraima.svg",
+    "revision": {
+      "sha1": "28ae2643fa9265aebfebc9f1df631d9e35dc3622",
+      "timestamp": "2022-06-23T14:56:12Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Bandeira_de_Roraima.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 2000,
+      "height": 1400,
+      "uploader": "HapHaxion"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD Brazil Government",
+      "PD-user"
+    ],
+    "license_options": [
+      "Public domain"
+    ],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "release",
+    "author": "E2m",
+    "versions": [
+      {
+        "user": "E2m",
+        "date": "2006-02-15",
+        "comment": "Bandeira de [[Roraima]]."
+      },
+      {
+        "user": "E2m",
+        "date": "2006-02-15",
+        "comment": ""
+      },
+      {
+        "user": "HapHaxion",
+        "date": "2022-06-23",
+        "comment": "optimisations, flag dimensions per https://www.mpc.rr.gov.br/uploads/2013/12/09122013075441460_6.pdf"
+      }
+    ],
+    "contributors": [
+      "HapHaxion"
+    ],
+    "releaser": "E2m",
+    "release_not_used": null,
+    "later_versions": "HapHaxion only optimized the code and set the dimensions the state publishes (2022).",
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q42508",
+    "wikipedia": "Roraima",
+    "wikidata_flag_images": [
+      "Bandeira de Roraima.svg"
+    ]
+  },
+  "br-rs": {
+    "commons_title": "Bandeira do Rio Grande do Sul.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Bandeira_do_Rio_Grande_do_Sul.svg",
+    "revision": {
+      "sha1": "c4232638eb228a9ed2de21c35ba78f3bef8fd5ec",
+      "timestamp": "2023-07-12T04:48:38Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Bandeira_do_Rio_Grande_do_Sul.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 1000,
+      "height": 700,
+      "uploader": "HapHaxion"
+    },
+    "license": "CC BY 2.5",
+    "license_kind": "attribution",
+    "license_url": "https://creativecommons.org/licenses/by/2.5/",
+    "license_tags": [
+      "CC-BY-2.5",
+      "PD Brazil Government"
+    ],
+    "license_options": [
+      "CC BY 2.5"
+    ],
+    "license_conditions": [],
+    "own_license": "CC BY 2.5",
+    "own_license_url": "https://creativecommons.org/licenses/by/2.5/",
+    "own_kind": "attribution",
+    "author": "Srfortes",
+    "versions": [
+      {
+        "user": "Srfortes",
+        "date": "2007-02-19",
+        "comment": "{{Information|"
+      },
+      {
+        "user": "Guilherme Paula",
+        "date": "2007-09-29",
+        "comment": ""
+      },
+      {
+        "user": "Giro720",
+        "date": "2011-02-06",
+        "comment": "fixed size"
+      },
+      {
+        "user": "HapHaxion",
+        "date": "2022-06-23",
+        "comment": "reduce file size"
+      }
+    ],
+    "contributors": [
+      "Guilherme Paula",
+      "Giro720",
+      "HapHaxion"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": true,
+    "wikidata": "Q40030",
+    "wikipedia": "Rio_Grande_do_Sul",
+    "wikidata_flag_images": [
+      "Bandeira do Rio Grande do Sul.svg"
+    ]
+  },
+  "br-sc": {
+    "commons_title": "Bandeira de Santa Catarina.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Bandeira_de_Santa_Catarina.svg",
+    "revision": {
+      "sha1": "7c4c1a41634e0c713556dd861914762d9ff1c518",
+      "timestamp": "2021-02-15T20:36:16Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Bandeira_de_Santa_Catarina.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 836,
+      "height": 608,
+      "uploader": "Giro720"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD Brazil Government"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "OAlexander (colours from Manual de Identidade Visual do Governo do Estado do Santa Catarina)",
+    "versions": [
+      {
+        "user": "Tonyjeff",
+        "date": "2006-12-22",
+        "comment": "{{Information"
+      },
+      {
+        "user": "DieBuche",
+        "date": "2007-03-30",
+        "comment": "svg fixed"
+      },
+      {
+        "user": "Tonyjeff",
+        "date": "2007-04-13",
+        "comment": ""
+      },
+      {
+        "user": "Tonyjeff",
+        "date": "2007-04-13",
+        "comment": ""
+      },
+      {
+        "user": "OAlexander~commonswiki",
+        "date": "2011-08-13",
+        "comment": "Correction dimensions to 11:8, colours from \"Manual de Identidade Visual do Governo do Estado do Santa Catarina\""
+      },
+      {
+        "user": "OAlexander~commonswiki",
+        "date": "2011-08-13",
+        "comment": "Adjustments to symmetry and position of green lozenge shape."
+      },
+      {
+        "user": "Giro720",
+        "date": "2021-02-15",
+        "comment": "fixing star size and position; fixing key and anchor position; fixing flag proportions (11:8 exactly)."
+      }
+    ],
+    "contributors": [
+      "Tonyjeff",
+      "DieBuche",
+      "Giro720"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [
+      {
+        "title": "Brasão de Santa Catarina.svg",
+        "page": "https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Santa_Catarina.svg",
+        "author": "OAlexander",
+        "license": "Public domain",
+        "license_url": null,
+        "binding": false
+      }
+    ],
+    "attribution_required": false,
+    "wikidata": "Q41115",
+    "wikipedia": "Santa_Catarina_(state)",
+    "wikidata_flag_images": [
+      "Bandeira de Santa Catarina.svg"
+    ]
+  },
+  "br-se": {
+    "commons_title": "Bandeira de Sergipe.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Bandeira_de_Sergipe.svg",
+    "revision": {
+      "sha1": "7561c532bab36c1f72beada7e04abeda79879591",
+      "timestamp": "2025-03-25T13:24:34Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Bandeira_de_Sergipe.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 1000,
+      "height": 700,
+      "uploader": "HapHaxion"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD Brazil Government",
+      "PD-user"
+    ],
+    "license_options": [
+      "Public domain"
+    ],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "release",
+    "author": "E2m",
+    "versions": [
+      {
+        "user": "EugeneZelenko",
+        "date": "2005-09-26",
+        "comment": "Made from SVG source located on [[:Image:Bandeira de Sergipe.png|PNG version]] page."
+      },
+      {
+        "user": "E2m",
+        "date": "2006-02-15",
+        "comment": ""
+      },
+      {
+        "user": "HapHaxion",
+        "date": "2022-06-23",
+        "comment": "file size reduction"
+      }
+    ],
+    "contributors": [
+      "EugeneZelenko",
+      "HapHaxion"
+    ],
+    "releaser": "E2m",
+    "release_not_used": null,
+    "later_versions": "HapHaxion only reduced the file size (2022).",
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q43783",
+    "wikipedia": "Sergipe",
+    "wikidata_flag_images": [
+      "Bandeira de Sergipe.svg"
+    ]
+  },
+  "br-sp": {
+    "commons_title": "Bandeira do estado de São Paulo.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Bandeira_do_estado_de_S%C3%A3o_Paulo.svg",
+    "revision": {
+      "sha1": "276370642a351fbb88e3c47bbf82348ecaf851e5",
+      "timestamp": "2026-04-14T01:56:08Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 780,
+      "height": 520,
+      "uploader": "Mike Rohsopht"
+    },
+    "license": "CC BY-SA 2.5",
+    "license_kind": "share-alike",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.5/",
+    "license_tags": [
+      "CC-BY-SA-2.5",
+      "PD Brazil Government"
+    ],
+    "license_options": [
+      "CC BY-SA 2.5"
+    ],
+    "license_conditions": [],
+    "own_license": "CC BY-SA 2.5",
+    "own_license_url": "https://creativecommons.org/licenses/by-sa/2.5/",
+    "own_kind": "copyleft",
+    "author": "Felipe Micaroni Lalli, Giro720",
+    "versions": [
+      {
+        "user": "FML",
+        "date": "2006-01-30",
+        "comment": "* {{pt|frente da Bandeira do Estado de São Paulo desenhada por mim de acordo com a lei 16.349 da Constituição Federal brasileira. O mapa do Brasil contido na ba"
+      },
+      {
+        "user": "FML",
+        "date": "2006-02-20",
+        "comment": ""
+      },
+      {
+        "user": "Giro720",
+        "date": "2011-01-19",
+        "comment": "Fixing size  (19,5:13 according [http://www.bibliotecavirtual.sp.gov.br/pdf/saopaulo-simbolospaulistas.pdf law n.145/1948]) and positions. Colors according with"
+      },
+      {
+        "user": "Giro720",
+        "date": "2011-02-05",
+        "comment": "map optimized"
+      },
+      {
+        "user": "Giro720",
+        "date": "2011-08-23",
+        "comment": "fixing map size and red color"
+      },
+      {
+        "user": "Mike Rohsopht",
+        "date": "2022-01-07",
+        "comment": "to eliminate any possibility of colour bleed"
+      }
+    ],
+    "contributors": [
+      "FML",
+      "Mike Rohsopht"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [
+      {
+        "title": "Contorno do mapa do Brasil.svg",
+        "page": "https://commons.wikimedia.org/wiki/File:Contorno_do_mapa_do_Brasil.svg",
+        "author": "FML (uploader)",
+        "license": "CC BY-SA 2.5",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.5/",
+        "binding": true
+      }
+    ],
+    "attribution_required": true,
+    "wikidata": "Q175",
+    "wikipedia": "São_Paulo_(state)",
+    "wikidata_flag_images": [
+      "Bandeira do estado de São Paulo.svg"
+    ]
+  },
+  "br-to": {
+    "commons_title": "Bandeira do Tocantins.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Bandeira_do_Tocantins.svg",
+    "revision": {
+      "sha1": "5c0b5472055fa0ba6e4e91c9fca44d49e2d25877",
+      "timestamp": "2024-06-28T03:43:46Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Bandeira_do_Tocantins.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 512,
+      "height": 358,
+      "uploader": "BaduFerreira"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD shape",
+      "PD-user"
+    ],
+    "license_options": [
+      "Public domain"
+    ],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "release",
+    "author": "E2m",
+    "versions": [
+      {
+        "user": "E2m",
+        "date": "2006-02-15",
+        "comment": ""
+      },
+      {
+        "user": "Giro720",
+        "date": "2011-08-09",
+        "comment": "code clean up"
+      },
+      {
+        "user": "Andrew Pertsev",
+        "date": "2023-02-07",
+        "comment": "svg code reduction"
+      },
+      {
+        "user": "BaduFerreira",
+        "date": "2023-07-31",
+        "comment": "Using proper color (see talkpage for rationale)"
+      }
+    ],
+    "contributors": [
+      "Giro720",
+      "Andrew Pertsev",
+      "BaduFerreira"
+    ],
+    "releaser": "E2m",
+    "release_not_used": null,
+    "later_versions": "Giro720 (2011) and Andrew Pertsev (2023) rewrote the code, and BaduFerreira changed one color (2023).",
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q43695",
+    "wikipedia": "Tocantins",
+    "wikidata_flag_images": [
+      "Bandeira do Tocantins.svg"
+    ]
+  },
   "ca-ab": {
     "commons_title": "Flag of Alberta.svg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Alberta.svg",

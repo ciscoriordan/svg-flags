@@ -4,6 +4,11 @@ Copyright (c) 2026 Francisco Riordan
 
 Based on circle-flags by HatScripts (https://github.com/HatScripts/circle-flags)
 
+The files listed in NOTICE.md are not covered by this license. They are built
+from artwork on Wikimedia Commons and keep the licenses given there, which ask
+for credit and, for some files, that copies and adaptations stay under the
+same license.
+
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights

@@ -1,5 +1,8 @@
 {
   "countries": {
+    "br": {
+      "name": "Brazil"
+    },
     "ca": {
       "name": "Canada"
     },
@@ -8,6 +11,226 @@
     }
   },
   "flags": {
+    "br-ac": {
+      "name": "Acre",
+      "commons": "Bandeira do Acre.svg",
+      "layout": {
+        "crop": "hoist"
+      },
+      "later_versions": "Giro720 (2011) and Magasjukur2 (2012) rewrote the code, HapHaxion matched the colors to the state's identity manual (2022), and Huhsunqu's 2006 upload has no comment. The flag is a plain geometric design."
+    },
+    "br-al": {
+      "name": "Alagoas",
+      "commons": "Bandeira de Alagoas.svg",
+      "layout": {
+        "crop": "center"
+      }
+    },
+    "br-am": {
+      "name": "Amazonas",
+      "commons": "Bandeira do Amazonas.svg",
+      "layout": {
+        "crop": "hoist"
+      }
+    },
+    "br-ap": {
+      "name": "Amapá",
+      "commons": "Bandeira do Amapá.svg",
+      "layout": {
+        "crop": "hoist"
+      },
+      "later_versions": "Huhsunqu's 2006 upload has no comment, and HapHaxion only reduced the file size (2022)."
+    },
+    "br-ba": {
+      "name": "Bahia",
+      "commons": "Bandeira da Bahia.svg",
+      "layout": {
+        "crop": "hoist"
+      }
+    },
+    "br-ce": {
+      "name": "Ceará",
+      "commons": "Bandeira do Ceará.svg",
+      "layout": {
+        "crop": "center"
+      }
+    },
+    "br-df": {
+      "name": "Federal District",
+      "commons": "Bandeira do Distrito Federal (Brasil).svg",
+      "layout": {
+        "crop": "center"
+      }
+    },
+    "br-es": {
+      "name": "Espírito Santo",
+      "commons": "Bandeira do Espírito Santo.svg",
+      "layout": {
+        "crop": "center"
+      }
+    },
+    "br-go": {
+      "name": "Goiás",
+      "commons": "Flag of Goiás.svg",
+      "layout": {
+        "crop": "hoist"
+      },
+      "later_versions": "Huhsunqu's 2006 upload has no comment; Marquinhos set the 7:10 proportion (2012), and HapHaxion reduced the file size and matched the colors to the state's manual (2022)."
+    },
+    "br-ma": {
+      "name": "Maranhão",
+      "commons": "Bandeira do Maranhão.svg",
+      "layout": {
+        "crop": "hoist"
+      },
+      "later_versions": "Giro720 cleaned up the code (2011) and HapHaxion adjusted the color intensity (2022)."
+    },
+    "br-mg": {
+      "name": "Minas Gerais",
+      "commons": "Bandeira de Minas Gerais.svg",
+      "layout": {
+        "crop": "center"
+      }
+    },
+    "br-ms": {
+      "name": "Mato Grosso do Sul",
+      "commons": "Bandeira de Mato Grosso do Sul.svg",
+      "layout": {
+        "window": [
+          0.1,
+          0,
+          1.4
+        ],
+        "covers": [
+          [
+            "#009DDC",
+            480,
+            0,
+            32,
+            512
+          ],
+          [
+            "#009DDC",
+            0,
+            359.7,
+            512,
+            152.3
+          ]
+        ]
+      },
+      "later_versions": "PatríciaR corrected the colors (2009), Giro720 cleaned up the code (2011) and HapHaxion reduced the file size (2022). Dbenbenn only scaled EugeneZelenko's first upload (2005), which E2m's 2006 version replaced."
+    },
+    "br-mt": {
+      "name": "Mato Grosso",
+      "commons": "Bandeira de Mato Grosso.svg",
+      "layout": {
+        "crop": "center"
+      }
+    },
+    "br-pa": {
+      "name": "Pará",
+      "commons": "Bandeira do Pará.svg",
+      "layout": {
+        "crop": "center"
+      },
+      "later_versions": "HapHaxion only matched the red to the state's identity manual (2022)."
+    },
+    "br-pb": {
+      "name": "Paraíba",
+      "commons": "Bandeira da Paraíba.svg",
+      "layout": {
+        "crop": "center"
+      }
+    },
+    "br-pe": {
+      "name": "Pernambuco",
+      "commons": "Bandeira de Pernambuco.svg",
+      "layout": {
+        "crop": "center"
+      }
+    },
+    "br-pi": {
+      "name": "Piauí",
+      "commons": "Bandeira do Piauí.svg",
+      "layout": {
+        "crop": "hoist"
+      },
+      "later_versions": "Huhsunqu's 2006 upload has no comment. Giro720, whom the page names next to E2m, redrew the flag in the colors of the state's specification (2008, 2011); NorthTension turned its text into paths (2024) and HapHaxion optimized the code (2025)."
+    },
+    "br-pr": {
+      "name": "Paraná",
+      "commons": "Bandeira do Paraná.svg",
+      "layout": {
+        "crop": "center"
+      }
+    },
+    "br-rj": {
+      "name": "Rio de Janeiro",
+      "commons": "Bandeira do estado do Rio de Janeiro.svg",
+      "layout": {
+        "crop": "center"
+      }
+    },
+    "br-rn": {
+      "name": "Rio Grande do Norte",
+      "commons": "Bandeira do Rio Grande do Norte.svg",
+      "layout": {
+        "crop": "center"
+      }
+    },
+    "br-ro": {
+      "name": "Rondônia",
+      "commons": "Bandeira de Rondônia.svg",
+      "layout": {
+        "crop": "center"
+      },
+      "later_versions": "Huhsunqu's 2006 upload has no comment, and Giro720 cleaned up the code and fixed the star size (2011)."
+    },
+    "br-rr": {
+      "name": "Roraima",
+      "commons": "Bandeira de Roraima.svg",
+      "layout": {
+        "crop": "center"
+      },
+      "later_versions": "HapHaxion only optimized the code and set the dimensions the state publishes (2022)."
+    },
+    "br-rs": {
+      "name": "Rio Grande do Sul",
+      "commons": "Bandeira do Rio Grande do Sul.svg",
+      "layout": {
+        "crop": "center"
+      }
+    },
+    "br-sc": {
+      "name": "Santa Catarina",
+      "commons": "Bandeira de Santa Catarina.svg",
+      "layout": {
+        "crop": "center"
+      }
+    },
+    "br-se": {
+      "name": "Sergipe",
+      "commons": "Bandeira de Sergipe.svg",
+      "layout": {
+        "crop": "hoist"
+      },
+      "later_versions": "HapHaxion only reduced the file size (2022)."
+    },
+    "br-sp": {
+      "name": "São Paulo",
+      "commons": "Bandeira do estado de São Paulo.svg",
+      "layout": {
+        "crop": "hoist"
+      }
+    },
+    "br-to": {
+      "name": "Tocantins",
+      "commons": "Bandeira do Tocantins.svg",
+      "layout": {
+        "crop": "center"
+      },
+      "later_versions": "Giro720 (2011) and Andrew Pertsev (2023) rewrote the code, and BaduFerreira changed one color (2023)."
+    },
     "ca-ab": {
       "name": "Alberta",
       "commons": "Flag of Alberta.svg",

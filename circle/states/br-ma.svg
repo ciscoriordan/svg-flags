@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <clipPath id="c">
+      <circle cx="256" cy="256" r="256"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#c)">
+    <g transform="matrix(0.568889 0 0 0.568889 0 0)"><path fill="#FFFFFF" d="M0 0h1350v900H0z"/><path fill="#C53425" d="M0 0h1350v100H0zm0 400h1350v100H0zm0 400h1350v100H0z"/><path fill="#000000" d="M0 200h1350v100H0zm0 400h1350v100H0z"/><path fill="#25247B" d="M0 0h450v450H0z"/><path fill="#FFFFFF" d="m225 56.3-52.1 160.4 80.2 26.1z"/><path fill="#FFFFFF" d="m225 56.3 52.1 160.4-80.2 26.1z"/><path fill="#FFFFFF" d="M385.5 172.9H216.7v84.3z"/><path fill="#FFFFFF" d="M385.5 172.9 249 272l-49.6-68.2z"/><path fill="#FFFFFF" d="M64.5 172.9 201 272l49.6-68.2z"/><path fill="#FFFFFF" d="M64.5 172.9h168.8v84.3z"/><path fill="#FFFFFF" d="M324.2 361.5 272 201l-80.2 26.1z"/><path fill="#FFFFFF" d="m324.2 361.5-136.5-99.2 49.6-68.2z"/><path fill="#FFFFFF" d="m125.8 361.5 136.5-99.2-49.6-68.2z"/><path fill="#FFFFFF" d="M125.8 361.5 178 201l80.2 26.1z"/></g>
+    <!-- border --><circle cx="256" cy="256" r="256" fill="none" stroke="#cdcfd3" stroke-width="16"/>
+  </g>
+</svg>
