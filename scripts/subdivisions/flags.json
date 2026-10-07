@@ -2590,6 +2590,13 @@
       "full_size_only": true,
       "wikipedia": "Clipperton_Island",
       "note": "Full-size uses the official French tricolor at 3:2; the legacy circle and square files depict an unofficial palm-tree design with no established official proportions."
+    },
+    "ch-gr": {
+      "name": "Graubünden",
+      "commons": "CHE Graubünden Flag.svg",
+      "layout": {
+        "crop": "center"
+      }
     }
   },
   "excluded": {

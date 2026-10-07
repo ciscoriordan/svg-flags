@@ -11481,5 +11481,50 @@
     "wikidata_flag_images": [
       "Flag of France.svg"
     ]
+  },
+  "ch-gr": {
+    "commons_title": "CHE Graubünden Flag.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:CHE_Graub%C3%BCnden_Flag.svg",
+    "revision": {
+      "sha1": "92eb272381810f07b90c8ae22c2da700c1b44569",
+      "timestamp": "2026-02-02T19:17:48Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/CHE_Graub%C3%BCnden_Flag.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 600,
+      "height": 664,
+      "uploader": "ARK"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD Coa Switzerland",
+      "PD-Coa-Switzerland"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "Kanton Graubünden, Anton Nigg",
+    "versions": [
+      {
+        "user": "ARK",
+        "date": "2026-01-25",
+        "comment": "=={{int:filedesc}}=="
+      }
+    ],
+    "contributors": [
+      "ARK"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q11925",
+    "wikipedia": "Grisons",
+    "wikidata_flag_images": [
+      "CHE Graubünden Flag.svg"
+    ]
   }
 }
