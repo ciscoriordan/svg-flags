@@ -11,20 +11,27 @@ def validate_swatches():
     broken = []
 
     for line in readme.split("\n"):
+        # Codes are wrapped in backticks, and the last cell is the Colors
+        # column (the row ends with a pipe, so the cell must be followed by one).
         m = re.match(
-            r"\|\s*(\w{2})\s*\|.*circle/countries/\1\.svg.*\|([^|]*)\|?\s*$", line
+            r"\|\s*`?([\w-]+)`?\s*\|.*circle/(countries|states)/\1\.svg.*\|([^|]*)\|\s*$", line
         )
         if not m:
             continue
         code = m.group(1)
-        swatch_section = m.group(2)
+        category = m.group(2)
+        swatch_section = m.group(3)
 
         readme_colors = set(
             c.upper()
             for c in re.findall(r"swatches/([0-9A-Fa-f]{6})\.svg", swatch_section)
         )
 
-        circle_path = f"circle/countries/{code}.svg"
+        if category == "states" and not readme_colors:
+            # Detailed seal and coat-of-arms flags list no swatches.
+            continue
+
+        circle_path = f"circle/{category}/{code}.svg"
         if not os.path.exists(circle_path):
             continue
         circle_content = open(circle_path).read()
