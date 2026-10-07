@@ -925,5 +925,1386 @@
     "wikidata_flag_images": [
       "Flag of Yukon.svg"
     ]
+  },
+  "ch-ag": {
+    "commons_title": "CHE Aargau Flag.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:CHE_Aargau_Flag.svg",
+    "revision": {
+      "sha1": "529f062403a4c7d5e5bf023244e93d1a2d0d56b0",
+      "timestamp": "2026-08-12T16:27:50Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/CHE_Aargau_Flag.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 500,
+      "height": 500,
+      "uploader": "SpinnerLaserzthe2nd"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD Coa Switzerland"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "Unknown",
+    "versions": [
+      {
+        "user": "SpinnerLaserzthe2nd",
+        "date": "2026-08-10",
+        "comment": "=={{int:filedesc}}=="
+      },
+      {
+        "user": "SpinnerLaserzthe2nd",
+        "date": "2026-08-12",
+        "comment": "Arrange"
+      }
+    ],
+    "contributors": [
+      "SpinnerLaserzthe2nd"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q11972",
+    "wikipedia": "Aargau",
+    "wikidata_flag_images": [
+      "CHE Aargau Flag.svg"
+    ]
+  },
+  "ch-ai": {
+    "commons_title": "CHE Appenzell Innerrhoden Flag.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:CHE_Appenzell_Innerrhoden_Flag.svg",
+    "revision": {
+      "sha1": "b8a021efa8089663be91afb09c838ffd22f13175",
+      "timestamp": "2026-08-21T00:00:21Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/CHE_Appenzell_Innerrhoden_Flag.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 470,
+      "height": 470,
+      "uploader": "SpinnerLaserzthe2nd"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD Coa Switzerland"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "unknown (design); SpinnerLaserzthe2nd (vector drawing)",
+    "versions": [
+      {
+        "user": "SpinnerLaserzthe2nd",
+        "date": "2026-08-21",
+        "comment": "{{Information"
+      }
+    ],
+    "contributors": [],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q12094",
+    "wikipedia": "Appenzell_Innerrhoden",
+    "wikidata_flag_images": [
+      "CHE Appenzell Innerrhoden Flag.svg"
+    ]
+  },
+  "ch-ar": {
+    "commons_title": "Flag of Canton of Appenzell Ausserrhoden.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Canton_of_Appenzell_Ausserrhoden.svg",
+    "revision": {
+      "sha1": "e90dbf010e40a21b2cf7564e5493b59ec99bf311",
+      "timestamp": "2022-06-14T15:49:50Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Flag_of_Canton_of_Appenzell_Ausserrhoden.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 470,
+      "height": 470,
+      "uploader": "HapHaxion"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD Coa Switzerland"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "unknown author",
+    "versions": [
+      {
+        "user": "Denelson83",
+        "date": "2006-02-28",
+        "comment": "Flag of the Canton of [[w:Appenzell Ausserrhoden|]] in [[w:Switzerland|Switzerland]]."
+      },
+      {
+        "user": "Gunnar.offel",
+        "date": "2014-01-17",
+        "comment": "Grafik aus [http://www.vtg.admin.ch/internet/vtg/de/home/themen/internationale_kooperation/MP/militaerisches_zeremoniell.parsysrelated1.17761.downloadList.77713"
+      },
+      {
+        "user": "D97v",
+        "date": "2015-05-10",
+        "comment": "the border isn't part of the design"
+      },
+      {
+        "user": "HapHaxion",
+        "date": "2022-06-14",
+        "comment": "length = width"
+      }
+    ],
+    "contributors": [
+      "Denelson83",
+      "Gunnar.offel",
+      "D97v",
+      "HapHaxion"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q12079",
+    "wikipedia": "Appenzell_Ausserrhoden",
+    "wikidata_flag_images": [
+      "Flag of Canton of Appenzell Ausserrhoden.svg"
+    ]
+  },
+  "ch-be": {
+    "commons_title": "CHE Bern BE Flag.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:CHE_Bern_BE_Flag.svg",
+    "revision": {
+      "sha1": "8730a9626bad914461fcd93f539d8b3832daa6b9",
+      "timestamp": "2025-05-04T09:40:25Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/CHE_Bern_BE_Flag.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 507,
+      "height": 507,
+      "uploader": "ARK"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD Coa Switzerland"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "Hans Jenni (design); ARK (vector drawing)",
+    "versions": [
+      {
+        "user": "ARK",
+        "date": "2025-05-04",
+        "comment": "== {{int:filedesc}} =="
+      }
+    ],
+    "contributors": [],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q11911",
+    "wikipedia": "Canton_of_Bern",
+    "wikidata_flag_images": [
+      "CHE Bern BE Flag.svg"
+    ]
+  },
+  "ch-bl": {
+    "commons_title": "CHE Basel-Landschaft Flag.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:CHE_Basel-Landschaft_Flag.svg",
+    "revision": {
+      "sha1": "48a876c9b095e961c2c12ebd7ba11d779ed7c414",
+      "timestamp": "2026-08-05T17:59:57Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/CHE_Basel-Landschaft_Flag.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 650,
+      "height": 650,
+      "uploader": "SpinnerLaserzthe2nd"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD Coa Switzerland"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "Otto Plattner (design); SpinnerLaserzthe2nd (vector drawing)",
+    "versions": [
+      {
+        "user": "SpinnerLaserzthe2nd",
+        "date": "2026-08-05",
+        "comment": "{{Information"
+      }
+    ],
+    "contributors": [],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q12146",
+    "wikipedia": "Basel-Landschaft",
+    "wikidata_flag_images": [
+      "CHE Basel-Landschaft Flag.svg"
+    ]
+  },
+  "ch-bs": {
+    "commons_title": "Flag of Canton of Basel.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Canton_of_Basel.svg",
+    "revision": {
+      "sha1": "8dd4aaca9eeef50e19c02e4e71d500ea5ab954b4",
+      "timestamp": "2022-06-14T16:00:02Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Flag_of_Canton_of_Basel.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 470,
+      "height": 470,
+      "uploader": "HapHaxion"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD Coa Switzerland"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "Edi Hauri",
+    "versions": [
+      {
+        "user": "Jynus",
+        "date": "2006-02-27",
+        "comment": ""
+      },
+      {
+        "user": "Jynus",
+        "date": "2006-02-27",
+        "comment": "with white background"
+      },
+      {
+        "user": "Gunnar.offel",
+        "date": "2014-01-17",
+        "comment": "Grafik aus [http://www.vtg.admin.ch/internet/vtg/de/home/themen/internationale_kooperation/MP/militaerisches_zeremoniell.parsysrelated1.17761.downloadList.77713"
+      },
+      {
+        "user": "D97v",
+        "date": "2015-05-10",
+        "comment": "the border isn't part of the design"
+      },
+      {
+        "user": "HapHaxion",
+        "date": "2022-06-14",
+        "comment": "length = width"
+      }
+    ],
+    "contributors": [
+      "Jynus",
+      "Gunnar.offel",
+      "D97v",
+      "HapHaxion"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q12172",
+    "wikipedia": "Basel-Stadt",
+    "wikidata_flag_images": [
+      "Flag of Canton of Basel.svg"
+    ]
+  },
+  "ch-fr": {
+    "commons_title": "Flag of Canton of Fribourg.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Canton_of_Fribourg.svg",
+    "revision": {
+      "sha1": "91eae648d8bdaa0f0f252380adee149f1051d750",
+      "timestamp": "2019-09-04T00:44:08Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_Canton_of_Fribourg.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 600,
+      "height": 600,
+      "uploader": "Alkari"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD Coa Switzerland"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "unknown author",
+    "versions": [
+      {
+        "user": "Jynus",
+        "date": "2006-02-27",
+        "comment": ""
+      },
+      {
+        "user": "Jynus",
+        "date": "2006-02-27",
+        "comment": "without border"
+      },
+      {
+        "user": "Jynus",
+        "date": "2006-05-23",
+        "comment": "file size"
+      },
+      {
+        "user": "Gunnar.offel",
+        "date": "2014-01-17",
+        "comment": "Grafik aus [http://www.vtg.admin.ch/internet/vtg/de/home/themen/internationale_kooperation/MP/militaerisches_zeremoniell.parsysrelated1.17761.downloadList.77713"
+      },
+      {
+        "user": "D97v",
+        "date": "2015-05-10",
+        "comment": "the border isn't part of the design"
+      },
+      {
+        "user": "Alkari",
+        "date": "2019-09-04",
+        "comment": "code cleanup"
+      }
+    ],
+    "contributors": [
+      "Jynus",
+      "Gunnar.offel",
+      "D97v",
+      "Alkari"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q12640",
+    "wikipedia": "Canton_of_Fribourg",
+    "wikidata_flag_images": [
+      "Flag of Canton of Fribourg.svg"
+    ]
+  },
+  "ch-ge": {
+    "commons_title": "Flag of Canton of Geneva.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Canton_of_Geneva.svg",
+    "revision": {
+      "sha1": "a015555d3757185dce95c014892ddcdcc8529126",
+      "timestamp": "2022-06-14T20:42:08Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_Canton_of_Geneva.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 470,
+      "height": 470,
+      "uploader": "HapHaxion"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD Coa Switzerland"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "Werner Luzi for Louis Mühlemann (1977) (design); Swiss Army (vector drawing)",
+    "versions": [
+      {
+        "user": "Denelson83",
+        "date": "2006-02-28",
+        "comment": "Flag of the [[w:Canton of Geneva|]] in [[w:Switzerland|Switzerland]].  Based on an image at the [http://www.flags.net/old/SWIT1.htm World Flag Database]."
+      },
+      {
+        "user": "Denelson83",
+        "date": "2006-02-28",
+        "comment": "Make bird's crown symmetric"
+      },
+      {
+        "user": "Gunnar.offel",
+        "date": "2014-01-17",
+        "comment": "Grafik aus [http://www.vtg.admin.ch/internet/vtg/de/home/themen/internationale_kooperation/MP/militaerisches_zeremoniell.parsysrelated1.17761.downloadList.77713"
+      },
+      {
+        "user": "D97v",
+        "date": "2015-05-10",
+        "comment": "the border isn't part of the design"
+      },
+      {
+        "user": "HapHaxion",
+        "date": "2022-06-14",
+        "comment": "file size reduction"
+      },
+      {
+        "user": "HapHaxion",
+        "date": "2022-06-14",
+        "comment": "colour adjustments"
+      }
+    ],
+    "contributors": [
+      "Denelson83",
+      "Gunnar.offel",
+      "D97v",
+      "HapHaxion"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q11917",
+    "wikipedia": "Canton_of_Geneva",
+    "wikidata_flag_images": [
+      "Flag of Canton of Geneva.svg"
+    ]
+  },
+  "ch-gl": {
+    "commons_title": "CHE Kanton Glarus Flag.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:CHE_Kanton_Glarus_Flag.svg",
+    "revision": {
+      "sha1": "0e8885c60441b0321ed1614f38a777941b4f8048",
+      "timestamp": "2026-08-03T17:56:18Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/CHE_Kanton_Glarus_Flag.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 470,
+      "height": 470,
+      "uploader": "SpinnerLaserzthe2nd"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD Coa Switzerland"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "unknown (design); SpinnerLaserzthe2nd (vector drawing)",
+    "versions": [
+      {
+        "user": "SpinnerLaserzthe2nd",
+        "date": "2026-08-02",
+        "comment": "{{Information"
+      },
+      {
+        "user": "SpinnerLaserzthe2nd",
+        "date": "2026-08-03",
+        "comment": "Arrange"
+      }
+    ],
+    "contributors": [],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q11922",
+    "wikipedia": "Canton_of_Glarus",
+    "wikidata_flag_images": [
+      "CHE Kanton Glarus Flag.svg"
+    ]
+  },
+  "ch-ju": {
+    "commons_title": "CHE Jura Flag.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:CHE_Jura_Flag.svg",
+    "revision": {
+      "sha1": "44317b0cb1dbf91861281a48580b3a0c564a1992",
+      "timestamp": "2026-08-05T17:47:23Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/CHE_Jura_Flag.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 350,
+      "height": 350,
+      "uploader": "SpinnerLaserzthe2nd"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD Coa Switzerland"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "Paul Boesch (design); SpinnerLaserzthe2nd (vector drawing)",
+    "versions": [
+      {
+        "user": "SpinnerLaserzthe2nd",
+        "date": "2026-07-31",
+        "comment": "[[:File:JU Oriflamme.svg]] cropped 78% vertically, 78% areawise using [[Commons:CropTool|CropTool2]] with precise mode."
+      },
+      {
+        "user": "SpinnerLaserzthe2nd",
+        "date": "2026-07-31",
+        "comment": "Arrange"
+      },
+      {
+        "user": "SpinnerLaserzthe2nd",
+        "date": "2026-07-31",
+        "comment": "Arrange"
+      },
+      {
+        "user": "SpinnerLaserzthe2nd",
+        "date": "2026-07-31",
+        "comment": "Arrange"
+      },
+      {
+        "user": "SpinnerLaserzthe2nd",
+        "date": "2026-08-05",
+        "comment": "Arrange"
+      }
+    ],
+    "contributors": [],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q12755",
+    "wikipedia": "Canton_of_Jura",
+    "wikidata_flag_images": [
+      "CHE Jura Flag.svg"
+    ]
+  },
+  "ch-lu": {
+    "commons_title": "Flag of Canton of Lucerne.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Canton_of_Lucerne.svg",
+    "revision": {
+      "sha1": "8698197cebbfbef8c5b199c8ad7aff951a6b31d4",
+      "timestamp": "2023-01-06T21:06:18Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Flag_of_Canton_of_Lucerne.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 600,
+      "height": 600,
+      "uploader": "Alkari"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD Coa Switzerland"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "unknown author",
+    "versions": [
+      {
+        "user": "Jynus",
+        "date": "2006-02-27",
+        "comment": ""
+      },
+      {
+        "user": "Jynus",
+        "date": "2006-02-27",
+        "comment": "without border"
+      },
+      {
+        "user": "Jynus",
+        "date": "2006-05-23",
+        "comment": "small proportion fixes, file size optimized"
+      },
+      {
+        "user": "Cépey",
+        "date": "2007-12-09",
+        "comment": "{{Information|"
+      },
+      {
+        "user": "Alkari",
+        "date": "2011-09-23",
+        "comment": "code cleanup"
+      },
+      {
+        "user": "Gunnar.offel",
+        "date": "2014-01-17",
+        "comment": "Grafik aus [http://www.vtg.admin.ch/internet/vtg/de/home/themen/internationale_kooperation/MP/militaerisches_zeremoniell.parsysrelated1.17761.downloadList.77713"
+      },
+      {
+        "user": "D97v",
+        "date": "2015-05-10",
+        "comment": "the border isn't part of the design"
+      },
+      {
+        "user": "Alkari",
+        "date": "2019-09-04",
+        "comment": "code cleanup"
+      }
+    ],
+    "contributors": [
+      "Jynus",
+      "Cépey",
+      "Alkari",
+      "Gunnar.offel",
+      "D97v"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q12121",
+    "wikipedia": "Canton_of_Lucerne",
+    "wikidata_flag_images": [
+      "CHE Luzern Flag.svg"
+    ]
+  },
+  "ch-ne": {
+    "commons_title": "CHE Canton de Neuchâtel Flag.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:CHE_Canton_de_Neuch%C3%A2tel_Flag.svg",
+    "revision": {
+      "sha1": "afe507dab25c1ab407122392442f4de4fc7f6858",
+      "timestamp": "2026-07-31T22:55:03Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/CHE_Canton_de_Neuch%C3%A2tel_Flag.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 540,
+      "height": 540,
+      "uploader": "SpinnerLaserzthe2nd"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD Coa Switzerland"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "unknown (design); SpinnerLaserzthe2nd (vector drawing)",
+    "versions": [
+      {
+        "user": "SpinnerLaserzthe2nd",
+        "date": "2026-07-31",
+        "comment": "{{Information"
+      }
+    ],
+    "contributors": [],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q12738",
+    "wikipedia": "Canton_of_Neuchâtel",
+    "wikidata_flag_images": [
+      "CHE Canton de Neuchâtel Flag.svg"
+    ]
+  },
+  "ch-nw": {
+    "commons_title": "Flag of Canton of Nidwalden.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Canton_of_Nidwalden.svg",
+    "revision": {
+      "sha1": "203a9bdf01ca854cbbc4d989ff6d7c5ca122022d",
+      "timestamp": "2023-01-06T21:08:45Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Flag_of_Canton_of_Nidwalden.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 469,
+      "height": 470,
+      "uploader": "HapHaxion"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD Coa Switzerland"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "unknown author",
+    "versions": [
+      {
+        "user": "Denelson83",
+        "date": "2006-02-28",
+        "comment": "Flag of the Canton of [[w:Nidwalden|]] in [[w:Switzerland|Switzerland]].  Based on an image at the [http://www.flags.net/old/SWIT1.htm World Flag Database]."
+      },
+      {
+        "user": "Gunnar.offel",
+        "date": "2014-01-17",
+        "comment": "Grafik aus [http://www.vtg.admin.ch/internet/vtg/de/home/themen/internationale_kooperation/MP/militaerisches_zeremoniell.parsysrelated1.17761.downloadList.77713"
+      },
+      {
+        "user": "D97v",
+        "date": "2015-05-10",
+        "comment": "the border isn't part of the design"
+      },
+      {
+        "user": "HapHaxion",
+        "date": "2022-06-14",
+        "comment": "hex from webpage"
+      }
+    ],
+    "contributors": [
+      "Denelson83",
+      "Gunnar.offel",
+      "D97v",
+      "HapHaxion"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q12592",
+    "wikipedia": "Nidwalden",
+    "wikidata_flag_images": [
+      "Flag of Canton of Nidwalden.svg"
+    ]
+  },
+  "ch-ow": {
+    "commons_title": "Flag of Canton of Obwalden.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Canton_of_Obwalden.svg",
+    "revision": {
+      "sha1": "c13141e22998d03a5a38abdc5c9a9c9235d9505b",
+      "timestamp": "2023-01-06T20:04:21Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Flag_of_Canton_of_Obwalden.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 500,
+      "height": 500,
+      "uploader": "HapHaxion"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD Coa Switzerland"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "Rudolf Münger",
+    "versions": [
+      {
+        "user": "Denelson83",
+        "date": "2006-02-27",
+        "comment": "Flag of the Canton of [[w:Obwalden|]] in [[w:Switzerland|Switzerland]]."
+      },
+      {
+        "user": "Gunnar.offel",
+        "date": "2014-01-17",
+        "comment": "Grafik aus [http://www.vtg.admin.ch/internet/vtg/de/home/themen/internationale_kooperation/MP/militaerisches_zeremoniell.parsysrelated1.17761.downloadList.77713"
+      },
+      {
+        "user": "D97v",
+        "date": "2015-05-10",
+        "comment": "the border isn't part of the design"
+      },
+      {
+        "user": "HapHaxion",
+        "date": "2023-01-06",
+        "comment": "coding optimizations"
+      }
+    ],
+    "contributors": [
+      "Denelson83",
+      "Gunnar.offel",
+      "D97v",
+      "HapHaxion"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q12573",
+    "wikipedia": "Obwalden",
+    "wikidata_flag_images": [
+      "Flag of Canton of Obwalden.svg"
+    ]
+  },
+  "ch-sg": {
+    "commons_title": "Flag of Canton of Sankt Gallen 2011.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Canton_of_Sankt_Gallen_2011.svg",
+    "revision": {
+      "sha1": "846659f5c36ca8f81f049a8bea3563c1b44bef20",
+      "timestamp": "2022-12-04T15:15:35Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Flag_of_Canton_of_Sankt_Gallen_2011.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 420,
+      "height": 420,
+      "uploader": "Dbachmann"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD Coa Switzerland"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "unknown author",
+    "versions": [
+      {
+        "user": "Dbachmann",
+        "date": "2022-12-04",
+        "comment": "{{Information"
+      }
+    ],
+    "contributors": [
+      "Dbachmann"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [
+      {
+        "title": "Flag of Canton of Sankt Gallen.svg",
+        "page": "https://commons.wikimedia.org/wiki/File:Flag_of_Canton_of_Sankt_Gallen.svg",
+        "author": "unknown author",
+        "license": "Public domain",
+        "license_url": null,
+        "binding": false
+      }
+    ],
+    "attribution_required": false,
+    "wikidata": "Q12746",
+    "wikipedia": "Canton_of_St._Gallen",
+    "wikidata_flag_images": [
+      "Flag of Canton of Sankt Gallen 2011.svg"
+    ]
+  },
+  "ch-sh": {
+    "commons_title": "Flag of Canton of Schaffhausen.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Canton_of_Schaffhausen.svg",
+    "revision": {
+      "sha1": "614f398e4ce8ca33c3e3586fb09bf1b5a0adc81c",
+      "timestamp": "2022-06-14T14:55:34Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Flag_of_Canton_of_Schaffhausen.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 470,
+      "height": 470,
+      "uploader": "HapHaxion"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD Coa Switzerland"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "unknown author",
+    "versions": [
+      {
+        "user": "Denelson83",
+        "date": "2006-02-28",
+        "comment": "Flag of the [[w:Canton of Schaffhausen|]] in [[w:Switzerland|Switzerland]].  Based on an image at the [http://www.flags.net/old/SWIT1.htm World Flag Database]."
+      },
+      {
+        "user": "Gunnar.offel",
+        "date": "2014-01-17",
+        "comment": "Grafik aus [http://www.vtg.admin.ch/internet/vtg/de/home/themen/internationale_kooperation/MP/militaerisches_zeremoniell.parsysrelated1.17761.downloadList.77713"
+      },
+      {
+        "user": "D97v",
+        "date": "2015-05-10",
+        "comment": "the border isn't part of the design"
+      },
+      {
+        "user": "HapHaxion",
+        "date": "2022-06-14",
+        "comment": "length = width"
+      }
+    ],
+    "contributors": [
+      "Denelson83",
+      "Gunnar.offel",
+      "D97v",
+      "HapHaxion"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q12697",
+    "wikipedia": "Canton_of_Schaffhausen",
+    "wikidata_flag_images": [
+      "Flag of Canton of Schaffhausen.svg"
+    ]
+  },
+  "ch-so": {
+    "commons_title": "CHE Solothurn SO Flag.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:CHE_Solothurn_SO_Flag.svg",
+    "revision": {
+      "sha1": "57f80d2addd120a6f5c0207a2fbe5a6fac98e64f",
+      "timestamp": "2025-05-06T23:05:07Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/CHE_Solothurn_SO_Flag.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 470,
+      "height": 470,
+      "uploader": "SpinnerLaserzthe2nd"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD Coa Switzerland"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "unknown (design); SpinnerLaserzthe2nd (vector drawing)",
+    "versions": [
+      {
+        "user": "SpinnerLaserzthe2nd",
+        "date": "2025-05-06",
+        "comment": "{{Information"
+      }
+    ],
+    "contributors": [],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q11929",
+    "wikipedia": "Canton_of_Solothurn",
+    "wikidata_flag_images": [
+      "CHE Solothurn SO Flag.svg"
+    ]
+  },
+  "ch-sz": {
+    "commons_title": "Flag of Canton of Schwyz.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Canton_of_Schwyz.svg",
+    "revision": {
+      "sha1": "de10ba8e434f7477f41c4c92a919c7a478eef871",
+      "timestamp": "2023-01-06T20:01:32Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Flag_of_Canton_of_Schwyz.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 475,
+      "height": 475,
+      "uploader": "HapHaxion"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD Coa Switzerland"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "unknown author",
+    "versions": [
+      {
+        "user": "Denelson83",
+        "date": "2006-02-28",
+        "comment": "Flag of the [[w:Canton of Schwyz|]] in [[w:Switzerland|Switzerland]]."
+      },
+      {
+        "user": "-xfi-",
+        "date": "2006-03-22",
+        "comment": "redo, same colors, les bytes"
+      },
+      {
+        "user": "Gunnar.offel",
+        "date": "2014-01-17",
+        "comment": "Grafik aus [http://www.vtg.admin.ch/internet/vtg/de/home/themen/internationale_kooperation/MP/militaerisches_zeremoniell.parsysrelated1.17761.downloadList.77713"
+      },
+      {
+        "user": "Gunnar.offel",
+        "date": "2014-01-17",
+        "comment": "right file"
+      },
+      {
+        "user": "D97v",
+        "date": "2015-05-10",
+        "comment": "the border isn't part of the design"
+      },
+      {
+        "user": "Dbachmann",
+        "date": "2022-12-02",
+        "comment": "reduced cross dimension by 4% to meet specification (one third of field width)"
+      },
+      {
+        "user": "HapHaxion",
+        "date": "2023-01-06",
+        "comment": "coding optimizations"
+      }
+    ],
+    "contributors": [
+      "Denelson83",
+      "-xfi-",
+      "Gunnar.offel",
+      "D97v",
+      "Dbachmann",
+      "HapHaxion"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q12433",
+    "wikipedia": "Canton_of_Schwyz",
+    "wikidata_flag_images": [
+      "Flag of Canton of Schwyz.svg"
+    ]
+  },
+  "ch-tg": {
+    "commons_title": "CHE Thurgau Flag.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:CHE_Thurgau_Flag.svg",
+    "revision": {
+      "sha1": "7a7d6b0c3b9bd61821912326af131ea36580408f",
+      "timestamp": "2026-08-12T16:50:05Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/CHE_Thurgau_Flag.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 470,
+      "height": 470,
+      "uploader": "SpinnerLaserzthe2nd"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD Coa Switzerland"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "unknown (design); SpinnerLaserzthe2nd (vector drawing)",
+    "versions": [
+      {
+        "user": "SpinnerLaserzthe2nd",
+        "date": "2026-08-12",
+        "comment": "{{Information"
+      }
+    ],
+    "contributors": [],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q12713",
+    "wikipedia": "Thurgau",
+    "wikidata_flag_images": [
+      "CHE Thurgau Flag.svg"
+    ]
+  },
+  "ch-ti": {
+    "commons_title": "CHE Ticino Flag.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:CHE_Ticino_Flag.svg",
+    "revision": {
+      "sha1": "7bf764886ff66642ee03c8d988d79223dc66284c",
+      "timestamp": "2026-08-12T16:19:53Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/CHE_Ticino_Flag.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 470,
+      "height": 470,
+      "uploader": "SpinnerLaserzthe2nd"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD Coa Switzerland"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "Cantone Ticino",
+    "versions": [
+      {
+        "user": "SpinnerLaserzthe2nd",
+        "date": "2026-01-26",
+        "comment": "{{Information"
+      },
+      {
+        "user": "SpinnerLaserzthe2nd",
+        "date": "2026-08-12",
+        "comment": "Arrange"
+      }
+    ],
+    "contributors": [
+      "SpinnerLaserzthe2nd"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q12724",
+    "wikipedia": "Ticino",
+    "wikidata_flag_images": [
+      "CHE Ticino Flag.svg"
+    ]
+  },
+  "ch-ur": {
+    "commons_title": "Flag of Canton of Uri.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Canton_of_Uri.svg",
+    "revision": {
+      "sha1": "e98d645e135f70d8a7d9686841e244ca393bfb9e",
+      "timestamp": "2015-05-10T18:52:47Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Canton_of_Uri.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 470,
+      "height": 471,
+      "uploader": "D97v"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD Coa Switzerland"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "unknown author",
+    "versions": [
+      {
+        "user": "Denelson83",
+        "date": "2006-02-28",
+        "comment": "Flag of the [[w:Canton of Uri|]] in [[w:Switzerland|Switzerland]].  Based on an image at the [http://www.flags.net/old/SWIT1.htm World Flag Database]."
+      },
+      {
+        "user": "Denelson83",
+        "date": "2006-02-28",
+        "comment": "Enlarge intrinsic size"
+      },
+      {
+        "user": "Gunnar.offel",
+        "date": "2014-01-17",
+        "comment": "Grafik aus [http://www.vtg.admin.ch/internet/vtg/de/home/themen/internationale_kooperation/MP/militaerisches_zeremoniell.parsysrelated1.17761.downloadList.77713"
+      },
+      {
+        "user": "D97v",
+        "date": "2015-05-10",
+        "comment": "the border isn't part of the design"
+      }
+    ],
+    "contributors": [
+      "Denelson83",
+      "Gunnar.offel",
+      "D97v"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q12404",
+    "wikipedia": "Canton_of_Uri",
+    "wikidata_flag_images": [
+      "Flag of Canton of Uri.svg"
+    ]
+  },
+  "ch-vd": {
+    "commons_title": "CHE Vaud Flag.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:CHE_Vaud_Flag.svg",
+    "revision": {
+      "sha1": "2c828e8e6246420a3e46fdb218e822cbab8c78db",
+      "timestamp": "2026-08-02T19:42:56Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/CHE_Vaud_Flag.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 470,
+      "height": 472,
+      "uploader": "SpinnerLaserzthe2nd"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD Coa Switzerland"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "unknown (design); SpinnerLaserzthe2nd (vector drawing)",
+    "versions": [
+      {
+        "user": "SpinnerLaserzthe2nd",
+        "date": "2026-08-02",
+        "comment": "{{Information"
+      }
+    ],
+    "contributors": [],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q12771",
+    "wikipedia": "Vaud",
+    "wikidata_flag_images": [
+      "CHE Vaud Flag.svg"
+    ]
+  },
+  "ch-vs": {
+    "commons_title": "CHE Valais Flag.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:CHE_Valais_Flag.svg",
+    "revision": {
+      "sha1": "eada64391be424b53a3b031d4bce61a7b7acae2e",
+      "timestamp": "2026-07-31T23:48:16Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/CHE_Valais_Flag.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 507,
+      "height": 507,
+      "uploader": "SpinnerLaserzthe2nd"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD Coa Switzerland"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "unknown (design); SpinnerLaserzthe2nd (vector drawing)",
+    "versions": [
+      {
+        "user": "SpinnerLaserzthe2nd",
+        "date": "2026-07-31",
+        "comment": "{{Information"
+      },
+      {
+        "user": "SpinnerLaserzthe2nd",
+        "date": "2026-07-31",
+        "comment": "Arrange"
+      }
+    ],
+    "contributors": [],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q834",
+    "wikipedia": "Valais",
+    "wikidata_flag_images": [
+      "CHE Valais Flag.svg"
+    ]
+  },
+  "ch-zg": {
+    "commons_title": "Flag of Canton of Zug.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Canton_of_Zug.svg",
+    "revision": {
+      "sha1": "e32dda807d6164b5553922046c66a21ffb739c73",
+      "timestamp": "2023-01-06T21:04:34Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Flag_of_Canton_of_Zug.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 600,
+      "height": 600,
+      "uploader": "Doc Taxon"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD Coa Switzerland"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "unknown author",
+    "versions": [
+      {
+        "user": "Denelson83",
+        "date": "2006-02-27",
+        "comment": "Flag of the Canton of [[w:Zug|]] in [[w:Switzerland|]]."
+      },
+      {
+        "user": "Alexander the Drake",
+        "date": "2007-03-02",
+        "comment": "Recode SVG to reduce file size."
+      },
+      {
+        "user": "Doc Taxon",
+        "date": "2021-11-18",
+        "comment": "color like coat of arms"
+      }
+    ],
+    "contributors": [
+      "Denelson83",
+      "Alexander the Drake",
+      "Doc Taxon"
+    ],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q11933",
+    "wikipedia": "Canton_of_Zug",
+    "wikidata_flag_images": [
+      "Flag of Canton of Zug.svg"
+    ]
+  },
+  "ch-zh": {
+    "commons_title": "CHE Zürich Flag.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:CHE_Z%C3%BCrich_Flag.svg",
+    "revision": {
+      "sha1": "e51c04d6959a9de3f1f0f233778c6eb645ea94fd",
+      "timestamp": "2025-05-06T16:39:21Z",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/CHE_Z%C3%BCrich_Flag.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 507,
+      "height": 507,
+      "uploader": "SpinnerLaserzthe2nd"
+    },
+    "license": "Public domain",
+    "license_kind": "public domain",
+    "license_url": null,
+    "license_tags": [
+      "PD Coa Switzerland"
+    ],
+    "license_options": [],
+    "license_conditions": [],
+    "own_license": "Public domain",
+    "own_license_url": null,
+    "own_kind": "design",
+    "author": "unknown (design); SpinnerLaserzthe2nd (vector drawing)",
+    "versions": [
+      {
+        "user": "SpinnerLaserzthe2nd",
+        "date": "2025-05-06",
+        "comment": "{{Information"
+      }
+    ],
+    "contributors": [],
+    "releaser": null,
+    "release_not_used": null,
+    "later_versions": null,
+    "derived_from": [],
+    "attribution_required": false,
+    "wikidata": "Q11943",
+    "wikipedia": "Canton_of_Zurich",
+    "wikidata_flag_images": [
+      "CHE Zürich Flag.svg"
+    ]
   }
 }

@@ -2,6 +2,9 @@
   "countries": {
     "ca": {
       "name": "Canada"
+    },
+    "ch": {
+      "name": "Switzerland"
     }
   },
   "flags": {
@@ -464,6 +467,310 @@
         ]
       },
       "note": "Covers hide the seams where the zoomed-out flag's top and bottom edges meet the fills."
+    },
+    "ch-ag": {
+      "name": "Aargau",
+      "commons": "CHE Aargau Flag.svg",
+      "layout": {
+        "crop": "center"
+      }
+    },
+    "ch-ai": {
+      "name": "Appenzell Innerrhoden",
+      "commons": "CHE Appenzell Innerrhoden Flag.svg",
+      "layout": {
+        "crop": "center"
+      }
+    },
+    "ch-ar": {
+      "name": "Appenzell Ausserrhoden",
+      "commons": "Flag of Canton of Appenzell Ausserrhoden.svg",
+      "layout": {
+        "crop": "center",
+        "zoom": 0.85,
+        "fills": [
+          [
+            "#FFFFFF",
+            0,
+            0,
+            512,
+            512
+          ]
+        ],
+        "square": {
+          "zoom": 1,
+          "fills": []
+        }
+      }
+    },
+    "ch-be": {
+      "name": "Bern",
+      "commons": "CHE Bern BE Flag.svg",
+      "layout": {
+        "crop": "center"
+      }
+    },
+    "ch-bl": {
+      "name": "Basel-Landschaft",
+      "commons": "CHE Basel-Landschaft Flag.svg",
+      "layout": {
+        "crop": "center"
+      }
+    },
+    "ch-bs": {
+      "name": "Basel-Stadt",
+      "commons": "Flag of Canton of Basel.svg",
+      "layout": {
+        "crop": "center"
+      }
+    },
+    "ch-fr": {
+      "name": "Fribourg",
+      "commons": "Flag of Canton of Fribourg.svg",
+      "layout": {
+        "crop": "center"
+      }
+    },
+    "ch-ge": {
+      "name": "Geneva",
+      "commons": "Flag of Canton of Geneva.svg",
+      "layout": {
+        "crop": "center"
+      }
+    },
+    "ch-gl": {
+      "name": "Glarus",
+      "commons": "CHE Kanton Glarus Flag.svg",
+      "layout": {
+        "crop": "center"
+      }
+    },
+    "ch-ju": {
+      "name": "Jura",
+      "commons": "CHE Jura Flag.svg",
+      "layout": {
+        "crop": "center"
+      }
+    },
+    "ch-lu": {
+      "name": "Lucerne",
+      "commons": "Flag of Canton of Lucerne.svg",
+      "layout": {
+        "crop": "center"
+      }
+    },
+    "ch-ne": {
+      "name": "Neuchâtel",
+      "commons": "CHE Canton de Neuchâtel Flag.svg",
+      "layout": {
+        "crop": "center",
+        "zoom": 0.75,
+        "fills": [
+          [
+            "#009944",
+            0,
+            0,
+            192,
+            512
+          ],
+          [
+            "#FFFFFF",
+            192,
+            0,
+            128,
+            512
+          ],
+          [
+            "#F00000",
+            320,
+            0,
+            192,
+            512
+          ]
+        ],
+        "square": {
+          "zoom": 1,
+          "fills": [],
+          "covers": []
+        },
+        "covers": [
+          [
+            "#009944",
+            58,
+            0,
+            12,
+            512
+          ],
+          [
+            "#009944",
+            0,
+            58,
+            192,
+            12
+          ],
+          [
+            "#FFFFFF",
+            192,
+            58,
+            128,
+            12
+          ],
+          [
+            "#F00000",
+            320,
+            58,
+            192,
+            12
+          ],
+          [
+            "#009944",
+            0,
+            442,
+            192,
+            12
+          ],
+          [
+            "#FFFFFF",
+            192,
+            442,
+            128,
+            12
+          ],
+          [
+            "#F00000",
+            320,
+            442,
+            192,
+            12
+          ]
+        ]
+      }
+    },
+    "ch-nw": {
+      "name": "Nidwalden",
+      "commons": "Flag of Canton of Nidwalden.svg",
+      "layout": {
+        "crop": "center"
+      }
+    },
+    "ch-ow": {
+      "name": "Obwalden",
+      "commons": "Flag of Canton of Obwalden.svg",
+      "layout": {
+        "crop": "center"
+      }
+    },
+    "ch-sg": {
+      "name": "St. Gallen",
+      "commons": "Flag of Canton of Sankt Gallen 2011.svg",
+      "layout": {
+        "crop": "center"
+      }
+    },
+    "ch-sh": {
+      "name": "Schaffhausen",
+      "commons": "Flag of Canton of Schaffhausen.svg",
+      "layout": {
+        "crop": "center"
+      }
+    },
+    "ch-so": {
+      "name": "Solothurn",
+      "commons": "CHE Solothurn SO Flag.svg",
+      "layout": {
+        "crop": "center"
+      }
+    },
+    "ch-sz": {
+      "name": "Schwyz",
+      "commons": "Flag of Canton of Schwyz.svg",
+      "layout": {
+        "crop": "center",
+        "zoom": 0.8,
+        "fills": [
+          [
+            "#E8423F",
+            0,
+            0,
+            512,
+            512
+          ]
+        ],
+        "square": {
+          "zoom": 1,
+          "fills": []
+        }
+      }
+    },
+    "ch-tg": {
+      "name": "Thurgau",
+      "commons": "CHE Thurgau Flag.svg",
+      "layout": {
+        "crop": "center"
+      }
+    },
+    "ch-ti": {
+      "name": "Ticino",
+      "commons": "CHE Ticino Flag.svg",
+      "layout": {
+        "crop": "center"
+      }
+    },
+    "ch-ur": {
+      "name": "Uri",
+      "commons": "Flag of Canton of Uri.svg",
+      "layout": {
+        "crop": "center"
+      }
+    },
+    "ch-vd": {
+      "name": "Vaud",
+      "commons": "CHE Vaud Flag.svg",
+      "layout": {
+        "crop": "center",
+        "zoom": 0.85,
+        "fills": [
+          [
+            "#FFFFFF",
+            0,
+            0,
+            512,
+            256
+          ],
+          [
+            "#009944",
+            0,
+            256,
+            512,
+            256
+          ]
+        ],
+        "square": {
+          "zoom": 1,
+          "fills": []
+        }
+      }
+    },
+    "ch-vs": {
+      "name": "Valais",
+      "commons": "CHE Valais Flag.svg",
+      "layout": {
+        "crop": "center"
+      }
+    },
+    "ch-zg": {
+      "name": "Zug",
+      "commons": "Flag of Canton of Zug.svg",
+      "layout": {
+        "crop": "center"
+      }
+    },
+    "ch-zh": {
+      "name": "Zurich",
+      "commons": "CHE Zürich Flag.svg",
+      "layout": {
+        "crop": "center"
+      }
     }
   },
   "excluded": {}
