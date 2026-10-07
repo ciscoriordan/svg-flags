@@ -101,14 +101,17 @@ def structural(path, report, strict):
         flag(rel, "is a symlink")
         return
     text = path.read_text(encoding="utf-8")
-    m = FORBIDDEN.search(text)
-    if m:
-        flag(rel, f"contains {m.group(0).strip()!r}, which CoreSVG does not support")
     try:
         root = etree.fromstring(text.encode())
     except etree.XMLSyntaxError as error:
         flag(rel, f"is not well-formed XML: {error}")
         return
+    # Comments may describe unsupported elements that were already expanded.
+    markup = etree.tostring(etree.fromstring(text.encode(), etree.XMLParser(remove_comments=True)),
+                            encoding="unicode")
+    m = FORBIDDEN.search(markup)
+    if m:
+        flag(rel, f"contains {m.group(0).strip()!r}, which CoreSVG does not support")
     ids = [e.get("id") for e in root.iter() if isinstance(e.tag, str) and e.get("id")]
     for dup in sorted({i for i in ids if ids.count(i) > 1}):
         flag(rel, f"id {dup!r} is defined more than once")
